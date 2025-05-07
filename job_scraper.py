@@ -4,10 +4,9 @@ import os
 import hashlib
 import difflib
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 import time
 from bs4 import BeautifulSoup
 
@@ -18,12 +17,15 @@ def get_url_hash(url: str) -> str:
 
 
 def setup_selenium():
-    """Set up and return a configured Chrome WebDriver"""
+    """Set up and return a configured Chrome WebDriver using webdriver-manager"""
     chrome_options = Options()
-    chrome_options.add_argument('--headless')  # Run in headless mode
+    chrome_options.add_argument('--headless')  # Remove this line if you want to see the browser
     chrome_options.add_argument('--no-sandbox')
     chrome_options.add_argument('--disable-dev-shm-usage')
-    return webdriver.Chrome(options=chrome_options)
+
+    # Automatically download and use the correct chromedriver
+    service = Service(ChromeDriverManager().install())
+    return webdriver.Chrome(service=service, options=chrome_options)
 
 
 def fetch_page(url: str) -> str | None:
@@ -33,13 +35,8 @@ def fetch_page(url: str) -> str | None:
         driver = setup_selenium()
         driver.get(url)
 
-        # Wait for the page to load (wait for body to be present)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.TAG_NAME, "body"))
-        )
-
-        # Add a fixed delay to ensure JavaScript executes
-        print("Waiting 5 seconds for JavaScript to execute...")
+        # Wait for the page to load with a fixed delay
+        print("Waiting 5 seconds for page to load and JavaScript to execute...")
         time.sleep(5)
 
         # Get the page source after JavaScript execution
