@@ -134,16 +134,23 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
 
     # Create new content to add at the top
     new_content = f"\n## {timestamp}\n\n"
-    for url, has_changes, diff in results:
-        new_content += f"### [{url}]({url})\n\n"  # Use markdown link format
-        if has_changes:
-            new_content += "**Changes detected!**\n\n"
-            new_content += "```diff\n"
-            new_content += diff
-            new_content += "\n```\n"
-        else:
-            new_content += "**No changes detected**\n"
-        new_content += "\n---\n"
+
+    # Check if any URLs have changes
+    has_any_changes = any(has_changes for _, has_changes, _ in results)
+
+    if has_any_changes:
+        # Only show URLs that have changes
+        for url, has_changes, diff in results:
+            if has_changes:
+                new_content += f"### [{url}]({url})\n\n"  # Use markdown link format
+                new_content += "**Changes detected!**\n\n"
+                new_content += "```diff\n"
+                new_content += diff
+                new_content += "\n```\n"
+                new_content += "\n---\n"
+    else:
+        # If no changes detected for any URL, show a single message
+        new_content += "**No changes for today**\n\n---\n"
 
     # Read existing content (if any)
     try:
