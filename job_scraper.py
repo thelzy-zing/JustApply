@@ -1,15 +1,13 @@
 from datetime import datetime
-from typing import List, Tuple
+from typing import Tuple
 import os
 import hashlib
 import difflib
-import re
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 import time
 from bs4 import BeautifulSoup
 
@@ -133,26 +131,39 @@ def has_html_changed(url: str, new_html: str) -> Tuple[bool, str]:
     return False, ""
 
 
-def append_to_markdown(url: str, has_changes: bool, diff: str) -> None:
-    """Append the change status to the markdown log file"""
+def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
+    """Add change status for multiple URLs to the top of the markdown log file with a single timestamp"""
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    # Create or append to changes.md
-    with open('changes.md', 'a', encoding='utf-8') as f:
-        f.write(f"\n## {timestamp}\n\n")
-        f.write(f"### [{url}]({url})\n\n")  # Use markdown link format
+    # Create new content to add at the top
+    new_content = f"\n## {timestamp}\n\n"
+    for url, has_changes, diff in results:
+        new_content += f"### [{url}]({url})\n\n"  # Use markdown link format
         if has_changes:
-            f.write("**Changes detected!**\n\n")
-            f.write("```diff\n")
-            f.write(diff)
-            f.write("\n```\n")
+            new_content += "**Changes detected!**\n\n"
+            new_content += "```diff\n"
+            new_content += diff
+            new_content += "\n```\n"
         else:
-            f.write("**No changes detected**\n")
-        f.write("\n---\n")
+            new_content += "**No changes detected**\n"
+        new_content += "\n---\n"
+
+    # Read existing content (if any)
+    try:
+        with open('changes.md', 'r', encoding='utf-8') as f:
+            existing_content = f.read()
+    except FileNotFoundError:
+        existing_content = ""
+
+    # Write new content followed by existing content
+    with open('changes.md', 'w', encoding='utf-8') as f:
+        f.write(new_content + existing_content)
 
 
 def process_urls(urls: list[str]) -> None:
     """Process URLs and store their HTML content"""
+    results = []
+
     for url in urls:
         print(f"\nProcessing URL: {url}")
         if html_content := fetch_page(url):
@@ -162,9 +173,14 @@ def process_urls(urls: list[str]) -> None:
                 save_html(url, html_content)
             else:
                 print(f"No changes detected for {url}")
-            append_to_markdown(url, has_changed, diff)
+
+            results.append((url, has_changed, diff))
         else:
             print(f"Failed to fetch content from {url}")
+            results.append((url, False, "Failed to fetch content"))
+
+    # Append all results with a single timestamp
+    append_to_markdown(results)
 
 
 def main():
