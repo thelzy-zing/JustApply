@@ -52,22 +52,22 @@ def fetch_page(url: str) -> str | None:
             driver.quit()
 
 
-def save_html(url: str, html_content: str) -> None:
-    """Save HTML content to a file"""
-    if not html_content:
+def save_text(url: str, text_content: str) -> None:
+    """Save extracted text content to a file"""
+    if not text_content:
         return
 
-    # Create html_storage directory if it doesn't exist
-    os.makedirs('html_storage', exist_ok=True)
+    # Create text_storage directory if it doesn't exist
+    os.makedirs('text_storage', exist_ok=True)
 
     # Generate filename from URL
-    filename = f"html_storage/{get_url_hash(url)}.html"
+    filename = f"text_storage/{get_url_hash(url)}.txt"
 
-    # Save the HTML content
+    # Save the text content
     with open(filename, 'w', encoding='utf-8') as f:
-        f.write(html_content)
+        f.write(text_content)
 
-    print(f"Saved HTML for {url} to {filename}")
+    print(f"Saved text for {url} to {filename}")
 
 
 def extract_text(html: str) -> str:
@@ -94,8 +94,8 @@ def get_text_diff(old_text: str, new_text: str) -> str:
     diff = difflib.unified_diff(
         old_lines,
         new_lines,
-        fromfile='old.html',
-        tofile='new.html',
+        fromfile='old.txt',
+        tofile='new.txt',
         lineterm='',
         n=3  # Show 3 lines of context
     )
@@ -103,26 +103,22 @@ def get_text_diff(old_text: str, new_text: str) -> str:
     return '\n'.join(diff)
 
 
-def has_html_changed(url: str, new_html: str) -> Tuple[bool, str]:
-    """Check if the HTML content has changed from the stored version and return diff if changed"""
-    filename = f"html_storage/{get_url_hash(url)}.html"
+def has_text_changed(url: str, new_text: str) -> Tuple[bool, str]:
+    """Check if the text content has changed from the stored version and return diff if changed"""
+    filename = f"text_storage/{get_url_hash(url)}.txt"
 
     # If file doesn't exist, it's considered changed
     if not os.path.exists(filename):
         return True, "No previous version found"
 
-    # Read stored HTML
+    # Read stored text
     with open(filename, 'r', encoding='utf-8') as f:
-        stored_html = f.read()
+        stored_text = f.read()
 
-    # Extract text from both versions
-    stored_text = extract_text(stored_html)
-    current_text = extract_text(new_html)
-
-    # Compare extracted text
-    if stored_text != current_text:
-        if stored_text.strip() or current_text.strip():
-            diff = get_text_diff(stored_text, current_text)
+    # Compare text directly
+    if stored_text != new_text:
+        if stored_text.strip() or new_text.strip():
+            diff = get_text_diff(stored_text, new_text)
             return True, diff
 
     return False, ""
@@ -165,16 +161,19 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
 
 
 def process_urls(urls: list[str]) -> None:
-    """Process URLs and store their HTML content"""
+    """Process URLs and store their text content"""
     results = []
 
     for url in urls:
         print(f"\nProcessing URL: {url}")
         if html_content := fetch_page(url):
-            has_changed, diff = has_html_changed(url, html_content)
+            # Extract text from HTML
+            text_content = extract_text(html_content)
+
+            has_changed, diff = has_text_changed(url, text_content)
             if has_changed:
                 print(f"Changes detected for {url}")
-                save_html(url, html_content)
+                save_text(url, text_content)
             else:
                 print(f"No changes detected for {url}")
 
@@ -197,14 +196,15 @@ def main():
         "https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship",
         "https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN",
         "https://www.squarepoint-capital.com/open-opportunities?id=6212106",
-        "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
+        "https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",
         "https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering",
         "https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#",
         "https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore",
     ]
 
     process_urls(urls)
-    print("\nHTML storage and comparison completed. Check changes.md for the log.")
+    print("\nText storage and comparison completed. Check changes.md for the log.")
+
 
 if __name__ == "__main__":
     main()
