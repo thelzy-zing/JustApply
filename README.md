@@ -1,6 +1,6 @@
 # Job Scraper
 
-A tool for monitoring job listings websites for changes by periodically scraping them and recording differences.
+A tool for monitoring job listings websites for changes by periodically scraping them and recording differences. Currently tracks internship and early career opportunities in Singapore from major tech and finance companies.
 
 ## Features
 
@@ -9,6 +9,19 @@ A tool for monitoring job listings websites for changes by periodically scraping
 - Records changes in a chronological log with the newest entries at the top
 - Uses BeautifulSoup for reliable HTML parsing
 - Converts HTML to plain text to make changes easier to spot
+- Currently tracks internship opportunities from:
+  - Optiver
+  - Stripe
+  - Google
+  - Jane Street
+  - Hudson River Trading
+  - Meta
+  - Apple
+  - Squarepoint Capital
+  - Citadel
+  - Open Government Products
+  - Morgan Stanley
+  - JPMorgan
 
 ## Installation
 
@@ -31,28 +44,52 @@ A tool for monitoring job listings websites for changes by periodically scraping
 
 ## Configuration
 
-Edit the `job_scraper.py` file to customize:
+Edit the `daily_scraper.py` file to customize:
 
-1. **URLs to monitor**: Modify the `urls` list in the `main()` function with the job sites you want to track.
+1. **URLs to monitor**: Modify the `urls` list in the `main()` function with the job sites you want to track. Each URL should be a direct link to the job listings page.
 
 2. **Selenium settings**: The `setup_selenium()` function configures Selenium with headless Chrome. You can adjust Chrome options as needed.
 
-3. **Wait time**: If websites need more time to load, you can adjust the `time.sleep()` value in the `fetch_page()` function.
+3. **Wait time**: If websites need more time to load, you can adjust the `time.sleep()` value in the `fetch_page()` function (currently set to 5 seconds).
 
 ## Usage
 
-Run the script to check for changes:
+### Manual Run
+
+Run the script locally to check for changes:
 
 ```
-python job_scraper.py
+python daily_scraper.py
 ```
 
 The script will:
 1. Load each configured URL using a headless Chrome browser
 2. Wait for the page to fully load (including JavaScript)
-3. Extract the text content of the page
+3. Extract the text content of the page, removing all HTML markup, scripts, and styling
 4. Compare it with the previously saved version (if any)
 5. Record any changes in the `changes.md` file with a timestamp
+
+### Automated Daily Checks
+
+The repository includes a GitHub Actions workflow that automatically runs the scraper daily. The workflow:
+
+1. Runs every day at 07:00 UTC (`cron: "0 7 * * *"`)
+2. Can also be triggered manually using the "Run workflow" button
+3. Sets up Python 3.11 and installs required dependencies
+4. Runs the scraper script
+5. Commits and pushes any changes to the repository
+
+To enable automated checks:
+1. Fork this repository
+2. Go to the "Actions" tab
+3. Enable GitHub Actions for your fork
+4. The workflow will automatically run daily
+
+The workflow will:
+- Create a new commit with any detected changes
+- Update the `changes.md` file with new diffs
+- Update the `text_storage` directory with new content
+- Commit message format: "🔄 Daily scrape update: YYYY-MM-DD HH:MM:SS UTC"
 
 ### First Run Behavior
 
@@ -88,8 +125,8 @@ Example:
 **Changes detected!**
 
 ```diff
---- old.html
-+++ new.html
+--- old.txt
++++ new.txt
 @@ -1,3 +1,4 @@
  Software Engineer
  Remote
@@ -112,7 +149,12 @@ urls = [
 
 ### Customizing Text Extraction
 
-If certain sites require special handling, you can modify the `extract_text()` function to adjust how text is extracted from HTML.
+The `extract_text()` function uses BeautifulSoup to:
+1. Remove all script and style tags
+2. Extract text content with line breaks between blocks
+3. Normalize whitespace and remove empty lines
+
+You can modify this function if certain sites require special handling.
 
 ## Troubleshooting
 
@@ -120,4 +162,11 @@ If certain sites require special handling, you can modify the `extract_text()` f
 
 - **Website blocking**: Some websites may block automated access. Consider adding more realistic user agent strings or other headers as needed.
 
-- **Long load times**: Increase the `time.sleep()` value if the page content is not fully loaded before capturing.
+- **Long load times**: If the page content is not fully loaded before capturing, increase the `time.sleep()` value in the `fetch_page()` function.
+
+- **Storage**: The script stores text content in the `text_storage` directory, with one file per URL. Each file contains only the extracted text content, making it easy to track changes over time.
+
+- **GitHub Actions**: If the workflow fails, check the Actions tab for error messages. Common issues include:
+  - Rate limiting from job sites
+  - Changes in website structure
+  - Network connectivity issues
