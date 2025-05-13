@@ -1,4 +1,53 @@
 
+## 2025-05-13 07:26:46
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -202,6 +202,7 @@
+ Made by Apple
+ Beats by Dr. Dre
+ AirTag
++Assistive Technologies
+ Support
+ Explore Support
+ iPhone
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1074,8 +1074,6 @@
+ United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Research Technologies Summer Associate Program
+@@ -1209,8 +1207,6 @@
+ Germany, Luxembourg, Poland, United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Marketing Leadership Development Program Internship
+```
+
+---
+
 ## 2025-05-12 07:26:43
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
