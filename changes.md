@@ -1,4 +1,128 @@
 
+## 2025-05-14 07:26:20
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,7 +52,6 @@
+ All levels
+ Experienced
+ Internship
+-Student and Graduate
+ Internship
+ All departments
+ Business Operations
+@@ -195,17 +194,18 @@
+ Region
+ *
+ Please Select
+-North America
+-EMEA
+ APAC
+ Australia
++EMEA
++Hong Kong
++India
++Japan
++Mainland China
+ New Zealand
+-Singapore
++North America
++Singapore
++South Korea
+ Taiwan
+-Mainland China
+-India
+-Hong Kong
+-South Korea
+ United Kingdom
+ United States of America
+ Other
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Chicago
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Chicago
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard](https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -713,8 +713,8 @@
+ Youngdeungpo-gu, Seoul, 07326
+ South Korea
+ Hong Kong
+-Unit 1501
+-28 Stanley Street
++Unit 2002-03,
++28 Stanley Street,
+ Central, Hong Kong
+ Europe
+ London
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+
 ## 2025-05-13 07:26:46
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
