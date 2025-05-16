@@ -192,7 +192,7 @@ def main():
         "https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University",
         "https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore",
         "https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore",
-        "https://www.hudsonrivertrading.com/careers/?_4118765=Internship&_offices=Singapore#newjobsboard",
+        "https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C",
         "https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship",
         "https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN",
         "https://www.squarepoint-capital.com/open-opportunities?id=6212106",
