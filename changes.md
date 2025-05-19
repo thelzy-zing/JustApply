@@ -1,4 +1,79 @@
 
+## 2025-05-19 07:27:24
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,6 +52,7 @@
+ All levels
+ Experienced
+ Internship
++Student and Graduate
+ Internship
+ All departments
+ Business Operations
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Human Resources
+ Investment
+ Office Acquisition and Development
++Office Management
+ Operations
+ Recruiting & Talent Development
+ Technology
+@@ -42,8 +43,6 @@
+ London
+ Commercial Operator
+ Netherlands (Remote)
+-Compliance Analyst - Commodities
+-Geneva, London
+ Compliance Analyst - Expert Networks
+ New York
+ Compliance Analyst - Surveillance
+@@ -54,6 +53,8 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Global Travel Coordinator
++Bangalore
+ Graduate Software Developer
+ London, Montreal, Warsaw
+ Graduate Support Specialist
+@@ -76,8 +77,6 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Metals Commercial Operator
+ Singapore
+-Operational Risk Analyst
+-London
+ Operations Analyst
+ Warsaw
+ Platform Applications Specialist
+@@ -103,7 +102,7 @@
+ Platforms ULL - Colo
+ Montreal, London, New York and Singapore
+ Project Coordinator
+-London
++London, Bangalore
+ Property Manager
+ London
+ Quant Developer
+```
+
+---
+
 ## 2025-05-18 07:23:29
 
 **No changes for today**
