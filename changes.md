@@ -1,4 +1,67 @@
 
+## 2025-05-20 07:26:36
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -39,8 +39,6 @@
+ Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
+-Business Analyst
+-London
+ Commercial Operator
+ Netherlands (Remote)
+ Compliance Analyst - Expert Networks
+@@ -75,8 +73,6 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Metals Commercial Operator
+-Singapore
+ Operations Analyst
+ Warsaw
+ Platform Applications Specialist
+```
+
+---
+
 ## 2025-05-19 07:27:24
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
