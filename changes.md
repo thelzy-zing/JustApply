@@ -1,4 +1,84 @@
 
+## 2025-05-21 07:26:01
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -18,6 +18,7 @@
+ Office Management
+ Operations
+ Recruiting & Talent Development
++Tax
+ Technology
+ Offices
+ Jersey
+@@ -39,9 +40,11 @@
+ Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
++Assistant Tax Manager
++London
+ Commercial Operator
+ Netherlands (Remote)
+-Compliance Analyst - Expert Networks
++Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
+ Compliance Analyst - Surveillance
+ Bangalore
+@@ -75,6 +78,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Operations Analyst
+ Warsaw
++Operations Analyst - Options
++Montreal
+ Platform Applications Specialist
+ Montreal & Singapore
+ Platform Compute and Storage Specialist
+@@ -141,8 +146,6 @@
+ London, Montreal, Singapore, Warsaw
+ Software Developer (KDB+/Q)
+ London, Montreal
+-Software Developer – Market Data
+-Singapore
+ Software Developer - Order Gateway
+ London , Montreal , Singapore, Bangalore & Warsaw
+ Software Developer - Order Gateway Integration
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -181,14 +181,14 @@
+ Quantitative Researcher – PhD Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Quantitative Researcher – 2026 PhD Intern (Europe)
++London, Paris
++Apply Now
+ Quantitative Research Analyst – 2025 Intern (Europe)
+ London, Paris
+ Apply Now
+ Quantitative Research Analyst – 2025 Intern (Asia)
+ Hong Kong, Singapore
+-Apply Now
+-Operations Analyst – 2025 Intern (Europe)
+-London
+ Apply Now
+ International Equities – 2026 Intern (Asia)
+ Hong Kong, Singapore
+```
+
+---
+
 ## 2025-05-20 07:26:36
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
