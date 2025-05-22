@@ -1,4 +1,179 @@
 
+## 2025-05-22 07:26:07
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,6 +32,10 @@
+ Latest Insights
+ <
+ Market structure
++Enhancing swaps liquidity through targeted reforms
++Learn more
++Americas
++Market structure
+ Two types of liquidity: The Mississippi River and market makers in agricultural derivatives
+ Learn more
+ Americas
+@@ -39,10 +43,6 @@
+ PFOF is going away, but the problem isn’t
+ Learn more
+ EMEA
+-Market structure
+-Diversity is strength in US derivatives markets
+-Learn more
+-Americas
+ >
+ CAREERS
+ Are you interested in an environment where new challenges arise by the nanosecond?
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -145,6 +145,7 @@
+ Mexico
+ Opens the multi-select filter menu
+ Tags (1)
++Bridge
+ University
+ No open roles match your search. Try removing filters or changing your search terms.
+ Clear all filters
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -140,8 +140,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -110,6 +110,8 @@
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+ Singapore, London, New York
++Quant Developer (Python)
++TBA if opening
+ Recruitment Intern (Fall 2025)
+ Montreal
+ Senior Discretionary Trader - Credit
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (6)
++Opportunities
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -172,27 +172,9 @@
+ Newest
+ Oldest
+ Viewing
+-6
++10
+ of
+-6
+-Quantitative Researcher – 2025 PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – 2026 PhD Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Europe)
+-London, Paris
+-Apply Now
+-Quantitative Research Analyst – 2025 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-International Equities – 2026 Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
++34
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+
 ## 2025-05-21 07:26:01
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
