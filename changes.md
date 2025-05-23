@@ -1,4 +1,175 @@
 
+## 2025-05-23 07:26:25
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,7 +59,7 @@
+ Control
+ Events
+ Technology
+-Trading
++Trading, Research and Machine Learning
+ All departments
+ All offices
+ Amsterdam
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ See open roles
+ Close mobile navigation
+ Expand economic access across the globe
++Bridge open roles
+ Opens the multi-select filter menu
+ Teams
+ Administrative
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -228,6 +228,7 @@
+ London
+ Mumbai
+ New York
++Remote
+ Seattle
+ Singapore
+ Tarrytown
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -229,7 +229,7 @@
+ Apple Vision Pro
+ AirPods
+ Apple Intelligence
+-Apple Trade In
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -76,6 +76,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Operational Risk Analyst
++London
+ Operations Analyst
+ Warsaw
+ Operations Analyst - Options
+@@ -111,7 +113,9 @@
+ Quant Developer - High Performance Software Engineering
+ Singapore, London, New York
+ Quant Developer (Python)
+-TBA if opening
++Bangalore, Boston, Dubai, London, Montreal, New York, Warsaw
++Quantitative Researcher - CTA Macro
++New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+ Senior Discretionary Trader - Credit
+@@ -174,6 +178,8 @@
+ Singapore
+ Trading Applications Specialist
+ London, Singapore, Houston, New York
++Trading Infrastructure Specialist
++London ,Montreal & Hong Kong
+ Workday Integration Specialist
+ Bangalore, Dubai
+ Workday - Quality Assurance Analyst
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities
++Opportunities (8)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -172,9 +172,33 @@
+ Newest
+ Oldest
+ Viewing
+-10
++8
+ of
+-34
++8
++Quantitative Researcher – 2025 PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – 2026 PhD Intern (Europe)
++London, Paris
++Apply Now
++Sector Data Analyst – 2026 Intern (Europe)
++London
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Europe)
++London, Paris
++Apply Now
++Quantitative Research Analyst – 2025 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities – 2026 Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++International Equities Associate – 2026 Intern (Europe)
++London
++Apply Now
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+
 ## 2025-05-22 07:26:07
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
