@@ -1,4 +1,26 @@
 
+## 2025-05-26 07:35:28
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -54,6 +54,8 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Global Mobility and Immigration Specialist
++London
+ Global Travel Coordinator
+ Bangalore
+ Graduate Software Developer
+```
+
+---
+
 ## 2025-05-25 07:23:42
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
