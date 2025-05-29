@@ -1,4 +1,460 @@
 
+## 2025-05-29 07:27:36
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -14,7 +14,6 @@
+ Finance
+ Human Resources
+ Investment
+-Office Acquisition and Development
+ Office Management
+ Operations
+ Recruiting & Talent Development
+@@ -106,8 +105,6 @@
+ Montreal, London, New York and Singapore
+ Project Coordinator
+ London, Bangalore
+-Property Manager
+-London
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,130 +23,13 @@
+ Use the filters to narrow your search.
+ Select
+ Education Level
+-High School
+-Undergraduate
+-Postgrad / PhD / MBA
+-Experienced professional
+-Non degree
+ Select
+ Location
+-Americas
+-Americas
+-Canada
+-United States of America
+-Asia Pacific
+-Asia Pacific
+-Australia
+-Hong Kong SAR, China
+-India
+-Indonesia
+-Japan
+-Kazakhstan
+-Mainland China
+-Malaysia
+-Philippines
+-Singapore
+-South Korea
+-Taiwan
+-Thailand
+-Vietnam
+-Europe, Middle East and Africa
+-Europe, Middle East and Africa
+-Bahrain
+-Belgium
+-France
+-Germany
+-Ireland
+-Israel
+-Italy
+-Luxembourg
+-Netherlands
+-Poland
+-Russia
+-South Africa
+-Spain
+-Sweden
+-Switzerland
+-Turkey
+-United Arab Emirates
+-United Kingdom
+-Latin America
+-Latin America
+-Argentina
+-Brazil
+-Chile
+-Colombia
+-Mexico
+-Peru
+ Select
+ Areas of Interest
+-Asset & Wealth Management
+-Asset & Wealth Management
+-Asset Management
+-Wealth Management
+-Private Bank
+-Cross-firm Functions
+-Cross-firm Functions
+-Audit
+-Corporate Responsibility
+-Data & Analytics
+-Global Finance & Business Management
+-Human Resources
+-Legal
+-Capital Management
+-Marketing & Communications
+-Risk Management
+-Operations
+-Strategy
+-Treasury & Chief Investment Office
+-Compliance
+-Risk Management & Compliance
+-Commercial Banking
+-Commercial Banking
+-Credit Markets & Treasury Services
+-International Banking
+-Real Estate Banking
+-Middle Market Banking
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Client Banking
+-Consumer & Community Banking
+-Consumer & Community Banking
+-Auto Finance
+-Business Banking
+-Card Services
+-Chase Wealth Management
+-Home Lending & Mortgage Banking
+-Chase Merchant Services
+-Consumer Banking
+-International Consumer
+-Corporate & Investment Bank
+-Corporate & Investment Bank
+-Public Finance
+-Investment Banking
+-Quantitative Research
+-Markets
+-Payments
+-Corporate Banking
+-Securities Services
+-Technology
+-Technology
+-Technology
+ Search Programs
+ Search Programs
+ Search Programs
+-Asset & Wealth Management
+-Asset & Wealth Management
+-Cross-firm Functions
+-Cross-firm Functions
+-Commercial Banking
+-Commercial Banking
+-Consumer & Community Banking
+-Consumer & Community Banking
+-Corporate & Investment Bank
+-Corporate & Investment Bank
+-Technology
+-Technology
+ Americas
+ Americas
+ Asia Pacific
+@@ -160,86 +43,6 @@
+ Postgrad / PhD / MBA
+ Experienced professional
+ Non degree
+-Canada
+-United States of America
+-Australia
+-Hong Kong SAR, China
+-India
+-Indonesia
+-Japan
+-Kazakhstan
+-Mainland China
+-Malaysia
+-Philippines
+-Singapore
+-South Korea
+-Taiwan
+-Thailand
+-Vietnam
+-Bahrain
+-Belgium
+-France
+-Germany
+-Ireland
+-Israel
+-Italy
+-Luxembourg
+-Netherlands
+-Poland
+-Russia
+-South Africa
+-Spain
+-Sweden
+-Switzerland
+-Turkey
+-United Arab Emirates
+-United Kingdom
+-Argentina
+-Brazil
+-Chile
+-Colombia
+-Mexico
+-Peru
+-Asset Management
+-Wealth Management
+-Private Bank
+-Audit
+-Corporate Responsibility
+-Data & Analytics
+-Global Finance & Business Management
+-Human Resources
+-Legal
+-Capital Management
+-Marketing & Communications
+-Risk Management
+-Operations
+-Strategy
+-Treasury & Chief Investment Office
+-Compliance
+-Risk Management & Compliance
+-Credit Markets & Treasury Services
+-International Banking
+-Real Estate Banking
+-Middle Market Banking
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Client Banking
+-Auto Finance
+-Business Banking
+-Card Services
+-Chase Wealth Management
+-Home Lending & Mortgage Banking
+-Chase Merchant Services
+-Consumer Banking
+-International Consumer
+-Public Finance
+-Investment Banking
+-Quantitative Research
+-Markets
+-Payments
+-Corporate Banking
+-Securities Services
+-Technology
+ Warning
+ The length of the filter query has exceeded the maximum size. Please remove some filter selections.
+ High School
+@@ -247,110 +50,20 @@
+ Postgrad / PhD / MBA
+ Experienced professional
+ Non degree
+-Canada
+-United States of America
+-Australia
+-Hong Kong SAR, China
+-India
+-Indonesia
+-Japan
+-Kazakhstan
+-Mainland China
+-Malaysia
+-Philippines
+-South Korea
+-Taiwan
+-Thailand
+-Vietnam
+-Bahrain
+-Belgium
+-France
+-Germany
+-Ireland
+-Israel
+-Italy
+-Luxembourg
+-Netherlands
+-Poland
+-Russia
+-South Africa
+-Spain
+-Sweden
+-Switzerland
+-Turkey
+-United Arab Emirates
+-United Kingdom
+-Argentina
+-Brazil
+-Chile
+-Colombia
+-Mexico
+-Peru
+-Asset Management
+-Wealth Management
+-Private Bank
+-Audit
+-Corporate Responsibility
+-Data & Analytics
+-Global Finance & Business Management
+-Human Resources
+-Legal
+-Capital Management
+-Marketing & Communications
+-Risk Management
+-Operations
+-Strategy
+-Treasury & Chief Investment Office
+-Compliance
+-Risk Management & Compliance
+-Credit Markets & Treasury Services
+-International Banking
+-Real Estate Banking
+-Middle Market Banking
+-Commercial Term Lending
+-Community Development Banking
+-Corporate Client Banking
+-Auto Finance
+-Business Banking
+-Card Services
+-Chase Wealth Management
+-Home Lending & Mortgage Banking
+-Chase Merchant Services
+-Consumer Banking
+-International Consumer
+-Public Finance
+-Investment Banking
+-Quantitative Research
+-Markets
+-Payments
+-Corporate Banking
+-Securities Services
+-Technology
+-Singapore
+ Reset filters
+ Click to reset filters
+ We found
+-27
++92
+ Programs
+ Show Only Open Programs
+ School Programs & Apprenticeships
+-(1)
++(10)
+ Pre-Internship Programs
+-(4)
++(8)
+ Internships
+-(13)
+-Full-Time
+-(9)
+-Full-Time
+-Compliance Associate Program Full-time
+-Help safeguard our company by developing solutions that balance regulatory requirements and the firm’s business needs. Drive business growth while protecting employees, clients, shareholders and the firm at large.
+-Where you can work:
+-United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
++(39)
++Full-Time
++(35)
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+ Earn your four-year degree while working in our technology business alongside our industry experts.
+@@ -828,6 +541,8 @@
+ Canada, Hong Kong SAR, China, Singapore, Taiwan, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
++To keep informed of when you can apply, please click
++here.
+ Learn More
+ Internship
+ Global Private Bank Associate Internship
+@@ -900,16 +615,6 @@
+ here.
+ Learn More
+ Internship
+-Compliance Associate Program Internship
+-Help safeguard our company by developing solutions that balance regulatory requirements and the firm’s business needs. Drive business growth while protecting employees, clients, shareholders and the firm at large.
+-Where you can work:
+-United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
+-Internship
+ Middle Market Banking & Specialized Industries Internship
+ Develop the foundation for a career in Commercial Banking by gaining diverse experiences working with clients, products and deals at all stages.
+ Where you can work:
+@@ -1152,6 +857,14 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Internship
++Payments Internship
++Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
++Where you can work:
++Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++Learn More
+ Full-Time
+ Design Development Program
+ Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+@@ -1181,14 +894,6 @@
+ Applications Now Open
+ To keep informed of when you can apply, please click
+ here.
+-Learn More
+-Internship
+-Payments Internship
+-Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+-Where you can work:
+-Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+ Learn More
+ School Programs & Apprenticeships
+ Chase Customer Service Modern Apprenticeship
+@@ -1207,8 +912,6 @@
+ Germany, Luxembourg, Poland, United States of America
+ Applications Not Open
+ Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+ Learn More
+ Internship
+ Marketing Leadership Development Program Internship
+@@ -1301,15 +1004,6 @@
+ 2025
+ JPMorgan Chase & Co. All rights reserved.
+ JPMorgan Chase is an Equal Opportunity Employer, including Disability/Veterans.
+-US
+-/
+-日本語
+-/
+-中文
+-/
+-IN
+-/
+-GLOBAL
+ You're now leaving J.P. Morgan
+ J.P. Morgan’s website and/or mobile terms, privacy and security policies don’t apply to the site or app you're about to visit. Please review its terms, privacy and security policies to see how they apply to you. J.P. Morgan isn’t responsible for (and doesn’t provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the J.P. Morgan name.
+ CANCEL
+```
+
+---
+
 ## 2025-05-28 07:26:23
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
