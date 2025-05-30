@@ -1,4 +1,234 @@
 
+## 2025-05-30 07:25:47
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -103,7 +103,6 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
+-Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+@@ -159,7 +158,6 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
+-Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -219,9 +219,11 @@
+ Locations
+ All
+ Austin
++Austin
+ Boston
+ Boulder
+ Carteret
++Chicago
+ Chicago
+ Dublin
+ Hong Kong
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,4 @@
+-Singapore, Students: Internships - Jobs - Careers at Apple
++Search Jobs - Singapore, Students: Internships - Jobs - Careers at Apple
+ Apple
+ Store
+ Shop
+@@ -223,6 +223,13 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++5 total results
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In Event
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+@@ -235,6 +242,7 @@
+ Sign In
+ Search
+ Find your perfect role.
++To reveal list of choices, type
+ Most corporate roles require English-language skills.
+ Filters
+ Clear all
+@@ -247,7 +255,7 @@
+ 1 Filter(s) Applied
+ Home Office
+ Clear Location(s)
+-Type text, use the arrow keys to select an option, and press the Enter key to update the page.
++To reveal list of choices, type
+ Singapore
+ Keyword
+ 0
+@@ -257,7 +265,7 @@
+ 1
+ 1 Filter(s) Applied
+ Clear Team(s)
+-Type text, use the arrow keys to select an option, and press the Enter key to update the page.
++To reveal list of choices, type
+ View all teams
+ Students
+ :
+@@ -275,7 +283,7 @@
+ 0
+ 0 Filter(s) Applied
+ Clear Language(s)
+-Type text, use the arrow keys to select an option, and press the Enter key to update the page.
++To reveal list of choices, type
+ 2 Filter(s) Applied
+ Save Search
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -113,6 +113,8 @@
+ Bangalore, Boston, Dubai, London, Montreal, New York, Warsaw
+ Quantitative Researcher - CTA Macro
+ New York
++Quantitative Researcher – Market Structure Research
++New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+ Senior Discretionary Trader - Credit
+@@ -181,8 +183,6 @@
+ London ,Montreal & Hong Kong
+ Workday Integration Specialist
+ Bangalore, Dubai
+-Workday - Quality Assurance Analyst
+-Bangalore
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Filters
+@@ -52,12 +52,33 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Job title
+ Work model
+-Senior / Lead Security Engineer
++Senior / Lead Software Engineer, HR Innovation
++Hybrid
++View job
++Senior / Lead Software Engineer, Maps
++Hybrid
++View job
++Senior / Lead Software Engineer, Spaceship
++Hybrid
++View job
++Senior / Lead Software Engineer, Traffic Enforcement
++Hybrid
++View job
++Senior Software Engineer, RedeemSG
++Hybrid
++View job
++Senior Software Engineer, Transport
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, Tooling
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, HR Innovation
+@@ -84,30 +105,3 @@
+ Software Engineer / Senior Software Engineer, Tooling
+ Hybrid
+ View job
+-Senior / Lead Security Engineer
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, HR Innovation
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Maps
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Spaceship
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Traffic Enforcement
+-Hybrid
+-View job
+-Senior Software Engineer, RedeemSG
+-Hybrid
+-View job
+-Senior Software Engineer, Transport
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, Tooling
+-Hybrid
+-View job
+```
+
+---
+
 ## 2025-05-29 07:27:36
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
