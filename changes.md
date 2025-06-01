@@ -1,4 +1,47 @@
 
+## 2025-06-01 07:25:05
+
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -857,6 +857,14 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Internship
++Payments Internship
++Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
++Where you can work:
++Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++Learn More
+ Full-Time
+ Design Development Program
+ Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+@@ -886,14 +894,6 @@
+ Applications Now Open
+ To keep informed of when you can apply, please click
+ here.
+-Learn More
+-Internship
+-Payments Internship
+-Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+-Where you can work:
+-Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+ Learn More
+ School Programs & Apprenticeships
+ Chase Customer Service Modern Apprenticeship
+```
+
+---
+
 ## 2025-05-31 07:23:36
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
