@@ -37,7 +37,7 @@ def fetch_page(url: str) -> str | None:
 
         # Wait for the page to load with a fixed delay
         print("Waiting 5 seconds for page to load and JavaScript to execute...")
-        time.sleep(5)
+        time.sleep(15)
 
         # Get the page source after JavaScript execution
         html_content = driver.page_source
