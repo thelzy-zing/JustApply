@@ -1,4 +1,60 @@
 
+## 2025-06-16 07:30:19
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -109,8 +109,6 @@
+ Montreal, London, New York and Singapore
+ Project Coordinator
+ London, Bangalore
+-Quality Assurance Analyst
+-Montreal
+ Quant Developer
+ London, Montreal, Warsaw
+ Quant Developer - High Performance Software Engineering
+```
+
+---
+
 ## 2025-06-15 07:26:48
 
 **No changes for today**
