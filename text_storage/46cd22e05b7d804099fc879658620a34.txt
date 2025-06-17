@@ -220,6 +220,7 @@ Austin
 Boston
 Boulder
 Carteret
+Chicago QTS
 Chicago
 Dublin
 Hong Kong
