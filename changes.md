@@ -1,4 +1,187 @@
 
+## 2025-06-18 07:28:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -172,6 +172,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Notifications
+ Close
+ Newsletter sign-up
+@@ -215,16 +228,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Austin
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Austin
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Apple Trade In
+ Financing
+ Personal Setup
++College Student Offer
+ Shop Special Stores
+ Certified Refurbished
+ Education
+@@ -39,6 +40,7 @@
+ Mac Accessories
+ Apple Trade In
+ Financing
++College Student Offer
+ More from Mac
+ Mac Support
+ AppleCare+ for Mac
+@@ -65,6 +67,7 @@
+ iPad Accessories
+ Apple Trade In
+ Financing
++College Student Offer
+ More from iPad
+ iPad Support
+ AppleCare+ for iPad
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,11 +24,11 @@
+ London
+ Montreal
+ Warsaw
++Hong Kong
++Singapore
+ New York
+ Bangalore
+ Dubai
+-Singapore
+-Hong Kong
+ Madrid
+ Houston
+ Geneva
+@@ -37,6 +37,8 @@
+ Boston
+ Accountant
+ London, Montreal, Warsaw, Jersey
++Accountant - Physical Metal
++London, Jersey, Singapore, Hong Kong
+ Assistant Controller - Management Company
+ London, Montreal
+ Assistant Tax Manager
+@@ -55,8 +57,6 @@
+ Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-Financial Analyst - Physical Metal
+-London, Jersey, Singapore, Hong Kong
+ Financial Reporting Manager
+ London, New York
+ Global Travel Coordinator
+@@ -67,6 +67,8 @@
+ London, Montreal, New York, Houston, Hong Kong
+ HR Systems Analyst - Workday
+ Bangalore, London
++Information Security Analyst
++London
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+@@ -83,6 +85,8 @@
+ Warsaw
+ Operations Analyst - Options
+ Montreal
++Operations Intern
++Montreal
+ Platform Applications Specialist
+ Montreal & Singapore
+ Platform Compute and Storage Specialist
+@@ -109,7 +113,7 @@
+ London, Bangalore
+ Quant Developer
+ London, Montreal, Warsaw
+-Quant Developer - High Performance Software Engineering
++Quant Developer (C++)
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+```
+
+---
+
 ## 2025-06-17 07:29:09
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
