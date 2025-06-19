@@ -1,4 +1,355 @@
 
+## 2025-06-19 07:29:06
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -250,5 +250,6 @@
+ Python
+ Strategy Development
+ Systems and Networking
++Information Security
+ Trade Operations
+ ↳ Apply Filter
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,13 +23,126 @@
+ Use the filters to narrow your search.
+ Select
+ Education Level
++High School
++Undergraduate
++Postgrad / PhD / MBA
++Experienced professional
++Non degree
+ Select
+ Location
++Americas
++Americas
++Canada
++United States of America
++Asia Pacific
++Asia Pacific
++Australia
++Hong Kong SAR, China
++India
++Indonesia
++Japan
++Kazakhstan
++Mainland China
++Malaysia
++Philippines
++Singapore
++South Korea
++Taiwan
++Thailand
++Vietnam
++Europe, Middle East and Africa
++Europe, Middle East and Africa
++Bahrain
++Belgium
++France
++Germany
++Ireland
++Israel
++Italy
++Luxembourg
++Netherlands
++Poland
++Russia
++South Africa
++Spain
++Sweden
++Switzerland
++Turkey
++United Arab Emirates
++United Kingdom
++Latin America
++Latin America
++Argentina
++Brazil
++Chile
++Colombia
++Mexico
++Peru
+ Select
+ Areas of Interest
++Asset & Wealth Management
++Asset & Wealth Management
++Asset Management
++Wealth Management
++Private Bank
++Cross-firm Functions
++Cross-firm Functions
++Audit
++Corporate Responsibility
++Data & Analytics
++Global Finance & Business Management
++Human Resources
++Legal
++Capital Management
++Marketing & Communications
++Risk Management
++Operations
++Strategy
++Treasury & Chief Investment Office
++Compliance
++Risk Management & Compliance
++Commercial & Investment Bank
++Commercial & Investment Bank
++Credit Markets & Treasury Services
++Public Finance
++International Banking
++Real Estate Banking
++Investment Banking
++Quantitative Research
++Middle Market Banking
++Markets
++Payments
++Commercial Term Lending
++Community Development Banking
++Corporate Banking
++Corporate Client Banking
++Securities Services
++Consumer & Community Banking
++Consumer & Community Banking
++Auto Finance
++Business Banking
++Card Services
++Chase Wealth Management
++Home Lending & Mortgage Banking
++Chase Merchant Services
++Consumer Banking
++International Consumer
++Technology
++Technology
++Technology
+ Search Programs
+ Search Programs
+ Search Programs
++Asset & Wealth Management
++Asset & Wealth Management
++Cross-firm Functions
++Cross-firm Functions
++Commercial & Investment Bank
++Commercial & Investment Bank
++Consumer & Community Banking
++Consumer & Community Banking
++Technology
++Technology
+ Americas
+ Americas
+ Asia Pacific
+@@ -43,6 +156,86 @@
+ Postgrad / PhD / MBA
+ Experienced professional
+ Non degree
++Canada
++United States of America
++Australia
++Hong Kong SAR, China
++India
++Indonesia
++Japan
++Kazakhstan
++Mainland China
++Malaysia
++Philippines
++Singapore
++South Korea
++Taiwan
++Thailand
++Vietnam
++Bahrain
++Belgium
++France
++Germany
++Ireland
++Israel
++Italy
++Luxembourg
++Netherlands
++Poland
++Russia
++South Africa
++Spain
++Sweden
++Switzerland
++Turkey
++United Arab Emirates
++United Kingdom
++Argentina
++Brazil
++Chile
++Colombia
++Mexico
++Peru
++Asset Management
++Wealth Management
++Private Bank
++Audit
++Corporate Responsibility
++Data & Analytics
++Global Finance & Business Management
++Human Resources
++Legal
++Capital Management
++Marketing & Communications
++Risk Management
++Operations
++Strategy
++Treasury & Chief Investment Office
++Compliance
++Risk Management & Compliance
++Credit Markets & Treasury Services
++Public Finance
++International Banking
++Real Estate Banking
++Investment Banking
++Quantitative Research
++Middle Market Banking
++Markets
++Payments
++Commercial Term Lending
++Community Development Banking
++Corporate Banking
++Corporate Client Banking
++Securities Services
++Auto Finance
++Business Banking
++Card Services
++Chase Wealth Management
++Home Lending & Mortgage Banking
++Chase Merchant Services
++Consumer Banking
++International Consumer
++Technology
+ Warning
+ The length of the filter query has exceeded the maximum size. Please remove some filter selections.
+ High School
+@@ -50,20 +243,100 @@
+ Postgrad / PhD / MBA
+ Experienced professional
+ Non degree
++Canada
++United States of America
++Australia
++Hong Kong SAR, China
++India
++Indonesia
++Japan
++Kazakhstan
++Mainland China
++Malaysia
++Philippines
++South Korea
++Taiwan
++Thailand
++Vietnam
++Bahrain
++Belgium
++France
++Germany
++Ireland
++Israel
++Italy
++Luxembourg
++Netherlands
++Poland
++Russia
++South Africa
++Spain
++Sweden
++Switzerland
++Turkey
++United Arab Emirates
++United Kingdom
++Argentina
++Brazil
++Chile
++Colombia
++Mexico
++Peru
++Asset Management
++Wealth Management
++Private Bank
++Audit
++Corporate Responsibility
++Data & Analytics
++Global Finance & Business Management
++Human Resources
++Legal
++Capital Management
++Marketing & Communications
++Risk Management
++Operations
++Strategy
++Treasury & Chief Investment Office
++Compliance
++Risk Management & Compliance
++Credit Markets & Treasury Services
++Public Finance
++International Banking
++Real Estate Banking
++Investment Banking
++Quantitative Research
++Middle Market Banking
++Markets
++Payments
++Commercial Term Lending
++Community Development Banking
++Corporate Banking
++Corporate Client Banking
++Securities Services
++Auto Finance
++Business Banking
++Card Services
++Chase Wealth Management
++Home Lending & Mortgage Banking
++Chase Merchant Services
++Consumer Banking
++International Consumer
++Technology
++Singapore
+ Reset filters
+ Click to reset filters
+ We found
+-92
++27
+ Programs
+ Show Only Open Programs
+ School Programs & Apprenticeships
+-(10)
++(1)
+ Pre-Internship Programs
+-(8)
++(4)
+ Internships
+-(39)
+-Full-Time
+-(35)
++(13)
++Full-Time
++(9)
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+ Earn your four-year degree while working in our technology business alongside our industry experts.
+```
+
+---
+
 ## 2025-06-18 07:28:51
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
