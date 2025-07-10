@@ -46,8 +46,6 @@ Assistant Controller - Management Company
 London, Montreal
 Assistant Tax Manager
 London
-Business Analyst
-London
 Compliance Analyst - Discretionary Trading & Fundamental Research
 New York
 Corporate Actions Analyst
@@ -88,8 +86,6 @@ Network Specialist
 Montreal, London, New York
 Operational Risk Analyst
 London
-Operations Analyst
-Warsaw
 Operations Intern
 Montreal
 Platform Applications Specialist
@@ -118,8 +114,6 @@ Platform ULL - Colo - Reliability
 London, United Kingdom, Montreal, QC, Canada, New York, NY, United States, Singapore
 Platform ULL - Colo - Strategic
 Montreal, London & New York
-Project Manager
-London
 Property Assistant
 New York
 Quant Developer
