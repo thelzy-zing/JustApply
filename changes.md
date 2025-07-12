@@ -1,4 +1,121 @@
 
+## 2025-07-12 07:36:14
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,6 +15,7 @@
+ Finance
+ Human Resources
+ Investment
++Legal
+ Office Acquisition and Development
+ Operations
+ Recruiting & Talent Development
+@@ -59,10 +60,10 @@
+ Financial Reporting Manager
+ London, New York
+ Graduate Software Developer
+-London, Montreal, Warsaw, New York
++London, Montreal, Warsaw, New York, Singapore
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
+-HR Systems Analyst - Workday
++HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+ Human Resources Specialist
+ London
+@@ -82,6 +83,8 @@
+ New York, London
+ Junior Shift Trader
+ Dubai, Singapore
++Legal Counsel - Employement (FTC)
++London
+ Network Specialist
+ Montreal, London, New York
+ Operational Risk Analyst
+@@ -117,7 +120,7 @@
+ Property Assistant
+ New York
+ Quant Developer
+-London, Montreal, Warsaw
++London, Montreal, Warsaw, Singapore
+ Quant Developer (C++)
+ Singapore, London, New York
+ Quant Developer (Python)
+@@ -147,7 +150,7 @@
+ Site Management Specialist
+ London
+ Software Developer (C++)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+ London, Montreal, Singapore, Warsaw
+ Software Developer - Data Pipelines (Python)
+@@ -161,13 +164,13 @@
+ Software Developer – Internal Compute Frameworks (Rust)
+ London, Montreal, Singapore, Warsaw
+ Software Developer (KDB+/Q)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer - Order Gateway
+ London , Montreal , Singapore, Bangalore & Warsaw
+ Software Developer - Order Gateway Integration
+ Singapore
+ Software Developer (Python)
+-London, Montreal
++London, Montreal, Singapore
+ Software Developer – Reliability
+ Singapore & Montreal
+ Software Developer - Risk Data Pipelines
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1060,6 +1060,14 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Internship
++Payments Internship
++Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
++Where you can work:
++Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++Learn More
+ Full-Time
+ Design Development Program
+ Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+@@ -1085,14 +1093,6 @@
+ Join one of the largest providers of Treasury Management services in the U.S. and abroad, and help facilitate the essential transactions that drive economic progress.
+ Where you can work:
+ Hong Kong SAR, China, Japan, Singapore, United States of America
+-Applications Not Open
+-Applications Now Open
+-Learn More
+-Internship
+-Payments Internship
+-Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+-Where you can work:
+-Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+ Applications Not Open
+ Applications Now Open
+ Learn More
+```
+
+---
+
 ## 2025-07-11 07:42:39
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
