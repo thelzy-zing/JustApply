@@ -1,4 +1,85 @@
 
+## 2025-07-13 07:40:05
+
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1060,39 +1060,39 @@
+ To keep informed of when you can apply, please click
+ here.
+ Learn More
++Full-Time
++Design Development Program
++Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
++Where you can work:
++United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++To keep informed of when you can apply, please click
++here.
++Learn More
++Internship
++Design Development Program Internship
++Start your career in UI/UX research and design, collaborating on desirable products for our clients, customers and employees.
++Where you can work:
++United Kingdom, United States of America
++Applications Not Open
++Applications Now Open
++To keep informed of when you can apply, please click
++here.
++Learn More
++Full-Time
++Payments Full-time Analyst
++Join one of the largest providers of Treasury Management services in the U.S. and abroad, and help facilitate the essential transactions that drive economic progress.
++Where you can work:
++Hong Kong SAR, China, Japan, Singapore, United States of America
++Applications Not Open
++Applications Now Open
++Learn More
+ Internship
+ Payments Internship
+ Spend the summer collaborating with industry leaders and researching and developing the strategic initiatives that promote economic efficiency and grow global business.
+ Where you can work:
+ Bahrain, Hong Kong SAR, China, India, Japan, Mainland China, Singapore, United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+-Learn More
+-Full-Time
+-Design Development Program
+-Launch your career as a UI/UX professional, helping to develop useful and desirable products for our clients, customers and employees.
+-Where you can work:
+-United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
+-Internship
+-Design Development Program Internship
+-Start your career in UI/UX research and design, collaborating on desirable products for our clients, customers and employees.
+-Where you can work:
+-United Kingdom, United States of America
+-Applications Not Open
+-Applications Now Open
+-To keep informed of when you can apply, please click
+-here.
+-Learn More
+-Full-Time
+-Payments Full-time Analyst
+-Join one of the largest providers of Treasury Management services in the U.S. and abroad, and help facilitate the essential transactions that drive economic progress.
+-Where you can work:
+-Hong Kong SAR, China, Japan, Singapore, United States of America
+ Applications Not Open
+ Applications Now Open
+ Learn More
+```
+
+---
+
 ## 2025-07-12 07:36:14
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
