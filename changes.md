@@ -1,4 +1,91 @@
 
+## 2025-07-18 07:44:40
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,6 +17,7 @@
+ Investment
+ Legal
+ Office Acquisition and Development
++Office Management
+ Operations
+ Recruiting & Talent Development
+ Tax
+@@ -91,6 +92,8 @@
+ Montreal & New York
+ Network Specialist - Security
+ Montreal, New York & Singapore
++Office Administrator
++Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -129,7 +132,11 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
++Quantitative Researcher - Capital Efficiency
++New York
+ Quantitative Researcher – FICC Modeling
++New York
++Quantitative Researcher - Intraday Trading
+ New York
+ Recruitment Intern (Fall 2025)
+ Montreal
+@@ -185,8 +192,12 @@
+ London, Montreal
+ Tax Analyst
+ Bangalore
++Tax Analyst
++London
+ Tax Analyst - Funds
+ London
++Tax Assistant
++Bangalore
+ Team Executive Assistant
+ London
+ Technical Business Analyst/Project Manager
+```
+
+---
+
 ## 2025-07-17 07:43:21
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
