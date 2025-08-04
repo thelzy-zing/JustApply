@@ -1,4 +1,76 @@
 
+## 2025-08-04 07:34:16
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,8 +140,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -10,7 +10,6 @@
+ Departments
+ Business Management
+ Compliance
+-Corporate Application Management
+ Executive Assistance
+ Finance
+ Human Resources
+@@ -94,9 +93,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Houston
++Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -209,8 +208,6 @@
+ London, Singapore, Houston, New York
+ Trading Infrastructure Specialist
+ London ,Montreal & Hong Kong
+-Workday Integration Specialist
+-Bangalore, Dubai, London
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+
 ## 2025-08-03 07:24:30
 
 ### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
