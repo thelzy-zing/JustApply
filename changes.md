@@ -1,4 +1,137 @@
 
+## 2025-08-08 07:30:27
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,5 +1,5 @@
+ Open Roles :: Jane Street
+-This site uses cookies to help us learn and improve. You are welcome to opt out if you would like. Learn more in our
++Jane Street Group, LLC uses cookies and similar technologies, including third-party cookies, on this Site to provide basic functionalities and perform analytics. You may accept or decline cookies by selecting “Accept” or “Reject”. For information regarding our cookie practices, see Jane Street’s
+ Ad and Cookie Policy
+ .
+ Accept All
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,21 +230,26 @@
+ +
+ Please enable Javascript in your browser for best experience.
+ Careers at Apple
+-Open Menu
+-Close Menu
++Search Roles
++Overview
+ Work at Apple
++Explore Work at Apple
++Locations
++Teams
++Apple Retail
++Students
+ Life at Apple
+-Profile
++Explore Life at Apple
++Diversity Network Associations
++Shared Values
++Benefits
++My Profile
+ Sign In
+-Search
+ Find your perfect role.
+ To reveal list of choices, type
+ Most corporate roles require English-language skills.
+ Filters
+ Clear all
+-Saved Searches
+-Favorites
+-Recently viewed roles
+ Refine by
+ Location
+ 1
+@@ -263,8 +268,7 @@
+ Clear Team(s)
+ To reveal list of choices, type
+ View all teams
+-Students
+-:
++Students:
+ Internships
+ Products and Services
+ 0
+@@ -280,11 +284,13 @@
+ 0 Filter(s) Applied
+ Clear Language(s)
+ To reveal list of choices, type
++Saved Searches
++Favorites
++Recently viewed roles
+ 2 Filter(s) Applied
+ Save Search
+ Singapore
+-Students
+-:
++Students:
+ Internships
+ text
+ More
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,9 +97,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++Houston
++Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -136,6 +136,8 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
++Quantitative Developer, Volatility - Market Making
++New York
+ Quantitative Researcher - Capital Efficiency
+ New York
+ Quantitative Researcher - Intraday Trading
+@@ -191,9 +193,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+
 ## 2025-08-07 07:30:56
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
