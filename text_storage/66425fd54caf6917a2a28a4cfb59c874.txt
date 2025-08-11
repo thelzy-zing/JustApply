@@ -68,6 +68,8 @@ HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
 Bangalore
+Information Security Analyst
+London
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Winter 2026
@@ -193,9 +195,9 @@ New York, Bangalore, London, Montreal and Paris
 Support Analyst - Integration & Deployment Management
 London, Montreal
 Tax Analyst
-Bangalore
-Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
 Tax Assistant

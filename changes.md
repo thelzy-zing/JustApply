@@ -1,4 +1,56 @@
 
+## 2025-08-11 07:30:30
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,6 +68,8 @@
+ Bangalore, London, Singapore, Montreal, New York
+ Indirect Tax Analyst
+ Bangalore
++Information Security Analyst
++London
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Winter 2026
+@@ -193,9 +195,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,7 +32,6 @@
+ Open positions
+ All departments
+ Corporate
+-Internship
+ Product Design
+ Product Management
+ Software Engineering
+```
+
+---
+
 ## 2025-08-10 07:23:16
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
