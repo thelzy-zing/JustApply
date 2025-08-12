@@ -1,4 +1,112 @@
 
+## 2025-08-12 07:25:33
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -100,8 +100,6 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
+-Office Administrator
+-Houston
+ Operational Risk Analyst
+ London
+ Operations Intern
+@@ -125,7 +123,7 @@
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+-London, Montreal
++Bangalore
+ Platform ULL - Colo - Reliability
+ London, Montreal, New York & Singapore
+ Platform ULL - Colo - Strategic
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (18)
++Opportunities (20)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,36 +174,36 @@
+ Viewing
+ 10
+ of
+-18
++20
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Operations Analyst – Intern (US)
+-New York
+-Apply Now
+-International Equities Associate – Intern (Europe)
+-London
++Quantitative Research Analyst Intern – BS/MS (Europe)
++London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-08-11 07:30:30
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
