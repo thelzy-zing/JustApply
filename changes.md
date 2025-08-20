@@ -1,4 +1,142 @@
 
+## 2025-08-20 07:24:24
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -6,7 +6,7 @@
+ Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
+ 
+ Offices
+-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
++A community of colleagues spanning 14 offices worldwide.
+ 
+ Diversity & Inclusion
+ Building the future of trading together.
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Building a Distributed Filesystem for Scalable Research
++Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Intern Spotlight: HRT AI Labs Project
+-Read More ▸
+-Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -43,7 +43,7 @@
+ Built by coders, led by coders. At HRT we are mathematicians, computer scientists, statisticians, physicists, and engineers.
+ 
+ Offices
+-We trade on more than 200 markets worldwide, with offices and teams in 6 countries.
++A community of colleagues spanning 14 offices worldwide.
+ 
+ Diversity & Inclusion
+ Building the future of trading together.
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Building a Distributed Filesystem for Scalable Research
++Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Intern Spotlight: HRT AI Labs Project
+-Read More ▸
+-Intern Spotlight: Software Engineering Summer Projects
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,11 +24,11 @@
+ London
+ Montreal
+ Warsaw
++New York
++Dubai
++Singapore
++Bangalore
+ Hong Kong
+-Singapore
+-New York
+-Dubai
+-Bangalore
+ Madrid
+ Houston
+ Paris
+@@ -37,8 +37,6 @@
+ Zug
+ Accountant
+ London, Montreal, Warsaw, Jersey
+-Accountant - Physical Metal
+-London, Jersey, Singapore, Hong Kong
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Assistant Tax Manager
+@@ -190,9 +188,9 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
++London
+ Tax Analyst - Funds
+ London
+ Tax Assistant
+```
+
+---
+
 ## 2025-08-19 07:24:06
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
