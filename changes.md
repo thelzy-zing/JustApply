@@ -1,4 +1,217 @@
 
+## 2025-08-21 07:26:25
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -140,9 +140,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,7 +8,6 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+-Business Management
+ Compliance
+ Finance
+ Human Resources
+@@ -97,10 +96,6 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
+-Operational Risk Analyst
+-London
+-Operations Intern
+-Montreal
+ Platform Applications Specialist
+ Montreal, London & Singapore
+ Platform Compute and Storage Specialist
+@@ -134,10 +129,6 @@
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
+ Quantitative Developer, Volatility - Market Making
+-New York
+-Quantitative Researcher - Capital Efficiency
+-New York
+-Quantitative Researcher - Intraday Trading
+ New York
+ Senior Discretionary Trader - Credit
+ London, New York
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++5 jobs
+ Share
+ Clear
+ Job title
+@@ -63,6 +63,9 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Data.gov.sg
++Hybrid
++View job
++Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Software Engineer, Pair
+@@ -77,6 +80,9 @@
+ Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
++Software Engineer, ActiveSG
++Hybrid
++View job
+ Software Engineer, Pair
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -169,7 +169,7 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 90 programs
++We found 91 programs
+ slide
+ 1
+ of 4
+@@ -178,17 +178,12 @@
+ Early Insight (pre-internship)
+ (8)
+ Internship
+-(38)
++(39)
+ Full-Time
+ (33)
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -197,6 +192,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Chase Customer Service Modern Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -209,24 +214,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Chase Customer Service Modern Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-08-20 07:24:24
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
