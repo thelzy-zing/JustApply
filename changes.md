@@ -1,4 +1,79 @@
 
+## 2025-08-30 07:20:41
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -300,6 +300,7 @@
+ Tax
+ Terminal
+ Treasury
++Verified
+ Solutions
+ Startups
+ Enterprises
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,6 +9,7 @@
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+ Compliance
++Data Acquisition
+ Finance
+ Human Resources
+ Investment
+@@ -42,6 +43,8 @@
+ London
+ Compliance Analyst - Discretionary Trading & Fundamental Research
+ New York
++Data Associate
++London
+ Data Center Technician
+ New York
+ Delta One and Financing Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -150,8 +150,6 @@
+ Quantitative Research
+ Office Locations
+ Select All
+-Austin
+-Sydney
+ Americas
+ Chicago
+ Greenwich
+@@ -166,6 +164,7 @@
+ Asia-Pacific
+ Hong Kong
+ Singapore
++Sydney
+ Tokyo
+ Clear Selection
+ Save
+```
+
+---
+
 ## 2025-08-29 07:23:23
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
