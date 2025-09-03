@@ -106,18 +106,30 @@ ALL
 Locations
 
 Clear All
+Sophomore Internship – Summer 2026
+↳ Apply Now
+New York
+Internship
+C++ | Python | Strategy Development
+Hudson River Trading (HRT) is seeking exceptional early talent for our premier Sophomore Summer Internship Program. Sophomore interns will have the unique opportunity to rotate through both the Algorithm Development (Quant Research) and Software Engineering teams, gaining exposure to both areas while contributing to a wide range of impactful projects. ...
 Software Engineering Internship – Summer 2026
 ↳ Apply Now
 New York
 Internship
-Python
+C++ | Python
 Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
 Software Engineering Internship – Summer 2026
 ↳ Apply Now
 Singapore
 Internship
-Python
+C++ | Python
 Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+Women in Trading and Technology Internship (WiTTI) – Winter 2026
+↳ Apply Now
+New York
+Internship
+C++ | Python
+The application deadline for this position is October 12, 2025. At HRT, we believe that by celebrating our differences and fostering a sense of belonging, we will drive innovation, enhance decision-making, and build the future of trading — together. To do so, HRT is committed to creating a space where...
 There are no jobs that fit these filter criteria. Please change filters to view other jobs.
 Back to Top ↑
 Join Our Community
