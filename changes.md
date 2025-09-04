@@ -1,4 +1,220 @@
 
+## 2025-09-04 07:22:46
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,11 @@
+ Careers
+ Recruitment news
+ <
++Life at Optiver
++Breaking down the trading industry: Which role is right for you?
++If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
++Learn more
++Global
+ Series
+ Life at Optiver, Meet the team
+ From intern to new grad: Joining the team full-time
+@@ -122,11 +127,6 @@
+ Technology
+ Low Latency C++ Systems for Trading with David Gross at CppCon
+ Watch David Gross at CppCon 2024 as he shares how to design low latency trading systems in Cpp using high performance and concurrency techniques.
+-Learn more
+-Global
+-Recruitment at Optiver
+-Optiver interview tips for Software Engineers
+-Most interviews test what you know. At Optiver, we’re interested in how you think. As a technology-driven trading firm, we take a distinctive approach to our technical interviews. The Optiver interview process is designed to reflect the kind of work you’ll do as part of our team: collaborative, creative and rooted in solving real-world challenges.  […]
+ Learn more
+ Global
+ >
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (21)
++Opportunities
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,45 +174,7 @@
+ Viewing
+ 10
+ of
+-21
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Sector Data Associate – Intern (US)
+-New York
+-Apply Now
+-Software Engineer – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-1
+-2
+-3
+-Next
+-1
+-2
+-3
+-Next
++50
+ Filtering results
+ Explore Careers
+ by Team
+@@ -319,6 +281,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -184,11 +184,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -197,6 +192,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Modern Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -209,24 +214,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Modern Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-09-03 07:22:52
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
