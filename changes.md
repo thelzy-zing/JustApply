@@ -1,4 +1,178 @@
 
+## 2025-09-05 07:22:48
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -86,8 +86,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+@@ -141,8 +141,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Austin
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -33,7 +33,7 @@
+ A place where kindness and excellence converge across six countries and nearly all the world’s electronic markets.
+ 
+ Student Opportunities
+-Full-time & internship opportunities for current undergraduates, graduating seniors, Masters, or PhD students.
++Full-time & internship opportunities for current undergraduates, graduating seniors, masters, or PhD students.
+ 
+ Talent Community
+ See Open Roles
+@@ -70,7 +70,7 @@
+ A place where kindness and excellence converge across six countries and nearly all the world’s electronic markets.
+ 
+ Student Opportunities
+-Full-time & internship opportunities for current undergraduates, graduating seniors, Masters, or PhD students.
++Full-time & internship opportunities for current undergraduates, graduating seniors, masters, or PhD students.
+ 
+ Talent Community
+ See Open Roles
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,16 +23,16 @@
+ Warsaw
+ London
+ New York
+-Dubai
+-Singapore
+ Bangalore
+ Hong Kong
+ Madrid
++Singapore
+ Houston
+ Paris
+ Geneva
+ Boston
+ Zug
++Dubai
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Assistant Tax Manager
+@@ -43,8 +43,6 @@
+ London
+ Data Center Technician
+ New York
+-Delta One and Financing Trader
+-Singapore, Dubai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ FP&A Manager
+@@ -69,6 +67,8 @@
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+ New York, London
++Junior Execution Trader
++London
+ Junior Platform Compute and Storage Specialist
+ London, Montreal and New York
+ Junior Quant Researcher
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities
++Opportunities (21)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,45 @@
+ Viewing
+ 10
+ of
+-50
++21
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Sector Data Associate – Intern (US)
++New York
++Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++1
++2
++3
++Next
++1
++2
++3
++Next
+ Filtering results
+ Explore Careers
+ by Team
+```
+
+---
+
 ## 2025-09-04 07:22:46
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
