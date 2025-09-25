@@ -1,4 +1,455 @@
 
+## 2025-09-25 07:25:03
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,6 +60,7 @@
+ Amsterdam
+ Austin
+ Chicago
++Hong Kong
+ London
+ Mumbai
+ New York
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,9 +85,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+@@ -139,9 +139,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,217 +1,68 @@
+-Open opportunities :: Squarepoint
+-Squarepoint logo
+-About us
+-Philosophy
+-Culture
+-Careers
+-Locations
+-Apply for open opportunities
+-Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+-Departments
+-Compliance
+-Data Acquisition
+-Finance
+-Human Resources
+-Investment
+-Office Acquisition and Development
+-Office Management
+-Operations
+-Tax
+-Technology
+-Offices
+-London
+-Montreal
+-Warsaw
+-New York
+-Bangalore
+-Hong Kong
+-Madrid
+-Singapore
+-Houston
+-Paris
+-Geneva
+-Boston
+-Zug
+-Dubai
+-Accounts Payable Financial Analyst
+-Montreal, Warsaw, London
+-Assistant Controller - Management Company
+-Montreal, Warsaw
+-Assistant Tax Manager
+-London
+-Data Associate
+-London
+-Data Center Technician
+-New York
+-Desk Quant Analyst
+-London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-FP&A Manager
+-London,  Montreal, Bangalore, Warsaw
+-Graduate Software Developer
+-London, Montreal, Warsaw, New York, Singapore
+-Graduate Support Specialist
+-London, Montreal, New York, Houston, Hong Kong
+-Head of Financial Reporting
+-London, New York
+-HR Systems Associate - Workday
+-Bangalore, London, Singapore, Montreal, New York
+-Human Resources Specialist
+-Montreal
+-Indirect Tax Analyst
+-Bangalore
+-Information Security Analyst
+-London
+-Intern Compliance Analyst - Winter 2026
+-London, New York
+-Intern Quant Researcher
+-London, Paris, New York, Singapore, Hong Kong
+-Intern Software Developer - Summer 2026
+-Montreal, Singapore, London, Warsaw
+-Intern Software Developer - Winter 2026
+-Montreal, Singapore
+-Junior Commodities Fundamental Analyst
+-Geneva, Houston, London, New York, Paris
+-Junior Discretionary Trader
+-New York, London
+-Junior Execution Trader
+-London
+-Junior Platform Compute and Storage Specialist
+-London, Montreal and New York
+-Junior Quant Researcher
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Quant Researcher - ML Alpha Research
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Risk Manager
+-New York, London
+-Junior Shift Trader
+-Dubai, Singapore
+-Network Specialist - Core
+-Montreal, London, New York
+-Network Specialist - Reliability
+-Montreal & New York
+-Network Specialist - Security
+-Montreal, New York & Singapore
+-Network Specialist - ULL
+-Montreal, London,  New York
+-Office Administrator
+-Warsaw
+-Operations Analyst
+-Bangalore
+-Operations Analyst - Metals
+-New York
+-Operations Manager
+-Bangalore
+-Platform Applications Specialist
+-Montreal, London , Singapore , Hong Kong ,Warsaw , Houston
+-Platform Compute and Storage Specialist
+-Montreal , New York , London & Singapore
+-Platform Specialist - Databases
+-Montreal, New York, Houston , Boston , Singapore Hong Kong
+-Platform Specialist - Development Tools
+-Montreal, New York, Houston , Boston , Singapore & Hong Kong
+-Platform Specialist - HPC
+-London, New York
+-Platform Specialist - Middleware
+-Montreal, New York, Houston & Boston
+-Platform Specialist - Observability
+-London, Warsaw , Montreal, New York, Houston & Boston
+-Platform Specialist - Scheduler and Orchestrators
+-Montreal, New York, Houston , Boston , Singapore & Hong Kong
+-Platform Specialist - ULL
+-London, New York
+-Platform Specialist - Windows and Virtualization
+-Bangalore, London, Montreal, New York
+-Platform ULL - Colo - Reliability
+-London, Montreal, New York & Singapore
+-Platform ULL - Colo - Strategic
+-Montreal, London & New York
+-Property Assistant
+-Montreal
+-Quant Developer
+-London, Montreal, Warsaw, Singapore
+-Quant Developer (C++)
+-Singapore, London, New York
+-Quant Developer (Python)
+-Boston, Dubai, London, Montreal, Warsaw
+-Senior Discretionary Trader - Credit
+-London, New York
+-Senior Discretionary Trader - Equities
+-London, New York
+-Senior Discretionary Trader - Macro
+-London, New York
+-Senior Quant Researcher - CTA/Short-Term
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Equity Mid/Low Frequency
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Fixed Income
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Intraday Statistical Arbitrage
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Volatility
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Software Developer (C++)
+-London, Montreal, Singapore
+-Software Developer - Data Infrastructure
+-London, Montreal, Singapore
+-Software Developer - Data Pipelines (Python)
+-London, Montreal, Madrid, Bangalore
+-Software Developer – Data Products and Services
+-Montreal, London, Singapore, Bangalore
+-Software Developer – Data Services (KDB+/Q)
+-Singapore, Montreal, London, Hong Kong, New York, Warsaw
+-Software Developer – Internal Compute Frameworks (Python)
+-London, Montreal, Singapore, Warsaw
+-Software Developer – Internal Compute Frameworks (Rust)
+-London, Montreal, Singapore, Warsaw
+-Software Developer (KDB+/Q)
+-London, Montreal, Singapore
+-Software Developer - Order Gateway
+-Montreal , Singapore & Warsaw
+-Software Developer - Order Gateway Integration
+-Singapore
+-Software Developer (Python)
+-London, Montreal, Singapore
+-Software Developer – Reliability
+-Singapore & Montreal
+-Software Developer - Risk Data Pipelines
+-Bangalore, Montreal & Warsaw
+-Software Developer - Risk Technology
+-London, Montreal, Bangalore
+-Support Analyst - Desktop
+-New York, London, Montreal and Paris
+-Support Analyst - Integration & Deployment Management
+-London, Montreal, Bangalore
+-Tax Analyst
+-London
+-Tax Analyst - Funds
+-London
+-Tax Assistant
+-Bangalore
+-Technical Business Analyst/Project Manager
+-London, Paris, Montreal, Singapore
+-Trade Flow Support - Trading Application Support
+-London, Montreal, New York,Singapore,Bangalore,Hong Kong,Houston
+-Trade Flow Support - Trading Infrastructure Support
+-Singapore
+-Trading Applications Specialist
+-London, Singapore, Houston, New York
+-Trading Infrastructure Specialist
+-London ,Montreal & Hong Kong
+-Treasury Analyst
+-Montreal
+-Squarepoint logo
+-About us
+-Philosophy
+-Culture
+-Careers
+-Locations
+-Disclosures
+-Cookie Preferences
+-©
+-2025
+-Squarepoint
+-. All Rights Reserved.
+-We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
+-Close cookie preferences banner
+-I agree to all cookie use
+-Cookie Preferences
++Privacy error
++Your connection is not private
++Attackers might be trying to steal your information from
++www.squarepoint-capital.com
++(for example, passwords, messages, or credit cards).
++Learn more about this warning
++net::ERR_CERT_AUTHORITY_INVALID
++Subject:
++squarepoint-capital.com
++Issuer:
++DigiCert Global G2 TLS RSA SHA256 2020 CA1
++Expires on:
++Jun 2, 2026
++Current date:
++Sep 25, 2025
++PEM encoded chain:
++-----BEGIN CERTIFICATE-----
++MIIHBjCCBe6gAwIBAgIQDl9qVpZhs8AJ8dLsRdrK2jANBgkqhkiG9w0BAQsFADBZ
++MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
++aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUw
++NTAyMDAwMDAwWhcNMjYwNjAyMjM1OTU5WjBzMQswCQYDVQQGEwJVUzERMA8GA1UE
++CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRwwGgYDVQQKExNTcXVhcmVw
++b2ludCBPcHMgTExDMSAwHgYDVQQDExdzcXVhcmVwb2ludC1jYXBpdGFsLmNvbTCC
++ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALpWTcS0+iehC7SvC027LpaZ
++b92f8iP915ugP/XGIUUJNtsVz0XFw01vVWaJ48ASeA319kNW7Cm/38NPcLRa7X6n
++QqVuZgncIo2MQE1RCvN08Y++2xtUH+dpD4gGkwTOdM++2euZ9dmsPrfwbIJEXwvC
++db20r4jZuJaT8TwzWQbxXUzCBD0aO0bm9XGLRd70kzfSc/PcXu+iZEReMHxiz4bO
++9wIDVcM7JSfpldKQLdy5yrYCa9yeGFlZEU60FLXb3sYYXPduawsfHS+zZlKnFQwS
++e8LOGbyaZWMK898eRL0049vsY70XOtRAEKtiAZwV4Z5eBt/98DnBhjGFK71ZqU0C
++AwEAAaOCA64wggOqMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0G
++A1UdDgQWBBTKRTv2qnQc8KczmbMp9Rc4/AVrHTA/BgNVHREEODA2ghdzcXVhcmVw
++b2ludC1jYXBpdGFsLmNvbYIbd3d3LnNxdWFyZXBvaW50LWNhcGl0YWwuY29tMD4G
++A1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
++aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
++AwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRp
++Z2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0x
++LmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
++YmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkw
++JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcw
++AoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJU
++TFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEE
++AdZ5AgQCBIIBbASCAWgBZgB1AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8P
++yqnGAAABlo7cfC0AAAQDAEYwRAIgaSvkpYF0xnf3X/Eh8Eh1kWe1snwLzhoSp6Dp
++2k3fFHoCICWLeEbU09swz8jmE7WW0mth7/CPpJeS9V23qok/3kckAHYAZBHEbKQS
++7KeJHKICLgC8q08oB9QeNSer6v7VA8l9zfAAAAGWjtx8HAAABAMARzBFAiAF5X4S
++54UqLrPUx08h8JgfTsURw55RQPjlm+smve8J+wIhAOJb7caAS8OZ0SjUAPIj/u6h
++VeDCY5WnGMqIQ5wUn6krAHUASZybad4dfOz8Nt7Nh2SmuFuvCoeAGdFVUvvp6ynd
+++MMAAAGWjtx8MgAABAMARjBEAiArZxYgPGxrWXsEVdAM04wVjDDPFSPdxIU0a9B1
+++3TZ9QIgdEmop9YUnohKYl+lsb2II1CZ2WPf9LCwzbYuFFue77owDQYJKoZIhvcN
++AQELBQADggEBAI9mWj0dLKBuKU9Bz1BkDnz3Gi0mADupTX8b9FdNzUwhZa1EVY7P
++bHsG+SPu+0xwpUsvHjCabiB+huWKf/rggrjcOu3Cd1UTkoV8QENFk2eOSlVCd+jF
++jnkTlJNpIpSbZRioR22M3H0PrP9eioqJDmyAj8HESQeS+oBLHM58hzB3HksbqA4Q
++ry2+gPoaigzmMgy3txv0NrUTWwdRj0ganiclXG+hRJRlSojt2ejXu1YpiMeZM7Zj
++zNaNcWqMxVJaeKC5q/spy+kt3lHCYeEr6rRB8TRwTHsrhUEoHzPGb4uj4kBcCFlz
++tpROWT009BXjKrxAjB4cJYgUG7BXanSSLy8=
++-----END CERTIFICATE-----
++Help improve security on the web for everyone by sending
++URLs of some pages you visit, limited system information, and some page content
++to Google.
++Privacy policy
++Turn on enhanced protection
++to get Chrome's highest level of security
++Back to safety
++Advanced
++This server could not prove that it is
++www.squarepoint-capital.com
++; its security certificate is not trusted by your computer's operating system. This may be caused by a misconfiguration or an attacker intercepting your connection.
++Proceed to www.squarepoint-capital.com (unsafe)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,6 +175,9 @@
+ 10
+ of
+ 22
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -198,9 +201,6 @@
+ Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+ Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -184,11 +184,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -197,6 +192,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -209,24 +214,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-09-24 07:24:09
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
