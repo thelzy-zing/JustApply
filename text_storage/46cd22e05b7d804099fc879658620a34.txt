@@ -274,5 +274,6 @@ C++
 Python
 Strategy Development
 Systems and Networking
+Information Security
 Trade Operations
 ↳ Apply Filter
