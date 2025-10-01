@@ -185,10 +185,10 @@ Support Analyst - Integration & Deployment Management
 London, Montreal, Bangalore
 Tax Analyst
 London
+Tax Analyst
+Bangalore
 Tax Analyst - Funds
 London
-Tax Assistant
-Bangalore
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Trade Flow Support - Trading Application Support
