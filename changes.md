@@ -1,4 +1,329 @@
 
+## 2025-10-02 07:22:52
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,6 +44,7 @@
+ Recommended jobs
+ Saved jobs
+ Job alerts
++AI at Google
+ noogler_hat
+ Students
+ expand_more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -81,13 +81,12 @@
+ Full-Time: New Grad
+ Internship
+ Co-Op
+-Industrial Placement Year
+ Internship
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -135,13 +134,12 @@
+ Full-Time: New Grad
+ Internship
+ Co-Op
+-Industrial Placement Year
+ Internship
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -241,6 +241,7 @@
+ Locations
+ All
+ Austin
++Austin
+ Boston
+ Boulder
+ Carteret
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,101 +1,2 @@
+-Job Openings at Meta | Meta Careers
+-Jobs
+-Teams
+-Technology teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Careers Programs
+-Research
+-Accelerate Eng Talent
+-Students and grads
+-Rotational Product Management
+-Working at Meta
+-Accessibility and Engagement
+-Benefits
+-Culture
+-Hiring process
+-Blog
+-Log in/Create profile
+-Search Meta Careers
+-Hide filters
+-0 Items
+-Save this search
+-Sort by
+-Relevance
+-Newest
+-Technologies
+-Facebook
+-Messenger
+-Instagram
+-WhatsApp
+-Meta Quest
+-Teams
+-Advertising Technology
+-AR/VR
+-Artificial Intelligence
+-Business Development & Partnerships
+-Communications & Public Policy
+-Show more
+-Employment Type
+-Full time employment
+-Internship
+-Short term employment
+-Location
+-Singapore
+-Menlo Park, CA
+-London, UK
+-Seattle, WA
+-New York, NY
+-Apply Filters
+-Clear Filters
+-There are currently no open roles matching your search.
+-Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+-Careers
+-Follow us
+-Job search
+-Career programs
+-Research
+-Accelerate Eng Talent
+-Students and grads
+-Rotational Product Management
+-Teams
+-Business teams
+-Technology teams
+-Working at Meta
+-Accessibility and Engagement
+-Benefits
+-Culture
+-Hiring process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers blog
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Equal Employment Opportunity
+-Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+-here
+-.
+-Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+-Accommodations request form
+-.
+-© 2025 Meta
+-Community Standards
+-Data Policy
+-Terms
+-Cookie Policy
++Not Logged In
++Please log in to see this page.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -76,7 +76,7 @@
+ Junior Execution Trader
+ London
+ Junior Platform Compute and Storage Specialist
+-London, Montreal and New York
++London, Montreal, New York
+ Junior Quant Researcher
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Quant Researcher - ML Alpha Research
+@@ -102,29 +102,29 @@
+ Operations Manager
+ Bangalore
+ Platform Applications Specialist
+-Montreal, London , Singapore , Hong Kong ,Warsaw , Houston
++Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+ Platform Compute and Storage Specialist
+-Montreal , New York , London & Singapore
++Montreal, New York, London, Singapore
+ Platform Specialist - Databases
+-Montreal, New York, Houston , Boston , Singapore Hong Kong
++Montreal, New York, Houston, Boston, Singapore, Hong Kong
+ Platform Specialist - Development Tools
+-Montreal, New York, Houston , Boston , Singapore & Hong Kong
++Montreal, New York, Houston, Boston, Singapore, Hong Kong
+ Platform Specialist - HPC
+ London, New York
+ Platform Specialist - Middleware
+-Montreal, New York, Houston & Boston
++Montreal, New York, Houston, Boston
+ Platform Specialist - Observability
+-London, Warsaw , Montreal, New York, Houston & Boston
++London, Warsaw, Montreal, New York, Houston, Boston
+ Platform Specialist - Scheduler and Orchestrators
+-Montreal, New York, Houston , Boston , Singapore & Hong Kong
++Montreal, New York, Houston, Boston, Singapore, Hong Kong
+ Platform Specialist - ULL
+ London, New York
+ Platform Specialist - Windows and Virtualization
+ Bangalore, London, Montreal, New York
+ Platform ULL - Colo - Reliability
+-London, Montreal, New York & Singapore
++London, Montreal, New York, Singapore
+ Platform ULL - Colo - Strategic
+-Montreal, London & New York
++Montreal, London, New York
+ Property Assistant
+ Montreal
+ Quant Developer
+@@ -139,6 +139,8 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
++Senior Execution Trader - FICC
++Singapore
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+@@ -166,21 +168,21 @@
+ Software Developer (KDB+/Q)
+ London, Montreal, Singapore
+ Software Developer - Order Gateway
+-Montreal , Singapore & Warsaw
++Montreal , Singapore, Warsaw
+ Software Developer - Order Gateway Integration
+ Bangalore, Montreal
+ Software Developer (Python)
+ London, Montreal, Singapore
+ Software Developer – Reliability
+-Singapore & Montreal
++Singapore, Montreal
+ Software Developer - Risk Data Pipelines
+-Bangalore, Montreal & Warsaw
++Bangalore, Montreal, Warsaw
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore
+ Software Developer (Rust)
+ New York, Boston, Houston, Montreal, London, Geneva, Warsaw, Zug, Singapore, Hong Kong,
+ Support Analyst - Desktop
+-New York, London, Montreal and Paris
++New York, London, Montreal, Paris
+ Support Analyst - Integration & Deployment Management
+ London, Montreal, Bangalore
+ Tax Analyst
+@@ -198,7 +200,7 @@
+ Trading Applications Specialist
+ London, Singapore, Houston, New York
+ Trading Infrastructure Specialist
+-London ,Montreal & Hong Kong
++London, Montreal, Hong Kong
+ Treasury Analyst
+ Montreal
+ Squarepoint logo
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -181,6 +181,9 @@
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -195,9 +198,6 @@
+ Apply Now
+ Sector Data Analyst – Intern (Europe)
+ London
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+ Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+```
+
+---
+
 ## 2025-10-01 07:23:52
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
