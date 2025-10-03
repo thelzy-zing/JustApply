@@ -1,4 +1,269 @@
 
+## 2025-10-03 07:23:01
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Answers to Questions I Often Get: Engineering and Interviewing at HRT
++Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+-Read More ▸
+-Intern Spotlight: HRT AI Labs Project
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Answers to Questions I Often Get: Engineering and Interviewing at HRT
++Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+-Read More ▸
+-Intern Spotlight: HRT AI Labs Project
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,2 +1,101 @@
+-Not Logged In
+-Please log in to see this page.
++Job Openings at Meta | Meta Careers
++Jobs
++Teams
++Technology teams
++Artificial Intelligence
++Creative
++Infrastructure
++Metaverse and Wearables
++Product and Program Management
++Research and Data
++Security
++Software Engineering
++Business teams
++Business Operations
++Partnerships
++Sales and Marketing
++Careers Programs
++Research
++Accelerate Eng Talent
++Students and grads
++Rotational Product Management
++Working at Meta
++Accessibility and Engagement
++Benefits
++Culture
++Hiring process
++Blog
++Log in/Create profile
++Search Meta Careers
++Hide filters
++0 Items
++Save this search
++Sort by
++Relevance
++Newest
++Technologies
++Facebook
++Messenger
++Instagram
++WhatsApp
++Meta Quest
++Teams
++Advertising Technology
++AR/VR
++Artificial Intelligence
++Business Development & Partnerships
++Communications & Public Policy
++Show more
++Employment Type
++Full time employment
++Internship
++Short term employment
++Location
++Singapore
++Menlo Park, CA
++London, UK
++Seattle, WA
++New York, NY
++Apply Filters
++Clear Filters
++There are currently no open roles matching your search.
++Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
++Careers
++Follow us
++Job search
++Career programs
++Research
++Accelerate Eng Talent
++Students and grads
++Rotational Product Management
++Teams
++Business teams
++Technology teams
++Working at Meta
++Accessibility and Engagement
++Benefits
++Culture
++Hiring process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers blog
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Equal Employment Opportunity
++Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
++here
++.
++Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
++Accommodations request form
++.
++© 2025 Meta
++Community Standards
++Data Policy
++Terms
++Cookie Policy
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,6 +230,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (22)
++Opportunities (23)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,7 +174,7 @@
+ Viewing
+ 10
+ of
+-22
++23
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -63,7 +63,7 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Tech Lead Manager
++Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+ Senior / Lead Software Engineer, Civic Tech (Public Safety)
+@@ -72,6 +72,6 @@
+ Senior / Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Tech Lead Manager
++Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-10-02 07:22:52
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)

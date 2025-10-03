@@ -17,11 +17,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Answers to Questions I Often Get: Engineering and Interviewing at HRT
+Read More ▸
 Building a Distributed Filesystem for Scalable Research
 Read More ▸
 Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
-Read More ▸
-Intern Spotlight: HRT AI Labs Project
 Read More ▸
 Read Our Tech Blog
 Join Our Team
@@ -54,11 +54,11 @@ Access our Liquidity
 As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
 Learn More
 Tech Blog
+Answers to Questions I Often Get: Engineering and Interviewing at HRT
+Read More ▸
 Building a Distributed Filesystem for Scalable Research
 Read More ▸
 Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
-Read More ▸
-Intern Spotlight: HRT AI Labs Project
 Read More ▸
 Read Our Tech Blog
 Join Our Team
