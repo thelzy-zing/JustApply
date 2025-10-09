@@ -1,4 +1,162 @@
 
+## 2025-10-09 07:23:20
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -362,3 +362,10 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
++We use cookies to improve your experience and for marketing. Read our
++cookie policy
++or
++manage cookies
++.
++Accept all
++Reject all
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -27,6 +27,7 @@
+ Blog
+ Log in/Create profile
+ Search Meta Careers
++Search
+ Hide filters
+ 0 Items
+ Save this search
+@@ -46,18 +47,14 @@
+ Business Development & Partnerships
+ Communications & Public Policy
+ Show more
+-Employment Type
++Employment type
+ Full time employment
+ Internship
+ Short term employment
+ Location
+-Singapore
+-Menlo Park, CA
+-London, UK
+-Seattle, WA
+-New York, NY
+-Apply Filters
+-Clear Filters
++Location
++Apply filters
++Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Careers
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -47,6 +47,8 @@
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ FP&A Manager
+ London,  Montreal, Bangalore, Warsaw
++Funds Tax Analyst
++London
+ Graduate Software Developer
+ London, Montreal, Warsaw, New York, Singapore
+ Graduate Support Specialist
+@@ -161,6 +163,8 @@
+ Montreal, London, Singapore, Bangalore
+ Software Developer - Data Services (KDB+/Q)
+ Singapore, Montreal, London, Hong Kong, New York, Warsaw
++Software Developer - High Performance Computing (Rust)
++Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
+ Software Developer - Internal Compute Frameworks (Python)
+ London, Montreal, Singapore, Warsaw
+ Software Developer - Internal Compute Frameworks (Rust)
+@@ -184,10 +188,8 @@
+ Support Analyst - Integration & Deployment Management
+ London, Montreal, Bangalore
+ Tax Analyst
+-London
++Bangalore
+ Tax Analyst
+-Bangalore
+-Tax Analyst - Funds
+ London
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-10-08 07:22:59
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
