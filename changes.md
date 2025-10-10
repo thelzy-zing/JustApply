@@ -1,4 +1,122 @@
 
+## 2025-10-10 07:23:21
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -288,6 +288,7 @@
+ Products & pricing
+ Pricing
+ Atlas
++Authorization Boost
+ Billing
+ Capital
+ Checkout
+@@ -362,10 +363,3 @@
+ +1 888 926 2289
+ Sign in
+ © 2025 Stripe, Inc.
+-We use cookies to improve your experience and for marketing. Read our
+-cookie policy
+-or
+-manage cookies
+-.
+-Accept all
+-Reject all
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,6 +230,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,7 @@
+ Office Acquisition and Development
+ Office Management
+ Operations
++Recruiting & Talent Development
+ Tax
+ Technology
+ Offices
+@@ -37,8 +38,6 @@
+ Montreal, Warsaw, London
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+-Assistant Tax Manager
+-London
+ Data Associate
+ London
+ Data Center Technician
+@@ -135,6 +134,8 @@
+ Singapore, London, New York
+ Quant Developer (Python)
+ Boston, Dubai, London, Montreal, Warsaw
++Recruitment Specialist - Fixed Income/ Macro
++London, New York
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+@@ -164,7 +165,7 @@
+ Software Developer - Data Services (KDB+/Q)
+ Singapore, Montreal, London, Hong Kong, New York, Warsaw
+ Software Developer - High Performance Computing (Rust)
+-Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
++Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
+ Software Developer - Internal Compute Frameworks (Python)
+ London, Montreal, Singapore, Warsaw
+ Software Developer - Internal Compute Frameworks (Rust)
+@@ -173,8 +174,6 @@
+ London, Montreal, Singapore
+ Software Developer - Order Gateway
+ Montreal , Singapore, Warsaw
+-Software Developer - Order Gateway Integration
+-Bangalore, Montreal
+ Software Developer (Python)
+ London, Montreal, Singapore
+ Software Developer - Reliability
+@@ -189,8 +188,6 @@
+ London, Montreal, Bangalore
+ Tax Analyst
+ Bangalore
+-Tax Analyst
+-London
+ Technical Business Analyst/Project Manager
+ London, Paris, Montreal, Singapore
+ Trade Flow Support - Trading Application Support
+```
+
+---
+
 ## 2025-10-09 07:23:20
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

@@ -16,6 +16,7 @@ Investment
 Office Acquisition and Development
 Office Management
 Operations
+Recruiting & Talent Development
 Tax
 Technology
 Offices
@@ -37,8 +38,6 @@ Accounts Payable Financial Analyst
 Montreal, Warsaw, London
 Assistant Controller - Management Company
 Montreal, Warsaw
-Assistant Tax Manager
-London
 Data Associate
 London
 Data Center Technician
@@ -135,6 +134,8 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
+Recruitment Specialist - Fixed Income/ Macro
+London, New York
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
@@ -164,7 +165,7 @@ Montreal, London, Singapore, Bangalore
 Software Developer - Data Services (KDB+/Q)
 Singapore, Montreal, London, Hong Kong, New York, Warsaw
 Software Developer - High Performance Computing (Rust)
-Boston, Geneva, Houston, Hong Kong, London, New York, Montreal, Singapore, Warsaw, Zug
+Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Software Developer - Internal Compute Frameworks (Python)
 London, Montreal, Singapore, Warsaw
 Software Developer - Internal Compute Frameworks (Rust)
@@ -173,8 +174,6 @@ Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Order Gateway
 Montreal , Singapore, Warsaw
-Software Developer - Order Gateway Integration
-Bangalore, Montreal
 Software Developer (Python)
 London, Montreal, Singapore
 Software Developer - Reliability
@@ -189,8 +188,6 @@ Support Analyst - Integration & Deployment Management
 London, Montreal, Bangalore
 Tax Analyst
 Bangalore
-Tax Analyst
-London
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Trade Flow Support - Trading Application Support
