@@ -1,4 +1,57 @@
 
+## 2025-10-11 07:20:47
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,12 +230,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -110,16 +110,12 @@
+ Montreal, New York, Houston, Boston, Singapore, Hong Kong
+ Platform Specialist - Development Tools
+ Montreal, New York, Houston, Boston, Singapore, Hong Kong
+-Platform Specialist - HPC
+-London, New York
+ Platform Specialist - Middleware
+ Montreal, New York, Houston, Boston
+ Platform Specialist - Observability
+ London, Warsaw, Montreal, New York, Houston, Boston
+ Platform Specialist - Scheduler and Orchestrators
+ Montreal, New York, Houston, Boston, Singapore, Hong Kong
+-Platform Specialist - ULL
+-London, New York
+ Platform Specialist - Windows and Virtualization
+ Bangalore, London, Montreal, New York
+ Platform ULL - Colo - Reliability
+```
+
+---
+
 ## 2025-10-10 07:23:21
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
