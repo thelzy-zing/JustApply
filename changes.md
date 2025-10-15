@@ -1,4 +1,39 @@
 
+## 2025-10-15 07:29:40
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -88,8 +88,6 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Risk Manager
+ New York, London
+-Junior Shift Trader
+-Dubai, Singapore
+ Network Specialist - Core
+ Montreal, London, New York
+ Network Specialist - Reliability
+@@ -174,10 +172,10 @@
+ Montreal , Singapore, Warsaw
+ Software Developer (Python)
+ London, Montreal, Singapore
+-Software Developer - Reliability
+-Singapore, Montreal
+ Software Developer - Risk Data Pipelines
+ Bangalore, Montreal, Warsaw
++Software Developer - Risk Reliability
++Singapore, Montreal , London
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore
+ Support Analyst - Desktop
+```
+
+---
+
 ## 2025-10-14 07:24:26
 
 ### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
