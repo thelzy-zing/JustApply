@@ -24,6 +24,7 @@ London
 Montreal
 Warsaw
 New York
+Shanghai
 Bangalore
 Hong Kong
 Madrid
@@ -42,6 +43,8 @@ Data Associate
 London
 Data Center Technician
 New York
+Data Scientist
+Shanghai
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 FP&A Manager
