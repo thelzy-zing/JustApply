@@ -24,7 +24,6 @@ London
 Montreal
 Warsaw
 New York
-Shanghai
 Bangalore
 Hong Kong
 Madrid
@@ -43,8 +42,6 @@ Data Associate
 London
 Data Center Technician
 New York
-Data Scientist
-Shanghai
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 FP&A Manager
@@ -81,8 +78,6 @@ Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris
 Junior Discretionary Trader
 New York, London
-Junior Execution Trader
-London
 Junior Platform Compute and Storage Specialist
 London, Montreal, New York
 Junior Platform Specialist
@@ -93,6 +88,8 @@ Junior Quant Researcher - ML Alpha Research
 London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
 Junior Risk Manager
 New York, London
+Junior UX/UI Engineer
+London
 Network Specialist - Core
 Montreal, London, New York
 Network Specialist - Reliability
@@ -159,6 +156,8 @@ Senior Quant Researcher - Volatility
 Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
 Shift Trader
 Singapore, London
+Site Management Specialist
+New York
 Software Developer (C++)
 London, Montreal, Singapore
 Software Developer - Data Infrastructure

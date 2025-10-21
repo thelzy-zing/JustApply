@@ -1,4 +1,132 @@
 
+## 2025-10-21 07:25:12
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Mumbai
+@@ -138,8 +138,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,6 +230,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,7 +24,6 @@
+ Montreal
+ Warsaw
+ New York
+-Shanghai
+ Bangalore
+ Hong Kong
+ Madrid
+@@ -43,8 +42,6 @@
+ London
+ Data Center Technician
+ New York
+-Data Scientist
+-Shanghai
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ FP&A Manager
+@@ -81,8 +78,6 @@
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+ New York, London
+-Junior Execution Trader
+-London
+ Junior Platform Compute and Storage Specialist
+ London, Montreal, New York
+ Junior Platform Specialist
+@@ -93,6 +88,8 @@
+ London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+ Junior Risk Manager
+ New York, London
++Junior UX/UI Engineer
++London
+ Network Specialist - Core
+ Montreal, London, New York
+ Network Specialist - Reliability
+@@ -159,6 +156,8 @@
+ Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+ Shift Trader
+ Singapore, London
++Site Management Specialist
++New York
+ Software Developer (C++)
+ London, Montreal, Singapore
+ Software Developer - Data Infrastructure
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,7 +32,6 @@
+ Open positions
+ All departments
+ Corporate
+-Internship
+ Product Design
+ Product Management
+ Software Engineering
+```
+
+---
+
 ## 2025-10-20 07:25:01
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
