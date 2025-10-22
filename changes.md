@@ -1,4 +1,143 @@
 
+## 2025-10-22 07:24:32
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -46,11 +46,10 @@
+ macOS Tahoe
+ Apple Intelligence
+ Apps by Apple
+-Even better with iPhone
++Better with iPhone
+ iCloud+
+ Mac for Business
+ Education
+-Accessibility
+ iPad
+ Explore iPad
+ Explore All iPad
+@@ -74,7 +73,6 @@
+ Apps by Apple
+ iCloud+
+ Education
+-Accessibility
+ iPhone
+ Explore iPhone
+ Explore All iPhone
+@@ -98,11 +96,10 @@
+ Apple Intelligence
+ Apps by Apple
+ iPhone Privacy
+-Even better with Mac
++Better with Mac
+ iCloud+
+ Wallet, Pay, Card
+ Siri
+-Accessibility
+ Watch
+ Explore Watch
+ Explore All Apple Watch
+@@ -126,7 +123,6 @@
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
+-Accessibility
+ Vision
+ Explore Vision
+ Explore Apple Vision Pro
+@@ -230,12 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -73,7 +73,7 @@
+ Intern Software Developer - Summer 2026
+ Montreal, Singapore, London, Warsaw
+ Intern Software Developer - Winter 2026
+-Montreal, Singapore
++Montreal
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris
+ Junior Discretionary Trader
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -31,7 +31,6 @@
+ Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+ Open positions
+ All departments
+-Corporate
+ Product Design
+ Product Management
+ Software Engineering
+```
+
+---
+
 ## 2025-10-21 07:25:12
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
