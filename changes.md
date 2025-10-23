@@ -1,4 +1,82 @@
 
+## 2025-10-23 07:24:25
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -275,6 +275,5 @@
+ Python
+ Strategy Development
+ Systems and Networking
+-Information Security
+ Trade Operations
+ ↳ Apply Filter
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -53,6 +53,7 @@
+ Short term employment
+ Location
+ Location
++Singapore
+ Apply filters
+ Clear filters
+ There are currently no open roles matching your search.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -29,6 +29,7 @@
+ Madrid
+ Singapore
+ Houston
++Los Angeles
+ Paris
+ Geneva
+ Boston
+@@ -54,8 +55,12 @@
+ London, Montreal, Warsaw, New York, Singapore
+ Graduate Support Specialist
+ London, Montreal, New York, Houston, Hong Kong
++Growth Investor
++Los Angeles
+ Head of Financial Reporting
+ London, New York
++High-Touch Execution Strategist
++London
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+ Human Resources Specialist
+@@ -100,6 +105,8 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
++Operations Analyst
++Bangalore
+ Operations Analyst
+ Bangalore
+ Operations Analyst - Metals
+```
+
+---
+
 ## 2025-10-22 07:24:32
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

@@ -29,6 +29,7 @@ Hong Kong
 Madrid
 Singapore
 Houston
+Los Angeles
 Paris
 Geneva
 Boston
@@ -54,8 +55,12 @@ Graduate Software Developer
 London, Montreal, Warsaw, New York, Singapore
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
+Growth Investor
+Los Angeles
 Head of Financial Reporting
 London, New York
+High-Touch Execution Strategist
+London
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Human Resources Specialist
@@ -100,6 +105,8 @@ Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
 Warsaw
+Operations Analyst
+Bangalore
 Operations Analyst
 Bangalore
 Operations Analyst - Metals
