@@ -1,4 +1,439 @@
 
+## 2025-10-28 07:24:22
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -77,7 +77,6 @@
+ Atlanta
+ Chicago
+ New York
+-New York Privy HQ
+ Seattle
+ South San Francisco HQ
+ San Francisco Bridge HQ
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,3 +97,9 @@
+ Data Policy
+ Terms
+ Cookie Policy
++Accept cookies from Meta Careers on this browser?
++We use cookies to help personalize and improve content and services, serve relevant ads and provide a safer experience. You can review your cookie controls at any time. Learn more about cookie uses and controls in our
++Cookie Policy
++.
++Decline optional cookies
++Allow All Cookies
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,12 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,68 +1,220 @@
+-Privacy error
+-Your connection is not private
+-Attackers might be trying to steal your information from
+-www.squarepoint-capital.com
+-(for example, passwords, messages, or credit cards).
+-Learn more about this warning
+-net::ERR_CERT_AUTHORITY_INVALID
+-Subject:
+-squarepoint-capital.com
+-Issuer:
+-DigiCert Global G2 TLS RSA SHA256 2020 CA1
+-Expires on:
+-Jun 2, 2026
+-Current date:
+-Oct 27, 2025
+-PEM encoded chain:
+------BEGIN CERTIFICATE-----
+-MIIHBjCCBe6gAwIBAgIQDl9qVpZhs8AJ8dLsRdrK2jANBgkqhkiG9w0BAQsFADBZ
+-MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMTMwMQYDVQQDEypE
+-aWdpQ2VydCBHbG9iYWwgRzIgVExTIFJTQSBTSEEyNTYgMjAyMCBDQTEwHhcNMjUw
+-NTAyMDAwMDAwWhcNMjYwNjAyMjM1OTU5WjBzMQswCQYDVQQGEwJVUzERMA8GA1UE
+-CBMITmV3IFlvcmsxETAPBgNVBAcTCE5ldyBZb3JrMRwwGgYDVQQKExNTcXVhcmVw
+-b2ludCBPcHMgTExDMSAwHgYDVQQDExdzcXVhcmVwb2ludC1jYXBpdGFsLmNvbTCC
+-ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALpWTcS0+iehC7SvC027LpaZ
+-b92f8iP915ugP/XGIUUJNtsVz0XFw01vVWaJ48ASeA319kNW7Cm/38NPcLRa7X6n
+-QqVuZgncIo2MQE1RCvN08Y++2xtUH+dpD4gGkwTOdM++2euZ9dmsPrfwbIJEXwvC
+-db20r4jZuJaT8TwzWQbxXUzCBD0aO0bm9XGLRd70kzfSc/PcXu+iZEReMHxiz4bO
+-9wIDVcM7JSfpldKQLdy5yrYCa9yeGFlZEU60FLXb3sYYXPduawsfHS+zZlKnFQwS
+-e8LOGbyaZWMK898eRL0049vsY70XOtRAEKtiAZwV4Z5eBt/98DnBhjGFK71ZqU0C
+-AwEAAaOCA64wggOqMB8GA1UdIwQYMBaAFHSFgMBmx9833s+9KTeqAx2+7c0XMB0G
+-A1UdDgQWBBTKRTv2qnQc8KczmbMp9Rc4/AVrHTA/BgNVHREEODA2ghdzcXVhcmVw
+-b2ludC1jYXBpdGFsLmNvbYIbd3d3LnNxdWFyZXBvaW50LWNhcGl0YWwuY29tMD4G
+-A1UdIAQ3MDUwMwYGZ4EMAQICMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGln
+-aWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUH
+-AwEGCCsGAQUFBwMCMIGfBgNVHR8EgZcwgZQwSKBGoESGQmh0dHA6Ly9jcmwzLmRp
+-Z2ljZXJ0LmNvbS9EaWdpQ2VydEdsb2JhbEcyVExTUlNBU0hBMjU2MjAyMENBMS0x
+-LmNybDBIoEagRIZCaHR0cDovL2NybDQuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xv
+-YmFsRzJUTFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3JsMIGHBggrBgEFBQcBAQR7MHkw
+-JAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBRBggrBgEFBQcw
+-AoZFaHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0R2xvYmFsRzJU
+-TFNSU0FTSEEyNTYyMDIwQ0ExLTEuY3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEE
+-AdZ5AgQCBIIBbASCAWgBZgB1AJaXZL9VWJet90OHaDcIQnfp8DrV9qTzNm5GpD8P
+-yqnGAAABlo7cfC0AAAQDAEYwRAIgaSvkpYF0xnf3X/Eh8Eh1kWe1snwLzhoSp6Dp
+-2k3fFHoCICWLeEbU09swz8jmE7WW0mth7/CPpJeS9V23qok/3kckAHYAZBHEbKQS
+-7KeJHKICLgC8q08oB9QeNSer6v7VA8l9zfAAAAGWjtx8HAAABAMARzBFAiAF5X4S
+-54UqLrPUx08h8JgfTsURw55RQPjlm+smve8J+wIhAOJb7caAS8OZ0SjUAPIj/u6h
+-VeDCY5WnGMqIQ5wUn6krAHUASZybad4dfOz8Nt7Nh2SmuFuvCoeAGdFVUvvp6ynd
+-+MMAAAGWjtx8MgAABAMARjBEAiArZxYgPGxrWXsEVdAM04wVjDDPFSPdxIU0a9B1
+-+3TZ9QIgdEmop9YUnohKYl+lsb2II1CZ2WPf9LCwzbYuFFue77owDQYJKoZIhvcN
+-AQELBQADggEBAI9mWj0dLKBuKU9Bz1BkDnz3Gi0mADupTX8b9FdNzUwhZa1EVY7P
+-bHsG+SPu+0xwpUsvHjCabiB+huWKf/rggrjcOu3Cd1UTkoV8QENFk2eOSlVCd+jF
+-jnkTlJNpIpSbZRioR22M3H0PrP9eioqJDmyAj8HESQeS+oBLHM58hzB3HksbqA4Q
+-ry2+gPoaigzmMgy3txv0NrUTWwdRj0ganiclXG+hRJRlSojt2ejXu1YpiMeZM7Zj
+-zNaNcWqMxVJaeKC5q/spy+kt3lHCYeEr6rRB8TRwTHsrhUEoHzPGb4uj4kBcCFlz
+-tpROWT009BXjKrxAjB4cJYgUG7BXanSSLy8=
+------END CERTIFICATE-----
+-Help improve security on the web for everyone by sending
+-URLs of some pages you visit, limited system information, and some page content
+-to Google.
+-Privacy policy
+-Turn on enhanced protection
+-to get Chrome's highest level of security
+-Back to safety
+-Advanced
+-This server could not prove that it is
+-www.squarepoint-capital.com
+-; its security certificate is not trusted by your computer's operating system. This may be caused by a misconfiguration or an attacker intercepting your connection.
+-Proceed to www.squarepoint-capital.com (unsafe)
++Open opportunities :: Squarepoint
++Squarepoint logo
++About us
++Philosophy
++Culture
++Careers
++Locations
++Apply for open opportunities
++Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
++Departments
++Compliance
++Corporate Management
++Data Acquisition
++Finance
++Human Resources
++Investment
++Office Acquisition and Development
++Office Management
++Operations
++Recruiting & Talent Development
++Tax
++Technology
++Offices
++London
++Montreal
++Warsaw
++New York
++Bangalore
++Hong Kong
++Madrid
++Singapore
++Houston
++Los Angeles
++Paris
++Geneva
++Boston
++Zug
++Dubai
++Accounts Payable Financial Analyst
++Montreal, Warsaw, London
++Assistant Controller - Management Company
++Montreal, Warsaw
++Data Associate
++London
++Data Center Technician
++New York
++Desk Quant Analyst
++London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++FP&A Manager
++London,  Montreal, Bangalore, Warsaw
++Funds Tax Analyst
++London
++Graduate Platform Specialist
++Hong Kong, London, Montreal, Singapore
++Graduate Software Developer
++London, Montreal, Warsaw, New York, Singapore
++Graduate Support Specialist
++London, Montreal, New York, Houston, Hong Kong
++Growth Investor
++Los Angeles
++Head of Financial Reporting
++London, New York
++High-Touch Execution Strategist
++London
++HR Systems Associate - Workday
++Bangalore, London, Singapore, Montreal, New York
++Human Resources Specialist
++Montreal
++Indirect Tax Analyst
++Bangalore
++Information Security Analyst
++London
++Intern Compliance Analyst - Winter 2026
++London, New York
++Intern Fundamental Researcher - Summer 2026
++New York, London
++Intern Quant Researcher
++London, Paris, New York, Singapore, Hong Kong
++Intern Software Developer - Summer 2026
++Montreal, Singapore, London, Warsaw
++Intern Software Developer - Winter 2026
++Montreal, London
++Junior Commodities Fundamental Analyst
++Geneva, Houston, London, New York, Paris
++Junior Discretionary Trader
++New York, Houston, London
++Junior Platform Compute and Storage Specialist
++London, Montreal, New York
++Junior Platform Specialist
++Montreal, London, Singapore, Hong Kong, Warsaw, Houston
++Junior Quant Researcher
++London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Junior Quant Researcher - ML Alpha Research
++London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Junior Risk Manager
++New York, London
++Junior UX/UI Engineer
++London
++Network Specialist - Core
++Montreal, London, New York
++Network Specialist - Reliability
++Montreal, New York
++Network Specialist - Security
++Montreal, New York, Singapore
++Network Specialist - ULL
++Montreal, London,  New York
++Office Administrator
++Warsaw
++Operations Analyst
++Bangalore
++Operations Analyst
++Bangalore
++Operations Analyst - Metals
++New York, Montreal
++Operations Manager
++Bangalore
++Platform Compute and Storage Specialist
++Montreal, New York, London, Singapore
++Platform Specialist - Windows and Virtualization
++Bangalore, London, Montreal, New York
++Platform ULL - Colo - Reliability
++London, Montreal, New York, Singapore
++Platform ULL - Colo - Strategic
++Montreal, London, New York
++Property Assistant
++Montreal
++Quant Developer
++London, Montreal, Warsaw, Singapore
++Quant Developer (C++)
++Singapore, London, New York
++Quant Developer (Python)
++Boston, Dubai, London, Montreal, Warsaw
++Quantitative Researcher, Market Structure Research
++New York
++Recruitment Specialist - Fixed Income/ Macro
++London, New York
++Senior Discretionary Trader - Credit
++London, New York
++Senior Discretionary Trader - Equities
++London, New York
++Senior Discretionary Trader - Macro
++London, New York
++Senior Execution Trader - FICC
++Singapore
++Senior Quant Researcher - CTA/Short-Term
++Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
++Senior Quant Researcher - Equity Mid/Low Frequency
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Senior Quant Researcher - Fixed Income
++Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
++Senior Quant Researcher - Intraday Statistical Arbitrage
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Senior Quant Researcher - Volatility
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Shift Trader
++Singapore, London
++Site Management Specialist
++New York
++Software Developer (C++)
++London, Montreal, Singapore
++Software Developer - Data Infrastructure
++London, Montreal, Singapore
++Software Developer - Data Pipelines (Python)
++London, Montreal, Madrid, Bangalore
++Software Developer - Data Products and Services
++Montreal, London, Singapore, Bangalore
++Software Developer - Front-end
++London, Montreal
++Software Developer - High Performance Computing (Rust)
++Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
++Software Developer - Internal Compute Frameworks (Python)
++London, Montreal, Singapore, Warsaw
++Software Developer - Internal Compute Frameworks (Rust)
++London, Montreal, Singapore, Warsaw
++Software Developer (KDB+/Q)
++London, Montreal, Singapore
++Software Developer - Market Access
++Montreal , Singapore, Warsaw
++Software Developer (Python)
++London, Montreal, Singapore
++Software Developer - Risk Data Pipelines
++Bangalore, Montreal, Warsaw
++Software Developer - Risk Reliability
++Singapore, Montreal , London
++Software Developer - Risk Technology
++London, Montreal, Bangalore
++Support Analyst - Desktop
++New York, London, Montreal, Paris
++Tax Analyst
++Bangalore
++Technical Business Analyst/Project Manager
++London, Paris, Montreal, Singapore
++Technology Integration Specialist
++London, Montreal, Bangalore
++Trade Flow Support - Trading Application Support
++London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
++Trade Flow Support - Trading Infrastructure Support
++Singapore
++Trading Applications Specialist
++London, Singapore, Houston, New York
++Trading Infrastructure Specialist
++London, Montreal, Hong Kong
++Travel Team Lead
++Bangalore
++Squarepoint logo
++About us
++Philosophy
++Culture
++Careers
++Locations
++Disclosures
++Cookie Preferences
++©
++2025
++Squarepoint
++. All Rights Reserved.
++We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
++Close cookie preferences banner
++I agree to all cookie use
++Cookie Preferences
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (23)
++Opportunities (22)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,36 +174,36 @@
+ Viewing
+ 10
+ of
+-23
++22
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Sector Data Associate – Intern (US)
++New York
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
+ Software Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Sector Data Associate – Intern (US)
+-New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-10-27 07:24:31
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
