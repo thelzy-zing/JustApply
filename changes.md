@@ -1,4 +1,150 @@
 
+## 2025-10-29 07:24:44
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,11 @@
+ Careers
+ Recruitment news
+ <
++Meet the team
++Career Kickstarter Tech: The ‘why’ behind every trading system
++At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
++Learn more
++Amsterdam, Europe
+ Recruitment at Optiver
+ Optiver EU campus recruiting Q&A
+ Learn more
+@@ -123,11 +128,6 @@
+ Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+ Learn more
+ Global
+-Life at Optiver, Meet the team
+-Day in the life: Quant trader intern
+-Meet Jashun When I was deciding where to spend my summer, Optiver stood out as the best place to explore quant trading and develop my skills. I was drawn to the firm’s strong culture of internal support and how they focus on long-term development. I also can’t complain about the amazing location and food in […]
+-Learn more
+-Americas
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++HeraclesQL: A Python DSL for Writing Alerts
++Read More ▸
+ Answers to Questions I Often Get: Engineering and Interviewing at HRT
+ Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+-Read More ▸
+-Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++HeraclesQL: A Python DSL for Writing Alerts
++Read More ▸
+ Answers to Questions I Often Get: Engineering and Interviewing at HRT
+ Read More ▸
+ Building a Distributed Filesystem for Scalable Research
+-Read More ▸
+-Inside HRT’s Python Fork: Leveraging PEP 690 for Faster Imports
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -275,5 +275,6 @@
+ Python
+ Strategy Development
+ Systems and Networking
++Information Security
+ Trade Operations
+ ↳ Apply Filter
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,9 +97,3 @@
+ Data Policy
+ Terms
+ Cookie Policy
+-Accept cookies from Meta Careers on this browser?
+-We use cookies to help personalize and improve content and services, serve relevant ads and provide a safer experience. You can review your cookie controls at any time. Learn more about cookie uses and controls in our
+-Cookie Policy
+-.
+-Decline optional cookies
+-Allow All Cookies
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -181,6 +181,9 @@
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -190,20 +193,17 @@
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
++Quantitative Research Analyst Intern – BS/MS (US)
++Greenwich, Miami, New York
++Apply Now
+ Sector Data Analyst – Intern (Europe)
+ London
+ Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2025-10-28 07:24:22
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
