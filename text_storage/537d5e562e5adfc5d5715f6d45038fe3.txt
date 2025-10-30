@@ -84,9 +84,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
-Hong Kong
 London
 New York
+Hong Kong
 Singapore
 Mumbai
 Singapore
@@ -138,9 +138,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
-Hong Kong
 London
 New York
+Hong Kong
 Singapore
 Mumbai
 Singapore
