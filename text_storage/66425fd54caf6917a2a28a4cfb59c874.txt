@@ -112,6 +112,8 @@ Operations Analyst
 Bangalore
 Operations Analyst - Metals
 New York, Montreal
+Operations Analyst - Middle Office
+Montreal
 Operations Manager
 Bangalore
 Platform Compute and Storage Specialist
@@ -186,6 +188,8 @@ Software Developer - Risk Technology
 London, Montreal, Bangalore
 Support Analyst - Desktop
 New York, London, Montreal, Paris
+Support Analyst - Trade Flow Pilot
+Bangalore
 Tax Analyst
 Bangalore
 Technical Business Analyst/Project Manager
