@@ -42,7 +42,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-2 jobs
+3 jobs
 Share
 Clear
 Filters
@@ -50,7 +50,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-2 jobs
+3 jobs
 Share
 Clear
 Job title
@@ -58,10 +58,16 @@ Work model
 Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job
+Software Engineer, ActiveSG
+Hybrid
+View job
 Technical Lead / Software Engineering Manager
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
+Hybrid
+View job
+Software Engineer, ActiveSG
 Hybrid
 View job
 Technical Lead / Software Engineering Manager

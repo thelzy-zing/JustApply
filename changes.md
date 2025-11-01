@@ -1,4 +1,53 @@
 
+## 2025-11-01 07:22:01
+
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,7 +42,7 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Filters
+@@ -50,12 +50,15 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -64,6 +67,9 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
++Software Engineer, ActiveSG
++Hybrid
++View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-10-31 07:23:45
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
