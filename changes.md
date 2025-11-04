@@ -1,4 +1,130 @@
 
+## 2025-11-04 07:24:39
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -170,7 +170,7 @@
+ AppleCare for Apple TV
+ AppleCare for HomePod
+ Apple TV app
+-Apple TV+
++Apple TV
+ Home app
+ Apple Music
+ Siri
+@@ -179,7 +179,7 @@
+ Explore Entertainment
+ Explore Entertainment
+ Apple One
+-Apple TV+
++Apple TV
+ Apple Music
+ Apple Arcade
+ Apple Fitness+
+@@ -188,7 +188,7 @@
+ Apple Books
+ App Store
+ Support
+-Apple TV+ Support
++Apple TV Support
+ Apple Music Support
+ Accessories
+ Shop Accessories
+@@ -226,6 +226,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,8 +24,8 @@
+ London
+ Montreal
+ Warsaw
+-New York
+-Bangalore
++Bangalore
++New York
+ Hong Kong
+ Madrid
+ Singapore
+@@ -40,6 +40,8 @@
+ Montreal, Warsaw, London
+ Assistant Controller - Management Company
+ Montreal, Warsaw
++Compliance Analyst - Surveillance
++Bangalore
+ Data Associate
+ London
+ Data Center Technician
+@@ -81,7 +83,7 @@
+ Intern Software Developer - Winter 2026
+ Montreal, London
+ Junior Commodities Fundamental Analyst
+-Geneva, Houston, London, New York, Paris
++Geneva, Houston, London, New York, Paris, Singapore
+ Junior Discretionary Trader
+ New York, Houston, London
+ Junior Platform Compute and Storage Specialist
+```
+
+---
+
 ## 2025-11-03 07:25:13
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)

@@ -24,8 +24,8 @@ Offices
 London
 Montreal
 Warsaw
-New York
 Bangalore
+New York
 Hong Kong
 Madrid
 Singapore
@@ -40,6 +40,8 @@ Accounts Payable Financial Analyst
 Montreal, Warsaw, London
 Assistant Controller - Management Company
 Montreal, Warsaw
+Compliance Analyst - Surveillance
+Bangalore
 Data Associate
 London
 Data Center Technician
@@ -81,7 +83,7 @@ Montreal, Singapore, London, Warsaw
 Intern Software Developer - Winter 2026
 Montreal, London
 Junior Commodities Fundamental Analyst
-Geneva, Houston, London, New York, Paris
+Geneva, Houston, London, New York, Paris, Singapore
 Junior Discretionary Trader
 New York, Houston, London
 Junior Platform Compute and Storage Specialist
