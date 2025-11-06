@@ -8,13 +8,12 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
+Business Management
 Compliance
-Corporate Management
 Data Acquisition
 Finance
 Human Resources
 Investment
-Office Acquisition and Development
 Office Management
 Operations
 Recruiting & Talent Development
@@ -52,6 +51,8 @@ FP&A Manager
 London,  Montreal, Bangalore, Warsaw
 Funds Tax Analyst
 London
+Global Travel Coordinator
+Bangalore
 Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Graduate Software Developer
@@ -73,7 +74,7 @@ London
 Intern Compliance Analyst - Winter 2026
 London, New York
 Intern Fundamental Researcher - Summer 2026
-New York, London
+New York
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Summer 2026
@@ -124,8 +125,6 @@ Platform ULL - Colo - Reliability
 London, Montreal, New York, Singapore
 Platform ULL - Colo - Strategic
 Montreal, London, New York
-Property Assistant
-Montreal
 Quant Developer
 London, Montreal, Warsaw, Singapore
 Quant Developer (C++)
@@ -196,6 +195,8 @@ Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Technology Integration Specialist
 London, Montreal, Bangalore
+Technology Procurement Analyst - Software
+London
 Trade Flow Support - Trading Application Support
 London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
@@ -204,8 +205,6 @@ Trading Applications Specialist
 London, Singapore, Houston, New York
 Trading Infrastructure Specialist
 London, Montreal, Hong Kong
-Travel Team Lead
-Bangalore
 Squarepoint logo
 About us
 Philosophy

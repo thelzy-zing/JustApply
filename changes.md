@@ -1,4 +1,198 @@
 
+## 2025-11-06 07:24:07
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ New York
+ London
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,13 +8,12 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
++Business Management
+ Compliance
+-Corporate Management
+ Data Acquisition
+ Finance
+ Human Resources
+ Investment
+-Office Acquisition and Development
+ Office Management
+ Operations
+ Recruiting & Talent Development
+@@ -52,6 +51,8 @@
+ London,  Montreal, Bangalore, Warsaw
+ Funds Tax Analyst
+ London
++Global Travel Coordinator
++Bangalore
+ Graduate Platform Specialist
+ Hong Kong, London, Montreal, Singapore
+ Graduate Software Developer
+@@ -73,7 +74,7 @@
+ Intern Compliance Analyst - Winter 2026
+ London, New York
+ Intern Fundamental Researcher - Summer 2026
+-New York, London
++New York
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Summer 2026
+@@ -124,8 +125,6 @@
+ London, Montreal, New York, Singapore
+ Platform ULL - Colo - Strategic
+ Montreal, London, New York
+-Property Assistant
+-Montreal
+ Quant Developer
+ London, Montreal, Warsaw, Singapore
+ Quant Developer (C++)
+@@ -196,6 +195,8 @@
+ London, Paris, Montreal, Singapore
+ Technology Integration Specialist
+ London, Montreal, Bangalore
++Technology Procurement Analyst - Software
++London
+ Trade Flow Support - Trading Application Support
+ London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+ Trade Flow Support - Trading Infrastructure Support
+@@ -204,8 +205,6 @@
+ London, Singapore, Houston, New York
+ Trading Infrastructure Specialist
+ London, Montreal, Hong Kong
+-Travel Team Lead
+-Bangalore
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -171,14 +171,14 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 91 programs
++We found 90 programs
+ slide
+ 1
+ of 4
+ School Programs & Apprenticeships
+ (10)
+ Early Insight (pre-internship)
+-(8)
++(7)
+ Internship
+ (39)
+ Full-Time
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-05 07:24:38
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
