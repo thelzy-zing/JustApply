@@ -131,6 +131,8 @@ Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
 Boston, Dubai, London, Montreal, Warsaw
+Quantitative Developer - High Performance Computing (Python)
+Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Quantitative Researcher, Market Structure Research
 New York
 Recruitment Specialist - Fixed Income/ Macro
