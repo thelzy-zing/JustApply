@@ -59,7 +59,7 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-0
+2
 jobs matched
 Clear filters
 What do you want to do?
@@ -142,13 +142,49 @@ English
 English
 Français (Canada)
 Jobs search results
-0
+2
 jobs matched
 filter_list
-search
-No results
-Search again or try updating your filters
-Clear filters
+Software Engineering Intern, 2026
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Intern & Apprentice
+Google |
+Singapore
+Minimum qualifications
+Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
+Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
+Experience working in Unix/Linux environments.
+Experience with data structures, algorithms, and software design.
+Ability to communicate in English fluently to actively participate in technical discussions.
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+Associate Product Marketing Manager Intern, Summer 2026 (English)
+corporate_fare
+Google
+place
+Singapore
+bar_chart
+Intern & Apprentice
+Google |
+Singapore
+Minimum qualifications
+Currently enrolled in a full-time Bachelor's degree program.
+Ability to communicate in English fluently to support client relationships in the region.
+Learn more
+share
+link
+Copy link
+email
+Email a friend
+1‑2 of 2
 Follow Life at Google on
 More about us
 About us

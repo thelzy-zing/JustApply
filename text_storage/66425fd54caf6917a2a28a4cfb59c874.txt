@@ -11,6 +11,7 @@ Departments
 Business Management
 Compliance
 Data Acquisition
+Executive Assistance
 Finance
 Human Resources
 Investment
@@ -47,8 +48,10 @@ Data Center Technician
 New York
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+Executive Assistant
+London
 FP&A Manager
-London,  Montreal, Bangalore, Warsaw
+London, Montreal, Bangalore, Warsaw
 Funds Tax Analyst
 London
 Global Travel Coordinator

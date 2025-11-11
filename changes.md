@@ -1,4 +1,292 @@
 
+## 2025-11-11 07:25:07
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,7 +59,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-0
++2
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -142,13 +142,49 @@
+ English
+ Français (Canada)
+ Jobs search results
+-0
++2
+ jobs matched
+ filter_list
+-search
+-No results
+-Search again or try updating your filters
+-Clear filters
++Software Engineering Intern, 2026
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
++Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
++Experience working in Unix/Linux environments.
++Experience with data structures, algorithms, and software design.
++Ability to communicate in English fluently to actively participate in technical discussions.
++Learn more
++share
++link
++Copy link
++email
++Email a friend
++Associate Product Marketing Manager Intern, Summer 2026 (English)
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a full-time Bachelor's degree program.
++Ability to communicate in English fluently to support client relationships in the region.
++Learn more
++share
++link
++Copy link
++email
++Email a friend
++1‑2 of 2
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,7 +97,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -151,7 +150,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -92,7 +92,7 @@
+ Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+ Accommodations request form
+ .
+-Notice Regarding Automated Employment Decision Tools in New York City
++Notice regarding automated employment decision tools in New York City
+ Learn more about this
+ here
+ @2025 Meta
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,6 +11,7 @@
+ Business Management
+ Compliance
+ Data Acquisition
++Executive Assistance
+ Finance
+ Human Resources
+ Investment
+@@ -47,8 +48,10 @@
+ New York
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Executive Assistant
++London
+ FP&A Manager
+-London,  Montreal, Bangalore, Warsaw
++London, Montreal, Bangalore, Warsaw
+ Funds Tax Analyst
+ London
+ Global Travel Coordinator
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,6 +178,9 @@
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+@@ -200,9 +203,6 @@
+ Hong Kong, Singapore
+ Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (Europe)
+ London, Paris, Zurich
+ Apply Now
+ 1
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -194,16 +199,6 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -216,19 +211,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-10 07:24:47
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
