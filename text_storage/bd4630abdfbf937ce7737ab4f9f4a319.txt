@@ -14,7 +14,6 @@ Careers
 Early careers
 Career Hub
 Events
-Competitions
 Institutional Sales
 Europe
 Asia Pacific
@@ -53,6 +52,7 @@ Internship
 All departments
 Business Operations
 Control
+Events
 Technology
 Trading, Research and Machine Learning
 All departments

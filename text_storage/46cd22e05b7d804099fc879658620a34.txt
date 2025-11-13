@@ -241,7 +241,6 @@ HRT® and Hudson River Trading® are registered trademarks of Hudson River Tradi
 Locations
 All
 Austin
-Austin
 Boston
 Boulder
 Carteret
@@ -254,6 +253,7 @@ New York
 Remote
 Seattle
 Singapore
+Slough
 Tarrytown
 Job Types
 All

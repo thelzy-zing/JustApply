@@ -136,6 +136,8 @@ Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Quantitative Researcher, Market Structure Research
 New York
+Quantitative Researcher, Volatility - Medium Frequency
+New York
 Recruitment Specialist - Fixed Income/ Macro
 London, New York
 Senior Discretionary Trader - Credit

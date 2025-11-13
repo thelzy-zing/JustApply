@@ -1,4 +1,363 @@
 
+## 2025-11-13 07:24:28
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -14,7 +14,6 @@
+ Early careers
+ Career Hub
+ Events
+-Competitions
+ Institutional Sales
+ Europe
+ Asia Pacific
+@@ -53,6 +52,7 @@
+ All departments
+ Business Operations
+ Control
++Events
+ Technology
+ Trading, Research and Machine Learning
+ All departments
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -241,7 +241,6 @@
+ Locations
+ All
+ Austin
+-Austin
+ Boston
+ Boulder
+ Carteret
+@@ -254,6 +253,7 @@
+ Remote
+ Seattle
+ Singapore
++Slough
+ Tarrytown
+ Job Types
+ All
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,9 +1,31 @@
+ Job Openings at Meta | Meta Careers
+ Jobs
+ Teams
+-Career Programs
++Technology teams
++Artificial Intelligence
++Creative
++Infrastructure
++Metaverse and Wearables
++Product and Program Management
++Research and Data
++Security
++Software Engineering
++Business teams
++Business Operations
++Partnerships
++Sales and Marketing
++Careers Programs
++Research
++Accelerate Eng Talent
++Students and grads
++Rotational Programs
+ Working at Meta
++Accessibility and Engagement
++Benefits
++Culture
++Hiring process
+ Blog
++Log in/Create profile
+ Search Meta Careers
+ Search
+ Hide filters
+@@ -36,122 +58,46 @@
+ Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+-Job Search
+-Jobs
+-Career Programs
++Careers
++Follow us
++Job search
++Career programs
+ Research
+ Accelerate Eng Talent
+-Students and Grads
++Students and grads
+ Rotational Programs
+ Teams
+-Business Teams
+-Technology Teams
++Business teams
++Technology teams
+ Working at Meta
+-Accessiblity and Engagement
++Accessibility and Engagement
+ Benefits
+ Culture
+-Hiring Process
++Hiring process
+ My account
+ Career profile
+ Account settings
+ Messages
+-Meta Careers Blog
++Meta Careers blog
+ About us
+ About Meta
+ Media gallery
+ Brand resources
+ For investors
+ Looking for contractor roles?
+-Job Search
+-Jobs
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Teams
+-Business Teams
+-Technology Teams
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Jobs
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Teams
+-Business Teams
+-Technology Teams
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Jobs
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Teams
+-Business Teams
+-Technology Teams
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
++Equal Employment Opportunity
++Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
++here
++.
++Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
++Accommodations request form
++.
++Notice regarding automated employment decision tools in New York City
++Learn more about this
++here
++@2025 Meta
++© 2025 Meta
+ Community Standards
+ Data Policy
+ Terms
+ Cookie Policy
+-Equal Employment Opportunity
+-Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+-here
+-Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+-Accommodations request form
+-Notice regarding automated employment decision tools in New York City
+-Learn more about this
+-here
+-@2025 Meta
+-If you have any trouble, you can report an issue
+-Report a bug
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -2,7 +2,7 @@
+ Apple
+ Store
+ Shop
+-Shop the Latest
++Shop Gifts
+ Mac
+ iPad
+ iPhone
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -135,6 +135,8 @@
+ Quantitative Developer - High Performance Computing (Python)
+ Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
+ Quantitative Researcher, Market Structure Research
++New York
++Quantitative Researcher, Volatility - Medium Frequency
+ New York
+ Recruitment Specialist - Fixed Income/ Macro
+ London, New York
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,7 +42,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Filters
+@@ -50,15 +50,12 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -67,9 +64,6 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer, ActiveSG
+-Hybrid
+-View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-11-12 07:24:53
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
