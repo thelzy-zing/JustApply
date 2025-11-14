@@ -157,9 +157,6 @@ Clear all filters
 Role
 Team
 Location
-Software Engineer, Intern
-University
-Singapore
 Software Engineering, New Grad
 University
 Singapore
