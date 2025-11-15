@@ -68,7 +68,7 @@ Privy
 Revenue & Financial Automation
 Stripe Tax
 Terminal
-Risk
+Risk & Financial Crimes
 Security
 Tech Programs
 University

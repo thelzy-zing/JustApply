@@ -1,4 +1,45 @@
 
+## 2025-11-15 07:22:12
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,7 +68,7 @@
+ Revenue & Financial Automation
+ Stripe Tax
+ Terminal
+-Risk
++Risk & Financial Crimes
+ Security
+ Tech Programs
+ University
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -108,8 +108,6 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
+-Operations Analyst
+-Bangalore
+ Operations Analyst
+ Bangalore
+ Operations Analyst - Metals
+```
+
+---
+
 ## 2025-11-14 07:24:28
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
