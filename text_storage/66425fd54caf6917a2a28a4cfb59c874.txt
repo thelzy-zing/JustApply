@@ -21,10 +21,10 @@ Recruiting & Talent Development
 Tax
 Technology
 Offices
-London
 Montreal
 Warsaw
 Bangalore
+London
 New York
 Hong Kong
 Madrid
@@ -36,8 +36,6 @@ Geneva
 Boston
 Zug
 Dubai
-Accounts Payable Financial Analyst
-Montreal, Warsaw, London
 Assistant Controller - Management Company
 Montreal, Warsaw
 Compliance Analyst - Surveillance
@@ -72,8 +70,6 @@ Indirect Tax Analyst
 Bangalore
 Information Security Analyst
 London
-Intern Compliance Analyst - Winter 2026
-London, New York
 Intern Fundamental Researcher - Summer 2026
 New York
 Intern Quant Researcher

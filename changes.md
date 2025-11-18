@@ -1,4 +1,590 @@
 
+## 2025-11-18 07:24:56
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,220 +1,3 @@
+-Make an Impact with Optiver Careers
+-About us
+-Working at Optiver
+-Institutional Sales
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-About Us
+-Locations
+-Optiver and chess
+-Working at Optiver
+-Careers
+-Early careers
+-Career Hub
+-Events
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Optiver Execution Services
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-Contact
+-Latest Insights
+-<
+-Market structure
+-Lend, borrow, grow: Improving Brazil’s SBL market
+-Learn more
+-Americas, Global
+-Market structure
+-Enhancing swaps liquidity through targeted reforms
+-Learn more
+-Americas
+-Market structure
+-Two types of liquidity: The Mississippi River and market makers in agricultural derivatives
+-Learn more
+-Americas
+->
+-CAREERS
+-Are you interested in an environment where new challenges arise by the nanosecond?
+-More
+-open roles
+-Find your next role at Optiver
+-All levels
+-Experienced
+-Internship
+-Student and Graduate
+-Internship
+-All departments
+-Business Operations
+-Control
+-Events
+-Technology
+-Trading, Research and Machine Learning
+-All departments
+-All offices
+-Amsterdam
+-Austin
+-Chicago
+-Hong Kong
+-London
+-Mumbai
+-New York
+-Shanghai
+-Singapore
+-Sydney
+-Taipei
+-Singapore
+-Sorry, no results available.
+-Sorry, no more results available.
+-Load more
+-Careers
+-Recruitment news
+-<
+-Meet the team
+-Career Kickstarter Tech: The ‘why’ behind every trading system
+-At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
+-Learn more
+-Amsterdam, Europe
+-Recruitment at Optiver
+-Optiver EU campus recruiting Q&A
+-Learn more
+-EMEA
+-Life at Optiver, Technology
+-Interning on Optiver’s Austin HFT Team
+-Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
+-Learn more
+-Americas
+-Experienced, Technology
+-Why DevEx matters to Optiver
+-Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+-Learn more
+-Global, London
+-Life at Optiver
+-Breaking down the trading industry: Which role is right for you?
+-If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
+-Learn more
+-Global
+-Series
+-Life at Optiver, Meet the team
+-From intern to new grad: Joining the team full-time
+-Over the last few years, Jason has shared what he was looking for in an internship, what he found, and what he learned. Now, as a full-time trader, he reflects on how it all comes together—and what’s next. What experiences from your internships influence your day-to-day work? So much of what I do today is […]
+-Learn more
+-Americas
+-Series
+-Life at Optiver, Meet the team
+-Continuing education: Interning abroad
+-By his second internship, Jason built a strong foundation with options theory and simulated trading. With real trading experience, his time in Amsterdam feels less like an internship and more like a preview of a full-time career. During your second internship, how did your experience change? My second internship was a truly unique experience. I […]
+-Learn more
+-Americas
+-Series
+-Life at Optiver, Meet the team
+-Sharpening your skills: From CS class to trading floor
+-During his first internship, Jason is immersed in Optiver’s culture of collaboration and gets a clearer view of how trading actually works. Was there a defining lesson from your first internship? A few lessons stood out to me—both personal and professional. On a personal level, I realized how important it is to genuinely enjoy your […]
+-Learn more
+-Americas
+-Series
+-Life at Optiver, Meet the team
+-Becoming a quant trader: Jason’s career journey
+-This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
+-Learn more
+-Americas
+-Technology
+-Real-Time Trading Dashboards with Databricks Apps and Dash
+-Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+-Learn more
+-Global
+->
+-See more
+-Newsletter
+-Subscribe to receive our latest insights on trading, technology and market structure
+-As a tech-driven trading firm, Optiver improves financial markets by providing liquidity to exchanges across the globe, making markets more efficient, transparent and stable.
+-LinkedIn
+-Twitter
+-YouTube
+-About Us
+-Locations
+-Contact us
+-Optiver and chess
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Working at Optiver
+-Careers
+-Graduate & Student
+-Internships
+-Career Hub
+-Recruitment Events
+-Principal Strategic Investments
+-The Optiver Foundation
+-Insights
+-News
+-© Copyright 2025. All Rights Reserved
+-Privacy Policy
+-Disclosures
+-Cookie Policy
+-Notices
+-Heading
+-Close
+-Hier de html
+-Notifications
+-Close
+-Newsletter sign-up
+-Email
+-*
+-First name
+-*
+-Last name
+-*
+-Job function
+-Company name
+-*
+-Region
+-*
+-Please Select
+-APAC
+-Australia
+-EMEA
+-Hong Kong
+-India
+-Japan
+-Mainland China
+-New Zealand
+-North America
+-Singapore
+-South Korea
+-Taiwan
+-United Kingdom
+-United States of America
+-Other
+-Initiative Format
+-Initiative Name
+-Initiative Office
+-Initiative Purpose
+-Initiative Region
+-Initiative Team
+-Initiative Type/Specifics
+-Initiative Year
+-The personal data included in this form is processed by Optiver to sign you up for the Insights newsletter and send Optiver news, blog posts and Insights articles to your inbox. Please check our
+-privacy policy
+-to see how we protect and manage your submitted personal data.
+-I agree to receive communications from Optiver about news, blog posts and Insights articles.
+-*
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
++One moment, please...
++Loader
++Please wait while your request is being verified...
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,7 +59,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-3
++4
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -142,9 +142,29 @@
+ English
+ Français (Canada)
+ Jobs search results
+-3
++4
+ jobs matched
+ filter_list
++User Experience Design Summer Intern, 2026
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media or related field.
++Experience with design tools (e.g., Figma, Adobe, etc.).
++Experience conducting user interviews or surveys. Experience applying user-centered principles in intern, work, or project setting.
++A design portfolio that demonstrates design principles.
++Learn more
++share
++link
++Copy link
++email
++Email a friend
+ Software Engineering Intern, 2026
+ corporate_fare
+ Google
+@@ -202,7 +222,7 @@
+ Copy link
+ email
+ Email a friend
+-1‑3 of 3
++1‑4 of 4
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,6 +97,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -150,6 +151,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,31 +1,10 @@
+-Job Openings at Meta | Meta Careers
++Meta Careers
++Skip to main content
+ Jobs
+ Teams
+-Technology teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Careers Programs
+-Research
+-Accelerate Eng Talent
+-Students and grads
+-Rotational Programs
++Career Programs
+ Working at Meta
+-Accessibility and Engagement
+-Benefits
+-Culture
+-Hiring process
+ Blog
+-Log in/Create profile
+ Search Meta Careers
+ Search
+ Hide filters
+@@ -58,46 +37,124 @@
+ Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+-Careers
+-Follow us
+-Job search
+-Career programs
++Job Search
++Jobs
++Career Programs
+ Research
+ Accelerate Eng Talent
+-Students and grads
++Students and Grads
+ Rotational Programs
+ Teams
+-Business teams
+-Technology teams
++Business Teams
++Technology Teams
+ Working at Meta
+-Accessibility and Engagement
++Accessiblity and Engagement
+ Benefits
+ Culture
+-Hiring process
++Hiring Process
+ My account
+ Career profile
+ Account settings
+ Messages
+-Meta Careers blog
++Meta Careers Blog
+ About us
+ About Meta
+ Media gallery
+ Brand resources
+ For investors
+ Looking for contractor roles?
++Job Search
++Jobs
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Teams
++Business Teams
++Technology Teams
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Job Search
++Jobs
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Teams
++Business Teams
++Technology Teams
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Job Search
++Jobs
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Teams
++Business Teams
++Technology Teams
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Community Standards
++Data Policy
++Terms
++Cookie Policy
+ Equal Employment Opportunity
+ Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+ here
+ .
+ Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+ Accommodations request form
+-.
+ Notice regarding automated employment decision tools in New York City
+ Learn more about this
+ here
+-@2025 Meta
+-© 2025 Meta
+-Community Standards
+-Data Policy
+-Terms
+-Cookie Policy
++.
++©2025 Meta.
++If you have any trouble, you can report an issue
++Report a bug
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -21,10 +21,10 @@
+ Tax
+ Technology
+ Offices
+-London
+ Montreal
+ Warsaw
+ Bangalore
++London
+ New York
+ Hong Kong
+ Madrid
+@@ -36,8 +36,6 @@
+ Boston
+ Zug
+ Dubai
+-Accounts Payable Financial Analyst
+-Montreal, Warsaw, London
+ Assistant Controller - Management Company
+ Montreal, Warsaw
+ Compliance Analyst - Surveillance
+@@ -72,8 +70,6 @@
+ Bangalore
+ Information Security Analyst
+ London
+-Intern Compliance Analyst - Winter 2026
+-London, New York
+ Intern Fundamental Researcher - Summer 2026
+ New York
+ Intern Quant Researcher
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,17 +175,17 @@
+ 10
+ of
+ 22
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Sector Data Associate – Intern (US)
++New York
++Apply Now
+ Software Engineer – Intern (Europe)
+ London
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Sector Data Associate – Intern (US)
+-New York
+ Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+
 ## 2025-11-17 07:25:27
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
