@@ -48,6 +48,8 @@ Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
 Executive Assistant
 London
+FP&A Manager
+London, Montreal, Bangalore, Warsaw
 Funds Tax Analyst
 London
 Global Travel Coordinator
@@ -60,8 +62,6 @@ Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 Growth Investor
 Los Angeles
-Head of Financial Reporting
-London, New York
 High-Touch Execution Strategist
 London
 HR Systems Associate - Workday
@@ -121,7 +121,7 @@ London, Montreal, Warsaw, Singapore
 Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
-Boston, Dubai, London, Montreal, Warsaw
+London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Quantitative Researcher, Market Structure Research
