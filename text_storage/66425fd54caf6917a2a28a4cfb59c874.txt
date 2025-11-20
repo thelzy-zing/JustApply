@@ -78,8 +78,6 @@ Intern Software Developer - Summer 2026
 Montreal, Singapore, London, Warsaw
 Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris, Singapore
-Junior Discretionary Trader
-New York, Houston, London
 Junior Platform Compute and Storage Specialist
 London, Montreal, New York
 Junior Platform Specialist
@@ -104,6 +102,8 @@ Office Administrator
 Warsaw
 Operations Analyst
 Bangalore
+Operations Analyst - Internal Audit
+Bangalore
 Operations Analyst - Metals
 New York, Montreal
 Operations Analyst - Middle Office
@@ -124,8 +124,6 @@ Quant Developer (Python)
 London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
-Quantitative Researcher, Market Structure Research
-New York
 Quantitative Researcher, Volatility - Medium Frequency
 New York
 Recruitment Specialist - Fixed Income/ Macro
