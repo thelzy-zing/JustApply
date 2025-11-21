@@ -1,4 +1,241 @@
 
+## 2025-11-21 07:25:29
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -315,6 +315,7 @@
+ Embedded finance
+ Finance automation
+ Global businesses
++In-app payments
+ Marketplaces
+ Platforms
+ SaaS
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+@@ -138,8 +138,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,6 +11,7 @@
+ AirPods
+ Accessories
+ Quick Links
++Apple Store Shopping Event
+ Find a Store
+ Order Status
+ Apple Trade In
+@@ -36,6 +37,7 @@
+ Switch from PC to Mac
+ Shop Mac
+ Shop Mac
++Apple Store Shopping Event
+ Help Me Choose
+ Mac Accessories
+ Apple Trade In
+@@ -62,6 +64,7 @@
+ Compare iPad
+ Shop iPad
+ Shop iPad
++Apple Store Shopping Event
+ iPad Accessories
+ Apple Trade In
+ Financing
+@@ -85,6 +88,7 @@
+ Switch from Android
+ Shop iPhone
+ Shop iPhone
++Apple Store Shopping Event
+ iPhone Accessories
+ Apple Trade In
+ Carrier Deals at Apple
+@@ -112,6 +116,7 @@
+ Why Apple Watch
+ Shop Watch
+ Shop Apple Watch
++Apple Store Shopping Event
+ Apple Watch Bands
+ Apple Watch Accessories
+ Apple Trade In
+@@ -145,6 +150,7 @@
+ Compare AirPods
+ Shop AirPods
+ Shop AirPods
++Apple Store Shopping Event
+ AirPods Accessories
+ More from AirPods
+ AirPods Support
+@@ -159,6 +165,7 @@
+ HomePod
+ HomePod mini
+ Shop TV & Home
++Apple Store Shopping Event
+ Shop Apple TV 4K
+ Shop HomePod
+ Shop HomePod mini
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (23)
++Opportunities (22)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,18 +174,18 @@
+ Viewing
+ 10
+ of
+-23
++22
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Sector Data Associate – Intern (US)
++New York
++Apply Now
+ Software Engineer – Intern (Europe)
+ London
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Sector Data Associate – Intern (US)
+-New York
+ Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-20 07:24:57
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
