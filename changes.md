@@ -1,4 +1,68 @@
 
+## 2025-11-25 07:25:25
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++HRTWorker: A SharedWorker Framework for Viewing Real-Time Trading
++Read More ▸
+ HeraclesQL: A Python DSL for Writing Alerts
+ Read More ▸
+ Answers to Questions I Often Get: Engineering and Interviewing at HRT
+-Read More ▸
+-Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++HRTWorker: A SharedWorker Framework for Viewing Real-Time Trading
++Read More ▸
+ HeraclesQL: A Python DSL for Writing Alerts
+ Read More ▸
+ Answers to Questions I Often Get: Engineering and Interviewing at HRT
+-Read More ▸
+-Building a Distributed Filesystem for Scalable Research
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -21,10 +21,11 @@
+ Tax
+ Technology
+ Offices
++Jersey
++London
+ Montreal
+ Warsaw
+ Bangalore
+-London
+ New York
+ Hong Kong
+ Madrid
+```
+
+---
+
 ## 2025-11-24 07:25:34
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
