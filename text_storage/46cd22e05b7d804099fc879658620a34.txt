@@ -98,40 +98,36 @@ Refine your search
 Search
 Filters
 Open roles at Hudson River Trading
+Singapore
+M
+C++
+M
 Python
 M
 Internship
 M
-ALL
-Locations
 
 Clear All
 Software Engineering Internship – Summer 2026
 ↳ Apply Now
-London
-Internship
-C++ | Python
-Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
-Sophomore Internship – Summer 2026
-↳ Apply Now
-New York
-Internship
-C++ | Python | Strategy Development
-Hudson River Trading (HRT) is seeking exceptional early talent for our premier Sophomore Summer Internship Program. Sophomore interns will have the unique opportunity to rotate through both the Algorithm Development (Quant Research) and Software Engineering teams, gaining exposure to both areas while contributing to a wide range of impactful projects. ...
-Software Engineering Internship – Summer 2026
-↳ Apply Now
-New York
-Internship
-C++ | Python
-Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
-Software Engineering Internship – Summer 2026
-↳ Apply Now
 Singapore
+Software Engineering
+|
+C++
+|
+Python
+•
 Internship
-C++ | Python
+Singapore
+Software Engineering
+|
+C++
+|
+Python
+•
+Internship
 Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
 There are no jobs that fit these filter criteria. Please change filters to view other jobs.
-Back to Top ↑
 Join Our Community
 Interested in HRT but not ready to apply or don’t see what you’re looking for? Join our Talent Community so we can reach out to you when opportunities arise!
 Campus Talent Community
@@ -241,27 +237,16 @@ HRT® and Hudson River Trading® are registered trademarks of Hudson River Tradi
 Locations
 All
 Austin
-Boston
 Boulder
 Carteret
 Chicago
 Dublin
 Hong Kong
 London
-Mumbai
 New York
-Remote
 Seattle
 Singapore
 Slough
-Tarrytown
-Job Types
-All
-Full-Time
-Experienced
-New Grad
-Internship
-Temporary
 Functions
 All
 Business Development
@@ -276,4 +261,10 @@ Python
 Strategy Development
 Systems and Networking
 Trade Operations
+Job Types
+All
+Full-Time
+Experienced
+New Grad
+Internship
 ↳ Apply Filter

@@ -1,4 +1,235 @@
 
+## 2025-11-26 07:24:39
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -98,40 +98,36 @@
+ Search
+ Filters
+ Open roles at Hudson River Trading
+-Python
+-M
+-Internship
+-M
+-ALL
+-Locations
++Singapore
++M
++C++
++M
++Python
++M
++Internship
++M
+ 
+ Clear All
+ Software Engineering Internship – Summer 2026
+ ↳ Apply Now
+-London
+-Internship
+-C++ | Python
+-Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+-Sophomore Internship – Summer 2026
+-↳ Apply Now
+-New York
+-Internship
+-C++ | Python | Strategy Development
+-Hudson River Trading (HRT) is seeking exceptional early talent for our premier Sophomore Summer Internship Program. Sophomore interns will have the unique opportunity to rotate through both the Algorithm Development (Quant Research) and Software Engineering teams, gaining exposure to both areas while contributing to a wide range of impactful projects. ...
+-Software Engineering Internship – Summer 2026
+-↳ Apply Now
+-New York
+-Internship
+-C++ | Python
+-Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+-Software Engineering Internship – Summer 2026
+-↳ Apply Now
+-Singapore
+-Internship
+-C++ | Python
++Singapore
++Software Engineering
++|
++C++
++|
++Python
++•
++Internship
++Singapore
++Software Engineering
++|
++C++
++|
++Python
++•
++Internship
+ Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+-Back to Top ↑
+ Join Our Community
+ Interested in HRT but not ready to apply or don’t see what you’re looking for? Join our Talent Community so we can reach out to you when opportunities arise!
+ Campus Talent Community
+@@ -241,27 +237,16 @@
+ Locations
+ All
+ Austin
+-Boston
+ Boulder
+ Carteret
+ Chicago
+ Dublin
+ Hong Kong
+ London
+-Mumbai
+ New York
+-Remote
+ Seattle
+ Singapore
+ Slough
+-Tarrytown
+-Job Types
+-All
+-Full-Time
+-Experienced
+-New Grad
+-Internship
+-Temporary
+ Functions
+ All
+ Business Development
+@@ -276,4 +261,10 @@
+ Strategy Development
+ Systems and Networking
+ Trade Operations
++Job Types
++All
++Full-Time
++Experienced
++New Grad
++Internship
+ ↳ Apply Filter
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,6 +233,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Apple Store Shopping Event
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -79,6 +79,8 @@
+ Montreal, Singapore, London, Warsaw
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris, Singapore
++Junior Discretionary Trader
++New York, Houston, London
+ Junior Platform Compute and Storage Specialist
+ London, Montreal, New York
+ Junior Platform Specialist
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-25 07:25:25
 
 ### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
