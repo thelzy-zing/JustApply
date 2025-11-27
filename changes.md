@@ -1,4 +1,578 @@
 
+## 2025-11-27 07:25:56
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -64,6 +64,7 @@
+ London
+ Mumbai
+ New York
++Secaucus
+ Shanghai
+ Singapore
+ Sydney
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,149 +17,316 @@
+ Expand economic access across the globe
+ Bridge open roles
+ Privy open roles
+-Opens the multi-select filter menu
+-Teams
+-Administrative
+-Communications
+-Corporate Development
+-Corporate Security
+-Corporate Strategy
+-Data & Data Science
+-Data Platform
+-Design
+-Executive
+-Finance
+-Controllership
+-Finance & Strategy
+-Internal Audit
+-Investor Relations
+-Tax
+-Treasury
+-Workplace
+-Global Partnerships
+-Go-to-Market
+-Customer Success
+-Global Strategic Pursuits
+-GTM Partnerships
+-Marketing
+-Revenue Operations
+-Sales
+-Scaled Sales
+-Solutions Architect
+-Infrastructure & Corporate Tech
+-Legal
+-Machine Learning
+-Operations
+-People
+-Recruiting
+-People Functions
+-Products
+-Banking as a Service
+-Climate
+-Connect
+-Crypto
+-Mobile
+-Money Movement and Storage
+-New Financial Products
+-Payments
+-Platform
+-Professional Services
+-Privy
+-Revenue & Financial Automation
+-Stripe Tax
+-Terminal
+-Risk & Financial Crimes
+-Security
+-Tech Programs
+-University
+-Opens the multi-select filter menu
+-Office Locations (1)
+-North America
+-Atlanta
+-Chicago
+-New York
+-Seattle
+-South San Francisco HQ
+-San Francisco Bridge HQ
+-Washington DC
+-Toronto
+-Mexico City
+-Asia Pacific
+-Sydney
+-Melbourne
+-Jakarta
+-Bengaluru
+-Tokyo
+-Singapore
+-Bangkok
+-Europe
+-Paris
+-Berlin
+-London
+-Dublin HQ
+-Amsterdam
+-Warsaw
+-Bucharest
+-Madrid
+-Barcelona
+-Stockholm
+-Latin America
+-São Paulo
+-Mexico City
+-Middle East
+-Dubai
+-Opens the multi-select filter menu
+-Remote Locations
+-North America
+-United States
+-Canada
+-Mexico
+-Asia Pacific
+-Australia
+-Hong Kong
+-Indonesia
+-India
+-Japan
+-Malaysia
+-New Zealand
+-South Korea
+-Thailand
+-Europe
+-Austria
+-Belgium
+-Czechia
+-Estonia
+-France
+-Germany
+-Great Britain
+-Ireland
+-Israel
+-Italy
+-Netherlands
+-Poland
+-Portugal
+-Romania
+-Spain
+-Sweden
+-Switzerland
+-Latin America
+-Argentina
+-Brazil
+-Chile
+-Mexico
+-Opens the multi-select filter menu
+-Tags (1)
+-Bridge
+-Privy
+-University
+-Showing roles across across 1 location and all teams. 1 tag selected.
+-Clear all filters
+ Role
+ Team
+ Location
+-Software Engineering, New Grad
+-University
++Account Executive - Enterprise
++Sales
++Mexico City
++Account Executive -Mexico (SSMB)
++Sales
++Mexico City
++Account Executive, AI Sales
++Sales
++South San Francisco HQ
++Account Executive, AI Sales
++Sales
++South San Francisco HQ
++Account Executive, AI Startups - Existing Business
++Sales
++South San Francisco HQ
++Account Executive, BaaS Product Sales (German Speaking)
++Sales
++London
++Account Executive, BaaS Product Sales (German Speaking)
++Sales
++Berlin
++Account Executive, Commercial - DACH
++Sales
++Berlin
++Account Executive, Commercial - DACH
++Sales
++Remote in Germany
++Account Executive, Commercial - German Speaking
++Sales
++Dublin HQ
++Account Executive, Commercial (Existing Business)
++Sales
++Chicago
++Account Executive, Commercial (Existing Business)
++Sales
++Remote in United States
++Account Executive, Commercial (New Business)
++Sales
++Chicago
++Account Executive, Enterprise
++Sales
++Toronto
++Account Executive, Enterprise
++Sales
++Remote in Canada
++Account Executive, Enterprise (Existing Business)
++Sales
++Remote in United States
++Account Executive, Enterprise (Existing Business)
++Sales
++South San Francisco HQ
++Account Executive, Enterprise (Existing Business)
++Sales
++New York
++Account Executive, Enterprise (Existing Business)
++Sales
++Chicago
++Account Executive, Enterprise (Existing Business)
++Sales
++Remote in United States
++Account Executive, Enterprise (New Business)
++Sales
++Remote in United States
++Account Executive, Enterprise (New Business)
++Sales
++New York
++Account Executive, Enterprise (New Business)
++Sales
++Chicago
++Account Executive, Enterprise (New Business)
++Sales
++Seattle
++Account Executive, Enterprise AUNZ
++Sales
++Sydney
++Account Executive, Enterprise AUNZ
++Sales
++Melbourne
++Account Executive, Enterprise Japan
++Sales
++Tokyo
++Account Executive, Enterprise Platforms, Hunter
++Sales
++Remote in United States
++Account Executive, Enterprise Platforms, Hunter
++Sales
++New York
++Account Executive, Enterprise Platforms, Hunter
++Sales
++Chicago
++Account Executive, Existing Business - Startups
++Sales
++Melbourne
++Account Executive, Existing Business - Startups
++Sales
++Sydney
++Account Executive, Funded Startups
++Sales
++Dublin HQ
++Account Executive, Funded Startups
++Sales
++London
++Account Executive, Funded Startups (Existing Business)
++Sales
++Chicago
++Account Executive, Funded Startups (Existing Business)
++Sales
++South San Francisco HQ
++Account Executive, Iberia
++Sales
++Madrid
++Account Executive, Platforms
++Sales
+ Singapore
++Account Executive, Platforms (Existing Business)
++Sales
++New York
++Account Executive, Platforms (Existing Business)
++Sales
++South San Francisco HQ
++Account Executive, Platforms (French Speaking)
++Sales
++Dublin HQ
++Account Executive, Platforms (Grower)
++Sales
++New York
++Account Executive, Platforms (Grower)
++Sales
++South San Francisco HQ
++Account Executive, Platforms (New Business)
++Sales
++Chicago
++Account Executive, Platforms (Spanish - Speaking)
++Sales
++Dublin HQ
++Account Executive, Platforms (Strategics)
++Sales
++South San Francisco HQ
++Account Executive, Platforms, New Zealand
++Sales
++Remote in New Zealand
++Account Executive, Product - Disputes
++Sales
++Remote in United States
++Account Executive, Product (Crypto Sales)
++Sales
++New York
++Account Executive, Product (Crypto Sales)
++Sales
++Remote in United States
++Account Executive, Product Sales - Radar
++Sales
++Singapore
++Account Executive, Product Sales (Radar)
++Sales
++South San Francisco HQ
++Account Executive, Product Sales (Radar)
++Sales
++Chicago
++Account Executive, Product Sales (Radar)
++Sales
++Remote in United States
++Account Executive, Product Sales (Radar)
++Sales
++New York
++Account Executive, Product Sales, Radar (NYC)
++Sales
++New York
++Account Executive, Product Sales, Radar (NYC)
++Sales
++Remote in United States
++Account Executive, Product Sales, Radar (NYC)
++Sales
++Chicago
++Account Executive, SMB Platforms (New Business)
++Sales
++New York
++Account Executive, SMB Platforms (New Business)
++Sales
++Chicago
++Account Executive, Startup Platforms (Existing Business)
++Sales
++New York
++Account Executive, Startup Platforms (Existing Business)
++Sales
++South San Francisco HQ
++Account Executive, Startup SaaS Platforms - German Speaking
++Sales
++Dublin HQ
++Account Executive, Startups/ SMB, Grower, New Zealand
++Sales
++Remote in New Zealand
++Accounting - Legal Entity Controller
++Controllership
++Bengaluru
++Accounting Analyst - Product Accounting - MaaS Accounting
++Controllership
++Bengaluru
++Accounting Analyst - Product Accounting - Processing Cost
++Controllership
++Bengaluru
++Accounting Analyst - Revenue
++Controllership
++Bengaluru
++Accounts Receivable Manager
++Controllership
++Bengaluru
++AI/ML Engineering Manager, Payment Intelligence
++Payments
++Remote in United States
++AMER GTM Finance & Strategy Segment Lead
++Finance & Strategy
++South San Francisco HQ
++AMER GTM Finance & Strategy Segment Lead
++Finance & Strategy
++New York
++AMER Sales Strategy and Operations Analyst
++Revenue Operations
++Remote in United States
++Analytics Lead, Privy
++Privy
++New York
++Android Engineer, Link
++Payments
++Toronto
++APAC Integration Engineer (Customer facing)
++Professional Services
++Singapore
++APAC People Consultant
++People Functions
++Singapore
++APAC Product Marketing Lead
++Marketing
++Singapore
++APAC Product Marketing Lead
++Marketing
++Sydney
++APAC Product Marketing Lead
++Marketing
++Melbourne
++Associate, Services Consulting
++Professional Services
++Chicago
++Backend / API Engineer, Payouts
++Crypto
++London
++Backend Engineer
++Infrastructure & Corporate Tech
++Dublin HQ
++Backend Engineer, Core Tech, Canada
++Infrastructure & Corporate Tech
++Toronto
++Backend Engineer, Core Technology
++Infrastructure & Corporate Tech
++Seattle
++Backend Engineer, Core Technology
++Infrastructure & Corporate Tech
++South San Francisco HQ
++Backend Engineer, Core Technology
++Infrastructure & Corporate Tech
++Dublin HQ
++Backend Engineer, Data
++Data Platform
++Remote in Canada
++Backend Engineer, Data
++Data Platform
++Toronto
++Backend Engineer, DEeP
++Platform
++Toronto
++Backend Engineer, Infrastructure
++Infrastructure & Corporate Tech
++Bucharest
++Backend Engineer, Payments and Risk
++Payments
++New York
++Backend Engineer, Payments and Risk
++Payments
++South San Francisco HQ
++Backend Engineer, Payments and Risk
++Payments
++Seattle
++Backend Engineer, Payments and Risk
++Payments
++Toronto
++Backend Engineer, Revenue and Financial Automation
++Revenue & Financial Automation
++Toronto
++Backend Engineer, UI Services
++Platform
++Barcelona
++Backend Engineer/API, Payments and Risk
++Payments
++Dublin HQ
++Backend Engineer/API, Payments and Risk
++Risk & Financial Crimes
++Toronto
++Benefits Program Manager
++People Functions
++New York
++1
++2
++3
++4
++5
++Next
++Last
+ Stripe logo
+ United States (English)
+ Australia
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,32 +9,6 @@
+ Search
+ Hide filters
+ 0 Items
+-Save this search
+-Sort by
+-Relevance
+-Newest
+-Technologies
+-Facebook
+-Messenger
+-Instagram
+-WhatsApp
+-Meta Quest
+-Teams
+-Advertising Technology
+-AR/VR
+-Artificial Intelligence
+-Business Development & Partnerships
+-Communications & Public Policy
+-Show more
+-Employment type
+-Full time employment
+-Internship
+-Short term employment
+-Location
+-Location
+-Singapore
+-Apply filters
+-Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Job Search
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,12 +233,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Apple Store Shopping Event
+-Shop Gifts
+-Find a Store
+-Apple Gift Card
+-Apple Vision Pro
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,6 +319,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-11-26 07:24:39
 
 ### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
