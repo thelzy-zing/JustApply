@@ -1,4 +1,416 @@
 
+## 2025-11-28 07:25:24
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,10 +52,10 @@
+ Dublin HQ
+ Account Executive, Commercial (Existing Business)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Commercial (Existing Business)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, Commercial (New Business)
+ Sales
+ Chicago
+@@ -65,57 +65,72 @@
+ Account Executive, Enterprise
+ Sales
+ Remote in Canada
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++Washington DC
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++Remote in United States
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++South San Francisco HQ
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++New York
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++Chicago
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Remote in United States
++New York
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-South San Francisco HQ
++Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-New York
++Chicago
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Remote in United States
++South San Francisco HQ
+ Account Executive, Enterprise (New Business)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, Enterprise (New Business)
+ Sales
+-New York
++Remote in United States
+ Account Executive, Enterprise (New Business)
+ Sales
+-Chicago
++Seattle
+ Account Executive, Enterprise (New Business)
+ Sales
+-Seattle
++New York
+ Account Executive, Enterprise AUNZ
+ Sales
++Melbourne
++Account Executive, Enterprise AUNZ
++Sales
+ Sydney
+-Account Executive, Enterprise AUNZ
+-Sales
+-Melbourne
+ Account Executive, Enterprise Japan
+ Sales
+ Tokyo
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-Remote in United States
++New York
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-New York
++Remote in United States
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+ Chicago
+ Account Executive, Existing Business - Startups
+ Sales
++Sydney
++Account Executive, Existing Business - Startups
++Sales
+ Melbourne
+-Account Executive, Existing Business - Startups
+-Sales
+-Sydney
+ Account Executive, Funded Startups
+ Sales
+ Dublin HQ
+@@ -124,10 +139,10 @@
+ London
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-Chicago
++South San Francisco HQ
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-South San Francisco HQ
++Chicago
+ Account Executive, Iberia
+ Sales
+ Madrid
+@@ -136,19 +151,19 @@
+ Singapore
+ Account Executive, Platforms (Existing Business)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Platforms (Existing Business)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Platforms (French Speaking)
+ Sales
+ Dublin HQ
+ Account Executive, Platforms (Grower)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Platforms (Grower)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Platforms (New Business)
+ Sales
+ Chicago
+@@ -166,25 +181,25 @@
+ Remote in United States
+ Account Executive, Product (Crypto Sales)
+ Sales
+-New York
++Remote in United States
+ Account Executive, Product (Crypto Sales)
+ Sales
+-Remote in United States
++New York
+ Account Executive, Product Sales - Radar
+ Sales
+ Singapore
+ Account Executive, Product Sales (Radar)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Product Sales (Radar)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Product Sales (Radar)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, Product Sales (Radar)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+ New York
+@@ -232,10 +247,10 @@
+ Remote in United States
+ AMER GTM Finance & Strategy Segment Lead
+ Finance & Strategy
+-South San Francisco HQ
++New York
+ AMER GTM Finance & Strategy Segment Lead
+ Finance & Strategy
+-New York
++South San Francisco HQ
+ AMER Sales Strategy and Operations Analyst
+ Revenue Operations
+ Remote in United States
+@@ -274,13 +289,13 @@
+ Toronto
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
++Dublin HQ
++Backend Engineer, Core Technology
++Infrastructure & Corporate Tech
+ Seattle
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+ South San Francisco HQ
+-Backend Engineer, Core Technology
+-Infrastructure & Corporate Tech
+-Dublin HQ
+ Backend Engineer, Data
+ Data Platform
+ Remote in Canada
+@@ -298,28 +313,13 @@
+ New York
+ Backend Engineer, Payments and Risk
+ Payments
+-South San Francisco HQ
+-Backend Engineer, Payments and Risk
+-Payments
+ Seattle
+ Backend Engineer, Payments and Risk
+ Payments
++South San Francisco HQ
++Backend Engineer, Payments and Risk
++Payments
+ Toronto
+-Backend Engineer, Revenue and Financial Automation
+-Revenue & Financial Automation
+-Toronto
+-Backend Engineer, UI Services
+-Platform
+-Barcelona
+-Backend Engineer/API, Payments and Risk
+-Payments
+-Dublin HQ
+-Backend Engineer/API, Payments and Risk
+-Risk & Financial Crimes
+-Toronto
+-Benefits Program Manager
+-People Functions
+-New York
+ 1
+ 2
+ 3
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,6 +9,32 @@
+ Search
+ Hide filters
+ 0 Items
++Save this search
++Sort by
++Relevance
++Newest
++Technologies
++Facebook
++Messenger
++Instagram
++WhatsApp
++Meta Quest
++Teams
++Advertising Technology
++AR/VR
++Artificial Intelligence
++Business Development & Partnerships
++Communications & Public Policy
++Show more
++Employment type
++Full time employment
++Internship
++Short term employment
++Location
++Location
++Singapore
++Apply filters
++Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Job Search
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,6 +233,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Apple Store Shopping Event
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+@@ -302,25 +308,9 @@
+ text
+ More
+ Search Results
+-2 Result(s)
++1 Result(s)
+ Sort by:
+ Newest
+-Information Security Internship Program (Summer Intake)
+-Students
+-Sep 17, 2025
+-Location
+-Singapore
+-Actions
+-See full role description
+-Share
+-Information Security Internship Program (Summer Intake) 200621509-3278
+-Role Number:
+-200621509-3278
+-Weekly Hours:
+-40 Hours
+-Imagine what you could do here? At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Every role at Apple is crafted around our intention to leave the world a better place than we found it.
+-Information Security protects Apple’s information. This includes business, employee, and customer data wherever it goes. Our tools and services protect against threats that seek to compromise our systems, monitor the stability and security of our intern...
+-Submit Resume
+ 2026 Apple Internship - Information Systems and Technology
+ Students
+ Aug 15, 2025
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -194,16 +199,6 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -216,19 +211,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-27 07:25:56
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

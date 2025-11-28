@@ -52,10 +52,10 @@ Sales
 Dublin HQ
 Account Executive, Commercial (Existing Business)
 Sales
-Chicago
+Remote in United States
 Account Executive, Commercial (Existing Business)
 Sales
-Remote in United States
+Chicago
 Account Executive, Commercial (New Business)
 Sales
 Chicago
@@ -65,57 +65,72 @@ Toronto
 Account Executive, Enterprise
 Sales
 Remote in Canada
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+Washington DC
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+Remote in United States
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+South San Francisco HQ
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+New York
+Account Executive, Enterprise - Public Sector (New Business)
+Sales
+Chicago
+Account Executive, Enterprise (Existing Business)
+Sales
+New York
+Account Executive, Enterprise (Existing Business)
+Sales
+Remote in United States
+Account Executive, Enterprise (Existing Business)
+Sales
+Chicago
 Account Executive, Enterprise (Existing Business)
 Sales
 Remote in United States
 Account Executive, Enterprise (Existing Business)
 Sales
 South San Francisco HQ
-Account Executive, Enterprise (Existing Business)
-Sales
-New York
-Account Executive, Enterprise (Existing Business)
-Sales
-Chicago
-Account Executive, Enterprise (Existing Business)
-Sales
-Remote in United States
-Account Executive, Enterprise (New Business)
-Sales
-Remote in United States
-Account Executive, Enterprise (New Business)
-Sales
-New York
 Account Executive, Enterprise (New Business)
 Sales
 Chicago
+Account Executive, Enterprise (New Business)
+Sales
+Remote in United States
 Account Executive, Enterprise (New Business)
 Sales
 Seattle
-Account Executive, Enterprise AUNZ
+Account Executive, Enterprise (New Business)
 Sales
-Sydney
+New York
 Account Executive, Enterprise AUNZ
 Sales
 Melbourne
+Account Executive, Enterprise AUNZ
+Sales
+Sydney
 Account Executive, Enterprise Japan
 Sales
 Tokyo
 Account Executive, Enterprise Platforms, Hunter
 Sales
-Remote in United States
+New York
 Account Executive, Enterprise Platforms, Hunter
 Sales
-New York
+Remote in United States
 Account Executive, Enterprise Platforms, Hunter
 Sales
 Chicago
 Account Executive, Existing Business - Startups
 Sales
-Melbourne
+Sydney
 Account Executive, Existing Business - Startups
 Sales
-Sydney
+Melbourne
 Account Executive, Funded Startups
 Sales
 Dublin HQ
@@ -124,10 +139,10 @@ Sales
 London
 Account Executive, Funded Startups (Existing Business)
 Sales
-Chicago
+South San Francisco HQ
 Account Executive, Funded Startups (Existing Business)
 Sales
-South San Francisco HQ
+Chicago
 Account Executive, Iberia
 Sales
 Madrid
@@ -136,19 +151,19 @@ Sales
 Singapore
 Account Executive, Platforms (Existing Business)
 Sales
-New York
+South San Francisco HQ
 Account Executive, Platforms (Existing Business)
 Sales
-South San Francisco HQ
+New York
 Account Executive, Platforms (French Speaking)
 Sales
 Dublin HQ
 Account Executive, Platforms (Grower)
 Sales
-New York
+South San Francisco HQ
 Account Executive, Platforms (Grower)
 Sales
-South San Francisco HQ
+New York
 Account Executive, Platforms (New Business)
 Sales
 Chicago
@@ -166,25 +181,25 @@ Sales
 Remote in United States
 Account Executive, Product (Crypto Sales)
 Sales
-New York
+Remote in United States
 Account Executive, Product (Crypto Sales)
 Sales
-Remote in United States
+New York
 Account Executive, Product Sales - Radar
 Sales
 Singapore
 Account Executive, Product Sales (Radar)
 Sales
-South San Francisco HQ
-Account Executive, Product Sales (Radar)
-Sales
-Chicago
+New York
 Account Executive, Product Sales (Radar)
 Sales
 Remote in United States
 Account Executive, Product Sales (Radar)
 Sales
-New York
+Chicago
+Account Executive, Product Sales (Radar)
+Sales
+South San Francisco HQ
 Account Executive, Product Sales, Radar (NYC)
 Sales
 New York
@@ -232,10 +247,10 @@ Payments
 Remote in United States
 AMER GTM Finance & Strategy Segment Lead
 Finance & Strategy
-South San Francisco HQ
+New York
 AMER GTM Finance & Strategy Segment Lead
 Finance & Strategy
-New York
+South San Francisco HQ
 AMER Sales Strategy and Operations Analyst
 Revenue Operations
 Remote in United States
@@ -274,13 +289,13 @@ Infrastructure & Corporate Tech
 Toronto
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
+Dublin HQ
+Backend Engineer, Core Technology
+Infrastructure & Corporate Tech
 Seattle
 Backend Engineer, Core Technology
 Infrastructure & Corporate Tech
 South San Francisco HQ
-Backend Engineer, Core Technology
-Infrastructure & Corporate Tech
-Dublin HQ
 Backend Engineer, Data
 Data Platform
 Remote in Canada
@@ -298,28 +313,13 @@ Payments
 New York
 Backend Engineer, Payments and Risk
 Payments
-South San Francisco HQ
-Backend Engineer, Payments and Risk
-Payments
 Seattle
 Backend Engineer, Payments and Risk
 Payments
-Toronto
-Backend Engineer, Revenue and Financial Automation
-Revenue & Financial Automation
-Toronto
-Backend Engineer, UI Services
-Platform
-Barcelona
-Backend Engineer/API, Payments and Risk
+South San Francisco HQ
+Backend Engineer, Payments and Risk
 Payments
-Dublin HQ
-Backend Engineer/API, Payments and Risk
-Risk & Financial Crimes
 Toronto
-Benefits Program Manager
-People Functions
-New York
 1
 2
 3
