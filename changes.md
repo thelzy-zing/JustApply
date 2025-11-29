@@ -1,4 +1,294 @@
 
+## 2025-11-29 07:23:45
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -41,6 +41,9 @@
+ Account Executive, BaaS Product Sales (German Speaking)
+ Sales
+ Berlin
++Account Executive, Benelux & Nordics - Existing Business
++Sales
++Dublin HQ
+ Account Executive, Commercial - DACH
+ Sales
+ Berlin
+@@ -52,37 +55,37 @@
+ Dublin HQ
+ Account Executive, Commercial (Existing Business)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, Commercial (Existing Business)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Commercial (New Business)
+ Sales
+ Chicago
+ Account Executive, Enterprise
+ Sales
++Remote in Canada
++Account Executive, Enterprise
++Sales
+ Toronto
+-Account Executive, Enterprise
+-Sales
+-Remote in Canada
++Account Executive, Enterprise - Public Sector (New Business)
++Sales
++Chicago
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+ Washington DC
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-Remote in United States
++New York
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+ South San Francisco HQ
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-New York
+-Account Executive, Enterprise - Public Sector (New Business)
+-Sales
+-Chicago
++Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-New York
++Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+ Remote in United States
+@@ -91,46 +94,46 @@
+ Chicago
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Remote in United States
++New York
+ Account Executive, Enterprise (Existing Business)
+ Sales
+ South San Francisco HQ
+ Account Executive, Enterprise (New Business)
+ Sales
+ Chicago
+-Account Executive, Enterprise (New Business)
+-Sales
+-Remote in United States
+ Account Executive, Enterprise (New Business)
+ Sales
+ Seattle
+ Account Executive, Enterprise (New Business)
+ Sales
+ New York
++Account Executive, Enterprise (New Business)
++Sales
++Remote in United States
+ Account Executive, Enterprise AUNZ
+ Sales
++Sydney
++Account Executive, Enterprise AUNZ
++Sales
+ Melbourne
+-Account Executive, Enterprise AUNZ
+-Sales
+-Sydney
+ Account Executive, Enterprise Japan
+ Sales
+ Tokyo
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-New York
++Chicago
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-Remote in United States
++New York
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Existing Business - Startups
+ Sales
++Melbourne
++Account Executive, Existing Business - Startups
++Sales
+ Sydney
+-Account Executive, Existing Business - Startups
+-Sales
+-Melbourne
+ Account Executive, Funded Startups
+ Sales
+ Dublin HQ
+@@ -139,10 +142,10 @@
+ London
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-South San Francisco HQ
++Chicago
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-Chicago
++South San Francisco HQ
+ Account Executive, Iberia
+ Sales
+ Madrid
+@@ -151,19 +154,19 @@
+ Singapore
+ Account Executive, Platforms (Existing Business)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Platforms (Existing Business)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Platforms (French Speaking)
+ Sales
+ Dublin HQ
+ Account Executive, Platforms (Grower)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Platforms (Grower)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Platforms (New Business)
+ Sales
+ Chicago
+@@ -205,10 +208,13 @@
+ New York
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+-Chicago
++Remote in United States
++Account Executive, SMB (French Speaking)
++Sales
++Dublin HQ
+ Account Executive, SMB Platforms (New Business)
+ Sales
+ New York
+@@ -268,13 +274,13 @@
+ Singapore
+ APAC Product Marketing Lead
+ Marketing
+-Singapore
+-APAC Product Marketing Lead
+-Marketing
+ Sydney
+ APAC Product Marketing Lead
+ Marketing
+ Melbourne
++APAC Product Marketing Lead
++Marketing
++Singapore
+ Associate, Services Consulting
+ Professional Services
+ Chicago
+@@ -289,10 +295,10 @@
+ Toronto
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+-Dublin HQ
++Seattle
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+-Seattle
++Dublin HQ
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+ South San Francisco HQ
+@@ -314,12 +320,6 @@
+ Backend Engineer, Payments and Risk
+ Payments
+ Seattle
+-Backend Engineer, Payments and Risk
+-Payments
+-South San Francisco HQ
+-Backend Engineer, Payments and Risk
+-Payments
+-Toronto
+ 1
+ 2
+ 3
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,14 +175,20 @@
+ 10
+ of
+ 23
++Equities- Citadel Associate Program- Summer Internship 2027
++New York
++Apply Now
++Finance & Accounting – Intern (US)
++New York
++Apply Now
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
++Software Engineer – Intern (Asia)
++Singapore
+ Apply Now
+ Sector Data Associate – Intern (US)
+ New York
+@@ -193,17 +199,11 @@
+ Sector Data Analyst – Intern (Europe)
+ London
+ Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+ Apply Now
+ 1
+ 2
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-11-28 07:25:24
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
