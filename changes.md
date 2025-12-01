@@ -1,4 +1,367 @@
 
+## 2025-12-01 07:28:57
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,7 +60,6 @@
+ Amsterdam
+ Austin
+ Chicago
+-Hong Kong
+ London
+ Mumbai
+ New York
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -37,19 +37,19 @@
+ South San Francisco HQ
+ Account Executive, BaaS Product Sales (German Speaking)
+ Sales
++Berlin
++Account Executive, BaaS Product Sales (German Speaking)
++Sales
+ London
+-Account Executive, BaaS Product Sales (German Speaking)
++Account Executive, Benelux & Nordics - Existing Business
++Sales
++Dublin HQ
++Account Executive, Commercial - DACH
++Sales
++Remote in Germany
++Account Executive, Commercial - DACH
+ Sales
+ Berlin
+-Account Executive, Benelux & Nordics - Existing Business
+-Sales
+-Dublin HQ
+-Account Executive, Commercial - DACH
+-Sales
+-Berlin
+-Account Executive, Commercial - DACH
+-Sales
+-Remote in Germany
+ Account Executive, Commercial - German Speaking
+ Sales
+ Dublin HQ
+@@ -64,40 +64,43 @@
+ Chicago
+ Account Executive, Enterprise
+ Sales
++Toronto
++Account Executive, Enterprise
++Sales
+ Remote in Canada
+-Account Executive, Enterprise
+-Sales
+-Toronto
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-Chicago
++New York
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+ Washington DC
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-New York
++Remote in United States
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-South San Francisco HQ
++Chicago
+ Account Executive, Enterprise - Public Sector (New Business)
+ Sales
+-Remote in United States
++South San Francisco HQ
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Remote in United States
++South San Francisco HQ
+ Account Executive, Enterprise (Existing Business)
+ Sales
+ Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Enterprise (Existing Business)
+ Sales
+ New York
+ Account Executive, Enterprise (Existing Business)
+ Sales
+-South San Francisco HQ
++Chicago
++Account Executive, Enterprise (New Business)
++Sales
++New York
+ Account Executive, Enterprise (New Business)
+ Sales
+ Chicago
+@@ -106,9 +109,6 @@
+ Seattle
+ Account Executive, Enterprise (New Business)
+ Sales
+-New York
+-Account Executive, Enterprise (New Business)
+-Sales
+ Remote in United States
+ Account Executive, Enterprise AUNZ
+ Sales
+@@ -121,19 +121,19 @@
+ Tokyo
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-Chicago
++New York
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+-New York
++Chicago
+ Account Executive, Enterprise Platforms, Hunter
+ Sales
+ Remote in United States
+ Account Executive, Existing Business - Startups
+ Sales
++Sydney
++Account Executive, Existing Business - Startups
++Sales
+ Melbourne
+-Account Executive, Existing Business - Startups
+-Sales
+-Sydney
+ Account Executive, Funded Startups
+ Sales
+ Dublin HQ
+@@ -142,10 +142,10 @@
+ London
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-Chicago
++South San Francisco HQ
+ Account Executive, Funded Startups (Existing Business)
+ Sales
+-South San Francisco HQ
++Chicago
+ Account Executive, Iberia
+ Sales
+ Madrid
+@@ -184,10 +184,10 @@
+ Remote in United States
+ Account Executive, Product (Crypto Sales)
+ Sales
+-Remote in United States
++New York
+ Account Executive, Product (Crypto Sales)
+ Sales
+-New York
++Remote in United States
+ Account Executive, Product Sales - Radar
+ Sales
+ Singapore
+@@ -196,22 +196,22 @@
+ New York
+ Account Executive, Product Sales (Radar)
+ Sales
+-Remote in United States
++South San Francisco HQ
+ Account Executive, Product Sales (Radar)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Product Sales (Radar)
+ Sales
+-South San Francisco HQ
++Chicago
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+ New York
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+-Chicago
++Remote in United States
+ Account Executive, Product Sales, Radar (NYC)
+ Sales
+-Remote in United States
++Chicago
+ Account Executive, SMB (French Speaking)
+ Sales
+ Dublin HQ
+@@ -223,10 +223,10 @@
+ Chicago
+ Account Executive, Startup Platforms (Existing Business)
+ Sales
+-New York
++South San Francisco HQ
+ Account Executive, Startup Platforms (Existing Business)
+ Sales
+-South San Francisco HQ
++New York
+ Account Executive, Startup SaaS Platforms - German Speaking
+ Sales
+ Dublin HQ
+@@ -274,13 +274,13 @@
+ Singapore
+ APAC Product Marketing Lead
+ Marketing
++Singapore
++APAC Product Marketing Lead
++Marketing
+ Sydney
+ APAC Product Marketing Lead
+ Marketing
+ Melbourne
+-APAC Product Marketing Lead
+-Marketing
+-Singapore
+ Associate, Services Consulting
+ Professional Services
+ Chicago
+@@ -298,10 +298,10 @@
+ Seattle
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+-Dublin HQ
++South San Francisco HQ
+ Backend Engineer, Core Technology
+ Infrastructure & Corporate Tech
+-South San Francisco HQ
++Dublin HQ
+ Backend Engineer, Data
+ Data Platform
+ Remote in Canada
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -302,31 +302,8 @@
+ text
+ More
+ Search Results
+-1 Result(s)
+-Sort by:
+-Newest
+-2026 Apple Internship - Information Systems and Technology
+-Students
+-Aug 15, 2025
+-Location
+-Singapore
+-Actions
+-See full role description
+-Share
+-2026 Apple Internship - Information Systems and Technology 200616576-3278
+-Role Number:
+-200616576-3278
+-Weekly Hours:
+-40 Hours
+-As part of the Information Systems & Technology (IS&T) organization, you’ll join the teams that produce key business and technical infrastructure for our employees and customers. Our technology processes every transaction on Apple.com, delivers network bandwidth for our global services, and provides every Apple employee with the tools and platforms to do their life’s best work.
+-From Apple ID authentication to infrastructure in our stores that power products like the Vision Pro, IS&T manages the massive systems and services that our employees and customers rely on. We power Apple.
+-Submit Resume
+-Previous Page
+-Page Number
+-Page 1
+-Of
+-1
+-Next Page
++There are no results that match your search.
++Please try different search criteria.
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -194,16 +199,6 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -216,19 +211,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-11-30 07:23:09
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
