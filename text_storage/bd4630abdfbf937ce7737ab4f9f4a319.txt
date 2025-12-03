@@ -75,6 +75,14 @@ Load more
 Careers
 Recruitment news
 <
+Experienced, Technology
+Choosing between free threading and async in Python
+As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
+Prompting his choice of topic was a recent change in CPython, as Samet explained:
+“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
+Here’s how he breaks it down, and what it means for your next Python project.
+Learn more
+Europe, Global
 Meet the team
 Career Kickstarter Tech: The ‘why’ behind every trading system
 At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
@@ -123,11 +131,6 @@ Becoming a quant trader: Jason’s career journey
 This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
 Learn more
 Americas
-Technology
-Real-Time Trading Dashboards with Databricks Apps and Dash
-Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
-Learn more
-Global
 >
 See more
 Newsletter

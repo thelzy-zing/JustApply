@@ -1,4 +1,238 @@
 
+## 2025-12-03 07:27:44
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,14 @@
+ Careers
+ Recruitment news
+ <
++Experienced, Technology
++Choosing between free threading and async in Python
++As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
++Prompting his choice of topic was a recent change in CPython, as Samet explained:
++“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
++Here’s how he breaks it down, and what it means for your next Python project.
++Learn more
++Europe, Global
+ Meet the team
+ Career Kickstarter Tech: The ‘why’ behind every trading system
+ At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
+@@ -123,11 +131,6 @@
+ This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
+ Learn more
+ Americas
+-Technology
+-Real-Time Trading Dashboards with Databricks Apps and Dash
+-Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+-Learn more
+-Global
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,6 +93,8 @@
+ New York, London
+ Junior UX/UI Engineer
+ London
++MBA Summer Associate (Summer 2026) - Squarepoint Ventures
++New York
+ Network Specialist - Core
+ Montreal, London, New York
+ Network Specialist - Reliability
+@@ -137,8 +139,6 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
+-Senior Execution Trader - FICC
+-Singapore
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,27 +175,18 @@
+ 10
+ of
+ 22
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+ Sector Data Associate – Intern (US)
+ New York
+ Apply Now
+-Software Engineer – Intern (Europe)
+-London
+-Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+ Apply Now
+ Sector Data Analyst – Intern (Europe)
+ London
+ Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+ Site Reliability Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+@@ -204,6 +195,15 @@
+ Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (Europe)
++London, Paris, Zurich
++Apply Now
++International Equities Associate – Intern (Europe)
++London
+ Apply Now
+ 1
+ 2
+@@ -319,6 +319,10 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Filters
+@@ -51,12 +51,15 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer, Transport
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -65,6 +68,9 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
++Software Engineer, Transport
++Hybrid
++View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-12-02 07:27:33
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
