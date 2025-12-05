@@ -1,4 +1,213 @@
 
+## 2025-12-05 07:26:17
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,46 +91,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Experienced Options Trader
+-Trading, Research and Machine Learning • Shanghai
+-Learn more
+-Student and Graduate
+-Optiver AI PhD Scholarship
+-Events • Shanghai
+-Learn more
+-Student and Graduate
+-Career Kickstarter Sydney  – Trading – March 2026
+-Events • Sydney
+-Learn more
+-Student and Graduate
+-Career Kickstarter Sydney  – Technology – March 2026
+-Events • Sydney
+-Learn more
+-Student and Graduate
+-Career Kickstarter Sydney – Research – March 2026
+-Events • Sydney
+-Learn more
+-Experienced
+-Technical Program Manager – Infrastructure
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-Data Site Reliability Engineer
+-Technology • Singapore
+-Learn more
+-Experienced
+-Data Engineer (Commodities)
+-Technology • Singapore
+-Learn more
+-Experienced
+-Linux Engineer, Sydney
+-Technology • Sydney
+-Learn more
+-Experienced
+-Linux Engineer, Shanghai
+-Technology • Shanghai
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -94,7 +94,6 @@
+ Verily Life Sciences
+ Waymo
+ Wing
+-X
+ YouTube
+ Sort by
+ expand_more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ Hong Kong
+ London
++New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -76,7 +76,7 @@
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Summer 2026
+-Montreal, Singapore, London, Warsaw
++Montreal, London, Warsaw
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris, Singapore
+ Junior Discretionary Trader
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (22)
++Opportunities (21)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -174,35 +174,35 @@
+ Viewing
+ 10
+ of
+-22
++21
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Site Reliability Engineer – Intern (Asia)
++Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Sector Data Associate – Intern (US)
+-New York
+-Apply Now
+-Software Engineer – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Site Reliability Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (Europe)
+ London, Paris, Zurich
+ Apply Now
+ 1
+```
+
+---
+
 ## 2025-12-04 07:26:56
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

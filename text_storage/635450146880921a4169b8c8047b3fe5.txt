@@ -134,7 +134,7 @@ Careers
 Open Opportunities
 Open Opportunities
 1 filter applied
-Opportunities (22)
+Opportunities (21)
 Clear All Filters
 Internships
 Experience Level
@@ -174,15 +174,9 @@ Oldest
 Viewing
 10
 of
-22
-Software Engineer – Intern (US)
-Chicago, Miami, New York
-Apply Now
+21
 Quantitative Research Engineer – PhD Intern (US)
 Miami, New York
-Apply Now
-Sector Data Associate – Intern (US)
-New York
 Apply Now
 Software Engineer – Intern (Europe)
 London
@@ -202,7 +196,13 @@ Apply Now
 Quantitative Researcher – PhD Intern (Asia)
 Hong Kong, Singapore
 Apply Now
+Software Engineer – Intern (US)
+Chicago, Miami, New York
+Apply Now
 Quantitative Researcher – PhD Intern (Europe)
+London, Paris, Zurich
+Apply Now
+Quantitative Research Analyst Intern – BS/MS (Europe)
 London, Paris, Zurich
 Apply Now
 1
