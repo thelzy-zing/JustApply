@@ -1,4 +1,37 @@
 
+## 2025-12-07 07:23:39
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ LOCATION
+ All Locations
+ New York
++London
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -139,8 +139,8 @@
+ LOCATION
+ All Locations
+ New York
++London
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+
 ## 2025-12-06 07:23:40
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
