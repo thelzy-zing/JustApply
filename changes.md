@@ -1,4 +1,102 @@
 
+## 2025-12-09 07:27:57
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,7 +97,7 @@
+ 2
+ 3
+ …
+-18
++17
+ Next »
+ Careers
+ Recruitment news
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -139,8 +139,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -227,9 +227,9 @@
+ London EC2M 2AT
+ United Kingdom
+ Dublin
+-7 Grand Canal
+-Grand Canal Street Lower, 1st Floor
+-Dublin D02 KW81
++1st Floor
++76 Sir John Rogerson’s Quay
++Dublin 2, D02 C9D0
+ Ireland
+ HRT® and Hudson River Trading® are registered trademarks of Hudson River Trading LLC.
+ © 2002-2025 Hudson River Trading LLC. All rights reserved.
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+
 ## 2025-12-08 07:29:45
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
