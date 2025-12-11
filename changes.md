@@ -1,4 +1,81 @@
 
+## 2025-12-11 07:30:11
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -87,7 +87,6 @@
+ Singapore
+ Sydney
+ Taipei
+-Tapei
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,12 +226,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Shop Gifts
+-Find a Store
+-Apple Gift Card
+-Apple Vision Pro
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -21,11 +21,11 @@
+ Tax
+ Technology
+ Offices
++Bangalore
++Warsaw
+ Jersey
+ London
+ Montreal
+-Warsaw
+-Bangalore
+ New York
+ Hong Kong
+ Madrid
+@@ -37,6 +37,8 @@
+ Boston
+ Zug
+ Dubai
++Accountant
++Bangalore
+ Assistant Controller - Management Company
+ Montreal, Warsaw, London, Jersey
+ Compliance Analyst - Surveillance
+```
+
+---
+
 ## 2025-12-10 07:28:40
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
