@@ -206,20 +206,8 @@ Region
 *
 Please Select
 APAC
-Australia
 EMEA
-Hong Kong
-India
-Japan
-Mainland China
-New Zealand
 North America
-Singapore
-South Korea
-Taiwan
-United Kingdom
-United States of America
-Other
 Initiative Format
 Initiative Name
 Initiative Office

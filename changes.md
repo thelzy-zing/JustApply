@@ -1,4 +1,147 @@
 
+## 2025-12-13 07:26:54
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -206,20 +206,8 @@
+ *
+ Please Select
+ APAC
+-Australia
+ EMEA
+-Hong Kong
+-India
+-Japan
+-Mainland China
+-New Zealand
+ North America
+-Singapore
+-South Korea
+-Taiwan
+-United Kingdom
+-United States of America
+-Other
+ Initiative Format
+ Initiative Name
+ Initiative Office
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -110,7 +110,9 @@
+ Clear All
+ Software Engineering Internship – Summer 2026
+ ↳ Apply Now
+-Singapore
++New York
++Singapore
++London
+ Software Engineering
+ |
+ C++
+@@ -118,7 +120,9 @@
+ Python
+ •
+ Internship
+-Singapore
++New York
++Singapore
++London
+ Software Engineering
+ |
+ C++
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,7 +8,6 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+-Business Management
+ Compliance
+ Data Acquisition
+ Executive Assistance
+@@ -197,8 +196,6 @@
+ London, Paris, Montreal, Singapore
+ Technology Integration Specialist
+ London, Montreal, Bangalore
+-Technology Procurement Analyst - Software
+-London
+ Trade Flow Support - Trading Application Support
+ London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+ Trade Flow Support - Trading Infrastructure Support
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -171,14 +171,14 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 90 programs
++We found 91 programs
+ slide
+ 1
+ of 4
+ School Programs & Apprenticeships
+ (10)
+ Early Insight (pre-internship)
+-(7)
++(8)
+ Internship
+ (39)
+ Full-Time
+```
+
+---
+
 ## 2025-12-12 07:29:34
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

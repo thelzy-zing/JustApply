@@ -8,7 +8,6 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
-Business Management
 Compliance
 Data Acquisition
 Executive Assistance
@@ -197,8 +196,6 @@ Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Technology Integration Specialist
 London, Montreal, Bangalore
-Technology Procurement Analyst - Software
-London
 Trade Flow Support - Trading Application Support
 London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
