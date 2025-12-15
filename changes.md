@@ -1,4 +1,64 @@
 
+## 2025-12-15 07:30:19
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,46 +90,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Lead Data Engineer
+-Technology • Chicago
+-Learn more
+-Experienced
+-FPGA Engineer
+-Technology • New York
+-Learn more
+-Experienced
+-Global Sustainability Manager
+-Business Operations • Amsterdam
+-Learn more
+-Student and Graduate
+-Career Kickstarter: Tech
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-AI Researcher
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Data Center Engineer
+-Technology • Secaucus
+-Learn more
+-Experienced
+-Software Engineer – Equities/ETFs
+-Technology • New York
+-Learn more
+-Experienced
+-FPGA Engineer
+-Technology • Chicago
+-Learn more
+-Experienced
+-Campus Recruiter
+-Business Operations • Chicago
+-Learn more
+-Experienced
+-Talent Lead – CTO Office
+-Technology • Chicago
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+
 ## 2025-12-14 07:24:40
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
