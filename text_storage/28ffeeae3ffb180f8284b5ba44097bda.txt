@@ -40,6 +40,7 @@ Help Me Choose
 Mac Accessories
 Apple Trade In
 Financing
+Personal Setup
 More from Mac
 Mac Support
 AppleCare
@@ -65,6 +66,7 @@ Shop iPad
 iPad Accessories
 Apple Trade In
 Financing
+Personal Setup
 More from iPad
 iPad Support
 AppleCare
@@ -89,6 +91,7 @@ iPhone Accessories
 Apple Trade In
 Carrier Deals at Apple
 Financing
+Personal Setup
 More from iPhone
 iPhone Support
 AppleCare
@@ -116,6 +119,7 @@ Apple Watch Bands
 Apple Watch Accessories
 Apple Trade In
 Financing
+Personal Setup
 More from Watch
 Apple Watch Support
 AppleCare
@@ -132,6 +136,7 @@ Shop Apple Vision Pro
 Apple Vision Pro Accessories
 Book a Demo
 Financing
+Personal Setup
 More from Vision
 Apple Vision Pro Support
 AppleCare

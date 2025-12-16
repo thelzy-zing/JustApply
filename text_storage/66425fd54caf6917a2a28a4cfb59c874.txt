@@ -62,8 +62,6 @@ Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Graduate Software Developer
 London, Montreal, Warsaw, New York, Singapore
-Graduate Support Specialist
-London, Montreal, New York, Houston, Hong Kong
 Growth Investor
 Los Angeles
 High-Touch Execution Strategist
@@ -200,10 +198,6 @@ Trade Flow Support - Trading Application Support
 London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
 Singapore
-Trading Applications Specialist
-London, Singapore, Houston, New York
-Trading Infrastructure Specialist
-London, Montreal, Hong Kong
 Squarepoint logo
 About us
 Philosophy
