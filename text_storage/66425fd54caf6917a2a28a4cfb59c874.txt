@@ -70,8 +70,6 @@ HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
 Bangalore
-Information Security Analyst
-London
 Intern Fundamental Researcher - Summer 2026
 New York
 Intern Quant Researcher
@@ -140,6 +138,8 @@ Senior Discretionary Trader - Equities
 London, New York
 Senior Discretionary Trader - Macro
 London, New York
+Senior Information Security Engineer
+Singapore
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency

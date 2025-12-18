@@ -1,4 +1,264 @@
 
+## 2025-12-18 07:28:02
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,46 +90,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Software Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Lead Data Architect
+-Technology • Chicago
+-Learn more
+-Student and Graduate
+-FutureFocus: Quants 2026
+-Trading, Research and Machine Learning • Amsterdam
+-Learn more
+-Experienced
+-Reference Data Analyst
+-Technology • Sydney
+-Learn more
+-Experienced
+-Experienced Quantitative Researcher
+-Trading, Research and Machine Learning • Singapore
+-Learn more
+-Experienced
+-Lead Data Engineer
+-Technology • Chicago
+-Learn more
+-Experienced
+-FPGA Engineer
+-Technology • New York
+-Learn more
+-Student and Graduate
+-Career Kickstarter: Tech
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-AI Researcher
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Data Center Engineer
+-Technology • Secaucus
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+@@ -138,8 +138,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -158,11 +158,3 @@
+ ©2025 Meta.
+ If you have any trouble, you can report an issue
+ Report a bug
+-Accept cookies from Meta Careers on this browser?
+-We use cookies to help personalize and improve content and services, serve relevant ads and provide a safer experience. You can review your cookie controls at any time. Learn more about cookie uses and controls in our
+-Cookie Policy
+-.
+-Accept All
+-Learn More
+-Accept All
+-Learn More
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -70,8 +70,6 @@
+ Bangalore, London, Singapore, Montreal, New York
+ Indirect Tax Analyst
+ Bangalore
+-Information Security Analyst
+-London
+ Intern Fundamental Researcher - Summer 2026
+ New York
+ Intern Quant Researcher
+@@ -140,6 +138,8 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
++Senior Information Security Engineer
++Singapore
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Filters
+@@ -51,7 +51,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Job title
+@@ -60,6 +60,9 @@
+ Hybrid
+ View job
+ Software Engineer, Transport
++Hybrid
++View job
++Software Engineer/Senior Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -71,6 +74,9 @@
+ Software Engineer, Transport
+ Hybrid
+ View job
++Software Engineer/Senior Software Engineer, ActiveSG
++Hybrid
++View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -194,16 +199,6 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -216,19 +211,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-12-17 07:28:23
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
