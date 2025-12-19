@@ -101,6 +101,10 @@ Next »
 Careers
 Recruitment news
 <
+Technology
+Research at Scale: Orchestrating ML for Systematic Trading
+Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
+Learn more
 Experienced, Technology
 Choosing between free threading and async in Python
 As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
@@ -149,12 +153,6 @@ Series
 Life at Optiver, Meet the team
 Sharpening your skills: From CS class to trading floor
 During his first internship, Jason is immersed in Optiver’s culture of collaboration and gets a clearer view of how trading actually works. Was there a defining lesson from your first internship? A few lessons stood out to me—both personal and professional. On a personal level, I realized how important it is to genuinely enjoy your […]
-Learn more
-Americas
-Series
-Life at Optiver, Meet the team
-Becoming a quant trader: Jason’s career journey
-This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
 Learn more
 Americas
 >

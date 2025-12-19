@@ -9,7 +9,6 @@ Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
 Compliance
-Data Acquisition
 Executive Assistance
 Finance
 Human Resources
@@ -42,8 +41,6 @@ Assistant Controller - Management Company
 Montreal, Warsaw, London, Jersey
 Compliance Analyst - Surveillance
 Bangalore
-Data Associate
-London
 Data Center Technician
 New York
 Desk Quant Analyst
@@ -53,7 +50,7 @@ London
 Finance Analyst – General Ledger
 Bangalore
 FP&A Manager
-London, Montreal, Bangalore, Warsaw
+London, Montreal, Bangalore
 Funds Tax Analyst
 London
 Global Travel Coordinator
@@ -174,6 +171,8 @@ Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Market Access
 Montreal , Singapore, Warsaw
+Software Developer - Order Gateway Integration
+Bangalore, Montreal, London
 Software Developer (Python)
 London, Montreal, Singapore
 Software Developer - Risk Data Pipelines

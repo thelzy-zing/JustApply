@@ -1,4 +1,181 @@
 
+## 2025-12-19 07:27:20
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -101,6 +101,10 @@
+ Careers
+ Recruitment news
+ <
++Technology
++Research at Scale: Orchestrating ML for Systematic Trading
++Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
++Learn more
+ Experienced, Technology
+ Choosing between free threading and async in Python
+ As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
+@@ -149,12 +153,6 @@
+ Life at Optiver, Meet the team
+ Sharpening your skills: From CS class to trading floor
+ During his first internship, Jason is immersed in Optiver’s culture of collaboration and gets a clearer view of how trading actually works. Was there a defining lesson from your first internship? A few lessons stood out to me—both personal and professional. On a personal level, I realized how important it is to genuinely enjoy your […]
+-Learn more
+-Americas
+-Series
+-Life at Optiver, Meet the team
+-Becoming a quant trader: Jason’s career journey
+-This blog series follows four years of Jason’s path into quantitative trading. While studying Computer Science and Electrical Engineering at the University of Michigan, he began exploring internship opportunities that offered more than just textbook learning. A search that led to two summer internships—one in Chicago, one in Amsterdam—and ultimately shaped his decision to join […]
+ Learn more
+ Americas
+ >
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -231,6 +231,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Vision Pro
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,7 +9,6 @@
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+ Compliance
+-Data Acquisition
+ Executive Assistance
+ Finance
+ Human Resources
+@@ -42,8 +41,6 @@
+ Montreal, Warsaw, London, Jersey
+ Compliance Analyst - Surveillance
+ Bangalore
+-Data Associate
+-London
+ Data Center Technician
+ New York
+ Desk Quant Analyst
+@@ -53,7 +50,7 @@
+ Finance Analyst – General Ledger
+ Bangalore
+ FP&A Manager
+-London, Montreal, Bangalore, Warsaw
++London, Montreal, Bangalore
+ Funds Tax Analyst
+ London
+ Global Travel Coordinator
+@@ -174,6 +171,8 @@
+ London, Montreal, Singapore
+ Software Developer - Market Access
+ Montreal , Singapore, Warsaw
++Software Developer - Order Gateway Integration
++Bangalore, Montreal, London
+ Software Developer (Python)
+ London, Montreal, Singapore
+ Software Developer - Risk Data Pipelines
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2025-12-18 07:28:02
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
