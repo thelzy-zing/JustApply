@@ -101,6 +101,11 @@ Next »
 Careers
 Recruitment news
 <
+Life at Optiver, Program
+From FutureFocus to Optiver’s quant trading internship
+FutureFocus is an educational program that gives students an inside look at the challenges our technology, trading, and research teams face everyday.
+Learn more
+Americas
 Technology
 Research at Scale: Orchestrating ML for Systematic Trading
 Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
@@ -147,12 +152,6 @@ Series
 Life at Optiver, Meet the team
 Continuing education: Interning abroad
 By his second internship, Jason built a strong foundation with options theory and simulated trading. With real trading experience, his time in Amsterdam feels less like an internship and more like a preview of a full-time career. During your second internship, how did your experience change? My second internship was a truly unique experience. I […]
-Learn more
-Americas
-Series
-Life at Optiver, Meet the team
-Sharpening your skills: From CS class to trading floor
-During his first internship, Jason is immersed in Optiver’s culture of collaboration and gets a clearer view of how trading actually works. Was there a defining lesson from your first internship? A few lessons stood out to me—both personal and professional. On a personal level, I realized how important it is to genuinely enjoy your […]
 Learn more
 Americas
 >

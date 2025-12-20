@@ -186,13 +186,15 @@ New York, London, Montreal, Paris
 Support Analyst - Trade Flow Pilot
 Bangalore
 Tax Analyst
+London
+Tax Analyst
 Bangalore
 Technical Business Analyst/Project Manager
 London, Paris, Montreal, Singapore
 Technology Integration Specialist
 London, Montreal, Bangalore
 Trade Flow Support - Trading Application Support
-London, Montreal, New York, Singapore, Bangalore, Hong Kong, Houston
+London, Montreal, New York, Singapore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
 Singapore
 Squarepoint logo
