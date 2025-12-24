@@ -1,4 +1,180 @@
 
+## 2025-12-24 07:29:39
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,46 +90,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Information Security Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-APAC Information Security Operations Lead
+-Technology • Sydney
+-Learn more
+-Experienced
+-Senior Software Engineer
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Senior Technical Analyst
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-Data Site Reliability Engineer
+-Technology • Singapore
+-Learn more
+-Experienced
+-Compliance Intern 2026
+-Control • Chicago
+-Learn more
+-Experienced
+-Procurement Sourcing Analyst
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-Procurement Operations Analyst
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-Software Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Lead Data Architect
+-Technology • Chicago
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,6 +9,7 @@
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+ Compliance
++Data Acquisition
+ Executive Assistance
+ Finance
+ Human Resources
+@@ -41,6 +42,8 @@
+ Montreal, Warsaw, London, Jersey
+ Compliance Analyst - Surveillance
+ Bangalore
++Data Acquisition Administrator
++Montreal
+ Data Center Technician
+ New York
+ Desk Quant Analyst
+@@ -101,6 +104,10 @@
+ Montreal, London,  New York
+ Office Administrator
+ Warsaw
++Office Administrator
++London
++Office Administrator (Part-time)
++Hong Kong
+ Operations Analyst
+ Bangalore
+ Operations Analyst - Internal Audit
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -43,7 +43,7 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++3 jobs
+ Share
+ Clear
+ Filters
+@@ -51,15 +51,12 @@
+ Singapore
+ Singapore
+ Singapore
+-4 jobs
++3 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer, Transport
+ Hybrid
+ View job
+ Software Engineer/Senior Software Engineer, ActiveSG
+@@ -71,9 +68,6 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer, Transport
+-Hybrid
+-View job
+ Software Engineer/Senior Software Engineer, ActiveSG
+ Hybrid
+ View job
+```
+
+---
+
 ## 2025-12-23 07:29:42
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
