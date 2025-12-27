@@ -1,4 +1,316 @@
 
+## 2025-12-27 07:24:31
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,233 +1,3 @@
+-Make an Impact with Optiver Careers
+-About us
+-Working at Optiver
+-Institutional Sales
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-About Us
+-Locations
+-Optiver and chess
+-Working at Optiver
+-Careers
+-Early careers
+-Career Hub
+-Events
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Optiver Execution Services
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-Contact
+-Latest Insights
+-<
+-Market structure
+-Lend, borrow, grow: Improving Brazil’s SBL market
+-Learn more
+-Americas, Global
+-Market structure
+-Enhancing swaps liquidity through targeted reforms
+-Learn more
+-Americas
+-Market structure
+-Two types of liquidity: The Mississippi River and market makers in agricultural derivatives
+-Learn more
+-Americas
+->
+-CAREERS
+-Are you interested in an environment where new challenges arise by the nanosecond?
+-More
+-open roles
+-Find your next role at Optiver
+-All levels
+-Experienced
+-Graduate
+-Internship
+-Prospect
+-Student and Graduate
+-Internship
+-All departments
+-Business Operations
+-Control
+-Corporate Strategy
+-Development
+-Events
+-Facility
+-Finance
+-HR
+-IT Operations
+-Risk
+-Risk Management
+-Technology
+-Trading, Research and Machine Learning
+-Transfers
+-All departments
+-All offices
+-Amsterdam
+-Amsterdam / London
+-Austin
+-Chicago
+-Durham
+-Frankfurt
+-Hong Kong
+-Jersey City
+-London
+-Mumbai
+-New York
+-Optiver Services B.V.
+-Optiver Services B.V. Optiver UK
+-Optiver UK
+-Secaucus
+-Shanghai
+-Singapore
+-Sydney
+-Taipei
+-United States
+-Singapore
+-No results found. Try adjusting your search or filter criteria.
+-Sorry, no more results available.
+-Load more
+-1
+-2
+-3
+-…
+-17
+-Next »
+-Careers
+-Recruitment news
+-<
+-Life at Optiver, Program
+-From FutureFocus to Optiver’s quant trading internship
+-FutureFocus is an educational program that gives students an inside look at the challenges our technology, trading, and research teams face everyday.
+-Learn more
+-Americas
+-Technology
+-Research at Scale: Orchestrating ML for Systematic Trading
+-Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
+-Learn more
+-Experienced, Technology
+-Choosing between free threading and async in Python
+-As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
+-Prompting his choice of topic was a recent change in CPython, as Samet explained:
+-“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
+-Here’s how he breaks it down, and what it means for your next Python project.
+-Learn more
+-Europe, Global
+-Meet the team
+-Career Kickstarter Tech: The ‘why’ behind every trading system
+-At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
+-Learn more
+-Amsterdam, Europe
+-Recruitment at Optiver
+-Optiver EU campus recruiting Q&A
+-Learn more
+-EMEA
+-Life at Optiver, Technology
+-Interning on Optiver’s Austin HFT Team
+-Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
+-Learn more
+-Americas
+-Experienced, Technology
+-Why DevEx matters to Optiver
+-Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+-Learn more
+-Global, London
+-Life at Optiver
+-Breaking down the trading industry: Which role is right for you?
+-If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
+-Learn more
+-Global
+-Series
+-Life at Optiver, Meet the team
+-From intern to new grad: Joining the team full-time
+-Over the last few years, Jason has shared what he was looking for in an internship, what he found, and what he learned. Now, as a full-time trader, he reflects on how it all comes together—and what’s next. What experiences from your internships influence your day-to-day work? So much of what I do today is […]
+-Learn more
+-Americas
+-Series
+-Life at Optiver, Meet the team
+-Continuing education: Interning abroad
+-By his second internship, Jason built a strong foundation with options theory and simulated trading. With real trading experience, his time in Amsterdam feels less like an internship and more like a preview of a full-time career. During your second internship, how did your experience change? My second internship was a truly unique experience. I […]
+-Learn more
+-Americas
+->
+-See more
+-Newsletter
+-Subscribe to receive our latest insights on trading, technology and market structure
+-As a tech-driven trading firm, Optiver improves financial markets by providing liquidity to exchanges across the globe, making markets more efficient, transparent and stable.
+-LinkedIn
+-Twitter
+-YouTube
+-About Us
+-Locations
+-Contact us
+-Optiver and chess
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Working at Optiver
+-Careers
+-Graduate & Student
+-Internships
+-Career Hub
+-Recruitment Events
+-Principal Strategic Investments
+-The Optiver Foundation
+-Insights
+-News
+-© Copyright 2025. All Rights Reserved
+-Privacy Policy
+-Disclosures
+-Cookie Policy
+-Notices
+-Heading
+-Close
+-Hier de html
+-Close
+-Newsletter sign-up
+-Email
+-*
+-First name
+-*
+-Last name
+-*
+-Job function
+-Company name
+-*
+-Region
+-*
+-Please Select
+-APAC
+-EMEA
+-North America
+-Initiative Format
+-Initiative Name
+-Initiative Office
+-Initiative Purpose
+-Initiative Region
+-Initiative Team
+-Initiative Type/Specifics
+-Initiative Year
+-The personal data included in this form is processed by Optiver to sign you up for the Insights newsletter and send Optiver news, blog posts and Insights articles to your inbox. Please check our
+-privacy policy
+-to see how we protect and manage your submitted personal data.
+-I agree to receive communications from Optiver about news, blog posts and Insights articles.
+-*
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
++One moment, please...
++Loader
++Please wait while your request is being verified...
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -2,7 +2,7 @@
+ Apple
+ Store
+ Shop
+-Shop Gifts
++Shop the Latest
+ Mac
+ iPad
+ iPhone
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -103,9 +103,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
+-London
++Warsaw
+ Office Administrator
+-Warsaw
++London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+
 ## 2025-12-26 07:27:14
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
