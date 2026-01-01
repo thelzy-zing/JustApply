@@ -1,4 +1,252 @@
 
+## 2026-01-01 07:28:38
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -180,7 +180,7 @@
+ The Optiver Foundation
+ Insights
+ News
+-© Copyright 2025. All Rights Reserved
++© Copyright 2026. All Rights Reserved
+ Privacy Policy
+ Disclosures
+ Cookie Policy
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -363,4 +363,4 @@
+ CA residents:
+ +1 888 926 2289
+ Sign in
+-© 2025 Stripe, Inc.
++© 2026 Stripe, Inc.
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,7 +59,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-4
++3
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -141,9 +141,45 @@
+ English
+ Français (Canada)
+ Jobs search results
+-4
++3
+ jobs matched
+ filter_list
++Associate Product Marketing Manager Intern, Summer 2026 (English)
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a full-time Bachelor's degree program.
++Ability to communicate in English fluently to support client relationships in the region.
++Learn more
++share
++link
++Copy link
++email
++Email a friend
++Data Center Technician Intern, 2026
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
++Experience installing a network or Linux system and with the basic concepts around these.
++Learn more
++share
++link
++Copy link
++email
++Email a friend
+ User Experience Design Summer Intern, 2026
+ corporate_fare
+ Google
+@@ -164,64 +200,7 @@
+ Copy link
+ email
+ Email a friend
+-Software Engineering Intern, 2026
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
+-Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
+-Experience working in Unix/Linux environments.
+-Experience with data structures, algorithms, and software design.
+-Ability to communicate in English fluently to actively participate in technical discussions.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-Associate Product Marketing Manager Intern, Summer 2026 (English)
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a full-time Bachelor's degree program.
+-Ability to communicate in English fluently to support client relationships in the region.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-Data Center Technician Intern, 2026
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
+-Experience installing a network or Linux system and with the basic concepts around these.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-1‑4 of 4
++1‑3 of 3
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -236,8 +236,8 @@
+ Dublin 2, D02 C9D0
+ Ireland
+ HRT® and Hudson River Trading® are registered trademarks of Hudson River Trading LLC.
+-© 2002-2025 Hudson River Trading LLC. All rights reserved.
+-© 2002-2025 Hudson River Trading LLC. All rights reserved. HRT® and Hudson River Trading® are registered trademarks of Hudson River Trading LLC.
++© 2002-2026 Hudson River Trading LLC. All rights reserved.
++© 2002-2026 Hudson River Trading LLC. All rights reserved. HRT® and Hudson River Trading® are registered trademarks of Hudson River Trading LLC.
+ Locations
+ All
+ Austin
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -231,12 +231,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -103,9 +103,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++London
++Office Administrator
+ Warsaw
+-Office Administrator
+-London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+@@ -210,10 +210,7 @@
+ Locations
+ Disclosures
+ Cookie Preferences
+-©
+-2025
+-Squarepoint
+-. All Rights Reserved.
++© 2026 Squarepoint. All Rights Reserved.
+ We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
+ Close cookie preferences banner
+ I agree to all cookie use
+```
+
+---
+
 ## 2025-12-31 07:29:41
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
