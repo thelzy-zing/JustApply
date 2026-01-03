@@ -1,4 +1,236 @@
 
+## 2026-01-03 07:24:58
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Institutional Trader
++Trading, Research and Machine Learning • London
++Learn more
++Experienced
++Institutional Trader
++Trading, Research and Machine Learning • Amsterdam
++Learn more
++Experienced
++FPGA Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Linux Systems Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Systems Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Production Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Trading Operations Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Site Reliability Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Senior Network Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Network Engineer – Low Latency
++Technology • Amsterdam
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -231,12 +231,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -103,9 +103,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++London
++Office Administrator
+ Warsaw
+-Office Administrator
+-London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+@@ -287,3 +287,54 @@
+ JPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name.
+ Cancel
+ Proceed
++Privacy Preference Center
++When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
++More information
++Allow All
++Manage Consent Preferences
++Strictly Necessary Cookies
++Always Active
++These cookies allow the technical operation of our websites or apps (e.g., cookies that enable you to navigate a website or app, and to use its features). Some may also increase the usability of our websites or apps by remembering your choices (e.g., language, region, login details, and so on).  You may be able to disable some or all necessary cookies by adjusting your browser settings.  If you choose to do so, however, you may experience reduced functionality or be prevented from using our websites or apps altogether.
++Performance Cookies
++Performance Cookies
++These cookies help us enhance the performance and usability of our websites or apps.  If you choose not to accept these cookies you may experience less than optimal performance.
++Analytics Cookies
++Analytics Cookies
++Functional Cookies
++Switch Label
++label
++These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
++Analytics Cookies
++Switch Label
++label
++These cookies help us ensure that we understand our audience as clearly as possible, and that any information that is provided to you is as relevant as possible to
++your interests and preferences.
++Marketing Cookies
++Marketing Cookies
++Marketing Cookies
++Switch Label
++label
++These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
++Social Media Cookies
++Switch Label
++label
++These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
++Back Button
++Cookie List
++Search Icon
++Filter Icon
++Clear
++checkbox label
++label
++Apply
++Cancel
++Consent
++Leg.Interest
++checkbox label
++label
++checkbox label
++label
++checkbox label
++label
++Reject All
++Confirm My Choices
+```
+
+---
+
 ## 2026-01-02 07:30:21
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
