@@ -90,46 +90,6 @@ Taipei
 United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
-Internship
-2026 Shanghai Software Developer Summer Internship
-Technology • Shanghai
-Learn more
-Experienced
-Institutional Trader
-Trading, Research and Machine Learning • London
-Learn more
-Experienced
-Institutional Trader
-Trading, Research and Machine Learning • Amsterdam
-Learn more
-Experienced
-FPGA Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Linux Systems Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Systems Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Production Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Trading Operations Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Site Reliability Engineer
-Technology • Amsterdam
-Learn more
-Experienced
-Senior Network Engineer
-Technology • Amsterdam
-Learn more
 Sorry, no more results available.
 Load more
 1
@@ -228,6 +188,19 @@ Notices
 Heading
 Close
 Hier de html
+×
+Notice
+We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
 Close
 Newsletter sign-up
 Email
@@ -258,16 +231,3 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
-×
-Notice
-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept

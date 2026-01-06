@@ -176,8 +176,6 @@ Software Developer (KDB+/Q)
 London, Montreal, Singapore
 Software Developer - Market Access
 Montreal , Singapore, Warsaw
-Software Developer - Order Gateway Integration
-Bangalore, Montreal, London
 Software Developer (Python)
 London, Montreal, Singapore
 Software Developer - Risk Data Pipelines
