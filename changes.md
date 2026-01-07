@@ -1,4 +1,422 @@
 
+## 2026-01-07 07:30:57
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -188,19 +188,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -231,3 +218,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -21,18 +21,18 @@
+ Technology
+ Offices
+ Bangalore
++Jersey
++London
++Montreal
+ Warsaw
+-Jersey
+-London
+-Montreal
+ New York
+ Hong Kong
+ Madrid
+ Singapore
+ Houston
+ Los Angeles
++Geneva
+ Paris
+-Geneva
+ Boston
+ Zug
+ Dubai
+@@ -56,12 +56,12 @@
+ London, Montreal, Bangalore
+ Funds Tax Analyst
+ London
+-Global Travel Coordinator
+-Bangalore
+ Graduate Platform Specialist
+ Hong Kong, London, Montreal, Singapore
+ Graduate Software Developer
+ London, Montreal, Warsaw, New York, Singapore
++Graduate Support Specialist
++London, Montreal, New York, Houston, Hong Kong
+ Growth Investor
+ Los Angeles
+ High-Touch Execution Strategist
+@@ -72,10 +72,8 @@
+ Bangalore
+ Intern Fundamental Researcher - Summer 2026
+ New York
+-Intern Quant Researcher
+-London, Paris, New York, Singapore, Hong Kong
+ Intern Software Developer - Summer 2026
+-Montreal, London, Warsaw
++Montreal, London
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris, Singapore
+ Junior Discretionary Trader
+@@ -103,13 +101,15 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
+-London
++Warsaw
+ Office Administrator
+-Warsaw
++London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+ Bangalore
++Operations Analyst
++New York, Montreal
+ Operations Analyst - Internal Audit
+ Bangalore
+ Operations Analyst - Middle Office
+@@ -183,7 +183,7 @@
+ Software Developer - Risk Reliability
+ Singapore, Montreal , London
+ Software Developer - Risk Technology
+-London, Montreal, Bangalore
++London, Montreal, Bangalore & Warsaw
+ Support Analyst - Desktop
+ New York, London, Montreal, Paris
+ Support Analyst - Trade Flow Pilot
+@@ -200,6 +200,10 @@
+ London, Montreal, New York, Singapore, Hong Kong, Houston
+ Trade Flow Support - Trading Infrastructure Support
+ Singapore
++Trading Applications Specialist
++London, Singapore, Houston, New York
++Trading Infrastructure Specialist
++London, Montreal, Hong Kong
+ Squarepoint logo
+ About us
+ Philosophy
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,46 +319,3 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+-Privacy Preference Center
+-When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+-More information
+-Allow All
+-Manage Consent Preferences
+-Essential Cookies (strictly necessary)
+-Always On
+-These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+-View Vendor Details‎
+-Performance Cookies
+-Performance Cookies
+-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+-View Vendor Details‎
+-Functional Cookies
+-Functional Cookies
+-Functional cookies: These cookies enable the website to provide enhanced functionality and personalization, and to remember any choices you make on the website. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+-View Vendor Details‎
+-Targeting Cookies
+-Targeting Cookies
+-Targeting cookies: These cookies may be set through our site by our advertising partners, to deliver adverts more relevant and suited to you and your interests. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies operate by uniquely identifying your browser and internet device, but will usually not store any other personal information. If you do not allow these cookies, you will experience less targeted advertising.
+-View Vendor Details‎
+-Back Button
+-Vendors List
+-Search Icon
+-Filter Icon
+-Clear
+-checkbox label
+-label
+-Apply
+-Cancel
+-Consent
+-Leg.Interest
+-checkbox label
+-label
+-checkbox label
+-label
+-checkbox label
+-label
+-Confirm My Choices
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -33,6 +33,7 @@
+ All departments
+ Corporate
+ Internship
++Policy
+ Product Design
+ Product Management
+ Software Engineering
+@@ -43,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Filters
+@@ -51,15 +52,12 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++2 jobs
+ Share
+ Clear
+ Job title
+ Work model
+ Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer/Senior Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -68,9 +66,6 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer/Senior Software Engineer, ActiveSG
+-Hybrid
+-View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -194,16 +199,6 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -216,19 +211,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+@@ -287,54 +287,3 @@
+ JPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name.
+ Cancel
+ Proceed
+-Privacy Preference Center
+-When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+-More information
+-Allow All
+-Manage Consent Preferences
+-Strictly Necessary Cookies
+-Always Active
+-These cookies allow the technical operation of our websites or apps (e.g., cookies that enable you to navigate a website or app, and to use its features). Some may also increase the usability of our websites or apps by remembering your choices (e.g., language, region, login details, and so on).  You may be able to disable some or all necessary cookies by adjusting your browser settings.  If you choose to do so, however, you may experience reduced functionality or be prevented from using our websites or apps altogether.
+-Performance Cookies
+-Performance Cookies
+-These cookies help us enhance the performance and usability of our websites or apps.  If you choose not to accept these cookies you may experience less than optimal performance.
+-Analytics Cookies
+-Analytics Cookies
+-Functional Cookies
+-Switch Label
+-label
+-These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+-Analytics Cookies
+-Switch Label
+-label
+-These cookies help us ensure that we understand our audience as clearly as possible, and that any information that is provided to you is as relevant as possible to
+-your interests and preferences.
+-Marketing Cookies
+-Marketing Cookies
+-Marketing Cookies
+-Switch Label
+-label
+-These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+-Social Media Cookies
+-Switch Label
+-label
+-These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+-Back Button
+-Cookie List
+-Search Icon
+-Filter Icon
+-Clear
+-checkbox label
+-label
+-Apply
+-Cancel
+-Consent
+-Leg.Interest
+-checkbox label
+-label
+-checkbox label
+-label
+-checkbox label
+-label
+-Reject All
+-Confirm My Choices
+```
+
+---
+
 ## 2026-01-06 07:31:31
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

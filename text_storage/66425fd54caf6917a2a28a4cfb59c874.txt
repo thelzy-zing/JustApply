@@ -21,18 +21,18 @@ Tax
 Technology
 Offices
 Bangalore
-Warsaw
 Jersey
 London
 Montreal
+Warsaw
 New York
 Hong Kong
 Madrid
 Singapore
 Houston
 Los Angeles
-Paris
 Geneva
+Paris
 Boston
 Zug
 Dubai
@@ -56,12 +56,12 @@ FP&A Manager
 London, Montreal, Bangalore
 Funds Tax Analyst
 London
-Global Travel Coordinator
-Bangalore
 Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Graduate Software Developer
 London, Montreal, Warsaw, New York, Singapore
+Graduate Support Specialist
+London, Montreal, New York, Houston, Hong Kong
 Growth Investor
 Los Angeles
 High-Touch Execution Strategist
@@ -72,10 +72,8 @@ Indirect Tax Analyst
 Bangalore
 Intern Fundamental Researcher - Summer 2026
 New York
-Intern Quant Researcher
-London, Paris, New York, Singapore, Hong Kong
 Intern Software Developer - Summer 2026
-Montreal, London, Warsaw
+Montreal, London
 Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris, Singapore
 Junior Discretionary Trader
@@ -103,13 +101,15 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-London
-Office Administrator
 Warsaw
+Office Administrator
+London
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
 Bangalore
+Operations Analyst
+New York, Montreal
 Operations Analyst - Internal Audit
 Bangalore
 Operations Analyst - Middle Office
@@ -183,7 +183,7 @@ Bangalore, Montreal, Warsaw
 Software Developer - Risk Reliability
 Singapore, Montreal , London
 Software Developer - Risk Technology
-London, Montreal, Bangalore
+London, Montreal, Bangalore & Warsaw
 Support Analyst - Desktop
 New York, London, Montreal, Paris
 Support Analyst - Trade Flow Pilot
@@ -200,6 +200,10 @@ Trade Flow Support - Trading Application Support
 London, Montreal, New York, Singapore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
 Singapore
+Trading Applications Specialist
+London, Singapore, Houston, New York
+Trading Infrastructure Specialist
+London, Montreal, Hong Kong
 Squarepoint logo
 About us
 Philosophy
