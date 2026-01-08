@@ -1,4 +1,237 @@
 
+## 2026-01-08 07:31:01
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Regional HR Coordinator (12-month contract)
++Business Operations • Sydney
++Learn more
++Experienced
++Software Engineer – Autotrading
++Technology • London
++Learn more
++Experienced
++Experienced Recruiter (12-month contract)
++Business Operations • Sydney
++Learn more
++Experienced
++Marketing Coordinator, APAC
++Business Operations • Sydney
++Learn more
++Experienced
++Support Engineer
++Technology • Amsterdam
++Learn more
++Student and Graduate
++Career Kickstarter: Trading 2026
++Trading, Research and Machine Learning • Amsterdam
++Learn more
++Experienced
++Operational Risk Analyst
++Control • Amsterdam
++Learn more
++Experienced
++Data Site Reliability Engineer
++Technology • Singapore
++Learn more
++Internship
++2026 Shanghai Data Scientist Summer Internship
++Technology • Shanghai
++Learn more
++Internship
++2026 Shanghai Machine Learning PhD Internship
++Technology • Shanghai
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -110,8 +110,6 @@
+ Bangalore
+ Operations Analyst
+ New York, Montreal
+-Operations Analyst - Internal Audit
+-Bangalore
+ Operations Analyst - Middle Office
+ Montreal
+ Platform Application Specialist
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -319,3 +319,46 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
++Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
++Manage My Preferences
++Reject Non-Essential Cookies
++Accept All Cookies
++Privacy Preference Center
++When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
++More information
++Allow All
++Manage Consent Preferences
++Essential Cookies (strictly necessary)
++Always On
++These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
++View Vendor Details‎
++Performance Cookies
++Performance Cookies
++These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
++View Vendor Details‎
++Functional Cookies
++Functional Cookies
++Functional cookies: These cookies enable the website to provide enhanced functionality and personalization, and to remember any choices you make on the website. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
++View Vendor Details‎
++Targeting Cookies
++Targeting Cookies
++Targeting cookies: These cookies may be set through our site by our advertising partners, to deliver adverts more relevant and suited to you and your interests. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies operate by uniquely identifying your browser and internet device, but will usually not store any other personal information. If you do not allow these cookies, you will experience less targeted advertising.
++View Vendor Details‎
++Back Button
++Vendors List
++Search Icon
++Filter Icon
++Clear
++checkbox label
++label
++Apply
++Cancel
++Consent
++Leg.Interest
++checkbox label
++label
++checkbox label
++label
++checkbox label
++label
++Confirm My Choices
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -287,3 +287,54 @@
+ JPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name.
+ Cancel
+ Proceed
++Privacy Preference Center
++When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
++More information
++Allow All
++Manage Consent Preferences
++Strictly Necessary Cookies
++Always Active
++These cookies allow the technical operation of our websites or apps (e.g., cookies that enable you to navigate a website or app, and to use its features). Some may also increase the usability of our websites or apps by remembering your choices (e.g., language, region, login details, and so on).  You may be able to disable some or all necessary cookies by adjusting your browser settings.  If you choose to do so, however, you may experience reduced functionality or be prevented from using our websites or apps altogether.
++Performance Cookies
++Performance Cookies
++These cookies help us enhance the performance and usability of our websites or apps.  If you choose not to accept these cookies you may experience less than optimal performance.
++Analytics Cookies
++Analytics Cookies
++Functional Cookies
++Switch Label
++label
++These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
++Analytics Cookies
++Switch Label
++label
++These cookies help us ensure that we understand our audience as clearly as possible, and that any information that is provided to you is as relevant as possible to
++your interests and preferences.
++Marketing Cookies
++Marketing Cookies
++Marketing Cookies
++Switch Label
++label
++These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
++Social Media Cookies
++Switch Label
++label
++These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
++Back Button
++Cookie List
++Search Icon
++Filter Icon
++Clear
++checkbox label
++label
++Apply
++Cancel
++Consent
++Leg.Interest
++checkbox label
++label
++checkbox label
++label
++checkbox label
++label
++Reject All
++Confirm My Choices
+```
+
+---
+
 ## 2026-01-07 07:30:57
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
