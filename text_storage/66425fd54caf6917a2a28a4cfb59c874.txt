@@ -8,7 +8,6 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
-Compliance
 Data Acquisition
 Executive Assistance
 Finance
@@ -40,8 +39,6 @@ Accountant
 Bangalore
 Assistant Controller - Management Company
 Montreal, Warsaw, London, Jersey
-Compliance Analyst - Surveillance
-Bangalore
 Data Acquisition Administrator
 Montreal
 Data Center Technician
@@ -101,9 +98,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 London
+Office Administrator
+Warsaw
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
@@ -113,7 +110,7 @@ New York, Montreal
 Operations Analyst - Middle Office
 Montreal
 Platform Application Specialist
-Montreal, New York, Houston, Boston, Singapore, Hong Kong
+Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
 Platform Compute and Storage Specialist
 Montreal, New York, London, Singapore
 Platform Specialist - Windows and Virtualization

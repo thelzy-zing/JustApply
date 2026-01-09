@@ -1,4 +1,379 @@
 
+## 2026-01-09 07:31:01
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,46 +90,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Regional HR Coordinator (12-month contract)
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-Software Engineer – Autotrading
+-Technology • London
+-Learn more
+-Experienced
+-Experienced Recruiter (12-month contract)
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-Marketing Coordinator, APAC
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-Support Engineer
+-Technology • Amsterdam
+-Learn more
+-Student and Graduate
+-Career Kickstarter: Trading 2026
+-Trading, Research and Machine Learning • Amsterdam
+-Learn more
+-Experienced
+-Operational Risk Analyst
+-Control • Amsterdam
+-Learn more
+-Experienced
+-Data Site Reliability Engineer
+-Technology • Singapore
+-Learn more
+-Internship
+-2026 Shanghai Data Scientist Summer Internship
+-Technology • Shanghai
+-Learn more
+-Internship
+-2026 Shanghai Machine Learning PhD Internship
+-Technology • Shanghai
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -190,9 +190,9 @@
+ Google |
+ Singapore
+ Minimum qualifications
+-Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media or related field.
++Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media, or a related field.
+ Experience with design tools (e.g., Figma, Adobe, etc.).
+-Experience conducting user interviews or surveys. Experience applying user-centered principles in intern, work, or project setting.
++Experience conducting user interviews or surveys and in applying user-centered principles in intern, work, or project setting.
+ A design portfolio that demonstrates design principles.
+ Learn more
+ share
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -138,9 +138,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -258,6 +258,7 @@
+ Finance
+ Hardware Engineering
+ Information Security
++Legal & Compliance
+ People Operations
+ Risk
+ Software Engineering
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -30,7 +30,6 @@
+ Full time employment
+ Internship
+ Short term employment
+-Location
+ Location
+ Singapore
+ Apply filters
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -8,7 +8,6 @@
+ Apply for open opportunities
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+-Compliance
+ Data Acquisition
+ Executive Assistance
+ Finance
+@@ -40,8 +39,6 @@
+ Bangalore
+ Assistant Controller - Management Company
+ Montreal, Warsaw, London, Jersey
+-Compliance Analyst - Surveillance
+-Bangalore
+ Data Acquisition Administrator
+ Montreal
+ Data Center Technician
+@@ -101,9 +98,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++London
++Office Administrator
+ Warsaw
+-Office Administrator
+-London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+@@ -113,7 +110,7 @@
+ Operations Analyst - Middle Office
+ Montreal
+ Platform Application Specialist
+-Montreal, New York, Houston, Boston, Singapore, Hong Kong
++Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
+ Platform Compute and Storage Specialist
+ Montreal, New York, London, Singapore
+ Platform Specialist - Windows and Virtualization
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -136,7 +136,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (17)
++Opportunities (18)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -176,36 +176,36 @@
+ Viewing
+ 10
+ of
+-17
++18
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+ Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Europe)
+-London
++Quantitative Research Analyst Intern – BS/MS (Europe)
++London, Paris, Zurich
+ Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (US)
++Greenwich, Miami, New York
++Apply Now
+ Quantitative Researcher – PhD Intern (US)
+ Greenwich, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Investment & Trading – Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Human Resources – Intern (US)
+-New York
+ Apply Now
+ 1
+ 2
+@@ -319,10 +319,6 @@
+ Disclosures
+ Copyright © Citadel Enterprise Americas LLC or one of its affiliates. All rights reserved.
+ Citadel is an equal opportunity employer. We provide all individuals consideration for employment and advancement opportunities without regard to race, religion, color, gender, pregnancy, national origin, age, disability, military or veteran status, sexual orientation, genetic information and any other classification protected by applicable federal, state and local laws.
+-Our website uses essential cookies that are strictly necessary to enable our website to function.  We also use cookies and similar technologies to improve your online experience, to provide advertisements based on your browsing habits, and for analytical (or performance) purposes. For more information, see Manage My Preferences.
+-Manage My Preferences
+-Reject Non-Essential Cookies
+-Accept All Cookies
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. You can also find out more about the specific cookies that are dropped by clicking ‘Cookie Details’.  However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -36,6 +36,7 @@
+ Policy
+ Product Design
+ Product Management
++Product Operations
+ Software Engineering
+ Show filters
+ (2)
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,11 +186,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -199,6 +194,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -211,24 +216,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-In this one-week, structured program, you'll learn through seminars, interactive presentations, case studies and group exercises, while making meaningful contributions to operations at the firm under the guidance of top professionals.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2026-01-08 07:31:01
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

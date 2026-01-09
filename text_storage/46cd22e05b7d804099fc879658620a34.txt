@@ -258,6 +258,7 @@ Business Development
 Finance
 Hardware Engineering
 Information Security
+Legal & Compliance
 People Operations
 Risk
 Software Engineering
