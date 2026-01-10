@@ -56,7 +56,7 @@ London
 Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Graduate Software Developer
-London, Montreal, Warsaw, New York, Singapore
+London, Montreal, New York, Singapore
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 Growth Investor
@@ -67,6 +67,8 @@ HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
 Bangalore
+Indirect Tax Analyst (FTC)
+London
 Intern Fundamental Researcher - Summer 2026
 New York
 Intern Software Developer - Summer 2026
@@ -98,9 +100,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-London
-Office Administrator
 Warsaw
+Office Administrator
+London
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
@@ -120,7 +122,7 @@ London, Montreal, New York, Singapore
 Platform ULL - Colo - Strategic
 Montreal, London, New York
 Quant Developer
-London, Montreal, Warsaw, Singapore
+London, Montreal, Singapore
 Quant Developer (C++)
 Singapore, London, New York
 Quant Developer (Python)
