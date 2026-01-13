@@ -1,4 +1,138 @@
 
+## 2026-01-13 07:30:41
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -96,7 +96,7 @@
+ 2
+ 3
+ …
+-16
++17
+ Next »
+ Careers
+ Recruitment news
+@@ -188,19 +188,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -231,3 +218,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -97,7 +97,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -151,7 +150,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -75,6 +75,8 @@
+ Montreal, London
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris, Singapore
++Junior Commodities Fundamental LNG Analyst
++Geneva
+ Junior Discretionary Trader
+ New York, Houston, London
+ Junior Platform Compute and Storage Specialist
+@@ -211,7 +213,10 @@
+ Locations
+ Disclosures
+ Cookie Preferences
+-© 2026 Squarepoint. All Rights Reserved.
++©
++2026
++Squarepoint
++. All Rights Reserved.
+ We use cookies and other tracking technologies to improve your browsing experience on our website, to show you personalized content, and to analyze our website traffic. By browsing our website, you consent to our use of cookies and other tracking technologies.
+ Close cookie preferences banner
+ I agree to all cookie use
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,7 +32,6 @@
+ Open positions
+ All departments
+ Corporate
+-Internship
+ Policy
+ Product Design
+ Product Management
+```
+
+---
+
 ## 2026-01-12 07:33:11
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
