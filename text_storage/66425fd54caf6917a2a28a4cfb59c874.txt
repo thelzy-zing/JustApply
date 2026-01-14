@@ -56,7 +56,7 @@ London
 Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Graduate Software Developer
-London, Montreal, New York, Singapore
+London, Montreal, Singapore
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
 Growth Investor
@@ -102,9 +102,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 London
+Office Administrator
+Warsaw
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
@@ -113,6 +113,10 @@ Operations Analyst
 New York, Montreal
 Operations Analyst - Middle Office
 Montreal
+Payroll Specialist
+Montreal
+PCG Automation Developer (Python)
+Bangalore
 Platform Application Specialist
 Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
 Platform Compute and Storage Specialist
@@ -131,7 +135,7 @@ Quant Developer (Python)
 London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
-Recruitment Specialist - Fixed Income/ Macro
+Recruitment Specialist
 London, New York
 Senior Benefits Specialist - APAC
 Bangalore

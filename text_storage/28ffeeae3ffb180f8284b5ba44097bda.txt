@@ -47,6 +47,7 @@ AppleCare
 macOS Tahoe
 Apple Intelligence
 Apps by Apple
+Apple Creator Studio
 Better with iPhone
 iCloud+
 Mac for Business
@@ -73,6 +74,7 @@ AppleCare
 iPadOS 26
 Apple Intelligence
 Apps by Apple
+Apple Creator Studio
 iCloud+
 Education
 iPhone
