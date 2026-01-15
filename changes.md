@@ -1,4 +1,128 @@
 
+## 2026-01-15 07:31:06
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -96,7 +96,7 @@
+ 2
+ 3
+ …
+-16
++17
+ Next »
+ Careers
+ Recruitment news
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -176,21 +176,21 @@
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
+ Software Engineer – Intern (Europe)
+ London
+ Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Quantitative Research Analyst Intern – BS/MS (Europe)
+-London, Paris, Zurich
+-Apply Now
+ Quantitative Researcher – PhD Intern (Asia)
+ Hong Kong, Singapore
+ Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
+ Software Engineer – Intern (Asia)
+ Singapore
+ Apply Now
+@@ -200,8 +200,8 @@
+ Quantitative Research Analyst Intern – BS/MS (US)
+ Greenwich, Miami, New York
+ Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
++Machine Learning Researcher – PhD Intern (US)
++New York
+ Apply Now
+ 1
+ 2
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Filters
+@@ -52,15 +52,12 @@
+ Singapore
+ Singapore
+ Singapore
+-2 jobs
++3 jobs
+ Share
+ Clear
+ Job title
+ Work model
+-Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Technical Lead / Software Engineering Manager
++Senior Software Engineer, Data.gov.sg
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -69,3 +66,12 @@
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
++Senior Software Engineer, Data.gov.sg
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Technical Lead / Software Engineering Manager
++Hybrid
++View job
+```
+
+---
+
 ## 2026-01-14 07:31:22
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
