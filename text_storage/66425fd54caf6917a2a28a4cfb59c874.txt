@@ -102,9 +102,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-London
-Office Administrator
 Warsaw
+Office Administrator
+London
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
@@ -135,6 +135,8 @@ Quant Developer (Python)
 London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
+Quantitative Researcher - Commodities
+New York
 Recruitment Specialist
 London, New York
 Senior Benefits Specialist - APAC
@@ -147,6 +149,8 @@ Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
 Singapore
+Senior Quantitative Researcher, Portfolio Construction and Trading
+New York
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency
