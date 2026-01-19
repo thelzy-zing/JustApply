@@ -1,4 +1,113 @@
 
+## 2026-01-19 07:34:34
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Student and Graduate
++Career Kickstarter Sydney – Research – March 2026
++Events • Sydney
++Learn more
++Student and Graduate
++Career Kickstarter Sydney  – Trading – March 2026
++Events • Sydney
++Learn more
++Student and Graduate
++Career Kickstarter Sydney  – Technology – March 2026
++Events • Sydney
++Learn more
++Experienced
++Graduate Data Scientist – Common Execution
++Technology • Shanghai
++Learn more
++Experienced
++Low Latency Execution Systems Engineer (C++)
++Technology • Sydney
++Learn more
++Experienced
++Compliance Monitoring Analyst
++Control • Amsterdam
++Learn more
++Experienced
++Algorithmic Trading C++ Engineer – Equities
++Technology • Sydney
++Learn more
++Experienced
++Software Engineer – ORP
++Technology • Austin
++Learn more
++Experienced
++Senior Software Engineer
++Technology • Shanghai
++Learn more
++Internship
++Quantitative Researcher Internship – 2026-27
++Trading, Research and Machine Learning • Sydney
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+@@ -137,8 +137,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+-Hong Kong
+ London
+ Singapore
+ Mumbai
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,6 +32,8 @@
+ Short term employment
+ Location
+ Singapore
++Apply filters
++Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Job Search
+```
+
+---
+
 ## 2026-01-18 07:26:09
 
 ### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
