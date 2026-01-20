@@ -1,4 +1,121 @@
 
+## 2026-01-20 07:34:09
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,53 +90,13 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Student and Graduate
+-Career Kickstarter Sydney – Research – March 2026
+-Events • Sydney
+-Learn more
+-Student and Graduate
+-Career Kickstarter Sydney  – Trading – March 2026
+-Events • Sydney
+-Learn more
+-Student and Graduate
+-Career Kickstarter Sydney  – Technology – March 2026
+-Events • Sydney
+-Learn more
+-Experienced
+-Graduate Data Scientist – Common Execution
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Low Latency Execution Systems Engineer (C++)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Compliance Monitoring Analyst
+-Control • Amsterdam
+-Learn more
+-Experienced
+-Algorithmic Trading C++ Engineer – Equities
+-Technology • Sydney
+-Learn more
+-Experienced
+-Software Engineer – ORP
+-Technology • Austin
+-Learn more
+-Experienced
+-Senior Software Engineer
+-Technology • Shanghai
+-Learn more
+-Internship
+-Quantitative Researcher Internship – 2026-27
+-Trading, Research and Machine Learning • Sydney
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+ 2
+ 3
+ …
+-17
++18
+ Next »
+ Careers
+ Recruitment news
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Filters
+@@ -52,12 +52,15 @@
+ Singapore
+ Singapore
+ Singapore
+-3 jobs
++4 jobs
+ Share
+ Clear
+ Job title
+ Work model
+-Senior Software Engineer, Data.gov.sg
++Lead Security Engineer
++Hybrid
++View job
++Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -66,7 +69,10 @@
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+-Senior Software Engineer, Data.gov.sg
++Lead Security Engineer
++Hybrid
++View job
++Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+```
+
+---
+
 ## 2026-01-19 07:34:34
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

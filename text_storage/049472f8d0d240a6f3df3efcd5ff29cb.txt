@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-3 jobs
+4 jobs
 Share
 Clear
 Filters
@@ -52,12 +52,15 @@ Singapore
 Singapore
 Singapore
 Singapore
-3 jobs
+4 jobs
 Share
 Clear
 Job title
 Work model
-Senior Software Engineer, Data.gov.sg
+Lead Security Engineer
+Hybrid
+View job
+Senior Software Engineer
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
@@ -66,7 +69,10 @@ View job
 Technical Lead / Software Engineering Manager
 Hybrid
 View job
-Senior Software Engineer, Data.gov.sg
+Lead Security Engineer
+Hybrid
+View job
+Senior Software Engineer
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
