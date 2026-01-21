@@ -173,6 +173,8 @@ Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
 Software Developer - Data Products and Services
 Montreal, London, Singapore, Bangalore
+Software Developer - Data Services (KDB+/Q)
+Singapore, Montreal, London, Hong Kong, New York, Warsaw
 Software Developer - Front-end
 London, Montreal
 Software Developer - High Performance Computing (Rust)
@@ -210,7 +212,7 @@ London, Montreal, New York, Singapore, Hong Kong, Houston
 Trade Flow Support - Trading Infrastructure Support
 Singapore
 Trading Applications Specialist
-London, Singapore, Houston, New York
+London, Singapore, Houston, New York, Montreal
 Trading Infrastructure Specialist
 London, Montreal, Hong Kong
 Squarepoint logo
