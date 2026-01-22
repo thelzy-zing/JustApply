@@ -9,7 +9,6 @@ Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
 Data Acquisition
-Executive Assistance
 Finance
 Human Resources
 Investment
@@ -45,8 +44,6 @@ Data Center Technician
 New York
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
-Executive Assistant
-London
 Finance Analyst – General Ledger
 Bangalore
 FP&A Manager
@@ -67,7 +64,7 @@ HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
 Bangalore
-Indirect Tax Analyst (FTC)
+Indirect Tax Analyst
 London
 Intern Fundamental Researcher - Summer 2026
 New York
@@ -102,9 +99,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 London
+Office Administrator
+Warsaw
 Office Administrator (Part-time)
 Hong Kong
 Operations Analyst
@@ -147,6 +144,8 @@ Senior Discretionary Trader - Equities
 London, New York
 Senior Discretionary Trader - Macro
 London, New York
+Senior Information Security Engineer
+Montreal
 Senior Information Security Engineer
 Singapore
 Senior Quantitative Researcher, Portfolio Construction and Trading

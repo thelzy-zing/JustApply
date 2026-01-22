@@ -1,4 +1,101 @@
 
+## 2026-01-22 07:33:25
+
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,8 +32,6 @@
+ Short term employment
+ Location
+ Singapore
+-Apply filters
+-Clear filters
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Job Search
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -143,6 +143,7 @@
+ Apple Vision Pro Support
+ AppleCare
+ visionOS 26
++Apple Vision Pro for Enterprise
+ AirPods
+ Explore AirPods
+ Explore All AirPods
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -9,7 +9,6 @@
+ Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+ Departments
+ Data Acquisition
+-Executive Assistance
+ Finance
+ Human Resources
+ Investment
+@@ -45,8 +44,6 @@
+ New York
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-Executive Assistant
+-London
+ Finance Analyst – General Ledger
+ Bangalore
+ FP&A Manager
+@@ -67,7 +64,7 @@
+ Bangalore, London, Singapore, Montreal, New York
+ Indirect Tax Analyst
+ Bangalore
+-Indirect Tax Analyst (FTC)
++Indirect Tax Analyst
+ London
+ Intern Fundamental Researcher - Summer 2026
+ New York
+@@ -102,9 +99,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
++London
++Office Administrator
+ Warsaw
+-Office Administrator
+-London
+ Office Administrator (Part-time)
+ Hong Kong
+ Operations Analyst
+@@ -147,6 +144,8 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
++Senior Information Security Engineer
++Montreal
+ Senior Information Security Engineer
+ Singapore
+ Senior Quantitative Researcher, Portfolio Construction and Trading
+```
+
+---
+
 ## 2026-01-21 07:34:07
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

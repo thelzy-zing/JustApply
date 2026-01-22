@@ -143,6 +143,7 @@ More from Vision
 Apple Vision Pro Support
 AppleCare
 visionOS 26
+Apple Vision Pro for Enterprise
 AirPods
 Explore AirPods
 Explore All AirPods
