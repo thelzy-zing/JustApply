@@ -1,4 +1,106 @@
 
+## 2026-01-23 07:31:46
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -330,7 +330,7 @@
+ Retail
+ Integrations & custom solutions
+ Stripe App Marketplace
+-Partner ecosystem
++Stripe Partner ecosystem
+ Professional services
+ Developers
+ Documentation
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -99,13 +99,11 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
+-London
++Warsaw
+ Office Administrator
+-Warsaw
++London
+ Office Administrator (Part-time)
+ Hong Kong
+-Operations Analyst
+-Bangalore
+ Operations Analyst
+ New York, Montreal
+ Operations Analyst - Middle Office
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -31,11 +31,9 @@
+ Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+ Open positions
+ All departments
+-Corporate
+ Policy
+ Product Design
+ Product Management
+-Product Operations
+ Software Engineering
+ Show filters
+ (2)
+```
+
+---
+
 ## 2026-01-22 07:33:25
 
 ### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
