@@ -1,4 +1,123 @@
 
+## 2026-01-29 07:44:34
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -69,7 +69,7 @@
+ Intern Fundamental Researcher - Summer 2026
+ New York
+ Intern Software Developer - Summer 2026
+-Montreal, London
++Montreal, London, Warsaw
+ Junior Commodities Fundamental Analyst
+ Geneva, Houston, London, New York, Paris, Singapore
+ Junior Commodities Fundamental LNG Analyst
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -58,13 +58,13 @@
+ Lead Security Engineer
+ Hybrid
+ View job
+-Senior Software Engineer
+-Hybrid
+-View job
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+ Senior Software Engineer, TEALS
++Hybrid
++View job
++Software Engineer / Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -76,13 +76,13 @@
+ Lead Security Engineer
+ Hybrid
+ View job
+-Senior Software Engineer
+-Hybrid
+-View job
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+ Senior Software Engineer, TEALS
++Hybrid
++View job
++Software Engineer / Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -282,7 +282,7 @@
+ Accessibility
+ Global Financial Crimes Compliance
+ ©
+-2025 JPMorgan Chase & Co. All rights reserved. JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans.
++2026 JPMorgan Chase & Co. All rights reserved. JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans.
+ You are now leaving JPMorganChase
+ JPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name.
+ Cancel
+```
+
+---
+
 ## 2026-01-28 07:32:22
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
