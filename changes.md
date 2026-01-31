@@ -1,4 +1,209 @@
 
+## 2026-01-31 07:34:30
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Student and Graduate
++Career Kickstarter: Tech
++Technology • Amsterdam
++Learn more
++Experienced
++Recruitment Coordinator
++Business Operations • Chicago
++Learn more
++Experienced
++Macro Markets Compliance Officer
++Control • London
++Learn more
++Experienced
++Market Data Analyst
++Technology • Shanghai
++Learn more
++Student and Graduate
++PhD Quant Focus 2026
++Events • Chicago
++Learn more
++Student and Graduate
++Graduate Quantitative Researcher, PhD (2026 Start)
++Trading, Research and Machine Learning • Chicago
++Learn more
++Student and Graduate
++Graduate Quantitative Researcher, PhD (2026 Start)
++Trading, Research and Machine Learning • New York
++Learn more
++Student and Graduate
++Graduate Quantitative Researcher, PhD (2026 Start)
++Trading, Research and Machine Learning • Austin
++Learn more
++Experienced
++Data Engineer – Credit
++Technology • New York
++Learn more
++Experienced
++Databricks Platform Engineer
++Technology • Chicago
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+@@ -187,6 +227,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -217,16 +270,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,7 +59,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-2
++0
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -141,49 +141,13 @@
+ English
+ Français (Canada)
+ Jobs search results
+-2
++0
+ jobs matched
+ filter_list
+-Data Center Technician Intern, 2026
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
+-Experience installing a network or Linux system and with the basic concepts around these.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-User Experience Design Summer Intern, 2026
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media, or a related field.
+-Experience with design tools (e.g., Figma, Adobe, etc.).
+-Experience conducting user interviews or surveys and in applying user-centered principles in intern, work, or project setting.
+-A design portfolio that demonstrates design principles.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-Showing 1 to 2 of 2 rows
+-1‑2 of 2
++search
++No results
++Search again or try updating your filters
++Clear filters
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -63,9 +63,9 @@
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+ Indirect Tax Analyst
+-Bangalore
++London
+ Indirect Tax Analyst
+-London
++Bangalore
+ Intern Fundamental Researcher - Summer 2026
+ New York
+ Junior Commodities Fundamental Analyst
+@@ -141,9 +141,9 @@
+ Senior Discretionary Trader - Macro
+ London, New York
+ Senior Information Security Engineer
++Montreal
++Senior Information Security Engineer
+ Singapore
+-Senior Information Security Engineer
+-Montreal
+ Senior Quantitative Researcher, Portfolio Construction and Trading
+ New York
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+
 ## 2026-01-30 07:44:37
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
