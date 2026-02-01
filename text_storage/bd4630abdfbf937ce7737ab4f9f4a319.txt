@@ -90,46 +90,6 @@ Taipei
 United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
-Student and Graduate
-Career Kickstarter: Tech
-Technology • Amsterdam
-Learn more
-Experienced
-Recruitment Coordinator
-Business Operations • Chicago
-Learn more
-Experienced
-Macro Markets Compliance Officer
-Control • London
-Learn more
-Experienced
-Market Data Analyst
-Technology • Shanghai
-Learn more
-Student and Graduate
-PhD Quant Focus 2026
-Events • Chicago
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • Chicago
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • New York
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • Austin
-Learn more
-Experienced
-Data Engineer – Credit
-Technology • New York
-Learn more
-Experienced
-Databricks Platform Engineer
-Technology • Chicago
-Learn more
 Sorry, no more results available.
 Load more
 1
@@ -227,19 +187,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -270,3 +217,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
