@@ -63,9 +63,9 @@ London
 HR Systems Associate - Workday
 Bangalore, London, Singapore, Montreal, New York
 Indirect Tax Analyst
-London
-Indirect Tax Analyst
 Bangalore
+Indirect Tax Analyst
+London
 Intern Fundamental Researcher - Summer 2026
 New York
 Junior Commodities Fundamental Analyst
@@ -141,9 +141,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Montreal
-Senior Information Security Engineer
 Singapore
+Senior Information Security Engineer
+Montreal
 Senior Quantitative Researcher, Portfolio Construction and Trading
 New York
 Senior Quant Researcher - CTA/Short-Term
