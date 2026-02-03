@@ -90,6 +90,46 @@ Taipei
 United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
+Student and Graduate
+Career Kickstarter: Trading 2026
+Trading, Research and Machine Learning • Amsterdam
+Learn more
+Experienced
+FPGA Engineer
+Technology • New York
+Learn more
+Experienced
+FPGA Engineer
+Technology • Chicago
+Learn more
+Student and Graduate
+Career Kickstarter: Tech
+Technology • Amsterdam
+Learn more
+Experienced
+Recruitment Coordinator
+Business Operations • Chicago
+Learn more
+Experienced
+Macro Markets Compliance Officer
+Control • London
+Learn more
+Experienced
+Market Data Analyst
+Technology • Shanghai
+Learn more
+Student and Graduate
+PhD Quant Focus 2026
+Events • Chicago
+Learn more
+Student and Graduate
+Graduate Quantitative Researcher, PhD (2026 Start)
+Trading, Research and Machine Learning • Chicago
+Learn more
+Student and Graduate
+Graduate Quantitative Researcher, PhD (2026 Start)
+Trading, Research and Machine Learning • New York
+Learn more
 Sorry, no more results available.
 Load more
 1
@@ -101,6 +141,11 @@ Next »
 Careers
 Recruitment news
 <
+Technology
+Real-Time Trading Dashboards with Databricks Apps and Dash
+Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+Learn more
+Global
 Experienced, Meet the team, Trading
 Inside Optiver’s Institutional Trading Team
 Ask five Institutional Traders how they got here, and you’ll get five different answers. Traders from Optiver’s Institutional team share their diverse paths, how they use their unique backgrounds every day, and practical advice for anyone considering the role.
@@ -147,12 +192,6 @@ Breaking down the trading industry: Which role is right for you?
 If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
 Learn more
 Global
-Series
-Life at Optiver, Meet the team
-From intern to new grad: Joining the team full-time
-Over the last few years, Jason has shared what he was looking for in an internship, what he found, and what he learned. Now, as a full-time trader, he reflects on how it all comes together—and what’s next. What experiences from your internships influence your day-to-day work? So much of what I do today is […]
-Learn more
-Americas
 >
 See more
 Newsletter
