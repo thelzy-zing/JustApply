@@ -121,7 +121,7 @@ Montreal, London, New York
 Quant Developer
 London, Montreal, Singapore
 Quant Developer (C++)
-Singapore, London, New York
+London, Montreal, Singapore
 Quant Developer (Python)
 London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
