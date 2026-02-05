@@ -8,7 +8,6 @@ Locations
 Apply for open opportunities
 Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
 Departments
-Data Acquisition
 Finance
 Human Resources
 Investment
@@ -38,8 +37,6 @@ Accountant
 Bangalore
 Assistant Controller - Management Company
 Montreal, Warsaw, London, Jersey
-Data Acquisition Administrator
-Montreal
 Data Center Technician
 New York
 Desk Quant Analyst
@@ -68,6 +65,8 @@ Indirect Tax Analyst
 Bangalore
 Intern Fundamental Researcher - Summer 2026
 New York
+Intern Software Developer - Summer 2026
+Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
 Geneva, Houston, London, New York, Paris, Singapore
 Junior Commodities Fundamental LNG Analyst
@@ -139,9 +138,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Montreal
-Senior Information Security Engineer
 Singapore
+Senior Information Security Engineer
+Montreal
 Senior Quantitative Researcher, Portfolio Construction and Trading
 New York
 Senior Quant Researcher - CTA/Short-Term
@@ -160,6 +159,8 @@ Site Management Specialist
 New York
 Software Developer (C++)
 London, Montreal, Singapore
+Software Developer - Data Development Integrator
+London
 Software Developer - Data Infrastructure
 London, Montreal, Singapore
 Software Developer - Data Pipelines (Python)
