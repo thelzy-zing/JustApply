@@ -59,8 +59,8 @@ Your career
 expand_more
 Search Jobs
 Search sidebar
-1
-job matched
+0
+jobs matched
 Clear filters
 What do you want to do?
 Locations
@@ -141,31 +141,13 @@ English
 English
 Français (Canada)
 Jobs search results
-1
-job matched
+0
+jobs matched
 filter_list
-User Experience Design Summer Intern, 2026
-corporate_fare
-Google
-place
-Singapore
-bar_chart
-Intern & Apprentice
-Google |
-Singapore
-Minimum qualifications
-Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media, or a related field.
-Experience with design tools (e.g., Figma, Adobe, etc.).
-Experience conducting user interviews or surveys and in applying user-centered principles in intern, work, or project setting.
-A design portfolio that demonstrates design principles.
-Learn more
-share
-link
-Copy link
-email
-Email a friend
-Showing 1 to 1 of 1 rows
-1‑1 of 1
+search
+No results
+Search again or try updating your filters
+Clear filters
 Follow Life at Google on
 More about us
 About us

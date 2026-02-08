@@ -1,4 +1,111 @@
 
+## 2026-02-08 07:43:36
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -59,8 +59,8 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-1
+-job matched
++0
++jobs matched
+ Clear filters
+ What do you want to do?
+ Locations
+@@ -141,31 +141,13 @@
+ English
+ Français (Canada)
+ Jobs search results
+-1
+-job matched
++0
++jobs matched
+ filter_list
+-User Experience Design Summer Intern, 2026
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media, or a related field.
+-Experience with design tools (e.g., Figma, Adobe, etc.).
+-Experience conducting user interviews or surveys and in applying user-centered principles in intern, work, or project setting.
+-A design portfolio that demonstrates design principles.
+-Learn more
+-share
+-link
+-Copy link
+-email
+-Email a friend
+-Showing 1 to 1 of 1 rows
+-1‑1 of 1
++search
++No results
++Search again or try updating your filters
++Clear filters
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -234,6 +234,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,9 +60,9 @@
+ HR Systems Associate - Workday
+ Bangalore, London, Singapore, Montreal, New York
+ Indirect Tax Analyst
+-Bangalore
++London
+ Indirect Tax Analyst
+-London
++Bangalore
+ Intern Fundamental Researcher - Summer 2026
+ New York
+ Intern Software Developer - Summer 2026
+```
+
+---
+
 ## 2026-02-07 07:37:23
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
