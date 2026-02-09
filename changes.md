@@ -1,4 +1,78 @@
 
+## 2026-02-09 08:01:17
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,18 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Technical Operations Manager
++Technology • Mumbai
++Learn more
++Experienced
++Senior Software Engineer
++Technology • Shanghai
++Learn more
++Experienced
++ETF Trader
++Trading, Research and Machine Learning • Sydney
++Learn more
+ Student and Graduate
+ PhD Quant Focus 2026
+ Events • Chicago
+@@ -117,18 +129,6 @@
+ Experienced
+ Data Engineer – Credit
+ Technology • New York
+-Learn more
+-Experienced
+-Machine Learning Research Engineer
+-Technology • New York
+-Learn more
+-Experienced
+-Machine Learning Performance Engineer
+-Technology • New York
+-Learn more
+-Experienced
+-Recruitment Coordinator – New York
+-Business Operations • New York
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -234,12 +234,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+
 ## 2026-02-08 07:43:36
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
