@@ -13,7 +13,6 @@ Human Resources
 Investment
 Office Management
 Operations
-Recruiting & Talent Development
 Tax
 Technology
 Offices
@@ -63,8 +62,6 @@ Indirect Tax Analyst
 London
 Indirect Tax Analyst
 Bangalore
-Intern Fundamental Researcher - Summer 2026
-New York
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
@@ -103,8 +100,6 @@ Operations Analyst
 New York, Montreal
 Operations Analyst - Middle Office
 Montreal
-Payroll Specialist
-Montreal
 PCG Automation Developer (Python)
 Bangalore
 Platform Application Specialist
@@ -127,8 +122,6 @@ Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Quantitative Researcher - Commodities
 New York
-Recruitment Specialist
-London, New York
 Senior Benefits Specialist - APAC
 Bangalore
 Senior Discretionary Trader - Credit

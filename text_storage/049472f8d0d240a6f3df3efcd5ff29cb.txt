@@ -43,7 +43,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-6 jobs
+7 jobs
 Share
 Clear
 Filters
@@ -51,12 +51,15 @@ Singapore
 Singapore
 Singapore
 Singapore
-6 jobs
+7 jobs
 Share
 Clear
 Job title
 Work model
 Lead Security Engineer
+Hybrid
+View job
+Senior Software Engineer, Citizen Engagement
 Hybrid
 View job
 Senior Software Engineer, Secure Govt Comms
@@ -75,6 +78,9 @@ Technical Lead / Software Engineering Manager
 Hybrid
 View job
 Lead Security Engineer
+Hybrid
+View job
+Senior Software Engineer, Citizen Engagement
 Hybrid
 View job
 Senior Software Engineer, Secure Govt Comms
