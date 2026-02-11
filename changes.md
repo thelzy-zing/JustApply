@@ -1,4 +1,196 @@
 
+## 2026-02-11 07:59:22
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -102,6 +102,11 @@
+ Recruitment news
+ <
+ Technology
++When Speed and Scale Collide
++Data systems are often described along two axes: speed and scale. In practice, “speed” usually means some combination of latency and throughput, and systems are often optimized for one at the expense of the other, sometimes by trading efficiency for raw capacity. Those distinctions tend to break down quickly once systems move beyond simple use […]
++Learn more
++Global
++Technology
+ Real-Time Trading Dashboards with Databricks Apps and Dash
+ Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+ Learn more
+@@ -147,11 +152,6 @@
+ Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+ Learn more
+ Global, London
+-Life at Optiver
+-Breaking down the trading industry: Which role is right for you?
+-If you’re curious about a career in STEM, you’ve probably thought about big tech or academia–but have you thought about trading? There are many types of roles you might see, including quantitative trader, quantitative researcher, and institutional trader. While these might seem similar–all require strong analytical skills and mathematical thinking—the day-to-day work can look quite […]
+-Learn more
+-Global
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -300,6 +300,7 @@
+ Invoicing
+ Issuing
+ Link
++Managed Payments
+ Payments
+ Payment Links
+ Payouts
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,6 +89,7 @@
+ Intern
+ Organizations
+ expand_less
++DeepMind
+ GFiber
+ Google
+ Verily Life Sciences
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++London
+ New York
+-London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,9 +137,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++London
+ New York
+-London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,8 +5,12 @@
+ Career Programs
+ Working at Meta
+ Blog
++Podcasts
+ Search Meta Careers
+ Search
++Get personalized job recommendations from AI
++The Meta AI recruiting assistant can recommend jobs that may interest you and answer your questions about the hiring process.
++Start using AI
+ Hide filters
+ 0 Items
+ Save this search
+@@ -56,6 +60,7 @@
+ Account settings
+ Messages
+ Meta Careers Blog
++Meta Careers Podcasts
+ About us
+ About Meta
+ Media gallery
+@@ -82,6 +87,7 @@
+ Account settings
+ Messages
+ Meta Careers Blog
++Meta Careers Podcasts
+ About us
+ About Meta
+ Media gallery
+@@ -108,6 +114,7 @@
+ Account settings
+ Messages
+ Meta Careers Blog
++Meta Careers Podcasts
+ About us
+ About Meta
+ Media gallery
+@@ -134,6 +141,7 @@
+ Account settings
+ Messages
+ Meta Careers Blog
++Meta Careers Podcasts
+ About us
+ About Meta
+ Media gallery
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -130,10 +130,6 @@
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
+-Senior Information Security Engineer
+-Singapore
+-Senior Information Security Engineer
+-Montreal
+ Senior Quantitative Researcher, Portfolio Construction and Trading
+ New York
+ Senior Quant Researcher - CTA/Short-Term
+@@ -190,7 +186,7 @@
+ London
+ Tax Analyst
+ Bangalore
+-Technical Business Analyst/Project Manager
++Technical Business Analyst
+ London, Paris, Montreal, Singapore
+ Technology Integration Specialist
+ London, Montreal, Bangalore
+```
+
+---
+
 ## 2026-02-10 08:02:42
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

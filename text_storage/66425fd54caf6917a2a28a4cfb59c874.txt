@@ -130,10 +130,6 @@ Senior Discretionary Trader - Equities
 London, New York
 Senior Discretionary Trader - Macro
 London, New York
-Senior Information Security Engineer
-Singapore
-Senior Information Security Engineer
-Montreal
 Senior Quantitative Researcher, Portfolio Construction and Trading
 New York
 Senior Quant Researcher - CTA/Short-Term
@@ -190,7 +186,7 @@ Tax Analyst
 London
 Tax Analyst
 Bangalore
-Technical Business Analyst/Project Manager
+Technical Business Analyst
 London, Paris, Montreal, Singapore
 Technology Integration Specialist
 London, Montreal, Bangalore
