@@ -57,7 +57,7 @@ Los Angeles
 High-Touch Execution Strategist
 London
 HR Systems Associate - Workday
-Bangalore, London, Singapore, Montreal, New York
+Bangalore, London
 Indirect Tax Analyst
 London
 Indirect Tax Analyst
@@ -93,9 +93,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 London
+Office Administrator
+Warsaw
 Operations Analyst
 New York, Montreal
 Operations Analyst - Middle Office
@@ -122,8 +122,6 @@ Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
 Quantitative Researcher - Commodities
 New York
-Senior Benefits Specialist - APAC
-Bangalore
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
