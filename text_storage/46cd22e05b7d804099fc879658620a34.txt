@@ -108,9 +108,8 @@ Internship
 M
 
 Clear All
-Software Engineering Internship – Summer 2026
+C++ Software Engineering Internship – Summer 2026
 ↳ Apply Now
-New York
 Singapore
 Software Engineering
 |
@@ -119,7 +118,6 @@ C++
 Python
 •
 Internship
-New York
 Singapore
 Software Engineering
 |
