@@ -17,14 +17,13 @@ Tax
 Technology
 Offices
 Bangalore
-Jersey
-London
-Montreal
-Warsaw
 New York
 Hong Kong
+London
 Madrid
+Montreal
 Singapore
+Warsaw
 Houston
 Los Angeles
 Geneva
@@ -34,8 +33,6 @@ Zug
 Dubai
 Accountant
 Bangalore
-Assistant Controller - Management Company
-Montreal, Warsaw, London, Jersey
 Data Center Technician
 New York
 Desk Quant Analyst
@@ -59,9 +56,9 @@ London
 HR Systems Associate - Workday
 Bangalore, London
 Indirect Tax Analyst
-Bangalore
-Indirect Tax Analyst
 London
+Indirect Tax Analyst
+Bangalore
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
@@ -91,9 +88,9 @@ Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
 Office Administrator
-Warsaw
-Office Administrator
 London
+Office Administrator
+Warsaw
 Operations Analyst
 New York, Montreal
 Operations Analyst - Middle Office
