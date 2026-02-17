@@ -11,6 +11,7 @@ Departments
 Finance
 Human Resources
 Investment
+Legal
 Office Management
 Operations
 Tax
@@ -56,9 +57,9 @@ London
 HR Systems Associate - Workday
 Bangalore, London
 Indirect Tax Analyst
-London
-Indirect Tax Analyst
 Bangalore
+Indirect Tax Analyst
+London
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
@@ -77,6 +78,8 @@ Junior Risk Manager
 New York, London
 Junior UX/UI Engineer
 London
+Legal Counsel - Corporate
+London, Montreal, Singapore, Hong Kong, Dubai
 MBA Summer Associate (Summer 2026) - Squarepoint Ventures
 New York
 Network Specialist - Core
