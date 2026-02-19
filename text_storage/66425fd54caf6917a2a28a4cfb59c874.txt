@@ -57,9 +57,9 @@ London
 HR Systems Associate - Workday
 Bangalore, London
 Indirect Tax Analyst
-Bangalore
-Indirect Tax Analyst
 London
+Indirect Tax Analyst
+Bangalore
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
@@ -118,8 +118,6 @@ Quant Developer (Python)
 London, Montreal, Warsaw
 Quantitative Developer - High Performance Computing (Python)
 Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
-Quantitative Researcher - Commodities
-New York
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
