@@ -1,4 +1,105 @@
 
+## 2026-02-20 07:53:02
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -234,6 +234,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,9 +91,9 @@
+ Network Specialist - ULL
+ Montreal, London,  New York
+ Office Administrator
+-London
++Warsaw
+ Office Administrator
+-Warsaw
++London
+ Operations Analyst
+ New York, Montreal
+ Operations Analyst - Middle Office
+@@ -118,12 +118,18 @@
+ London, Montreal, Warsaw
+ Quantitative Developer - High Performance Computing (Python)
+ Boston, Geneva, Houston, Hong Kong, London, Paris, New York, Montreal, Singapore, Warsaw, Zug
++Quantitative Researcher - Commodities
++New York
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+ London, New York
+ Senior Discretionary Trader - Macro
+ London, New York
++Senior Information Security Engineer
++Singapore
++Senior Information Security Engineer
++Montreal
+ Senior Quantitative Researcher, Portfolio Construction and Trading
+ New York
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+
 ## 2026-02-19 07:53:36
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
