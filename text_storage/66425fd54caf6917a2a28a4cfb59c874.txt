@@ -57,15 +57,15 @@ London
 HR Systems Associate - Workday
 Bangalore, London
 Indirect Tax Analyst
-London
-Indirect Tax Analyst
 Bangalore
+Indirect Tax Analyst
+London
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
 Geneva, London, Paris, Singapore
 Junior Discretionary Trader
-New York, Houston, London
+London
 Junior Platform Compute and Storage Specialist
 London, Montreal, New York
 Junior Platform Specialist
@@ -114,8 +114,6 @@ Quant Developer (C++)
 London, Montreal, Singapore
 Quant Developer (Python)
 London, Montreal, Warsaw
-Quantitative Researcher - Commodities
-New York
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
@@ -123,11 +121,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Montreal
-Senior Information Security Engineer
 Singapore
-Senior Quantitative Researcher, Portfolio Construction and Trading
-New York
+Senior Information Security Engineer
+Montreal
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency

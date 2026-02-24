@@ -1,4 +1,246 @@
 
+## 2026-02-24 07:55:03
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,6 +93,26 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Graduate Data Scientist
++Technology • Shanghai
++Learn more
++Experienced
++Network Engineer
++Technology • Sydney
++Learn more
++Experienced
++Trading Risk Analyst
++Control • Amsterdam
++Learn more
++Experienced
++Linux Engineer – Bare Metal & Kubernetes
++Technology • Amsterdam
++Learn more
++Experienced
++Data Center Engineer (São Paulo)
++Technology • Amsterdam
++Learn more
++Experienced
+ Trading Engineer
+ Trading, Research and Machine Learning • Sydney
+ Learn more
+@@ -111,26 +131,6 @@
+ Experienced
+ Senior People Data Analyst
+ Business Operations • Amsterdam
+-Learn more
+-Experienced
+-Data Engineer – Enterprise
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-Production Operations Engineer (Trading Systems / SRE / Application Support)
+-Technology • Mumbai
+-Learn more
+-Experienced
+-Enterprise Data Engineer
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-AI Engineer
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-People Technology Support Analyst
+-Technology • Amsterdam
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -127,6 +127,25 @@
+ •
+ Internship
+ Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
++Explore HRT – Singapore
++↳ Apply Now
++Singapore
++Software Engineering
++|
++C++
++|
++Python
++•
++Internship
++Singapore
++Software Engineering
++|
++C++
++|
++Python
++•
++Internship
++Explore HRT is a three-day program where we invite promising 2028 graduates pursuing a degree in computer science, mathematics, or other STEM-related fields to HRT’s Singapore office to learn about the quantitative finance industry. Students will have a unique opportunity to learn about HRT’s technical roles, discover how we operate,...
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+ Join Our Community
+ Interested in HRT but not ready to apply or don’t see what you’re looking for? Join our Talent Community so we can reach out to you when opportunities arise!
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -234,6 +234,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -57,15 +57,15 @@
+ HR Systems Associate - Workday
+ Bangalore, London
+ Indirect Tax Analyst
+-London
++Bangalore
+ Indirect Tax Analyst
+-Bangalore
++London
+ Intern Software Developer - Summer 2026
+ Montreal, London, Warsaw
+ Junior Commodities Fundamental Analyst
+ Geneva, London, Paris, Singapore
+ Junior Discretionary Trader
+-New York, Houston, London
++London
+ Junior Platform Compute and Storage Specialist
+ London, Montreal, New York
+ Junior Platform Specialist
+@@ -114,8 +114,6 @@
+ London, Montreal, Singapore
+ Quant Developer (Python)
+ London, Montreal, Warsaw
+-Quantitative Researcher - Commodities
+-New York
+ Senior Discretionary Trader - Credit
+ London, New York
+ Senior Discretionary Trader - Equities
+@@ -123,11 +121,9 @@
+ Senior Discretionary Trader - Macro
+ London, New York
+ Senior Information Security Engineer
++Singapore
++Senior Information Security Engineer
+ Montreal
+-Senior Information Security Engineer
+-Singapore
+-Senior Quantitative Researcher, Portfolio Construction and Trading
+-New York
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,13 +68,13 @@
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+-Senior Software Engineer, TEALS
+-Hybrid
+-View job
+ Software Engineer / Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, TEALS
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+@@ -92,15 +92,15 @@
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+-Senior Software Engineer, TEALS
+-Hybrid
+-View job
+ Software Engineer / Senior Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
++Software Engineer / Senior Software Engineer, TEALS
++Hybrid
++View job
+ Technical Lead / Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-02-23 07:59:41
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

@@ -68,13 +68,13 @@ View job
 Senior Software Engineer, Secure Govt Comms
 Hybrid
 View job
-Senior Software Engineer, TEALS
-Hybrid
-View job
 Software Engineer / Senior Software Engineer
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
+Hybrid
+View job
+Software Engineer / Senior Software Engineer, TEALS
 Hybrid
 View job
 Technical Lead / Software Engineering Manager
@@ -92,13 +92,13 @@ View job
 Senior Software Engineer, Secure Govt Comms
 Hybrid
 View job
-Senior Software Engineer, TEALS
-Hybrid
-View job
 Software Engineer / Senior Software Engineer
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, HealthTech
+Hybrid
+View job
+Software Engineer / Senior Software Engineer, TEALS
 Hybrid
 View job
 Technical Lead / Software Engineering Manager
