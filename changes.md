@@ -1,4 +1,187 @@
 
+## 2026-02-25 07:56:54
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -92,6 +92,18 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Internship
++2026 Shanghai Data Scientist Summer Internship
++Technology • Shanghai
++Learn more
++Experienced
++Senior Data Scientist
++Technology • Shanghai
++Learn more
++Experienced
++Senior Data Engineer
++Technology • Shanghai
++Learn more
+ Experienced
+ Graduate Data Scientist
+ Technology • Shanghai
+@@ -119,18 +131,6 @@
+ Experienced
+ Institutional Trader
+ Trading, Research and Machine Learning • Amsterdam
+-Learn more
+-Experienced
+-Institutional Trader
+-Trading, Research and Machine Learning • London
+-Learn more
+-Experienced
+-Macro Markets Compliance Officer
+-Control • London
+-Learn more
+-Experienced
+-Senior People Data Analyst
+-Business Operations • Amsterdam
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -132,7 +132,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (15)
++Opportunities (14)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -172,30 +172,30 @@
+ Viewing
+ 10
+ of
+-15
++14
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+-Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+@@ -58,6 +55,7 @@
+ Quarterly Earnings
+ Press releases
+ Events and presentations
++Company Update
+ Investor Day
+ Learn more
+ Chairman and CEO Letter to Shareholders
+```
+
+---
+
 ## 2026-02-24 07:55:03
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
