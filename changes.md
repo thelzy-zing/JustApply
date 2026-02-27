@@ -1,4 +1,153 @@
 
+## 2026-02-27 07:52:09
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -92,13 +92,13 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Corporate Strategist
++Business Operations • New York
++Learn more
+ Student and Graduate
+ Graduate FPGA Developer (Sydney) – 2027
+ Technology • Sydney
+-Learn more
+-Experienced
+-Corporate Strategist
+-Business Operations • New York
+ Learn more
+ Internship
+ 2026 Shanghai Data Scientist Summer Internship
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -238,20 +238,10 @@
+ +
+ Please enable Javascript in your browser for best experience.
+ Careers at Apple
+-Search Roles
+-Overview
++Search
+ Work at Apple
+-Explore Work at Apple
+-Locations
+-Teams
+-Apple Retail
+-Students
+ Life at Apple
+-Explore Life at Apple
+-Diversity Network Associations
+-Shared Values
+-Benefits
+-My Profile
++Profile
+ Sign In
+ Find your perfect role.
+ To reveal list of choices, type
+@@ -350,9 +340,9 @@
+ Apple Wallet
+ Apple Wallet
+ Wallet
+-Apple Card
+-Apple Pay
+-Apple Cash
++Apple Card
++Apple Pay
++Apple Cash
+ Account
+ Account
+ Manage Your Apple Account
+@@ -360,15 +350,15 @@
+ iCloud.com
+ Entertainment
+ Entertainment
+-Apple One
+-Apple TV+
+-Apple Music
+-Apple Arcade
+-Apple Fitness+
+-Apple News+
++Apple One
++Apple TV+
++Apple Music
++Apple Arcade
++Apple Fitness+
++Apple News+
+ Apple Podcasts
+-Apple Books
+-App Store
++Apple Books
++App Store
+ Apple Store
+ Apple Store
+ Find a Store
+@@ -378,7 +368,7 @@
+ Apple Camp
+ Apple Store App
+ Certified Refurbished
+-Apple Trade In
++Apple Trade In
+ Financing
+ Carrier Deals at Apple
+ Order Status
+@@ -396,7 +386,7 @@
+ For Healthcare
+ Apple in Healthcare
+ Mac in Healthcare
+-Health on Apple Watch
++Health on Apple Watch
+ Health Records on iPhone and iPad
+ For Government
+ For Government
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -173,6 +173,9 @@
+ 10
+ of
+ 14
++Quantitative Research Engineer – PhD Intern (US)
++Miami, New York
++Apply Now
+ Software Engineer – Intern (US)
+ Chicago, Miami, New York
+ Apply Now
+@@ -193,9 +196,6 @@
+ Apply Now
+ Quantitative Researcher – PhD Intern (Europe)
+ London, Paris, Zurich
+-Apply Now
+-Quantitative Research Engineer – PhD Intern (US)
+-Miami, New York
+ Apply Now
+ Investment & Trading – Intern (US)
+ Greenwich, Miami, New York
+```
+
+---
+
 ## 2026-02-26 07:55:21
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

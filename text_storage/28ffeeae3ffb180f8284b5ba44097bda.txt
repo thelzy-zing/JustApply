@@ -238,20 +238,10 @@ Accessibility
 +
 Please enable Javascript in your browser for best experience.
 Careers at Apple
-Search Roles
-Overview
+Search
 Work at Apple
-Explore Work at Apple
-Locations
-Teams
-Apple Retail
-Students
 Life at Apple
-Explore Life at Apple
-Diversity Network Associations
-Shared Values
-Benefits
-My Profile
+Profile
 Sign In
 Find your perfect role.
 To reveal list of choices, type
@@ -350,9 +340,9 @@ Gift Cards
 Apple Wallet
 Apple Wallet
 Wallet
-Apple Card
-Apple Pay
-Apple Cash
+Apple Card
+Apple Pay
+Apple Cash
 Account
 Account
 Manage Your Apple Account
@@ -360,15 +350,15 @@ Apple Store Account
 iCloud.com
 Entertainment
 Entertainment
-Apple One
-Apple TV+
-Apple Music
-Apple Arcade
-Apple Fitness+
-Apple News+
+Apple One
+Apple TV+
+Apple Music
+Apple Arcade
+Apple Fitness+
+Apple News+
 Apple Podcasts
-Apple Books
-App Store
+Apple Books
+App Store
 Apple Store
 Apple Store
 Find a Store
@@ -378,7 +368,7 @@ Group Reservations
 Apple Camp
 Apple Store App
 Certified Refurbished
-Apple Trade In
+Apple Trade In
 Financing
 Carrier Deals at Apple
 Order Status
@@ -396,7 +386,7 @@ For Healthcare
 For Healthcare
 Apple in Healthcare
 Mac in Healthcare
-Health on Apple Watch
+Health on Apple Watch
 Health Records on iPhone and iPad
 For Government
 For Government
