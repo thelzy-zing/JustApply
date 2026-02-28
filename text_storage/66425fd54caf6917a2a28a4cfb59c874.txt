@@ -12,7 +12,6 @@ Finance
 Human Resources
 Investment
 Legal
-Office Management
 Operations
 Tax
 Technology
@@ -57,9 +56,9 @@ London
 HR Systems Associate - Workday
 Bangalore, London
 Indirect Tax Analyst
-Bangalore
-Indirect Tax Analyst
 London
+Indirect Tax Analyst
+Bangalore
 Intern Software Developer - Summer 2026
 Montreal, London, Warsaw
 Junior Commodities Fundamental Analyst
@@ -90,8 +89,6 @@ Network Specialist - Security
 Montreal, New York, Singapore
 Network Specialist - ULL
 Montreal, London,  New York
-Office Administrator
-Warsaw
 Operations Analyst
 New York, Montreal
 Operations Analyst - Middle Office
@@ -112,6 +109,8 @@ Quant Developer
 London, Montreal, Singapore
 Quant Developer (C++)
 London, Montreal, Singapore
+Quant Developer (KDB)
+London, Montreal, Singapore, Honk Kong
 Quant Developer (Python)
 London, Montreal, Warsaw
 Senior Discretionary Trader - Credit
@@ -121,9 +120,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Singapore
-Senior Information Security Engineer
 Montreal
+Senior Information Security Engineer
+Singapore
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency
