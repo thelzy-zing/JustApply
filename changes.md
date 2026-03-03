@@ -1,4 +1,182 @@
 
+## 2026-03-03 07:47:24
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,6 +93,14 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++US ETF Sales Trader
++Trading, Research and Machine Learning • New York
++Learn more
++Experienced
++AI Engineer
++Technology • Sydney
++Learn more
++Experienced
+ Corporate Strategist
+ Business Operations • New York
+ Learn more
+@@ -123,14 +131,6 @@
+ Experienced
+ Linux Engineer – Bare Metal & Kubernetes
+ Technology • Amsterdam
+-Learn more
+-Experienced
+-Data Center Engineer (São Paulo)
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-Trading Engineer
+-Trading, Research and Machine Learning • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++London
+ New York
+-London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++London
+ New York
+-London
+-Hong Kong
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ iPhone 17 Pro
+ iPhone Air
+ iPhone 17
++iPhone 17e
+ iPhone 16
+-iPhone 16e
+ Compare iPhone
+ Switch from Android
+ Shop iPhone
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -132,7 +132,7 @@
+ Open Opportunities
+ Open Opportunities
+ 1 filter applied
+-Opportunities (14)
++Opportunities (13)
+ Clear All Filters
+ Internships
+ Experience Level
+@@ -172,36 +172,36 @@
+ Viewing
+ 10
+ of
+-14
++13
++Software Engineer – Intern (US)
++Chicago, Miami, New York
++Apply Now
++Software Engineer – Intern (Asia)
++Singapore
++Apply Now
++Sector Data Analyst – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (US)
++Greenwich, Miami, New York
++Apply Now
++Software Engineer – Intern (Europe)
++London
++Apply Now
++Quantitative Researcher – PhD Intern (Asia)
++Hong Kong, Singapore
++Apply Now
++Quantitative Researcher – PhD Intern (Europe)
++London, Paris, Zurich
++Apply Now
+ Quantitative Research Engineer – PhD Intern (US)
+ Miami, New York
+ Apply Now
+-Software Engineer – Intern (US)
+-Chicago, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Asia)
+-Singapore
+-Apply Now
+-Sector Data Analyst – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+-Software Engineer – Intern (Europe)
+-London
+-Apply Now
+-Quantitative Researcher – PhD Intern (Asia)
+-Hong Kong, Singapore
+-Apply Now
+-Quantitative Researcher – PhD Intern (Europe)
+-London, Paris, Zurich
+-Apply Now
+-Investment & Trading – Intern (US)
+-Greenwich, Miami, New York
+-Apply Now
+ Launch Intern – (US)
+ Chicago, Miami, New York
++Apply Now
++Quantitative Research Analyst Intern – BS/MS (Asia)
++Hong Kong, Singapore
+ Apply Now
+ 1
+ 2
+```
+
+---
+
 ## 2026-03-02 07:53:52
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
