@@ -17,6 +17,7 @@ Tax
 Technology
 Offices
 Bangalore
+Geneva
 New York
 Hong Kong
 London
@@ -26,13 +27,14 @@ Singapore
 Warsaw
 Houston
 Los Angeles
-Geneva
 Paris
 Boston
 Zug
 Dubai
 Accountant
 Bangalore
+Commodities Fundamental Analyst
+Geneva
 Data Center Technician
 New York
 Desk Quant Analyst
@@ -89,8 +91,6 @@ Network Specialist - ULL
 Montreal, London,  New York
 Operations Analyst
 New York, Montreal
-Operations Analyst - Middle Office
-Montreal
 PCG Automation Developer (Python)
 Bangalore
 Platform Application Specialist
@@ -118,9 +118,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Singapore
-Senior Information Security Engineer
 Montreal
+Senior Information Security Engineer
+Singapore
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency
