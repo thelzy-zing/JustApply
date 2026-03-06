@@ -1,4 +1,231 @@
 
+## 2026-03-06 07:43:34
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,6 +93,34 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Information Security Officer
++Control • Sydney
++Learn more
++Experienced
++APAC Information Security Operations Lead
++Technology • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Software Developer 2027
++Technology • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Quantitative Trader 2027
++Trading, Research and Machine Learning • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Quantitative Researcher 2027
++Trading, Research and Machine Learning • Sydney
++Learn more
++Experienced
++Quantitative Hardware Researcher
++Technology • Austin
++Learn more
++Experienced
++Software Engineer – Hardware Research
++Technology • Austin
++Learn more
++Experienced
+ Legal Counsel – India
+ Control • Mumbai
+ Learn more
+@@ -103,40 +131,17 @@
+ Experienced
+ US ETF Sales Trader
+ Trading, Research and Machine Learning • New York
+-Learn more
+-Experienced
+-AI Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Corporate Strategist
+-Business Operations • New York
+-Learn more
+-Student and Graduate
+-Graduate FPGA Developer (Sydney) – 2027
+-Technology • Sydney
+-Learn more
+-Internship
+-2026 Shanghai Data Scientist Summer Internship
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Senior Data Scientist
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Senior Data Engineer
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Network Engineer
+-Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+ Careers
+ Recruitment news
+ <
++Technology
++Building visibility into a CI platform
++This article explores how we operate a CI platform on fixed hardware, where auto-scaling is not always an option. It covers how we built visibility into queue times, utilisation, and system behaviour to manage capacity with confidence.
++Learn more
++Global
+ Technology
+ When Speed and Scale Collide
+ Data systems are often described along two axes: speed and scale. In practice, “speed” usually means some combination of latency and throughput, and systems are often optimized for one at the expense of the other, sometimes by trading efficiency for raw capacity. Those distinctions tend to break down quickly once systems move beyond simple use […]
+@@ -183,11 +188,6 @@
+ Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
+ Learn more
+ Americas
+-Experienced, Technology
+-Why DevEx matters to Optiver
+-Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
+-Learn more
+-Global, London
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Mumbai
+ Singapore
+@@ -137,8 +137,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Mumbai
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9d7780b27dce202e
++9d7fb9570992d644
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -184,11 +184,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Bournemouth Think Ahead Program
+ United Kingdom
+ Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+@@ -197,6 +192,16 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -209,24 +214,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2026-03-05 07:46:48
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

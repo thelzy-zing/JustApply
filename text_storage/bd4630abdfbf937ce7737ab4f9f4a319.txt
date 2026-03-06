@@ -93,6 +93,34 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
+Information Security Officer
+Control • Sydney
+Learn more
+Experienced
+APAC Information Security Operations Lead
+Technology • Sydney
+Learn more
+Student and Graduate
+Expressions of Interest – Graduate Software Developer 2027
+Technology • Sydney
+Learn more
+Student and Graduate
+Expressions of Interest – Graduate Quantitative Trader 2027
+Trading, Research and Machine Learning • Sydney
+Learn more
+Student and Graduate
+Expressions of Interest – Graduate Quantitative Researcher 2027
+Trading, Research and Machine Learning • Sydney
+Learn more
+Experienced
+Quantitative Hardware Researcher
+Technology • Austin
+Learn more
+Experienced
+Software Engineer – Hardware Research
+Technology • Austin
+Learn more
+Experienced
 Legal Counsel – India
 Control • Mumbai
 Learn more
@@ -104,39 +132,16 @@ Experienced
 US ETF Sales Trader
 Trading, Research and Machine Learning • New York
 Learn more
-Experienced
-AI Engineer
-Technology • Sydney
-Learn more
-Experienced
-Corporate Strategist
-Business Operations • New York
-Learn more
-Student and Graduate
-Graduate FPGA Developer (Sydney) – 2027
-Technology • Sydney
-Learn more
-Internship
-2026 Shanghai Data Scientist Summer Internship
-Technology • Shanghai
-Learn more
-Experienced
-Senior Data Scientist
-Technology • Shanghai
-Learn more
-Experienced
-Senior Data Engineer
-Technology • Shanghai
-Learn more
-Experienced
-Network Engineer
-Technology • Sydney
-Learn more
 Sorry, no more results available.
 Load more
 Careers
 Recruitment news
 <
+Technology
+Building visibility into a CI platform
+This article explores how we operate a CI platform on fixed hardware, where auto-scaling is not always an option. It covers how we built visibility into queue times, utilisation, and system behaviour to manage capacity with confidence.
+Learn more
+Global
 Technology
 When Speed and Scale Collide
 Data systems are often described along two axes: speed and scale. In practice, “speed” usually means some combination of latency and throughput, and systems are often optimized for one at the expense of the other, sometimes by trading efficiency for raw capacity. Those distinctions tend to break down quickly once systems move beyond simple use […]
@@ -183,11 +188,6 @@ Interning on Optiver’s Austin HFT Team
 Former software engineer intern Ethan shares what it was like to build production systems on Optiver’s Austin high-frequency trading team.
 Learn more
 Americas
-Experienced, Technology
-Why DevEx matters to Optiver
-Optiver’s Global Head of Developer Experience, Cian Lane, shares how DevEx boosts productivity firm-wide: 30% faster CI builds and onboarding cut to minutes.
-Learn more
-Global, London
 >
 See more
 Newsletter
