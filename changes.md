@@ -1,4 +1,63 @@
 
+## 2026-03-07 07:33:52
+
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9d7fb9570992d644
++9d87e884bdee1735
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -169,12 +169,12 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 91 programs
++We found 90 programs
+ slide
+ 1
+ of 4
+ School Programs & Apprenticeships
+-(10)
++(9)
+ Early Insight (pre-internship)
+ (8)
+ Internship
+@@ -183,11 +183,6 @@
+ (33)
+ prev
+ next
+-School Programs & Apprenticeships
+-Bournemouth Think Ahead Program
+-United Kingdom
+-Carve your career path through our hands-on professional development program. Gain insight into how a global financial services firm is run in this one-week, team-driven program for school students in year 12 and develop your employability skills.
+-View role details
+ School Programs & Apprenticeships
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+```
+
+---
+
 ## 2026-03-06 07:43:34
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
