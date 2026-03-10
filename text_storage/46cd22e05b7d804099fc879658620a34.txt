@@ -265,6 +265,7 @@ Hong Kong
 London
 New York
 Seattle
+Shanghai Shi
 Singapore
 Slough
 Functions

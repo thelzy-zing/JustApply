@@ -1,4 +1,126 @@
 
+## 2026-03-10 07:45:34
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,6 +93,26 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Senior Technical Program Manager – Infrastructure
++Technology • Chicago
++Learn more
++Experienced
++Senior Technical Program Manager – Trading & Core Software
++Technology • Austin
++Learn more
++Experienced
++Senior VDI Platform Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Senior Horizon Engineer
++Technology • Amsterdam
++Learn more
++Experienced
++Technical Program Manager – Infrastructure
++Technology • Amsterdam
++Learn more
++Experienced
+ Regional HR Coordinator (12-month contract)
+ Business Operations • Sydney
+ Learn more
+@@ -111,26 +131,6 @@
+ Student and Graduate
+ Expressions of Interest – Graduate Quantitative Trader 2027
+ Trading, Research and Machine Learning • Sydney
+-Learn more
+-Student and Graduate
+-Expressions of Interest – Graduate Quantitative Researcher 2027
+-Trading, Research and Machine Learning • Sydney
+-Learn more
+-Experienced
+-Quantitative Hardware Researcher
+-Technology • Austin
+-Learn more
+-Experienced
+-Software Engineer – Hardware Research
+-Technology • Austin
+-Learn more
+-Experienced
+-Legal Counsel – India
+-Control • Mumbai
+-Learn more
+-Experienced
+-Market Data Analyst
+-Technology • Amsterdam
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -265,6 +265,7 @@
+ London
+ New York
+ Seattle
++Shanghai Shi
+ Singapore
+ Slough
+ Functions
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9d9880b72b57dcf3
++9da0b1c588d50626
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-03-09 07:54:00
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
