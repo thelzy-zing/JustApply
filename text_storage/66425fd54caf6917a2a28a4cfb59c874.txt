@@ -81,8 +81,6 @@ Junior UX/UI Engineer
 London
 Legal Counsel - Corporate
 London, Montreal, Singapore, Hong Kong, Dubai
-MBA Summer Associate (Summer 2026) - Squarepoint Ventures
-New York
 Network Specialist - Core
 Montreal, London, New York
 Network Specialist - Reliability
@@ -113,6 +111,8 @@ Quant Developer (KDB)
 London, Montreal, Singapore, Honk Kong
 Quant Developer (Python)
 London, Montreal, Warsaw
+Quant Researcher - Convex Optimization
+Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
 Senior Discretionary Trader - Credit
 London, New York
 Senior Discretionary Trader - Equities
