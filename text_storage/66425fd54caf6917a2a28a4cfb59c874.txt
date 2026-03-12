@@ -17,14 +17,15 @@ Tax
 Technology
 Offices
 Bangalore
+Jersey
+London
+Montreal
+Warsaw
 Geneva
 New York
 Hong Kong
-London
 Madrid
-Montreal
 Singapore
-Warsaw
 Houston
 Los Angeles
 Paris
@@ -33,6 +34,8 @@ Zug
 Dubai
 Accountant
 Bangalore
+Assistant Controller - Fund Accounting
+Montreal, Jersey, London, Warsaw
 Commodities Fundamental Analyst
 Geneva
 Data Center Technician
@@ -110,7 +113,7 @@ London, Montreal, Singapore
 Quant Developer (KDB)
 London, Montreal, Singapore, Honk Kong
 Quant Developer (Python)
-London, Montreal, Warsaw
+London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
 Quant Researcher - Convex Optimization
 Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
 Senior Discretionary Trader - Credit
@@ -120,9 +123,9 @@ London, New York
 Senior Discretionary Trader - Macro
 London, New York
 Senior Information Security Engineer
-Montreal
-Senior Information Security Engineer
 Singapore
+Senior Information Security Engineer
+Montreal
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Senior Quant Researcher - Equity Mid/Low Frequency

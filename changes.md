@@ -1,4 +1,180 @@
 
+## 2026-03-12 07:51:15
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -93,22 +93,22 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Technology Strategy Manager
++Technology • Amsterdam
++Learn more
++Experienced
++Cloud Infrastructure Engineer – Digital Assets
++Technology • London
++Learn more
++Experienced
+ Senior Legal Counsel
+ Control • Sydney
+ Learn more
+ Experienced
+-Senior Technical Program Manager – Infrastructure
+-Technology • Chicago
+-Learn more
+-Experienced
+ Payroll Specialist – 12 Month FTC
+ Business Operations • London
+ Learn more
+ Experienced
+-Senior Technical Program Manager – Trading & Core Software
+-Technology • Austin
+-Learn more
+-Experienced
+ Senior VDI Platform Engineer
+ Technology • Amsterdam
+ Learn more
+@@ -117,20 +117,20 @@
+ Technology • Amsterdam
+ Learn more
+ Experienced
+-Technical Program Manager – Infrastructure
+-Technology • Amsterdam
+-Learn more
+-Experienced
+-Regional HR Coordinator (12-month contract)
+-Business Operations • Sydney
+-Learn more
+-Experienced
+ Information Security Officer
+ Control • Sydney
+ Learn more
+-Experienced
+-APAC Information Security Operations Lead
++Student and Graduate
++Expressions of Interest – Graduate Software Developer 2027
+ Technology • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Quantitative Trader 2027
++Trading, Research and Machine Learning • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Quantitative Researcher 2027
++Trading, Research and Machine Learning • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,12 +235,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,14 +17,15 @@
+ Technology
+ Offices
+ Bangalore
++Jersey
++London
++Montreal
++Warsaw
+ Geneva
+ New York
+ Hong Kong
+-London
+ Madrid
+-Montreal
+ Singapore
+-Warsaw
+ Houston
+ Los Angeles
+ Paris
+@@ -33,6 +34,8 @@
+ Dubai
+ Accountant
+ Bangalore
++Assistant Controller - Fund Accounting
++Montreal, Jersey, London, Warsaw
+ Commodities Fundamental Analyst
+ Geneva
+ Data Center Technician
+@@ -110,7 +113,7 @@
+ Quant Developer (KDB)
+ London, Montreal, Singapore, Honk Kong
+ Quant Developer (Python)
+-London, Montreal, Warsaw
++London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+ Quant Researcher - Convex Optimization
+ Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
+ Senior Discretionary Trader - Credit
+@@ -120,9 +123,9 @@
+ Senior Discretionary Trader - Macro
+ London, New York
+ Senior Information Security Engineer
++Singapore
++Senior Information Security Engineer
+ Montreal
+-Senior Information Security Engineer
+-Singapore
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Senior Quant Researcher - Equity Mid/Low Frequency
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9da8f36f5d52f457
++9db134cf3d2fc9db
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-03-11 07:48:31
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
