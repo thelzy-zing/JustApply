@@ -27,7 +27,6 @@ Hong Kong
 Madrid
 Singapore
 Houston
-Los Angeles
 Paris
 Boston
 Zug
@@ -54,8 +53,6 @@ Graduate Software Developer
 London, Montreal, Singapore
 Graduate Support Specialist
 London, Montreal, New York, Houston, Hong Kong
-Growth Investor
-Los Angeles
 High-Touch Execution Strategist
 London
 HR Systems Associate - Workday
