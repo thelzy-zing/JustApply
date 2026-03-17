@@ -1,4 +1,727 @@
 
+## 2026-03-17 07:57:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,8 +44,6 @@
+ More
+ open roles
+ Find your next role at Optiver
+-Website
+-Phone
+ All levels
+ Experienced
+ Graduate
+@@ -92,6 +90,34 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Student and Graduate
++Future Focus India – Trading and Research 2026
++Events • Mumbai
++Learn more
++Student and Graduate
++Future Focus India – Technology 2026
++Events • Mumbai
++Learn more
++Experienced
++Quantitative Researcher – SVT
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Hardware Engineer
++Technology • Austin
++Learn more
++Experienced
++Software Engineer – Credit
++Technology • New York
++Learn more
++Experienced
++Quantitative Trader/Researcher – Systematic Options Trading
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Facilities Manager
++Business Operations • Shanghai
++Learn more
+ Internship
+ Quantitative Trading Internship (Taiwan) – 2026/2027
+ Trading, Research and Machine Learning • Taipei
+@@ -104,36 +130,14 @@
+ Site Reliability Engineer – AI
+ Technology • Sydney
+ Learn more
+-Experienced
+-Software Engineer – AI
+-Technology • Sydney
+-Learn more
+-Experienced
+-Production Operations Engineering Team Lead
+-Technology • Sydney
+-Learn more
+-Experienced
+-Network Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Recruitment Coordinator
+-Business Operations • Amsterdam
+-Learn more
+-Experienced
+-Information Security Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-IT Audit Manager APAC
+-Control • Sydney
+-Learn more
+-Experienced
+-Quantitative Researcher – HFT Futures/Equities
+-Trading, Research and Machine Learning • New York
+-Learn more
+ Sorry, no more results available.
+ Load more
++1
++2
++3
++…
++16
++Next »
+ Careers
+ Recruitment news
+ <
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -150,7 +150,7 @@
+ Explore All AirPods
+ AirPods 4
+ AirPods Pro 3
+-AirPods Max
++AirPods Max 2
+ Compare AirPods
+ Shop AirPods
+ Shop AirPods
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,197 +1,391 @@
+-Open opportunities :: Squarepoint
++Open Opportunities :: Squarepoint
+ Squarepoint logo
+ About us
+ Philosophy
+ Culture
+ Careers
++Early Career Opportunities
++Experienced Professionals
++Open Opportunities
+ Locations
+-Apply for open opportunities
+-Please only apply to the one job you feel best fits your skill set and experience. If our team feels you are better suited for another role, we will reach out about the alternate opportunity.
+-Departments
+-Finance
+-Human Resources
+-Investment
+-Legal
+-Operations
+-Tax
+-Technology
+-Offices
+-Bangalore
+-Jersey
+-London
+-Montreal
+-Warsaw
+-Geneva
+-New York
+-Hong Kong
+-Madrid
+-Singapore
+-Houston
+-Paris
+-Boston
+-Zug
+-Dubai
+-Accountant
+-Bangalore
+-Assistant Controller - Fund Accounting
+-Montreal, Jersey, London, Warsaw
+-Commodities Fundamental Analyst
+-Geneva
+-Data Center Technician
+-New York
+-Desk Quant Analyst
+-London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+-Finance Analyst – General Ledger
+-Bangalore
+-FP&A Manager
+-London, Montreal, Bangalore
+-Funds Tax Analyst
+-London
+-Graduate Platform Specialist
+-Hong Kong, London, Montreal, Singapore
+-Graduate Software Developer
+-London, Montreal, Singapore
+-Graduate Support Specialist
+-London, Montreal, New York, Houston, Hong Kong
+-High-Touch Execution Strategist
+-London
+-HR Systems Associate - Workday
+-Bangalore, London
+-Identity and Access Management (IAM) Engineer
+-London
+-Indirect Tax Analyst
+-London
+-Intern Software Developer - Summer 2026
+-Montreal, London, Warsaw
+-Junior Commodities Fundamental Analyst
+-Geneva, London, Paris, Singapore
+-Junior Discretionary Trader
+-London
+-Junior Platform Compute and Storage Specialist
+-London, Montreal, New York
+-Junior Platform Specialist
+-Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+-Junior Quant Researcher
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Quant Researcher - ML Alpha Research
+-London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
+-Junior Risk Manager
+-New York, London
+-Junior UX/UI Engineer
+-London
+-Legal Counsel - Corporate
+-London, Montreal, Singapore, Hong Kong, Dubai
+-Network Specialist - Core
+-Montreal, London, New York
+-Network Specialist - Reliability
+-Montreal, New York
+-Network Specialist - Security
+-Montreal, New York, Singapore
+-Network Specialist - ULL
+-Montreal, London,  New York
+-Operations Analyst
+-New York, Montreal
+-PCG Automation Developer (Python)
+-Bangalore
+-Platform Application Specialist
+-Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
+-Platform Compute and Storage Specialist
+-Montreal, New York, London, Singapore
+-Platform Specialist - Windows and Virtualization
+-Bangalore, London, Montreal, New York
+-Platform ULL - Colo - Reliability
+-London, Montreal, New York, Singapore
+-Platform ULL - Colo - Strategic
+-Montreal, London, New York
+-Quant Developer
+-London, Montreal, Singapore
+-Quant Developer (C++)
+-London, Montreal, Singapore
+-Quant Developer (KDB)
+-London, Montreal, Singapore, Honk Kong
+-Quant Developer (Python)
+-London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+-Quant Researcher - Convex Optimization
+-Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
+-Senior Discretionary Trader - Credit
+-London, New York
+-Senior Discretionary Trader - Equities
+-London, New York
+-Senior Discretionary Trader - Macro
+-London, New York
+-Senior Information Security Engineer
+-Singapore
+-Senior Information Security Engineer
+-Montreal
+-Senior Quant Researcher - CTA/Short-Term
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Equity Mid/Low Frequency
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Fixed Income
+-Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+-Senior Quant Researcher - Intraday Statistical Arbitrage
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Senior Quant Researcher - Volatility
+-Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
+-Shift Trader
+-Singapore, London
+-Site Management Specialist
+-New York
+-Software Developer (C++)
+-London, Montreal, Singapore
+-Software Developer - Data Development Integrator
+-London
+-Software Developer - Data Infrastructure
+-London, Montreal, Singapore
+-Software Developer - Data Pipelines (Python)
+-London, Montreal, Madrid, Bangalore
+-Software Developer - Data Products and Services
+-Montreal, London, Singapore, Bangalore
+-Software Developer - Data Services (KDB+/Q)
+-Singapore, Montreal, London, Hong Kong, New York, Warsaw
+-Software Developer - Front-end
+-London, Montreal
+-Software Developer - Internal Compute Frameworks (Python)
+-London, Montreal, Singapore, Warsaw
+-Software Developer - Internal Compute Frameworks (Rust)
+-London, Montreal, Singapore, Warsaw
+-Software Developer (KDB+/Q)
+-London, Montreal, Singapore
+-Software Developer - Market Access
+-Montreal , Singapore, Warsaw
+-Software Developer (Python)
+-London, Montreal, Singapore
+-Software Developer - Risk Data Pipelines
+-Bangalore, Montreal, Warsaw
+-Software Developer - Risk Reliability
+-Singapore, Montreal , London
+-Software Developer - Risk Technology
+-London, Montreal, Bangalore & Warsaw
+-Support Analyst - Desktop
+-New York, London, Montreal, Paris
+-Support Analyst - Trade Flow Pilot
+-Bangalore
+-Tax Analyst
+-London
+-Tax Analyst
+-Bangalore
+-Technical Business Analyst
+-London, Paris, Montreal, Singapore
+-Technology Integration Specialist
+-London, Montreal, Bangalore
+-Trade Flow Support - Trading Application Support
+-London, Montreal, New York, Singapore, Hong Kong, Houston
+-Trade Flow Support - Trading Infrastructure Support
+-Singapore
+-Trading Applications Specialist
+-London, Singapore, Houston, New York, Montreal
+-Trading Infrastructure Specialist
+-London, Montreal, Hong Kong
+ Squarepoint logo
+ About us
+ Philosophy
+ Culture
+ Careers
++Early Career Opportunities
++Experienced Professionals
++Open Opportunities
++Locations
++Open Opportunities
++Our team-focused culture brings together exceptional talent in various technical disciplines and empowers everyone to perform in a truly outstanding way.
++Search open opportunities
++Filters
++Experience level
++Early Careers
++Experienced Professionals
++Internships
++Division
++Corporate
++Investment
++Technology
++Location
++Bangalore
++Boston
++Dubai
++Geneva
++Hong Kong
++Houston
++Jersey
++London
++Madrid
++Montreal
++New York
++Paris
++Singapore
++Warsaw
++Zug
++Corporate
++Accountant
++Bangalore
++Apply
++Corporate
++Assistant Controller - Fund Accounting
++Montreal, Jersey, London, Warsaw
++Apply
++Investment
++Commodities Fundamental Analyst
++Geneva
++Apply
++Technology
++Data Center Technician
++New York
++Apply
++Investment
++Desk Quant Analyst
++London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
++Apply
++Corporate
++Finance Analyst – General Ledger
++Bangalore
++Apply
++Corporate
++FP&A Manager
++London, Montreal, Bangalore
++Apply
++Investment
++Fundamental Equity Research Analyst
++New York
++Apply
++Corporate
++Funds Tax Analyst
++London
++Apply
++Technology
++Graduate Platform Specialist
++Hong Kong, London, Montreal, Singapore
++Apply
++Technology
++Graduate Software Developer
++London, Montreal, Singapore
++Apply
++Technology
++Graduate Support Specialist
++London, Montreal, New York, Houston, Hong Kong
++Apply
++Investment
++High-Touch Execution Strategist
++London
++Apply
++Corporate
++HR Systems Associate - Workday
++Bangalore, London
++Apply
++Technology
++Identity and Access Management (IAM) Engineer
++London
++Apply
++Corporate
++Indirect Tax Analyst
++London
++Apply
++Technology
++Intern Software Developer - Summer 2026
++Montreal, London, Warsaw
++Apply
++Investment
++Junior Commodities Fundamental Analyst
++Geneva, London, Paris, Singapore
++Apply
++Investment
++Junior Discretionary Trader
++London
++Apply
++Technology
++Junior Platform Compute and Storage Specialist
++London, Montreal, New York
++Apply
++Technology
++Junior Platform Specialist
++Montreal, London, Singapore, Hong Kong, Warsaw, Houston
++Apply
++Investment
++Junior Quant Researcher
++London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Apply
++Investment
++Junior Quant Researcher - ML Alpha Research
++London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore
++Apply
++Investment
++Junior Risk Manager
++New York, London
++Apply
++Technology
++Junior UX/UI Engineer
++London
++Apply
++Corporate
++Legal Counsel - Corporate
++London, Montreal, Singapore, Hong Kong, Dubai
++Apply
++Technology
++Network Specialist - Core
++Montreal, London, New York
++Apply
++Technology
++Network Specialist - Reliability
++Montreal, New York
++Apply
++Technology
++Network Specialist - Security
++Montreal, New York, Singapore
++Apply
++Technology
++Network Specialist - ULL
++Montreal, London,  New York
++Apply
++Corporate
++Operations Analyst
++New York, Montreal
++Apply
++Technology
++PCG Automation Developer (Python)
++Bangalore
++Apply
++Technology
++Platform Application Specialist
++Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
++Apply
++Technology
++Platform Compute and Storage Specialist
++Montreal, New York, London, Singapore
++Apply
++Technology
++Platform Specialist - Windows and Virtualization
++Bangalore, London, Montreal, New York
++Apply
++Technology
++Platform ULL - Colo - Reliability
++London, Montreal, New York, Singapore
++Apply
++Technology
++Platform ULL - Colo - Strategic
++Montreal, London, New York
++Apply
++Technology
++Quant Developer
++London, Montreal, Singapore
++Apply
++Technology
++Quant Developer (C++)
++London, Montreal, Singapore
++Apply
++Technology
++Quant Developer (KDB)
++London, Montreal, Singapore, Honk Kong
++Apply
++Technology
++Quant Developer (Python)
++London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
++Apply
++Investment
++Quantitative Researcher - Equity
++New York
++Apply
++Investment
++Quantitative Researcher - Investment CTA/Fixed Income
++New York
++Apply
++Investment
++Quant Researcher - Convex Optimization
++Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
++Apply
++Investment
++Senior Discretionary Trader - Credit
++London, New York
++Apply
++Investment
++Senior Discretionary Trader - Equities
++London, New York
++Apply
++Investment
++Senior Discretionary Trader - Macro
++London, New York
++Apply
++Technology
++Senior Information Security Engineer
++Montreal
++Apply
++Technology
++Senior Information Security Engineer
++Singapore
++Apply
++Investment
++Senior Quant Researcher - CTA/Short-Term
++Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
++Apply
++Investment
++Senior Quant Researcher - Equity Mid/Low Frequency
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Apply
++Investment
++Senior Quant Researcher - Fixed Income
++Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
++Apply
++Investment
++Senior Quant Researcher - Intraday Statistical Arbitrage
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Apply
++Investment
++Senior Quant Researcher - Volatility
++Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston
++Apply
++Investment
++Shift Trader
++Singapore, London
++Apply
++Technology
++Site Management Specialist
++New York
++Apply
++Technology
++Software Developer (C++)
++London, Montreal, Singapore
++Apply
++Technology
++Software Developer - Data Development Integrator
++London
++Apply
++Technology
++Software Developer - Data Infrastructure
++London, Montreal, Singapore
++Apply
++Technology
++Software Developer - Data Pipelines (Python)
++London, Montreal, Madrid, Bangalore
++Apply
++Technology
++Software Developer - Data Products and Services
++Montreal, London, Singapore, Bangalore
++Apply
++Technology
++Software Developer - Data Services (KDB+/Q)
++Singapore, Montreal, London, Hong Kong, New York, Warsaw
++Apply
++Technology
++Software Developer - Front-end
++London, Montreal
++Apply
++Technology
++Software Developer - Internal Compute Frameworks (Python)
++London, Montreal, Singapore, Warsaw
++Apply
++Technology
++Software Developer - Internal Compute Frameworks (Rust)
++London, Montreal, Singapore, Warsaw
++Apply
++Technology
++Software Developer (KDB+/Q)
++London, Montreal, Singapore
++Apply
++Technology
++Software Developer - Market Access
++Montreal , Singapore, Warsaw
++Apply
++Technology
++Software Developer (Python)
++London, Montreal, Singapore
++Apply
++Technology
++Software Developer - Risk Data Pipelines
++Bangalore, Montreal, Warsaw
++Apply
++Technology
++Software Developer - Risk Reliability
++Singapore, Montreal , London
++Apply
++Technology
++Software Developer - Risk Technology
++London, Montreal, Bangalore & Warsaw
++Apply
++Investment
++Sr. Quantitative Researcher - Volatility Trading
++New York
++Apply
++Technology
++Support Analyst - Desktop
++New York, London, Montreal, Paris
++Apply
++Technology
++Support Analyst - Trade Flow Pilot
++Bangalore
++Apply
++Investment
++Systems Specialist
++New York
++Apply
++Corporate
++Tax Analyst
++London
++Apply
++Corporate
++Tax Analyst
++Bangalore
++Apply
++Investment
++Technical Business Analyst
++London, Paris, Montreal, Singapore
++Apply
++Technology
++Technology Integration Specialist
++London, Montreal, Bangalore
++Apply
++Technology
++Trade Flow Support - Trading Application Support
++London, Montreal, New York, Singapore, Hong Kong, Houston
++Apply
++Technology
++Trade Flow Support - Trading Infrastructure Support
++Singapore
++Apply
++Technology
++Trading Applications Specialist
++London, Singapore, Houston, New York, Montreal
++Apply
++Technology
++Trading Infrastructure Specialist
++London, Montreal, Hong Kong
++Apply
++Scroll to top
++Squarepoint logo
++About us
++Philosophy
++Culture
++Careers
++Early Career Opportunities
++Experienced Professionals
++Open Opportunities
+ Locations
+ Contact Us
+ Disclosures
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9dd249409969b6f4
++9dda716179117de3
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-03-16 08:12:21
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
