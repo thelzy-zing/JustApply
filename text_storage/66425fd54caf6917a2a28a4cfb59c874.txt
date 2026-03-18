@@ -57,6 +57,10 @@ Investment
 Commodities Fundamental Analyst
 Geneva
 Apply
+Corporate
+Corporate Foundation Coordinator
+London
+Apply
 Technology
 Data Center Technician
 New York
@@ -69,13 +73,17 @@ Corporate
 Finance Analyst – General Ledger
 Bangalore
 Apply
+Investment
+Financial Research Analyst
+Bangalore
+Apply
 Corporate
 FP&A Manager
 London, Montreal, Bangalore
 Apply
 Investment
 Fundamental Equity Research Analyst
-New York
+Boston
 Apply
 Corporate
 Funds Tax Analyst
@@ -144,10 +152,6 @@ Apply
 Technology
 Junior UX/UI Engineer
 London
-Apply
-Corporate
-Legal Counsel - Corporate
-London, Montreal, Singapore, Hong Kong, Dubai
 Apply
 Technology
 Network Specialist - Core
@@ -242,6 +246,10 @@ Senior Information Security Engineer
 Singapore
 Apply
 Investment
+Senior Quantitative Researcher - Volatility Trading
+New York
+Apply
+Investment
 Senior Quant Researcher - CTA/Short-Term
 Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
 Apply
@@ -328,10 +336,6 @@ Apply
 Technology
 Software Developer - Risk Technology
 London, Montreal, Bangalore & Warsaw
-Apply
-Investment
-Sr. Quantitative Researcher - Volatility Trading
-New York
 Apply
 Technology
 Support Analyst - Desktop

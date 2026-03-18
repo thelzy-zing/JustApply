@@ -1,4 +1,320 @@
 
+## 2026-03-18 07:57:52
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,30 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Senior Software Engineer – Production Team
++Technology • Sydney
++Learn more
++Experienced
++Information Security Officer
++Control • Sydney
++Learn more
++Experienced
++Paralegal
++Control • Sydney
++Learn more
++Experienced
++Software Engineer – C++
++Technology • New York
++Learn more
++Experienced
++Campus Recruiter
++Business Operations • Amsterdam
++Learn more
++Experienced
++Campus Attraction & Events Coordinator
++Business Operations • Amsterdam
++Learn more
+ Student and Graduate
+ Future Focus India – Trading and Research 2026
+ Events • Mumbai
+@@ -105,30 +129,6 @@
+ Experienced
+ Hardware Engineer
+ Technology • Austin
+-Learn more
+-Experienced
+-Software Engineer – Credit
+-Technology • New York
+-Learn more
+-Experienced
+-Quantitative Trader/Researcher – Systematic Options Trading
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Facilities Manager
+-Business Operations • Shanghai
+-Learn more
+-Internship
+-Quantitative Trading Internship (Taiwan) – 2026/2027
+-Trading, Research and Machine Learning • Taipei
+-Learn more
+-Experienced
+-Network Operations Engineer – Contract
+-Technology • Sydney
+-Learn more
+-Experienced
+-Site Reliability Engineer – AI
+-Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,10 +84,11 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+-Singapore
++Singapore
++Chicago
+ Mumbai
+ Singapore
+ DEPARTMENT
+@@ -136,10 +137,11 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+-Singapore
++Singapore
++Chicago
+ Mumbai
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,6 +235,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -57,6 +57,10 @@
+ Commodities Fundamental Analyst
+ Geneva
+ Apply
++Corporate
++Corporate Foundation Coordinator
++London
++Apply
+ Technology
+ Data Center Technician
+ New York
+@@ -69,13 +73,17 @@
+ Finance Analyst – General Ledger
+ Bangalore
+ Apply
++Investment
++Financial Research Analyst
++Bangalore
++Apply
+ Corporate
+ FP&A Manager
+ London, Montreal, Bangalore
+ Apply
+ Investment
+ Fundamental Equity Research Analyst
+-New York
++Boston
+ Apply
+ Corporate
+ Funds Tax Analyst
+@@ -145,10 +153,6 @@
+ Junior UX/UI Engineer
+ London
+ Apply
+-Corporate
+-Legal Counsel - Corporate
+-London, Montreal, Singapore, Hong Kong, Dubai
+-Apply
+ Technology
+ Network Specialist - Core
+ Montreal, London, New York
+@@ -242,6 +246,10 @@
+ Singapore
+ Apply
+ Investment
++Senior Quantitative Researcher - Volatility Trading
++New York
++Apply
++Investment
+ Senior Quant Researcher - CTA/Short-Term
+ Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston
+ Apply
+@@ -328,10 +336,6 @@
+ Technology
+ Software Developer - Risk Technology
+ London, Montreal, Bangalore & Warsaw
+-Apply
+-Investment
+-Sr. Quantitative Researcher - Volatility Trading
+-New York
+ Apply
+ Technology
+ Support Analyst - Desktop
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9dda716179117de3
++9de2aeca095cf46e
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,7 +61,28 @@
+ Senior Software Engineer, Citizen Engagement
+ Hybrid
+ View job
+-Senior Software Engineer, ScamShield
++Senior Software Engineer, Secure Govt Comms
++Hybrid
++View job
++Software Engineer / Senior Software Engineer
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, National Traffic Enforcement System
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, ScamShield
++Hybrid
++View job
++Technical Lead / Software Engineering Manager
++Hybrid
++View job
++Lead Security Engineer
++Hybrid
++View job
++Senior Software Engineer, Citizen Engagement
+ Hybrid
+ View job
+ Senior Software Engineer, Secure Govt Comms
+@@ -76,28 +97,7 @@
+ Software Engineer / Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+-Technical Lead / Software Engineering Manager
+-Hybrid
+-View job
+-Lead Security Engineer
+-Hybrid
+-View job
+-Senior Software Engineer, Citizen Engagement
+-Hybrid
+-View job
+-Senior Software Engineer, ScamShield
+-Hybrid
+-View job
+-Senior Software Engineer, Secure Govt Comms
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, National Traffic Enforcement System
++Software Engineer / Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+ Technical Lead / Software Engineering Manager
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-03-17 07:57:51
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
