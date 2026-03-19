@@ -1,4 +1,173 @@
 
+## 2026-03-19 07:52:03
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -95,6 +95,18 @@
+ Technology • Sydney
+ Learn more
+ Experienced
++Campus Recruiter
++Business Operations • London
++Learn more
++Experienced
++Campus Recruiter
++Business Operations • Amsterdam
++Learn more
++Experienced
++Payroll Specialist – 12 Month FTC
++Business Operations • London
++Learn more
++Experienced
+ Information Security Officer
+ Control • Sydney
+ Learn more
+@@ -105,10 +117,6 @@
+ Experienced
+ Software Engineer – C++
+ Technology • New York
+-Learn more
+-Experienced
+-Campus Recruiter
+-Business Operations • Amsterdam
+ Learn more
+ Experienced
+ Campus Attraction & Events Coordinator
+@@ -121,14 +129,6 @@
+ Student and Graduate
+ Future Focus India – Technology 2026
+ Events • Mumbai
+-Learn more
+-Experienced
+-Quantitative Researcher – SVT
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Hardware Engineer
+-Technology • Austin
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -138,8 +138,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -264,6 +264,7 @@
+ Dublin
+ Hong Kong
+ London
++Mumbai
+ New York
+ Seattle
+ Shanghai Shi
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -239,11 +239,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Singapore
++Apply
++Technology
++Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quantitative Researcher - Volatility Trading
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9de2aeca095cf46e
++9deae3a248a4d4d9
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-03-18 07:57:52
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
