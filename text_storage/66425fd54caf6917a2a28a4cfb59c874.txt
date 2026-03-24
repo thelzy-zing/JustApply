@@ -115,7 +115,7 @@ London
 Apply
 Technology
 Intern Software Developer - Summer 2026
-Montreal, London, Warsaw
+Warsaw
 Apply
 Investment
 Junior Commodities Fundamental Analyst
@@ -148,6 +148,10 @@ Apply
 Technology
 Junior UX/UI Engineer
 London
+Apply
+Corporate
+Legal Counsel - Funds
+London, Montreal, Singapore, Hong Kong, Dubai
 Apply
 Technology
 Network Specialist - Core
@@ -235,11 +239,11 @@ London, New York
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quantitative Researcher - Volatility Trading
