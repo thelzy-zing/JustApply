@@ -77,10 +77,6 @@ Investment
 Financial Research Analyst
 Bangalore
 Apply
-Corporate
-FP&A Manager
-London, Montreal, Bangalore
-Apply
 Investment
 Fundamental Equity Research Analyst
 Boston
@@ -239,11 +235,11 @@ London, New York
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Investment
 Senior Quantitative Researcher - Volatility Trading
