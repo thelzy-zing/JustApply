@@ -31,7 +31,6 @@ MacBook Pro
 iMac
 Mac mini
 Mac Studio
-Mac Pro
 Displays
 Compare Mac
 Switch from PC to Mac
@@ -235,12 +234,6 @@ Get AppleCare
 Apple Account and Password
 Billing & Subscriptions
 Accessibility
-Quick Links
-Find a Store
-Apple Vision Pro
-AirPods
-Apple Intelligence
-Apple Trade In
 0
 +
 Please enable Javascript in your browser for best experience.
