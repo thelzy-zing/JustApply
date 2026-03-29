@@ -1,4 +1,379 @@
 
+## 2026-03-29 07:55:52
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,271 +1,3 @@
+-Make an Impact with Optiver Careers
+-About us
+-Working at Optiver
+-Institutional Sales
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-About Us
+-Locations
+-Optiver and chess
+-Working at Optiver
+-Careers
+-Early careers
+-Career Hub
+-Events
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Optiver Execution Services
+-Principal Strategic Investments
+-Optiver Foundation
+-Insights
+-News
+-Contact
+-Latest Insights
+-<
+-Market views
+-Volatility views: Investors are rethinking longer-dated volatility
+-Learn more
+-Americas, Global
+-Market structure
+-Lend, borrow, grow: Improving Brazil’s SBL market
+-Learn more
+-Americas, Global
+-Market structure
+-Enhancing swaps liquidity through targeted reforms
+-Learn more
+-Americas
+->
+-CAREERS
+-Are you interested in an environment where new challenges arise by the nanosecond?
+-More
+-open roles
+-Find your next role at Optiver
+-All levels
+-Experienced
+-Graduate
+-Internship
+-Prospect
+-Student and Graduate
+-Internship
+-All departments
+-Business Operations
+-Control
+-Corporate Strategy
+-Development
+-Events
+-Facility
+-Finance
+-HR
+-IT Operations
+-Risk
+-Risk Management
+-Technology
+-Trading, Research and Machine Learning
+-Transfers
+-All departments
+-All offices
+-Amsterdam
+-Amsterdam / London
+-Austin
+-Chicago
+-Durham
+-Frankfurt
+-Hong Kong
+-Jersey City
+-London
+-Mumbai
+-New York
+-Optiver Services B.V.
+-Optiver Services B.V. Optiver UK
+-Optiver UK
+-Secaucus
+-Shanghai
+-Singapore
+-Sydney
+-Taipei
+-United States
+-Singapore
+-No results found. Try adjusting your search or filter criteria.
+-Student and Graduate
+-Graduate Quantitative Researcher, PhD (2026 Start)
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Internship
+-Quantitative Research Intern, PhD (Summer 2026)
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Operational Risk Analyst
+-Control • Sydney
+-Learn more
+-Experienced
+-Senior Software Engineer
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Software Engineer – AI
+-Technology • Sydney
+-Learn more
+-Experienced
+-AI Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Operations Analyst
+-Technology • Chicago
+-Learn more
+-Experienced
+-Manufacturing Test Engineer (PCBA)
+-Technology • Austin
+-Learn more
+-Experienced
+-Mechanical Technician
+-Technology • Austin
+-Learn more
+-Experienced
+-Commodity Quantitative Researcher
+-Trading, Research and Machine Learning • Shanghai
+-Learn more
+-Sorry, no more results available.
+-Load more
+-1
+-2
+-3
+-…
+-17
+-Next »
+-Careers
+-Recruitment news
+-<
+-Technology
+-Infrastructure-as-Code for Latency-Critical Bare Metal Systems
+-About the Speaker Leanne Fok is a Senior Infrastructure Engineer in Amsterdam with 15+ years at Optiver. She previously led the Infrastructure Platform team responsible for our internal Infrastructure-as-Code stack and is now leading the Infrastructure Kubernetes project. Infrastructure-as-Code is straightforward in the cloud. But what about on bare metal? In her PyLadies talk, “Infrastructure-as-Code […]
+-Learn more
+-Global
+-Technology
+-Building visibility into a CI platform
+-This article explores how we operate a CI platform on fixed hardware, where auto-scaling is not always an option. It covers how we built visibility into queue times, utilisation, and system behaviour to manage capacity with confidence.
+-Learn more
+-Global
+-Technology
+-When Speed and Scale Collide
+-Data systems are often described along two axes: speed and scale. In practice, “speed” usually means some combination of latency and throughput, and systems are often optimized for one at the expense of the other, sometimes by trading efficiency for raw capacity. Those distinctions tend to break down quickly once systems move beyond simple use […]
+-Learn more
+-Global
+-Technology
+-Real-Time Trading Dashboards with Databricks Apps and Dash
+-Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
+-Learn more
+-Global
+-Experienced, Meet the team, Trading
+-Inside Optiver’s Institutional Trading Team
+-Ask five Institutional Traders how they got here, and you’ll get five different answers. Traders from Optiver’s Institutional team share their diverse paths, how they use their unique backgrounds every day, and practical advice for anyone considering the role.
+-Learn more
+-Europe, Global
+-Life at Optiver, Program
+-From FutureFocus to Optiver’s quant trading internship
+-FutureFocus is an educational program that gives students an inside look at the challenges our technology, trading, and research teams face everyday.
+-Learn more
+-Americas
+-Technology
+-Research at Scale: Orchestrating ML for Systematic Trading
+-Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
+-Learn more
+-Experienced, Technology
+-Choosing between free threading and async in Python
+-As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
+-Prompting his choice of topic was a recent change in CPython, as Samet explained:
+-“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
+-Here’s how he breaks it down, and what it means for your next Python project.
+-Learn more
+-Europe, Global
+-Meet the team
+-Career Kickstarter Tech: The ‘why’ behind every trading system
+-At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
+-Learn more
+-Amsterdam, Europe
+-Recruitment at Optiver
+-Optiver EU campus recruiting Q&A
+-Learn more
+-EMEA
+->
+-See more
+-Newsletter
+-Subscribe to receive our latest insights on trading, technology and market structure
+-As a tech-driven trading firm, Optiver improves financial markets by providing liquidity to exchanges across the globe, making markets more efficient, transparent and stable.
+-LinkedIn
+-Twitter
+-YouTube
+-About Us
+-Locations
+-Contact us
+-Optiver and chess
+-Institutional Sales
+-Europe
+-Asia Pacific
+-United States
+-Working at Optiver
+-Careers
+-Graduate & Student
+-Internships
+-Career Hub
+-Recruitment Events
+-Principal Strategic Investments
+-The Optiver Foundation
+-Insights
+-News
+-© Copyright 2026. All Rights Reserved
+-Privacy Policy
+-Disclosures
+-Cookie Policy
+-Notices
+-Heading
+-Close
+-Hier de html
+-Close
+-Newsletter sign-up
+-Email
+-*
+-First name
+-*
+-Last name
+-*
+-Job function
+-Company name
+-*
+-Region
+-*
+-Please Select
+-APAC
+-EMEA
+-North America
+-Initiative Format
+-Initiative Name
+-Initiative Office
+-Initiative Purpose
+-Initiative Region
+-Initiative Team
+-Initiative Type/Specifics
+-Initiative Year
+-The personal data included in this form is processed by Optiver to sign you up for the Insights newsletter and send Optiver news, blog posts and Insights articles to your inbox. Please check our
+-privacy policy
+-to see how we protect and manage your submitted personal data.
+-I agree to receive communications from Optiver about news, blog posts and Insights articles.
+-*
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
++One moment, please...
++Loader
++Please wait while your request is being verified...
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9e3506a6ad08fa0f
++9e3d4efd9c6a81bb
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -184,19 +184,14 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -209,19 +204,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2026-03-28 07:48:23
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
