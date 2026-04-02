@@ -84,8 +84,8 @@ Internship
 LOCATION
 All Locations
 Hong Kong
-London
 New York
+London
 Singapore
 Chicago
 Mumbai
@@ -136,8 +136,8 @@ Internship
 LOCATION
 All Locations
 Hong Kong
-London
 New York
+London
 Singapore
 Chicago
 Mumbai
