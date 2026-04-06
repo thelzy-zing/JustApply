@@ -1,4 +1,44 @@
 
+## 2026-04-06 08:25:55
+
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9e7700ccb9c2d6e0
++9e7f6603ee5ff4ae
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-04-05 07:58:43
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
