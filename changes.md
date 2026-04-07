@@ -1,4 +1,273 @@
 
+## 2026-04-07 08:17:24
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,6 +90,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Internship
++Quantitative Researcher Internship – 2026-27
++Trading, Research and Machine Learning • Sydney
++Learn more
++Internship
++Quantitative Trading Internship – 2026-27
++Trading, Research and Machine Learning • Sydney
++Learn more
++Experienced
++Trading Analyst
++Trading, Research and Machine Learning • Sydney
++Learn more
++Experienced
++Microwave & Telecom Infrastructure Deployment Manager
++Technology • Austin
++Learn more
++Experienced
++FPGA Engineer
++Technology • New York
++Learn more
++Experienced
++Production Operations Engineer (Trading Systems / SRE / Application Support)
++Technology • Mumbai
++Learn more
++Experienced
++Enterprise Technology Support Engineer
++Technology • Mumbai
++Learn more
++Experienced
++Corporate Strategy Analyst – Mumbai
++Trading, Research and Machine Learning • Mumbai
++Learn more
++Experienced
++Enterprise Technology Support Engineer
++Technology • Chicago
++Learn more
++Experienced
++Recruitment Coordinator
++Business Operations • Austin
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+@@ -135,9 +135,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -51,7 +51,7 @@
+ Apply
+ Corporate
+ Accounts Payable Finance Analyst
+-Montreal, Warsaw
++Montreal, Warsaw, Bangalore
+ Apply
+ Corporate
+ Assistant Controller - Fund Accounting
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9e7f6603ee5ff4ae
++9e8796e9bd23230c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -77,7 +77,7 @@
+ Software Engineer / Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+-Technical Lead / Software Engineering Manager
++Software Engineering Manager
+ Hybrid
+ View job
+ Senior Software Engineer, AI Native
+@@ -101,6 +101,6 @@
+ Software Engineer / Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+-Technical Lead / Software Engineering Manager
++Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+@@ -19,7 +16,7 @@
+ Diversity, opportunity & inclusion
+ Read more
+ Chairman and CEO Letter to Shareholders
+-Annual Report 2024
++Annual Report 2025
+ Learn more
+ Impact
+ Impact
+@@ -53,7 +50,7 @@
+ Learn more
+ Investor Relations
+ Investor Relations
+-CEO Letters
++Senior Executive Letters
+ Annual Report
+ Quarterly Earnings
+ Press releases
+@@ -62,12 +59,12 @@
+ Investor Day
+ Learn more
+ Chairman and CEO Letter to Shareholders
+-Annual Report 2024
++Annual Report 2025
+ Learn more
+ Newsroom
+ Latest news
+-JPMorganChase Celebrates Grand Opening of New Global Headquarters at 270 Park Avenue
+-JPMorganChase opened its new global headquarters at 270 Park Avenue, marking a major milestone in its commitment to New York City.
++Chairman and CEO Letter to Shareholders
++Annual Report 2025
+ Learn more
+ Careers
+ Explore Opportunities
+@@ -187,19 +184,14 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -212,19 +204,24 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
++View role details
++School Programs & Apprenticeships
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2026-04-06 08:25:55
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
