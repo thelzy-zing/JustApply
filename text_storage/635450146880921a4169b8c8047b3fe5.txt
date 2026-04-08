@@ -5,7 +5,7 @@ This website uses a security service to protect against malicious bots. This pag
 Verification successful. Waiting for www.citadel.com to respond
 Enable JavaScript and cookies to continue
 Ray ID:
-9e8796e9bd23230c
+9e8fd351abdeb81f
 Performance and Security by
 Cloudflare
 Privacy

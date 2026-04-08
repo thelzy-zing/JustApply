@@ -90,46 +90,6 @@ Taipei
 United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
-Internship
-Quantitative Researcher Internship – 2026-27
-Trading, Research and Machine Learning • Sydney
-Learn more
-Internship
-Quantitative Trading Internship – 2026-27
-Trading, Research and Machine Learning • Sydney
-Learn more
-Experienced
-Trading Analyst
-Trading, Research and Machine Learning • Sydney
-Learn more
-Experienced
-Microwave & Telecom Infrastructure Deployment Manager
-Technology • Austin
-Learn more
-Experienced
-FPGA Engineer
-Technology • New York
-Learn more
-Experienced
-Production Operations Engineer (Trading Systems / SRE / Application Support)
-Technology • Mumbai
-Learn more
-Experienced
-Enterprise Technology Support Engineer
-Technology • Mumbai
-Learn more
-Experienced
-Corporate Strategy Analyst – Mumbai
-Trading, Research and Machine Learning • Mumbai
-Learn more
-Experienced
-Enterprise Technology Support Engineer
-Technology • Chicago
-Learn more
-Experienced
-Recruitment Coordinator
-Business Operations • Austin
-Learn more
 Sorry, no more results available.
 Load more
 1
@@ -226,6 +186,19 @@ Notices
 Heading
 Close
 Hier de html
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
 Close
 Newsletter sign-up
 Email
@@ -256,16 +229,3 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
