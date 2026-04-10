@@ -126,10 +126,6 @@ Junior Discretionary Trader
 London
 Apply
 Technology
-Junior Platform Compute and Storage Specialist
-London, Montreal, New York
-Apply
-Technology
 Junior Platform Specialist
 Montreal, London, Singapore, Hong Kong, Warsaw, Houston
 Apply
@@ -212,6 +208,10 @@ Apply
 Technology
 Quant Developer (Python)
 London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+Apply
+Technology
+Quantitative Developer - High Performance Computing (Python)
+Montreal, Warsaw, Boston, Geneva, Houston, London, Paris, Zug
 Apply
 Investment
 Quantitative Researcher - Equity
