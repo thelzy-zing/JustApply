@@ -62,6 +62,9 @@ View job
 Senior Software Engineer, Citizen Engagement
 Hybrid
 View job
+Senior Software Engineer, ScamShield
+Hybrid
+View job
 Senior Software Engineer, Secure Govt Comms
 Hybrid
 View job
@@ -72,9 +75,6 @@ Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, National Traffic Enforcement System
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, ScamShield
 Hybrid
 View job
 Software Engineering Manager
@@ -86,6 +86,9 @@ View job
 Senior Software Engineer, Citizen Engagement
 Hybrid
 View job
+Senior Software Engineer, ScamShield
+Hybrid
+View job
 Senior Software Engineer, Secure Govt Comms
 Hybrid
 View job
@@ -96,9 +99,6 @@ Software Engineer / Senior Software Engineer, HealthTech
 Hybrid
 View job
 Software Engineer / Senior Software Engineer, National Traffic Enforcement System
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, ScamShield
 Hybrid
 View job
 Software Engineering Manager
