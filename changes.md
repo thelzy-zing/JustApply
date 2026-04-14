@@ -1,4 +1,151 @@
 
+## 2026-04-14 08:31:17
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,10 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++C# Software Engineer
++Technology • Sydney
++Learn more
++Experienced
+ Options Trader
+ Trading, Research and Machine Learning • Taipei
+ Learn more
+@@ -99,17 +103,17 @@
+ Control • Amsterdam
+ Learn more
+ Experienced
++Head of Accounting
++Control • Chicago
++Learn more
++Experienced
++Data Center Engineer
++Technology • Durham
++Learn more
++Experienced
+ Test and Automation Engineer (Hardware)
+ Technology • Amsterdam
+ Learn more
+-Experienced
+-Head of Accounting
+-Control • Chicago
+-Learn more
+-Experienced
+-Data Center Engineer
+-Technology • Durham
+-Learn more
+ Student and Graduate
+ Graduate Quantitative Researcher, PhD (2026 Start)
+ Trading, Research and Machine Learning • Chicago
+@@ -125,10 +129,6 @@
+ Experienced
+ Technical Project Manager
+ Technology • Sydney
+-Learn more
+-Experienced
+-Finance Manager
+-Control • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -272,4 +272,5 @@
+ Experienced
+ New Grad
+ Internship
++Temporary
+ ↳ Apply Filter
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -57,9 +57,9 @@
+ Assistant Controller - Fund Accounting
+ Montreal, Jersey, London, Warsaw
+ Apply
+-Investment
+-Commodities Fundamental Analyst
+-Geneva
++Corporate
++Commercial Operator
++Singapore
+ Apply
+ Corporate
+ Corporate Foundation Coordinator
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9eb94bf148def603
++9ec158e27c49c95a
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -68,7 +68,7 @@
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer
++Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+@@ -92,7 +92,7 @@
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer
++Software Engineer
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, HealthTech
+```
+
+---
+
 ## 2026-04-13 09:04:21
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
