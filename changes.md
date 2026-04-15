@@ -1,4 +1,200 @@
 
+## 2026-04-15 08:30:57
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,44 +91,44 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Software Engineer (Data)
++Technology • Sydney
++Learn more
++Experienced
++Principal Engineer (Data)
++Technology • Sydney
++Learn more
++Experienced
++Data Engineer
++Technology • Singapore
++Learn more
++Experienced
++Campus Recruiter (12-month contract)
++Business Operations • Sydney
++Learn more
++Experienced
+ C# Software Engineer
+ Technology • Sydney
++Learn more
++Experienced
++Senior Information Security Engineer
++Technology • Sydney
++Learn more
++Experienced
++US Options Sales Trader
++Trading, Research and Machine Learning • New York
++Learn more
++Experienced
++US ETF Sales Trader
++Trading, Research and Machine Learning • New York
++Learn more
++Experienced
++Senior Equity Analyst
++Trading, Research and Machine Learning • Chicago
+ Learn more
+ Experienced
+ Options Trader
+ Trading, Research and Machine Learning • Taipei
+-Learn more
+-Experienced
+-Information Security Risk Analyst
+-Control • Amsterdam
+-Learn more
+-Experienced
+-Head of Accounting
+-Control • Chicago
+-Learn more
+-Experienced
+-Data Center Engineer
+-Technology • Durham
+-Learn more
+-Experienced
+-Test and Automation Engineer (Hardware)
+-Technology • Amsterdam
+-Learn more
+-Student and Graduate
+-Graduate Quantitative Researcher, PhD (2026 Start)
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Student and Graduate
+-Graduate Quantitative Researcher, PhD (2026 Start)
+-Trading, Research and Machine Learning • New York
+-Learn more
+-Student and Graduate
+-Graduate Quantitative Researcher, PhD (2026 Start)
+-Trading, Research and Machine Learning • Austin
+-Learn more
+-Experienced
+-Technical Project Manager
+-Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -226,6 +226,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -256,16 +269,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+@@ -135,9 +135,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9ec158e27c49c95a
++9ec995babaa0d903
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -31,6 +31,7 @@
+ Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+ Open positions
+ All departments
++Corporate
+ Policy
+ Product Design
+ Product Management
+```
+
+---
+
 ## 2026-04-14 08:31:17
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

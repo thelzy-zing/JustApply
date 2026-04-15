@@ -91,44 +91,44 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
+Software Engineer (Data)
+Technology • Sydney
+Learn more
+Experienced
+Principal Engineer (Data)
+Technology • Sydney
+Learn more
+Experienced
+Data Engineer
+Technology • Singapore
+Learn more
+Experienced
+Campus Recruiter (12-month contract)
+Business Operations • Sydney
+Learn more
+Experienced
 C# Software Engineer
 Technology • Sydney
 Learn more
 Experienced
-Options Trader
-Trading, Research and Machine Learning • Taipei
+Senior Information Security Engineer
+Technology • Sydney
 Learn more
 Experienced
-Information Security Risk Analyst
-Control • Amsterdam
-Learn more
-Experienced
-Head of Accounting
-Control • Chicago
-Learn more
-Experienced
-Data Center Engineer
-Technology • Durham
-Learn more
-Experienced
-Test and Automation Engineer (Hardware)
-Technology • Amsterdam
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • Chicago
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
+US Options Sales Trader
 Trading, Research and Machine Learning • New York
 Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • Austin
+Experienced
+US ETF Sales Trader
+Trading, Research and Machine Learning • New York
 Learn more
 Experienced
-Technical Project Manager
-Technology • Sydney
+Senior Equity Analyst
+Trading, Research and Machine Learning • Chicago
+Learn more
+Experienced
+Options Trader
+Trading, Research and Machine Learning • Taipei
 Learn more
 Sorry, no more results available.
 Load more
@@ -226,6 +226,19 @@ Notices
 Heading
 Close
 Hier de html
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
 Close
 Newsletter sign-up
 Email
@@ -256,16 +269,3 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
