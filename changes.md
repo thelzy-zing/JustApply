@@ -1,4 +1,201 @@
 
+## 2026-04-16 08:30:16
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -90,46 +90,6 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Software Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Principal Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Data Engineer
+-Technology • Singapore
+-Learn more
+-Experienced
+-Campus Recruiter (12-month contract)
+-Business Operations • Sydney
+-Learn more
+-Experienced
+-C# Software Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Senior Information Security Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-US Options Sales Trader
+-Trading, Research and Machine Learning • New York
+-Learn more
+-Experienced
+-US ETF Sales Trader
+-Trading, Research and Machine Learning • New York
+-Learn more
+-Experienced
+-Senior Equity Analyst
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Options Trader
+-Trading, Research and Machine Learning • Taipei
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Chicago
+@@ -135,8 +135,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+-London
+ New York
+ Singapore
+ Chicago
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9ec995babaa0d903
++9ed1d21e1df861a3
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -63,28 +63,7 @@
+ Senior Software Engineer, Citizen Engagement
+ Hybrid
+ View job
+-Senior Software Engineer, ScamShield
+-Hybrid
+-View job
+-Senior Software Engineer, Secure Govt Comms
+-Hybrid
+-View job
+-Software Engineer
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, National Traffic Enforcement System
+-Hybrid
+-View job
+-Software Engineering Manager
+-Hybrid
+-View job
+-Senior Software Engineer, AI Native
+-Hybrid
+-View job
+-Senior Software Engineer, Citizen Engagement
++Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+ Senior Software Engineer, ScamShield
+@@ -99,7 +78,28 @@
+ Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, National Traffic Enforcement System
++Software Engineering Manager
++Hybrid
++View job
++Senior Software Engineer, AI Native
++Hybrid
++View job
++Senior Software Engineer, Citizen Engagement
++Hybrid
++View job
++Senior Software Engineer, National Traffic Enforcement System
++Hybrid
++View job
++Senior Software Engineer, ScamShield
++Hybrid
++View job
++Senior Software Engineer, Secure Govt Comms
++Hybrid
++View job
++Software Engineer
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, HealthTech
+ Hybrid
+ View job
+ Software Engineering Manager
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-04-15 08:30:57
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
