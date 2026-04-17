@@ -1,4 +1,381 @@
 
+## 2026-04-17 08:29:35
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -102,6 +102,11 @@
+ Recruitment news
+ <
+ Technology
++UI as a Systems Problem
++When something feels slow, you’re probably looking in the wrong place. UI issues are rarely local and are often caused by how data is fetched, recomputed, and duplicated across the system, becoming visible only when multiple services, queries, and interactions run at the same time. Read how Optiver approaches building systems where UI and data are tightly coupled.
++Learn more
++Global
++Technology
+ Infrastructure-as-Code for Latency-Critical Bare Metal Systems
+ About the Speaker Leanne Fok is a Senior Infrastructure Engineer in Amsterdam with 15+ years at Optiver. She previously led the Infrastructure Platform team responsible for our internal Infrastructure-as-Code stack and is now leading the Infrastructure Kubernetes project. Infrastructure-as-Code is straightforward in the cloud. But what about on bare metal? In her PyLadies talk, “Infrastructure-as-Code […]
+ Learn more
+@@ -148,10 +153,6 @@
+ At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
+ Learn more
+ Amsterdam, Europe
+-Recruitment at Optiver
+-Optiver EU campus recruiting Q&A
+-Learn more
+-EMEA
+ >
+ See more
+ Newsletter
+@@ -186,19 +187,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -229,3 +217,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Chicago
+@@ -135,8 +135,8 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+-Hong Kong
+ New York
+ Singapore
+ Chicago
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -40,118 +40,114 @@
+ There are currently no open roles matching your search.
+ Log in or sign up for Career Profile to save your search and get alerts when opportunites open.
+ Job Search
+-Jobs
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Jobs
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Jobs
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Jobs
++Technology Teams
++Artificial Intelligence
++Creative
++Infrastructure
++Metaverse and Wearables
++Product and Program Management
++Research and Data
++Security
++Software Engineering
++Business Teams
++Business Operations
++Partnerships
++Sales and Marketing
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++Meta Tech Podcasts
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Job Search
++Technology Teams
++Artificial Intelligence
++Creative
++Infrastructure
++Metaverse and Wearables
++Product and Program Management
++Research and Data
++Security
++Software Engineering
++Business Teams
++Business Operations
++Partnerships
++Sales and Marketing
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++Meta Tech Podcasts
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Job Search
++Technology Teams
++Artificial Intelligence
++Creative
++Infrastructure
++Metaverse and Wearables
++Product and Program Management
++Research and Data
++Security
++Software Engineering
++Business Teams
++Business Operations
++Partnerships
++Sales and Marketing
++Career Programs
++Research
++Accelerate Eng Talent
++Students and Grads
++Rotational Programs
++Working at Meta
++Accessiblity and Engagement
++Benefits
++Culture
++Hiring Process
++My account
++Career profile
++Account settings
++Messages
++Meta Careers Blog
++Meta Tech Podcasts
++About us
++About Meta
++Media gallery
++Brand resources
++For investors
++Looking for contractor roles?
++Job Search
+ Technology Teams
+ Artificial Intelligence
+ Creative
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9ed1d21e1df861a3
++9eda0e826cbf1272
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-04-16 08:30:16
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

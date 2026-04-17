@@ -102,6 +102,11 @@ Careers
 Recruitment news
 <
 Technology
+UI as a Systems Problem
+When something feels slow, you’re probably looking in the wrong place. UI issues are rarely local and are often caused by how data is fetched, recomputed, and duplicated across the system, becoming visible only when multiple services, queries, and interactions run at the same time. Read how Optiver approaches building systems where UI and data are tightly coupled.
+Learn more
+Global
+Technology
 Infrastructure-as-Code for Latency-Critical Bare Metal Systems
 About the Speaker Leanne Fok is a Senior Infrastructure Engineer in Amsterdam with 15+ years at Optiver. She previously led the Infrastructure Platform team responsible for our internal Infrastructure-as-Code stack and is now leading the Infrastructure Kubernetes project. Infrastructure-as-Code is straightforward in the cloud. But what about on bare metal? In her PyLadies talk, “Infrastructure-as-Code […]
 Learn more
@@ -148,10 +153,6 @@ Career Kickstarter Tech: The ‘why’ behind every trading system
 At Optiver, our engineers work on some of the most advanced systems in the world, solving unique challenges that combine performance, efficiency and real-time decision-making. Our Career Kickstarter: Women in Tech program invites aspiring female-identifying engineers from across Europe to explore how their coding and problem-solving skills apply to real-world challenges in financial markets. We […]
 Learn more
 Amsterdam, Europe
-Recruitment at Optiver
-Optiver EU campus recruiting Q&A
-Learn more
-EMEA
 >
 See more
 Newsletter
@@ -186,19 +187,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -229,3 +217,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
