@@ -90,6 +90,18 @@ Taipei
 United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
+Events
+Expressions of Interest – FutureFocus Sydney 2026
+Events • Sydney
+Learn more
+Experienced
+Middle Office Automation Analyst
+Control • Sydney
+Learn more
+Experienced
+Head of Execution Technology
+Technology • Mumbai
+Learn more
 Experienced
 Counterparty Onboarding & Lifecycle Management Specialist
 Trading, Research and Machine Learning • London
@@ -118,25 +130,13 @@ Experienced
 Head of Accounting
 Control • Chicago
 Learn more
-Experienced
-Corporate Strategist
-Business Operations • New York
-Learn more
-Student and Graduate
-Graduate Quantitative Researcher, PhD (2026 Start)
-Trading, Research and Machine Learning • Chicago
-Learn more
-Experienced
-Data Engineer
-Technology • Singapore
-Learn more
 Sorry, no more results available.
 Load more
 1
 2
 3
 …
-17
+18
 Next »
 Careers
 Recruitment news
@@ -227,19 +227,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -270,3 +257,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept
