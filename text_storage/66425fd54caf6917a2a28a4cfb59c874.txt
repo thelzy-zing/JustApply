@@ -165,6 +165,10 @@ Technology
 Network Specialist - ULL
 Montreal, London,  New York
 Apply
+Corporate
+Operations Analyst
+Bangalore
+Apply
 Technology
 PCG Automation Developer (Python)
 Bangalore
@@ -235,11 +239,11 @@ London, New York
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
