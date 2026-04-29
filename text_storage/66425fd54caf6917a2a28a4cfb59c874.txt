@@ -61,10 +61,6 @@ Corporate
 Commercial Operator
 Singapore
 Apply
-Corporate
-Corporate Foundation Coordinator
-London
-Apply
 Technology
 Data Center Technician
 New York
@@ -239,11 +235,11 @@ London, New York
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term

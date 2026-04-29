@@ -91,6 +91,14 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
+Enterprise Technology Support Engineer
+Technology • Sydney
+Learn more
+Experienced
+Trade Support Analyst – Trading Operations & Automation
+Trading, Research and Machine Learning • Amsterdam
+Learn more
+Experienced
 Business Development (D1 Cash)
 Trading, Research and Machine Learning • Hong Kong
 Learn more
@@ -122,14 +130,6 @@ Experienced
 Software Engineer – Equities/ETFs
 Technology • New York
 Learn more
-Experienced
-Software Engineer
-Technology • Austin
-Learn more
-Experienced
-Software Engineer – C++
-Technology • New York
-Learn more
 Sorry, no more results available.
 Load more
 1
@@ -141,6 +141,11 @@ Next »
 Careers
 Recruitment news
 <
+Technology
+Where AI trading models work (and where they still fall short)
+Large language models (LLMs) are getting surprisingly good at learning the basics of trading. Consider that the latest models are able to perform tasks like pricing simple scenarios, reasoning through rules and even outlining basic strategies. That gave trader Quintin Brown an idea. For his first project after moving to Optiver’s Applied AI team, Quintin […]
+Learn more
+Global
 Life at Optiver, Meet the team
 Learning by building: Inside Optiver’s Software Engineering Internship
 Many internships promise “real impact.” Few actually deliver it. During their first weeks at Optiver, software engineering interns are introduced to the systems, teams, and problems they’ll be contributing to. They quickly begin building, with some shipping a lightweight release as early as week 2 or 3.
@@ -185,14 +190,6 @@ Technology
 Research at Scale: Orchestrating ML for Systematic Trading
 Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
 Learn more
-Experienced, Technology
-Choosing between free threading and async in Python
-As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
-Prompting his choice of topic was a recent change in CPython, as Samet explained:
-“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
-Here’s how he breaks it down, and what it means for your next Python project.
-Learn more
-Europe, Global
 >
 See more
 Newsletter
@@ -227,19 +224,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -270,3 +254,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept

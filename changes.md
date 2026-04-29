@@ -1,4 +1,333 @@
 
+## 2026-04-29 09:13:43
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,14 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Enterprise Technology Support Engineer
++Technology • Sydney
++Learn more
++Experienced
++Trade Support Analyst – Trading Operations & Automation
++Trading, Research and Machine Learning • Amsterdam
++Learn more
++Experienced
+ Business Development (D1 Cash)
+ Trading, Research and Machine Learning • Hong Kong
+ Learn more
+@@ -120,14 +128,6 @@
+ Learn more
+ Experienced
+ Software Engineer – Equities/ETFs
+-Technology • New York
+-Learn more
+-Experienced
+-Software Engineer
+-Technology • Austin
+-Learn more
+-Experienced
+-Software Engineer – C++
+ Technology • New York
+ Learn more
+ Sorry, no more results available.
+@@ -141,6 +141,11 @@
+ Careers
+ Recruitment news
+ <
++Technology
++Where AI trading models work (and where they still fall short)
++Large language models (LLMs) are getting surprisingly good at learning the basics of trading. Consider that the latest models are able to perform tasks like pricing simple scenarios, reasoning through rules and even outlining basic strategies. That gave trader Quintin Brown an idea. For his first project after moving to Optiver’s Applied AI team, Quintin […]
++Learn more
++Global
+ Life at Optiver, Meet the team
+ Learning by building: Inside Optiver’s Software Engineering Internship
+ Many internships promise “real impact.” Few actually deliver it. During their first weeks at Optiver, software engineering interns are introduced to the systems, teams, and problems they’ll be contributing to. They quickly begin building, with some shipping a lightweight release as early as week 2 or 3.
+@@ -185,14 +190,6 @@
+ Research at Scale: Orchestrating ML for Systematic Trading
+ Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
+ Learn more
+-Experienced, Technology
+-Choosing between free threading and async in Python
+-As host of this year’s first PyAmsterdam Meetup, Optiver welcomed the local Python community back to our headquarters for an evening of tech talks, networking and knowledge sharing. To open the event, Optiver Senior Software Engineer and Team Lead Samet Yaslan delivered a timely talk for developers working on performance-critical systems: “Choosing Between Free Threading and Async.”
+-Prompting his choice of topic was a recent change in CPython, as Samet explained:
+-“Beginning with version 3.13, CPython introduces an option for a build known as free threading, where the Global Interpreter Lock (GIL) is removed. The question is: With the GIL gone, do we still need async in Python?”
+-Here’s how he breaks it down, and what it means for your next Python project.
+-Learn more
+-Europe, Global
+ >
+ See more
+ Newsletter
+@@ -227,19 +224,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -270,3 +254,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -332,6 +332,7 @@
+ Insurance
+ Media and entertainment
+ Nonprofits
++Public sector
+ Retail
+ Integrations & custom solutions
+ Stripe App Marketplace
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Chicago
+ Mumbai
+@@ -135,9 +135,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,10 +61,6 @@
+ Commercial Operator
+ Singapore
+ Apply
+-Corporate
+-Corporate Foundation Coordinator
+-London
+-Apply
+ Technology
+ Data Center Technician
+ New York
+@@ -239,11 +235,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Montreal
++Apply
++Technology
++Senior Information Security Engineer
+ Singapore
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Montreal
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f3505ca18523493
++9f3d2fa559745e2d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,7 +45,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Filters
+@@ -53,7 +53,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++8 jobs
+ Share
+ Clear
+ Job title
+@@ -65,9 +65,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Citizen Engagement
+-Hybrid
+-View job
+-Senior Software Engineer, KampungSpirit
+ Hybrid
+ View job
+ Senior Software Engineer, National Traffic Enforcement System
+@@ -94,9 +91,6 @@
+ Senior Software Engineer, Citizen Engagement
+ Hybrid
+ View job
+-Senior Software Engineer, KampungSpirit
+-Hybrid
+-View job
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -184,14 +184,19 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Apprenticeship Program in Singapore
+@@ -204,24 +209,19 @@
+ Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++Technology Degree Apprenticeship Program
++United Kingdom
++Earn your four-year degree while working in our technology business alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+ View role details
+ School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+-View role details
+-School Programs & Apprenticeships
+-Technology Degree Apprenticeship Program
+-United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+ View role details
+ School Programs & Apprenticeships
+ Software Engineering Apprenticeship
+```
+
+---
+
 ## 2026-04-28 09:27:03
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
