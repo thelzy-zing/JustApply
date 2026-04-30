@@ -91,6 +91,14 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
+Market Data Analyst
+Technology • Shanghai
+Learn more
+Experienced
+Senior Information Security Engineer
+Technology • Sydney
+Learn more
+Experienced
 Enterprise Technology Support Engineer
 Technology • Sydney
 Learn more
@@ -122,14 +130,6 @@ Experienced
 Software Engineer – Retail Execution
 Technology • Chicago
 Learn more
-Experienced
-Software Engineer – Automated Trading
-Technology • Chicago
-Learn more
-Experienced
-Software Engineer – Equities/ETFs
-Technology • New York
-Learn more
 Sorry, no more results available.
 Load more
 1
@@ -141,6 +141,11 @@ Next »
 Careers
 Recruitment news
 <
+Technology
+Pushing Postgres beyond storage
+In most systems, the database acts as a boundary. You write data into it, and other systems read from it. If you need something more dynamic, like reacting to changes as they happen, you usually introduce something alongside it, whether that is a service layer, a queue, or a stream.
+Learn more
+Global
 Technology
 Where AI trading models work (and where they still fall short)
 Large language models (LLMs) are getting surprisingly good at learning the basics of trading. Consider that the latest models are able to perform tasks like pricing simple scenarios, reasoning through rules and even outlining basic strategies. That gave trader Quintin Brown an idea. For his first project after moving to Optiver’s Applied AI team, Quintin […]
@@ -186,10 +191,6 @@ From FutureFocus to Optiver’s quant trading internship
 FutureFocus is an educational program that gives students an inside look at the challenges our technology, trading, and research teams face everyday.
 Learn more
 Americas
-Technology
-Research at Scale: Orchestrating ML for Systematic Trading
-Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
-Learn more
 >
 See more
 Newsletter

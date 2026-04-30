@@ -1,4 +1,180 @@
 
+## 2026-04-30 09:16:19
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,14 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Market Data Analyst
++Technology • Shanghai
++Learn more
++Experienced
++Senior Information Security Engineer
++Technology • Sydney
++Learn more
++Experienced
+ Enterprise Technology Support Engineer
+ Technology • Sydney
+ Learn more
+@@ -121,14 +129,6 @@
+ Experienced
+ Software Engineer – Retail Execution
+ Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Automated Trading
+-Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Equities/ETFs
+-Technology • New York
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -142,6 +142,11 @@
+ Recruitment news
+ <
+ Technology
++Pushing Postgres beyond storage
++In most systems, the database acts as a boundary. You write data into it, and other systems read from it. If you need something more dynamic, like reacting to changes as they happen, you usually introduce something alongside it, whether that is a service layer, a queue, or a stream.
++Learn more
++Global
++Technology
+ Where AI trading models work (and where they still fall short)
+ Large language models (LLMs) are getting surprisingly good at learning the basics of trading. Consider that the latest models are able to perform tasks like pricing simple scenarios, reasoning through rules and even outlining basic strategies. That gave trader Quintin Brown an idea. For his first project after moving to Optiver’s Applied AI team, Quintin […]
+ Learn more
+@@ -186,10 +191,6 @@
+ FutureFocus is an educational program that gives students an inside look at the challenges our technology, trading, and research teams face everyday.
+ Learn more
+ Americas
+-Technology
+-Research at Scale: Orchestrating ML for Systematic Trading
+-Adapted from a technical talk by Rob Hahn, this article explains how systematic trading relies on fast, reproducible research cycles and the engineering decisions that make those cycles work at scale.
+-Learn more
+ >
+ See more
+ Newsletter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -306,7 +306,7 @@
+ Link
+ Managed Payments
+ Payments
+-Payment Links
++Payment links
+ Payouts
+ Radar
+ Revenue Recognition
+@@ -359,6 +359,7 @@
+ Coverage transparency
+ More resources
+ Company
++Product roadmap
+ Jobs
+ Newsroom
+ Stripe Press
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Chicago
+@@ -97,6 +97,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -135,8 +136,8 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
+ Chicago
+@@ -149,6 +150,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f3d2fa559745e2d
++9f4570d52ef4f7d2
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-04-29 09:13:43
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
