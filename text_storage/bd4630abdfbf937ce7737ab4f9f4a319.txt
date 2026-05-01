@@ -91,12 +91,8 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
-Market Data Analyst
-Technology • Shanghai
-Learn more
-Experienced
-Senior Information Security Engineer
-Technology • Sydney
+Software Engineer – Digital Assets
+Technology • London
 Learn more
 Experienced
 Enterprise Technology Support Engineer
@@ -115,7 +111,7 @@ Senior Portfolio Manager / Quantitative Researcher – Intraday Trading Strategy
 Trading, Research and Machine Learning • Shanghai
 Learn more
 Experienced
-Software Engineer – Equity Options
+Software Engineer – Quantitative Development
 Technology • Chicago
 Learn more
 Experienced
@@ -123,12 +119,16 @@ Software Engineer – Low Latency Execution
 Technology • Chicago
 Learn more
 Experienced
-Software Engineer – Quantitative Development
+Software Engineer – Equity Options
 Technology • Chicago
 Learn more
 Experienced
 Software Engineer – Retail Execution
 Technology • Chicago
+Learn more
+Experienced
+Software Engineer – Equities/ETFs
+Technology • New York
 Learn more
 Sorry, no more results available.
 Load more
