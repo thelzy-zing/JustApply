@@ -1,4 +1,184 @@
 
+## 2026-05-02 08:24:17
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,44 +91,44 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Sr Trading Automation Specialist
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Operational Risk Analyst
++Control • Chicago
++Learn more
++Experienced
++Head of Accounting
++Control • Chicago
++Learn more
++Experienced
++Recruitment Coordinator
++Business Operations • Austin
++Learn more
++Experienced
++Marketing Manager
++Business Operations • Chicago
++Learn more
++Experienced
++Corporate Strategist
++Business Operations • New York
++Learn more
++Experienced
++Senior Production Software Engineer
++Technology • Chicago
++Learn more
++Experienced
++Events and Executive Assistant
++Business Operations • New York
++Learn more
++Experienced
+ Software Engineer – Digital Assets
+ Technology • London
+ Learn more
+ Experienced
+ Enterprise Technology Support Engineer
+ Technology • Sydney
+-Learn more
+-Experienced
+-Trade Support Analyst – Trading Operations & Automation
+-Trading, Research and Machine Learning • Amsterdam
+-Learn more
+-Experienced
+-Business Development (D1 Cash)
+-Trading, Research and Machine Learning • Hong Kong
+-Learn more
+-Experienced
+-Senior Portfolio Manager / Quantitative Researcher – Intraday Trading Strategy
+-Trading, Research and Machine Learning • Shanghai
+-Learn more
+-Experienced
+-Software Engineer – Quantitative Development
+-Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Low Latency Execution
+-Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Equity Options
+-Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Retail Execution
+-Technology • Chicago
+-Learn more
+-Experienced
+-Software Engineer – Equities/ETFs
+-Technology • New York
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -225,6 +225,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -255,16 +268,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++London
+ Hong Kong
+-London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f4d9e76ecd4321a
++9f559f5bf9fd7db7
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-01 09:05:34
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
