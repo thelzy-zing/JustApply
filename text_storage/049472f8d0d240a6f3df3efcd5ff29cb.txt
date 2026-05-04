@@ -64,9 +64,6 @@ View job
 Senior Software Engineer, Armoury
 Hybrid
 View job
-Senior Software Engineer, Citizen Engagement
-Hybrid
-View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
@@ -74,6 +71,9 @@ Senior Software Engineer, ScamShield
 Hybrid
 View job
 Senior Software Engineer, Secure Govt Comms
+Hybrid
+View job
+Senior/Lead Software Engineer
 Hybrid
 View job
 Software Engineer
@@ -88,9 +88,6 @@ View job
 Senior Software Engineer, Armoury
 Hybrid
 View job
-Senior Software Engineer, Citizen Engagement
-Hybrid
-View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
@@ -98,6 +95,9 @@ Senior Software Engineer, ScamShield
 Hybrid
 View job
 Senior Software Engineer, Secure Govt Comms
+Hybrid
+View job
+Senior/Lead Software Engineer
 Hybrid
 View job
 Software Engineer

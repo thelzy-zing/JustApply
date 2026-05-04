@@ -1,4 +1,211 @@
 
+## 2026-05-04 09:25:45
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,18 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Network Engineer
++Technology • Mumbai
++Learn more
++Experienced
++Linux Systems Engineer
++Technology • Shanghai
++Learn more
++Experienced
++Enterprise Technology Support Engineer
++Technology • Sydney
++Learn more
++Experienced
+ Sr Trading Automation Specialist
+ Trading, Research and Machine Learning • Chicago
+ Learn more
+@@ -117,18 +129,6 @@
+ Experienced
+ Senior Production Software Engineer
+ Technology • Chicago
+-Learn more
+-Experienced
+-Events and Executive Assistant
+-Business Operations • New York
+-Learn more
+-Experienced
+-Software Engineer – Digital Assets
+-Technology • London
+-Learn more
+-Experienced
+-Enterprise Technology Support Engineer
+-Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -225,6 +225,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -255,16 +268,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ London
+ Hong Kong
++New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
+-New York
+ London
+ Hong Kong
++New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f5e045a1b59d6dd
++9f667426edb59d09
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -64,9 +64,6 @@
+ Senior Software Engineer, Armoury
+ Hybrid
+ View job
+-Senior Software Engineer, Citizen Engagement
+-Hybrid
+-View job
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+@@ -74,6 +71,9 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Secure Govt Comms
++Hybrid
++View job
++Senior/Lead Software Engineer
+ Hybrid
+ View job
+ Software Engineer
+@@ -88,9 +88,6 @@
+ Senior Software Engineer, Armoury
+ Hybrid
+ View job
+-Senior Software Engineer, Citizen Engagement
+-Hybrid
+-View job
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+@@ -100,6 +97,9 @@
+ Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
++Senior/Lead Software Engineer
++Hybrid
++View job
+ Software Engineer
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-05-03 08:51:20
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
