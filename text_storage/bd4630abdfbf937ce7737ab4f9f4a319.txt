@@ -45,6 +45,7 @@ More
 open roles
 Find your next role at Optiver
 All levels
+Early Careers
 Experienced
 Graduate
 Internship
@@ -91,44 +92,44 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
-Network Engineer
-Technology • Mumbai
+Performance & Growth Lead
+Business Operations • Amsterdam
+Learn more
+Early Careers
+PhD Quant Focus (Sydney) 2026
+Events • Sydney
 Learn more
 Experienced
-Linux Systems Engineer
-Technology • Shanghai
-Learn more
-Experienced
-Enterprise Technology Support Engineer
+Production Software Engineer –  Senior/Staff/Principal
 Technology • Sydney
 Learn more
 Experienced
-Sr Trading Automation Specialist
+Senior Trading Automation Specialist
 Trading, Research and Machine Learning • Chicago
-Learn more
-Experienced
-Operational Risk Analyst
-Control • Chicago
-Learn more
-Experienced
-Head of Accounting
-Control • Chicago
-Learn more
-Experienced
-Recruitment Coordinator
-Business Operations • Austin
-Learn more
-Experienced
-Marketing Manager
-Business Operations • Chicago
-Learn more
-Experienced
-Corporate Strategist
-Business Operations • New York
 Learn more
 Experienced
 Senior Production Software Engineer
 Technology • Chicago
+Learn more
+Experienced
+Enterprise Technology Support Engineer
+Technology • Chicago
+Learn more
+Experienced
+Data Center Engineer
+Technology • Durham
+Learn more
+Experienced
+Campus Recruiter
+Business Operations • London
+Learn more
+Experienced
+Campus Recruiter
+Business Operations • Amsterdam
+Learn more
+Experienced
+Network Engineer
+Technology • Mumbai
 Learn more
 Sorry, no more results available.
 Load more
@@ -136,7 +137,7 @@ Load more
 2
 3
 …
-17
+18
 Next »
 Careers
 Recruitment news
@@ -225,19 +226,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -268,3 +256,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept

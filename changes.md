@@ -1,4 +1,274 @@
 
+## 2026-05-05 09:11:13
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,6 +45,7 @@
+ open roles
+ Find your next role at Optiver
+ All levels
++Early Careers
+ Experienced
+ Graduate
+ Internship
+@@ -91,44 +92,44 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Performance & Growth Lead
++Business Operations • Amsterdam
++Learn more
++Early Careers
++PhD Quant Focus (Sydney) 2026
++Events • Sydney
++Learn more
++Experienced
++Production Software Engineer –  Senior/Staff/Principal
++Technology • Sydney
++Learn more
++Experienced
++Senior Trading Automation Specialist
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Senior Production Software Engineer
++Technology • Chicago
++Learn more
++Experienced
++Enterprise Technology Support Engineer
++Technology • Chicago
++Learn more
++Experienced
++Data Center Engineer
++Technology • Durham
++Learn more
++Experienced
++Campus Recruiter
++Business Operations • London
++Learn more
++Experienced
++Campus Recruiter
++Business Operations • Amsterdam
++Learn more
++Experienced
+ Network Engineer
+ Technology • Mumbai
+-Learn more
+-Experienced
+-Linux Systems Engineer
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Enterprise Technology Support Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Sr Trading Automation Specialist
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Operational Risk Analyst
+-Control • Chicago
+-Learn more
+-Experienced
+-Head of Accounting
+-Control • Chicago
+-Learn more
+-Experienced
+-Recruitment Coordinator
+-Business Operations • Austin
+-Learn more
+-Experienced
+-Marketing Manager
+-Business Operations • Chicago
+-Learn more
+-Experienced
+-Corporate Strategist
+-Business Operations • New York
+-Learn more
+-Experienced
+-Senior Production Software Engineer
+-Technology • Chicago
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -136,7 +137,7 @@
+ 2
+ 3
+ …
+-17
++18
+ Next »
+ Careers
+ Recruitment news
+@@ -225,19 +226,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -268,3 +256,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -137,8 +137,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -108,25 +108,6 @@
+ M
+ 
+ Clear All
+-Software Engineering Internship – Summer 2026
+-↳ Apply Now
+-Singapore
+-Software Engineering
+-|
+-C++
+-|
+-Python
+-•
+-Internship
+-Singapore
+-Software Engineering
+-|
+-C++
+-|
+-Python
+-•
+-Internship
+-Hudson River Trading (HRT) is seeking highly motivated full-time students for our Software Engineering Summer Internship Program. We are looking for smart programmers who love to code, love to learn, and can thrive in an entrepreneurial environment. At HRT, our engineers create and maintain critical technology and infrastructure that is...
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+ Join Our Community
+ Interested in HRT but not ready to apply or don’t see what you’re looking for? Join our Talent Community so we can reach out to you when opportunities arise!
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,11 +235,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Singapore
++Apply
++Technology
++Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+@@ -372,6 +372,10 @@
+ Technology
+ Trading Infrastructure Specialist
+ London, Montreal, Hong Kong
++Apply
++Technology
++Trading Infrastructure Specialist – Graduate Programme
++London, Montreal, Hong Kong, New York, Singapore
+ Apply
+ Scroll to top
+ Squarepoint logo
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f667426edb59d09
++9f6e9c3de86de7fc
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-04 09:25:45
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
