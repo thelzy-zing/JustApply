@@ -77,10 +77,6 @@ Investment
 Financial Research Analyst
 Bangalore
 Apply
-Investment
-Fundamental Equity Research Analyst
-Boston
-Apply
 Technology
 Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
@@ -208,10 +204,6 @@ Apply
 Technology
 Quantitative Developer - High Performance Computing (Python)
 Montreal, Warsaw, Boston, Geneva, Houston, London, Paris, Zug
-Apply
-Investment
-Quantitative Researcher - Investment CTA/Fixed Income
-New York
 Apply
 Investment
 Quantitative Researcher (Volatility Medium-Frequency)
