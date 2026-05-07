@@ -45,7 +45,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-8 jobs
+9 jobs
 Share
 Clear
 Filters
@@ -53,7 +53,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-8 jobs
+9 jobs
 Share
 Clear
 Job title
@@ -62,6 +62,9 @@ Senior Software Engineer, AI Native
 Hybrid
 View job
 Senior Software Engineer, Armoury
+Hybrid
+View job
+Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Senior Software Engineer, National Traffic Enforcement System
@@ -86,6 +89,9 @@ Senior Software Engineer, AI Native
 Hybrid
 View job
 Senior Software Engineer, Armoury
+Hybrid
+View job
+Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Senior Software Engineer, National Traffic Enforcement System
