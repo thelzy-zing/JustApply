@@ -1,4 +1,187 @@
 
+## 2026-05-08 08:25:04
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Internship
++2026 Shanghai Machine Learning Engineer Summer Internship
++Technology • Shanghai
++Learn more
++Experienced
++Procurement Sourcing Specialist
++Business Operations • Sydney
++Learn more
++Experienced
++Technical Project Manager
++Technology • Sydney
++Learn more
++Internship
++Software Developer Internship – 2026-27
++Technology • Sydney
++Learn more
++Experienced
++Production Software Engineer –  Senior/Staff/Principal
++Technology • Sydney
++Learn more
++Experienced
++Production Operations Engineering Team Lead
++Technology • Sydney
++Learn more
++Experienced
++Network Operations Engineer – Contract
++Technology • Sydney
++Learn more
++Experienced
++Quantitative Developer
++Technology • Amsterdam
++Learn more
++Experienced
++Network Engineer
++Technology • Sydney
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Software Developer 2027
++Technology • Sydney
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+@@ -186,6 +226,19 @@
+ Heading
+ Close
+ Hier de html
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -216,16 +269,3 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -106,6 +106,10 @@
+ London
+ Apply
+ Technology
++Intern Software Developer - Fall 2026
++Montreal
++Apply
++Technology
+ Intern Software Developer - Summer 2026
+ Warsaw
+ Apply
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f7f3dc4dd67e642
++9f8710c16cd9a733
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -73,13 +73,13 @@
+ Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+-Senior Software Engineer, Secure Govt Comms
+-Hybrid
+-View job
+ Senior/Lead Software Engineer
+ Hybrid
+ View job
+ Software Engineer
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, Secure Govt Comms
+ Hybrid
+ View job
+ Software Engineering Manager
+@@ -100,15 +100,15 @@
+ Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+-Senior Software Engineer, Secure Govt Comms
+-Hybrid
+-View job
+ Senior/Lead Software Engineer
+ Hybrid
+ View job
+ Software Engineer
+ Hybrid
+ View job
++Software Engineer / Senior Software Engineer, Secure Govt Comms
++Hybrid
++View job
+ Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-05-07 09:37:41
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
