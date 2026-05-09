@@ -1,4 +1,179 @@
 
+## 2026-05-09 08:31:16
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -91,6 +91,10 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Senior Sourcing Lead – Cloud & AI Inference
++Technology • Chicago
++Learn more
+ Internship
+ 2026 Shanghai Machine Learning Engineer Summer Internship
+ Technology • Shanghai
+@@ -125,10 +129,6 @@
+ Learn more
+ Experienced
+ Network Engineer
+-Technology • Sydney
+-Learn more
+-Student and Graduate
+-Expressions of Interest – Graduate Software Developer 2027
+ Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -229,6 +229,7 @@
+ Mumbai
+ New York
+ Seattle
++Seoul
+ Shanghai Shi
+ Singapore
+ Slough
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -129,6 +129,7 @@
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
++Education
+ Vision
+ Explore Vision
+ Explore Apple Vision Pro
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9f8710c16cd9a733
++9f8f57329bcd69bb
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -79,7 +79,7 @@
+ Software Engineer
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Secure Govt Comms
++Software Engineer / Senior Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+ Software Engineering Manager
+@@ -106,7 +106,7 @@
+ Software Engineer
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Secure Govt Comms
++Software Engineer / Senior Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+ Software Engineering Manager
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -281,34 +281,38 @@
+ Cancel
+ Proceed
+ Privacy Preference Center
+-When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
++When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+ More information
+ Allow All
+ Manage Consent Preferences
+-Strictly Necessary Cookies
++Strictly necessary cookies
+ Always Active
+ These cookies allow the technical operation of our websites or apps (e.g., cookies that enable you to navigate a website or app, and to use its features). Some may also increase the usability of our websites or apps by remembering your choices (e.g., language, region, login details, and so on).  You may be able to disable some or all necessary cookies by adjusting your browser settings.  If you choose to do so, however, you may experience reduced functionality or be prevented from using our websites or apps altogether.
+-Performance Cookies
+-Performance Cookies
++Performance cookies
++Performance cookies
+ These cookies help us enhance the performance and usability of our websites or apps.  If you choose not to accept these cookies you may experience less than optimal performance.
+ Analytics Cookies
+ Analytics Cookies
+-Functional Cookies
++Functional cookies
+ Switch Label
+ label
+ These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+-Analytics Cookies
++Analytics cookies
+ Switch Label
+ label
+ These cookies help us ensure that we understand our audience as clearly as possible, and that any information that is provided to you is as relevant as possible to
+ your interests and preferences.
+ Marketing Cookies
+ Marketing Cookies
+-Marketing Cookies
++Marketing cookies
+ Switch Label
+ label
+ These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+-Social Media Cookies
++Social media cookies
++Switch Label
++label
++These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
++Marketing
+ Switch Label
+ label
+ These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+```
+
+---
+
 ## 2026-05-08 08:25:04
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

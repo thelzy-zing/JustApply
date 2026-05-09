@@ -129,6 +129,7 @@ watchOS 26
 Apple Watch For Your Kids
 Apps by Apple
 Apple Fitness+
+Education
 Vision
 Explore Vision
 Explore Apple Vision Pro
