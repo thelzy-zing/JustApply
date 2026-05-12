@@ -1,4 +1,195 @@
 
+## 2026-05-12 09:45:32
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -80,9 +80,6 @@
+ London
+ Mumbai
+ New York
+-Optiver Services B.V.
+-Optiver Services B.V. Optiver UK
+-Optiver UK
+ Secaucus
+ Shanghai
+ Singapore
+@@ -92,44 +89,44 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
+-APAC Compliance Business Unit Manager
+-Control • Hong Kong
+-Learn more
+-Experienced
+-Procurement Sourcing Specialist
+-Business Operations • Sydney
+-Learn more
+-Experienced
+ Network Engineer
+ Technology • Mumbai
+ Learn more
+-Experienced
+-Cloud Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Senior Sourcing Lead – Cloud & AI Inference
++Early Careers
++PhD Quant Focus (Singapore) 2026
++Events • Sydney
++Learn more
++Internship
++Quantitative Researcher Internship – 2026-27
++Trading, Research and Machine Learning • Sydney
++Learn more
++Experienced
++Senior Sourcing Lead – Hardware
+ Technology • Chicago
+ Learn more
+-Internship
+-2026 Shanghai Machine Learning Engineer Summer Internship
+-Technology • Shanghai
+-Learn more
+-Experienced
+-Technical Project Manager
+-Technology • Sydney
+-Learn more
+-Internship
+-Software Developer Internship – 2026-27
+-Technology • Sydney
+-Learn more
+-Experienced
+-Production Software Engineer –  Senior/Staff/Principal
+-Technology • Sydney
+-Learn more
+-Experienced
+-Production Operations Engineering Team Lead
+-Technology • Sydney
++Experienced
++Institutional Trader
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Quantitative Trader/Researcher – Systematic Options Trading
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Quantitative Researcher – SVT
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++US Options Sales Trader
++Trading, Research and Machine Learning • New York
++Learn more
++Experienced
++US ETF Sales Trader
++Trading, Research and Machine Learning • New York
++Learn more
++Experienced
++Senior Equity Analyst
++Trading, Research and Machine Learning • Chicago
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,12 +235,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9fa091c96818f280
++9fa87c279ae9fbb3
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++10 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-9 jobs
++10 jobs
+ Share
+ Clear
+ Job title
+@@ -79,6 +79,9 @@
+ Hybrid
+ View job
+ Software Engineer / Senior Software Engineer, Anti-Scam Products
++Hybrid
++View job
++Software Engineer, ActiveSG
+ Hybrid
+ View job
+ Software Engineering Manager
+@@ -108,6 +111,9 @@
+ Software Engineer / Senior Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
++Software Engineer, ActiveSG
++Hybrid
++View job
+ Software Engineering Manager
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-05-11 10:42:12
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
