@@ -82,6 +82,10 @@ Graduate Platform Specialist
 Hong Kong, London, Montreal, Singapore
 Apply
 Technology
+Graduate Quant Developer
+London, Montreal, Singapore
+Apply
+Technology
 Graduate Software Developer
 London, Montreal, Singapore
 Apply
@@ -99,10 +103,6 @@ Bangalore, London
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
-London
-Apply
-Corporate
-Indirect Tax Analyst
 London
 Apply
 Technology
@@ -124,6 +124,10 @@ Apply
 Technology
 Junior Platform Specialist
 Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+Apply
+Technology
+Junior Quant Developer
+London, Montreal, Singapore
 Apply
 Investment
 Junior Quant Researcher
@@ -186,10 +190,6 @@ Platform ULL - Colo - Strategic
 Montreal, London, New York
 Apply
 Technology
-Quant Developer
-London, Montreal, Singapore
-Apply
-Technology
 Quant Developer (C++)
 London, Montreal, Singapore
 Apply
@@ -227,11 +227,11 @@ London, New York
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
