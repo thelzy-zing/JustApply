@@ -89,44 +89,44 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
-Network Engineer
-Technology • Mumbai
-Learn more
-Early Careers
-PhD Quant Focus (Singapore) 2026
-Events • Sydney
-Learn more
-Internship
-Quantitative Researcher Internship – 2026-27
-Trading, Research and Machine Learning • Sydney
+Cloud Engineer
+Technology • Sydney
 Learn more
 Experienced
-Senior Sourcing Lead – Hardware
+Technical Project Manager
+Technology • Sydney
+Learn more
+Experienced
+Test and Automation Engineer (Hardware)
+Technology • Amsterdam
+Learn more
+Experienced
+FPGA Engineer
+Technology • New York
+Learn more
+Experienced
+Senior Software Engineer
+Technology • Shanghai
+Learn more
+Experienced
+Enterprise Technology Support Engineer
 Technology • Chicago
 Learn more
 Experienced
-Institutional Trader
-Trading, Research and Machine Learning • Chicago
+Linux Systems Engineer
+Technology • Shanghai
 Learn more
 Experienced
-Quantitative Trader/Researcher – Systematic Options Trading
-Trading, Research and Machine Learning • Chicago
+Mechanical Technician
+Technology • Austin
 Learn more
 Experienced
-Quantitative Researcher – SVT
-Trading, Research and Machine Learning • Chicago
+Principal C# Software Engineer
+Technology • Sydney
 Learn more
 Experienced
-US Options Sales Trader
-Trading, Research and Machine Learning • New York
-Learn more
-Experienced
-US ETF Sales Trader
-Trading, Research and Machine Learning • New York
-Learn more
-Experienced
-Senior Equity Analyst
-Trading, Research and Machine Learning • Chicago
+C# Software Engineer
+Technology • Sydney
 Learn more
 Sorry, no more results available.
 Load more
@@ -134,7 +134,7 @@ Load more
 2
 3
 …
-18
+17
 Next »
 Careers
 Recruitment news
@@ -223,19 +223,6 @@ Notices
 Heading
 Close
 Hier de html
-×
-Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
-Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
 Close
 Newsletter sign-up
 Email
@@ -266,3 +253,16 @@ privacy policy
 to see how we protect and manage your submitted personal data.
 I agree to receive communications from Optiver about news, blog posts and Insights articles.
 *
+×
+Notice
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Press again to continue 0/2
+Learn more and customize
+Reject
+Accept

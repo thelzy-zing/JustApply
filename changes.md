@@ -1,4 +1,180 @@
 
+## 2026-05-14 09:39:40
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,44 +89,44 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
+-Network Engineer
+-Technology • Mumbai
+-Learn more
+-Early Careers
+-PhD Quant Focus (Singapore) 2026
+-Events • Sydney
+-Learn more
+-Internship
+-Quantitative Researcher Internship – 2026-27
+-Trading, Research and Machine Learning • Sydney
+-Learn more
+-Experienced
+-Senior Sourcing Lead – Hardware
++Cloud Engineer
++Technology • Sydney
++Learn more
++Experienced
++Technical Project Manager
++Technology • Sydney
++Learn more
++Experienced
++Test and Automation Engineer (Hardware)
++Technology • Amsterdam
++Learn more
++Experienced
++FPGA Engineer
++Technology • New York
++Learn more
++Experienced
++Senior Software Engineer
++Technology • Shanghai
++Learn more
++Experienced
++Enterprise Technology Support Engineer
+ Technology • Chicago
+ Learn more
+ Experienced
+-Institutional Trader
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Quantitative Trader/Researcher – Systematic Options Trading
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Quantitative Researcher – SVT
+-Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-US Options Sales Trader
+-Trading, Research and Machine Learning • New York
+-Learn more
+-Experienced
+-US ETF Sales Trader
+-Trading, Research and Machine Learning • New York
+-Learn more
+-Experienced
+-Senior Equity Analyst
+-Trading, Research and Machine Learning • Chicago
++Linux Systems Engineer
++Technology • Shanghai
++Learn more
++Experienced
++Mechanical Technician
++Technology • Austin
++Learn more
++Experienced
++Principal C# Software Engineer
++Technology • Sydney
++Learn more
++Experienced
++C# Software Engineer
++Technology • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -134,7 +134,7 @@
+ 2
+ 3
+ …
+-18
++17
+ Next »
+ Careers
+ Recruitment news
+@@ -223,19 +223,6 @@
+ Heading
+ Close
+ Hier de html
+-×
+-Notice
+-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+-Press again to continue 0/2
+-Learn more and customize
+-Reject
+-Accept
+ Close
+ Newsletter sign-up
+ Email
+@@ -266,3 +253,16 @@
+ to see how we protect and manage your submitted personal data.
+ I agree to receive communications from Optiver about news, blog posts and Insights articles.
+ *
++×
++Notice
++We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
++Press again to continue 0/2
++Learn more and customize
++Reject
++Accept
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -6,6 +6,7 @@
+ Working at Meta
+ Blog
+ Podcasts
++Meta AI
+ Get personalized job recommendations from AI
+ The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+ Upload resume for job recommendations
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9fb0bf832f4b2a86
++9fb8ee450caec621
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-13 09:49:39
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
