@@ -1,4 +1,155 @@
 
+## 2026-05-16 08:52:29
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Mumbai
+@@ -136,9 +136,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,12 +235,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -77,6 +77,10 @@
+ Financial Research Analyst
+ Bangalore
+ Apply
++Corporate
++FP&A Manager
++Montreal, Bangalore, Warsaw
++Apply
+ Technology
+ Graduate Quant Developer
+ London, Montreal, Singapore
+@@ -221,13 +225,17 @@
+ Senior Discretionary Trader - Macro
+ London, New York
+ Apply
++Corporate
++Senior FP&A Analyst
++Montreal, Bangalore, Warsaw
++Apply
++Technology
++Senior Information Security Engineer
++Singapore
++Apply
+ Technology
+ Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9fc13e6aecaee196
++9fc923e9dd0d05fa
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -19,7 +19,6 @@
+ Diversity, opportunity & inclusion
+ Read more
+ Chairman and CEO Letter to Shareholders
+-Annual Report 2025
+ Learn more
+ Impact
+ Impact
+@@ -62,12 +61,10 @@
+ Investor Day
+ Learn more
+ Chairman and CEO Letter to Shareholders
+-Annual Report 2025
+ Learn more
+ Newsroom
+ Latest news
+ Chairman and CEO Letter to Shareholders
+-Annual Report 2025
+ Learn more
+ Careers
+ Explore Opportunities
+```
+
+---
+
 ## 2026-05-15 09:52:30
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

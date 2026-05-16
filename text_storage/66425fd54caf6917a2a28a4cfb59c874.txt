@@ -77,6 +77,10 @@ Investment
 Financial Research Analyst
 Bangalore
 Apply
+Corporate
+FP&A Manager
+Montreal, Bangalore, Warsaw
+Apply
 Technology
 Graduate Quant Developer
 London, Montreal, Singapore
@@ -221,13 +225,17 @@ Investment
 Senior Discretionary Trader - Macro
 London, New York
 Apply
-Technology
-Senior Information Security Engineer
-Montreal
+Corporate
+Senior FP&A Analyst
+Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
 Singapore
+Apply
+Technology
+Senior Information Security Engineer
+Montreal
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
