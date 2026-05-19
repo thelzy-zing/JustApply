@@ -1,4 +1,112 @@
 
+## 2026-05-19 10:40:41
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,10 +83,11 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+-Singapore
++Singapore
++Chicago
+ Mumbai
+ Singapore
+ DEPARTMENT
+@@ -135,10 +136,11 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+-Singapore
++Singapore
++Chicago
+ Mumbai
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,7 +175,7 @@
+ Apply
+ Technology
+ Platform Compute and Storage Specialist
+-Montreal, New York, London, Singapore
++Montreal, New York, London, Singapore & Bangalore
+ Apply
+ Technology
+ Platform Specialist - Windows and Virtualization
+@@ -206,10 +206,6 @@
+ Montreal, Warsaw, Boston, Geneva, Houston, London, Paris, Zug
+ Apply
+ Investment
+-Quantitative Researcher (Volatility Medium-Frequency)
+-New York
+-Apply
+-Investment
+ Quant Researcher - Convex Optimization
+ Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
+ Apply
+@@ -231,11 +227,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Montreal
++Apply
++Technology
++Senior Information Security Engineer
+ Singapore
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Montreal
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9fda699b9b0bc933
++9fe27a8add805655
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-18 11:11:01
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
