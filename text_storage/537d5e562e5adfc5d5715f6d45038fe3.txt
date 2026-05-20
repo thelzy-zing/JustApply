@@ -83,9 +83,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
+Hong Kong
 London
 New York
-Hong Kong
 Singapore
 Chicago
 Mumbai
@@ -97,7 +97,6 @@ Technology
 Cybersecurity
 Institutional Sales and Trading
 Strategy and Product
-Creative
 Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting
@@ -136,9 +135,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
+Hong Kong
 London
 New York
-Hong Kong
 Singapore
 Chicago
 Mumbai
@@ -150,7 +149,6 @@ Technology
 Cybersecurity
 Institutional Sales and Trading
 Strategy and Product
-Creative
 Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting

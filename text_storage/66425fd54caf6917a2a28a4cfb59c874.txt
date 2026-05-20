@@ -142,6 +142,22 @@ Junior Risk Manager
 New York, London
 Apply
 Technology
+Junior Software Developer (C++)
+London, Montreal, Singapore
+Apply
+Technology
+Junior Software Developer - Front-end
+London, Montreal
+Apply
+Technology
+Junior Software Developer (KDB+/Q)
+London, Montreal, Singapore
+Apply
+Technology
+Junior Software Developer (Python)
+London, Montreal, Singapore
+Apply
+Technology
 Junior UX/UI Engineer
 London
 Apply
@@ -262,14 +278,6 @@ Site Management Specialist
 New York
 Apply
 Technology
-Software Developer (C++)
-London, Montreal, Singapore
-Apply
-Technology
-Software Developer - Data Development Integrator
-London
-Apply
-Technology
 Software Developer - Data Infrastructure
 London, Montreal, Singapore
 Apply
@@ -286,10 +294,6 @@ Software Developer - Data Services (KDB+/Q)
 Singapore, Montreal, London, Hong Kong, New York, Warsaw
 Apply
 Technology
-Software Developer - Front-end
-London, Montreal
-Apply
-Technology
 Software Developer - Internal Compute Frameworks (Python)
 London, Montreal, Singapore, Warsaw
 Apply
@@ -298,16 +302,8 @@ Software Developer - Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
 Apply
 Technology
-Software Developer (KDB+/Q)
-London, Montreal, Singapore
-Apply
-Technology
 Software Developer - Market Access
 Montreal , Singapore, Warsaw
-Apply
-Technology
-Software Developer (Python)
-London, Montreal, Singapore
 Apply
 Technology
 Software Developer - Risk Data Pipelines
@@ -351,7 +347,7 @@ London, Montreal, New York, Singapore, Hong Kong, Houston
 Apply
 Technology
 Trade Flow Support - Trading Infrastructure Support
-Singapore
+Singapore, London , Houston & Montreal
 Apply
 Technology
 Trade Flow Support - Trading Infrastructure Support Lead

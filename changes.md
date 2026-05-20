@@ -1,4 +1,218 @@
 
+## 2026-05-20 10:28:29
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -88,6 +88,46 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
++Experienced
++Regulatory Legal Counsel
++Control • Amsterdam
++Learn more
++Experienced
++Procurement Sourcing Specialist
++Business Operations • Shanghai
++Learn more
++Student and Graduate
++Expressions of Interest – Graduate Quantitative Trader 2027
++Trading, Research and Machine Learning • Sydney
++Learn more
++Experienced
++Macro Analyst
++Trading, Research and Machine Learning • Chicago
++Learn more
++Experienced
++Senior Production Software Engineer
++Technology • Chicago
++Learn more
++Experienced
++Enterprise Infrastructure Engineering Lead
++Technology • Chicago
++Learn more
++Experienced
++Performance & Growth Marketing Lead
++Business Operations • Amsterdam
++Learn more
++Experienced
++Technical Recruiter
++Business Operations • Shanghai
++Learn more
++Experienced
++Senior Software Engineer (Data)
++Technology • Sydney
++Learn more
++Experienced
++Head of Group Accounting & Reporting
++Control • Amsterdam
++Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+@@ -97,7 +97,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -136,9 +135,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Mumbai
+@@ -150,7 +149,6 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
+-Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -142,6 +142,22 @@
+ New York, London
+ Apply
+ Technology
++Junior Software Developer (C++)
++London, Montreal, Singapore
++Apply
++Technology
++Junior Software Developer - Front-end
++London, Montreal
++Apply
++Technology
++Junior Software Developer (KDB+/Q)
++London, Montreal, Singapore
++Apply
++Technology
++Junior Software Developer (Python)
++London, Montreal, Singapore
++Apply
++Technology
+ Junior UX/UI Engineer
+ London
+ Apply
+@@ -262,14 +278,6 @@
+ New York
+ Apply
+ Technology
+-Software Developer (C++)
+-London, Montreal, Singapore
+-Apply
+-Technology
+-Software Developer - Data Development Integrator
+-London
+-Apply
+-Technology
+ Software Developer - Data Infrastructure
+ London, Montreal, Singapore
+ Apply
+@@ -286,10 +294,6 @@
+ Singapore, Montreal, London, Hong Kong, New York, Warsaw
+ Apply
+ Technology
+-Software Developer - Front-end
+-London, Montreal
+-Apply
+-Technology
+ Software Developer - Internal Compute Frameworks (Python)
+ London, Montreal, Singapore, Warsaw
+ Apply
+@@ -298,18 +302,10 @@
+ London, Montreal, Singapore, Warsaw
+ Apply
+ Technology
+-Software Developer (KDB+/Q)
+-London, Montreal, Singapore
+-Apply
+-Technology
+ Software Developer - Market Access
+ Montreal , Singapore, Warsaw
+ Apply
+ Technology
+-Software Developer (Python)
+-London, Montreal, Singapore
+-Apply
+-Technology
+ Software Developer - Risk Data Pipelines
+ Bangalore, Montreal, Warsaw
+ Apply
+@@ -351,7 +347,7 @@
+ Apply
+ Technology
+ Trade Flow Support - Trading Infrastructure Support
+-Singapore
++Singapore, London , Houston & Montreal
+ Apply
+ Technology
+ Trade Flow Support - Trading Infrastructure Support Lead
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9fe27a8add805655
++9feaa609ea661d4d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-19 10:40:41
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
