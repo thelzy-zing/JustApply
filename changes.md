@@ -1,4 +1,223 @@
 
+## 2026-05-21 10:43:35
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,6 +89,30 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Technical Recruiter (12-month contract)
++Business Operations • Sydney
++Learn more
++Internship
++2026 Shanghai Machine Learning Engineer Summer Internship
++Technology • Shanghai
++Learn more
++Experienced
++C++ Software Engineer
++Technology • Singapore
++Learn more
++Experienced
++Senior Technical Program Manager – Trading & Core Software
++Technology • Austin
++Learn more
++Experienced
++Senior Technical Program Manager – Infrastructure
++Technology • Chicago
++Learn more
++Experienced
++Machine Learning Modelling Engineer, PhD
++Technology • Shanghai
++Learn more
++Experienced
+ Regulatory Legal Counsel
+ Control • Amsterdam
+ Learn more
+@@ -103,30 +127,6 @@
+ Experienced
+ Macro Analyst
+ Trading, Research and Machine Learning • Chicago
+-Learn more
+-Experienced
+-Senior Production Software Engineer
+-Technology • Chicago
+-Learn more
+-Experienced
+-Enterprise Infrastructure Engineering Lead
+-Technology • Chicago
+-Learn more
+-Experienced
+-Performance & Growth Marketing Lead
+-Business Operations • Amsterdam
+-Learn more
+-Experienced
+-Technical Recruiter
+-Business Operations • Shanghai
+-Learn more
+-Experienced
+-Senior Software Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Head of Group Accounting & Reporting
+-Control • Amsterdam
+ Learn more
+ Sorry, no more results available.
+ Load more
+@@ -225,34 +225,6 @@
+ Hier de html
+ Close
+ Newsletter sign-up
+-Email
+-*
+-First name
+-*
+-Last name
+-*
+-Job function
+-Company name
+-*
+-Region
+-*
+-Please Select
+-APAC
+-EMEA
+-North America
+-Initiative Format
+-Initiative Name
+-Initiative Office
+-Initiative Purpose
+-Initiative Region
+-Initiative Team
+-Initiative Type/Specifics
+-Initiative Year
+-The personal data included in this form is processed by Optiver to sign you up for the Insights newsletter and send Optiver news, blog posts and Insights articles to your inbox. Please check our
+-privacy policy
+-to see how we protect and manage your submitted personal data.
+-I agree to receive communications from Optiver about news, blog posts and Insights articles.
+-*
+ ×
+ Notice
+ We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -136,8 +136,8 @@
+ LOCATION
+ All Locations
+ Hong Kong
++New York
+ London
+-New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -235,6 +235,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -347,7 +347,7 @@
+ Apply
+ Technology
+ Trade Flow Support - Trading Infrastructure Support
+-Singapore, London , Houston & Montreal
++Singapore, London, Houston, Montreal
+ Apply
+ Technology
+ Trade Flow Support - Trading Infrastructure Support Lead
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9feaa609ea661d4d
++9ff2f9894d2df09c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-05-20 10:28:29
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

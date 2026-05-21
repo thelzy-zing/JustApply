@@ -89,6 +89,30 @@ United States
 Singapore
 No results found. Try adjusting your search or filter criteria.
 Experienced
+Technical Recruiter (12-month contract)
+Business Operations • Sydney
+Learn more
+Internship
+2026 Shanghai Machine Learning Engineer Summer Internship
+Technology • Shanghai
+Learn more
+Experienced
+C++ Software Engineer
+Technology • Singapore
+Learn more
+Experienced
+Senior Technical Program Manager – Trading & Core Software
+Technology • Austin
+Learn more
+Experienced
+Senior Technical Program Manager – Infrastructure
+Technology • Chicago
+Learn more
+Experienced
+Machine Learning Modelling Engineer, PhD
+Technology • Shanghai
+Learn more
+Experienced
 Regulatory Legal Counsel
 Control • Amsterdam
 Learn more
@@ -103,30 +127,6 @@ Learn more
 Experienced
 Macro Analyst
 Trading, Research and Machine Learning • Chicago
-Learn more
-Experienced
-Senior Production Software Engineer
-Technology • Chicago
-Learn more
-Experienced
-Enterprise Infrastructure Engineering Lead
-Technology • Chicago
-Learn more
-Experienced
-Performance & Growth Marketing Lead
-Business Operations • Amsterdam
-Learn more
-Experienced
-Technical Recruiter
-Business Operations • Shanghai
-Learn more
-Experienced
-Senior Software Engineer (Data)
-Technology • Sydney
-Learn more
-Experienced
-Head of Group Accounting & Reporting
-Control • Amsterdam
 Learn more
 Sorry, no more results available.
 Load more
@@ -225,34 +225,6 @@ Close
 Hier de html
 Close
 Newsletter sign-up
-Email
-*
-First name
-*
-Last name
-*
-Job function
-Company name
-*
-Region
-*
-Please Select
-APAC
-EMEA
-North America
-Initiative Format
-Initiative Name
-Initiative Office
-Initiative Purpose
-Initiative Region
-Initiative Team
-Initiative Type/Specifics
-Initiative Year
-The personal data included in this form is processed by Optiver to sign you up for the Insights newsletter and send Optiver news, blog posts and Insights articles to your inbox. Please check our
-privacy policy
-to see how we protect and manage your submitted personal data.
-I agree to receive communications from Optiver about news, blog posts and Insights articles.
-*
 ×
 Notice
 We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
