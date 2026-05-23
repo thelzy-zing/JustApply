@@ -218,7 +218,6 @@ HRT® and Hudson River Trading® are registered trademarks of Hudson River Tradi
 Locations
 All
 Austin
-Bellevue
 Boston
 Boulder
 Carteret
@@ -228,11 +227,9 @@ Hong Kong
 London
 Mumbai
 New York
-Seattle
 Seoul
 Shanghai Shi
 Singapore
-Slough
 Functions
 All
 Business Development

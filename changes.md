@@ -1,4 +1,161 @@
 
+## 2026-05-23 09:05:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,12 +89,20 @@
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+ Experienced
++Global Financial Systems Specialist
++Control • Amsterdam
++Learn more
++Experienced
++Institutional Trader
++Trading, Research and Machine Learning • London
++Learn more
++Experienced
++Institutional Trader
++Trading, Research and Machine Learning • Amsterdam
++Learn more
++Experienced
+ C++ Software Engineer
+ Technology • Singapore
+-Learn more
+-Experienced
+-Global Financial Systems Specialist
+-Control • Amsterdam
+ Learn more
+ Experienced
+ Technical Recruiter (12-month contract)
+@@ -119,14 +127,6 @@
+ Experienced
+ Regulatory Legal Counsel
+ Control • Amsterdam
+-Learn more
+-Experienced
+-Procurement Sourcing Specialist
+-Business Operations • Shanghai
+-Learn more
+-Student and Graduate
+-Expressions of Interest – Graduate Quantitative Trader 2027
+-Trading, Research and Machine Learning • Sydney
+ Learn more
+ Sorry, no more results available.
+ Load more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Mumbai
+@@ -136,8 +136,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Mumbai
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -218,7 +218,6 @@
+ Locations
+ All
+ Austin
+-Bellevue
+ Boston
+ Boulder
+ Carteret
+@@ -228,11 +227,9 @@
+ London
+ Mumbai
+ New York
+-Seattle
+ Seoul
+ Shanghai Shi
+ Singapore
+-Slough
+ Functions
+ All
+ Business Development
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -226,6 +226,14 @@
+ Montreal, Warsaw, Boston, Geneva, Houston, London, Paris, Zug
+ Apply
+ Investment
++Quantitative Researcher - Investment CTA/Fixed Income
++New York
++Apply
++Investment
++Quantitative Researcher (Volatility Medium-Frequency)
++New York
++Apply
++Investment
+ Quant Researcher - Convex Optimization
+ Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
+ Apply
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-9ffb20e52de8f7bf
++a002e51dfb000910
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-05-22 10:28:35
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
