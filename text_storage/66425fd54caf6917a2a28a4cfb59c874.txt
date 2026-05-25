@@ -234,10 +234,6 @@ Quantitative Researcher (Volatility Medium-Frequency)
 New York
 Apply
 Investment
-Quant Researcher - Convex Optimization
-Dubai, Geneva, Hong Kong, London, Paris, Singapore, Zug
-Apply
-Investment
 Senior Discretionary Trader - Credit
 London, New York
 Apply
@@ -296,10 +292,6 @@ Apply
 Technology
 Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
-Apply
-Technology
-Software Developer - Data Products and Services
-Montreal, London, Singapore, Bangalore
 Apply
 Technology
 Software Developer - Data Services (KDB+/Q)
