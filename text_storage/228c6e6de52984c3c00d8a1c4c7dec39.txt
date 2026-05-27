@@ -137,28 +137,28 @@ Card Services
 Chase Merchant Services
 Chase Wealth Management
 Consumer Banking
-Home Lending & Mortgage
+Home Lending &amp; Mortgage
 International Consumer
 Audit
 Capital Management
 Compliance
 Corporate Responsibility
-Data & Analytics
-Global Finance & Business Management
+Data &amp; Analytics
+Global Finance &amp; Business Management
 Human Resources
 Legal
-Marketing & Communications
+Marketing &amp; Communications
 Operations
 Risk Management
-Risk Management & Compliance
+Risk Management &amp; Compliance
 Strategy
-Treasury & Chief Investment Office
+Treasury &amp; Chief Investment Office
 Technology
 Commercial Term Lending
 Community Development Banking
 Corporate Banking
 Corporate Client Banking
-Credit Markets & Treasury
+Credit Markets &amp; Treasury
 International Banking
 Investment Banking
 Markets

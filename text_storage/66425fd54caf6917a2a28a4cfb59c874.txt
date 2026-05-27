@@ -161,10 +161,6 @@ Technology
 Junior UX/UI Engineer
 London
 Apply
-Corporate
-Legal Assistant - Fixed Term Contract (3 Months)
-Montreal
-Apply
 Technology
 Network Specialist - Core
 Montreal, London, New York
@@ -194,8 +190,12 @@ Platform Application Specialist
 Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
 Apply
 Technology
-Platform Compute and Storage Specialist
+Platform Compute Specialist
 Montreal, New York, London, Singapore & Bangalore
+Apply
+Technology
+Platform Specialist - PLS
+Montreal, London, New York, Bangalore, Singapore
 Apply
 Technology
 Platform Specialist - Windows and Virtualization
@@ -251,11 +251,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
