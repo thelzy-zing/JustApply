@@ -230,10 +230,6 @@ Quantitative Researcher - Investment CTA/Fixed Income
 New York
 Apply
 Investment
-Quantitative Researcher (Volatility Medium-Frequency)
-New York
-Apply
-Investment
 Senior Discretionary Trader - Credit
 London, New York
 Apply
@@ -251,11 +247,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term

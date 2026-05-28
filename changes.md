@@ -1,4 +1,216 @@
 
+## 2026-05-28 10:59:53
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -88,53 +88,13 @@
+ United States
+ Singapore
+ No results found. Try adjusting your search or filter criteria.
+-Experienced
+-Low Latency Execution Systems Engineer (C++)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Algorithmic Trading C++ Engineer – Equities
+-Technology • Sydney
+-Learn more
+-Experienced
+-APAC Information Security Operations Lead
+-Technology • Sydney
+-Learn more
+-Experienced
+-Senior Information Security Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Senior Software Engineer (Data)
+-Technology • Sydney
+-Learn more
+-Experienced
+-Data Operations
+-Technology • Sydney
+-Learn more
+-Experienced
+-Data – Site Reliability Engineer
+-Technology • Sydney
+-Learn more
+-Experienced
+-Software Engineer – Developer Experience
+-Technology • Sydney
+-Learn more
+-Experienced
+-Software Engineer – AI
+-Technology • Sydney
+-Learn more
+-Experienced
+-AI Engineer
+-Technology • Sydney
+-Learn more
+ Sorry, no more results available.
+ Load more
+ 1
+ 2
+ 3
+ …
+-17
++18
+ Next »
+ Careers
+ Recruitment news
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,11 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Chicago
+-Mumbai
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -135,12 +134,11 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Chicago
+-Mumbai
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -230,10 +230,6 @@
+ New York
+ Apply
+ Investment
+-Quantitative Researcher (Volatility Medium-Frequency)
+-New York
+-Apply
+-Investment
+ Senior Discretionary Trader - Credit
+ London, New York
+ Apply
+@@ -251,11 +247,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Singapore
++Apply
++Technology
++Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a02481072cf33919
++a02cbf111e668797
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-11 jobs
++12 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-11 jobs
++12 jobs
+ Share
+ Clear
+ Job title
+@@ -64,6 +64,9 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Armoury
++Hybrid
++View job
++Senior Software Engineer, FormSG
+ Hybrid
+ View job
+ Senior Software Engineer, KampungSpirit
+@@ -99,6 +102,9 @@
+ Senior Software Engineer, Armoury
+ Hybrid
+ View job
++Senior Software Engineer, FormSG
++Hybrid
++View job
+ Senior Software Engineer, KampungSpirit
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-05-27 10:59:26
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

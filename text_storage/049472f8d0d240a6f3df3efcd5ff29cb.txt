@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-11 jobs
+12 jobs
 Share
 Clear
 Filters
@@ -52,7 +52,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-11 jobs
+12 jobs
 Share
 Clear
 Job title
@@ -64,6 +64,9 @@ Senior Software Engineer, AI Native
 Hybrid
 View job
 Senior Software Engineer, Armoury
+Hybrid
+View job
+Senior Software Engineer, FormSG
 Hybrid
 View job
 Senior Software Engineer, KampungSpirit
@@ -97,6 +100,9 @@ Senior Software Engineer, AI Native
 Hybrid
 View job
 Senior Software Engineer, Armoury
+Hybrid
+View job
+Senior Software Engineer, FormSG
 Hybrid
 View job
 Senior Software Engineer, KampungSpirit
