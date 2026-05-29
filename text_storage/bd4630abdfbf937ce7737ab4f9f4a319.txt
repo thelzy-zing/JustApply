@@ -1,200 +1,80 @@
-Make an Impact with Optiver Careers
-About us
-Working at Optiver
-Institutional Sales
-Principal Strategic Investments
-Optiver Foundation
-Insights
-News
-About Us
-Locations
-Optiver and chess
-Working at Optiver
-Careers
-Early careers
-Career Hub
-Events
-Institutional Sales
-Europe
-Asia Pacific
-United States
-Optiver Execution Services
-Principal Strategic Investments
-Optiver Foundation
-Insights
-News
-Contact
-Latest Insights
-<
-Market views
-Volatility views: Investors are rethinking longer-dated volatility
-Learn more
-Americas, Global
-Market structure
-Lend, borrow, grow: Improving Brazil’s SBL market
-Learn more
-Americas, Global
-Market structure
-Enhancing swaps liquidity through targeted reforms
-Learn more
-Americas
->
-CAREERS
-Are you interested in an environment where new challenges arise by the nanosecond?
-More
-open roles
+Jobs in Trading, Quant & Tech | Optiver
+Skip to menu
+Skip to search
+Skip to main content
+Skip to footer
+Menu
+Menu
 Find your next role at Optiver
-All levels
-Early Careers
-Experienced
-Graduate
+Back to Join Us
+Department
+Location
 Internship
-Prospect
-Student and Graduate
-Internship
-All departments
-Business Operations
-Control
-Corporate Strategy
-Development
-Events
-Facility
-Finance
-HR
-IT Operations
-Risk
-Risk Management
-Technology
-Trading, Research and Machine Learning
-Transfers
-All departments
-All offices
-Amsterdam
-Amsterdam / London
-Austin
-Chicago
-Durham
-Frankfurt
-Hong Kong
-Jersey City
-London
-Mumbai
-New York
-Secaucus
+Filters (1)
+Filters (1)
+2026 Shanghai Machine Learning Engineer Summer Internship
 Shanghai
-Singapore
-Sydney
-Taipei
-United States
-Singapore
-No results found. Try adjusting your search or filter criteria.
-Sorry, no more results available.
-Load more
+Internship
+Technology
+Internship
+Technology
+2026 Shanghai Machine Learning Modelling Engineer Internship, PhD
+Shanghai
+Internship
+Technology
+Internship
+Technology
+2026 Shanghai Software Developer Summer Internship
+Shanghai
+Internship
+Technology
+Internship
+Technology
+Expressions of Interest - Quantitative Research Internship, PhD (Summer 2027 -Shanghai)
+Shanghai
+Internship
+Quantitative Research & Machine Learning
+Internship
+Quantitative Research & Machine Learning
+Showing: 4 / 4
+Filter
 1
-2
-3
-…
-18
-Next »
-Careers
-Recruitment news
-<
+Filter
+1
+Click below
+Learn more about Optiver
+About Optiver
+About Optiver
+Footer navigation
+At Optiver, we continuously quote buy and sell prices across financial markets, using our own capital and advanced technology to provide liquidity at scale across products, venues and market conditions.
+More about Optiver
+What we do
+Research
+Trading
 Technology
-Platform engineering, end to end: a conversation with Pat Cooney
-We sat down with Pat Cooney, Head of Platform Engineering, to talk about what Platform Engineering means here and where agentic AI fits into the picture. Pat has spent over a decade at Optiver across markets, regions, and roles. In one sentence, what is Platform Engineering? It’s the foundation we build the business on, and […]
-Learn more
-Global
-Technology
-Pushing Postgres beyond storage
-In most systems, the database acts as a boundary. You write data into it, and other systems read from it. If you need something more dynamic, like reacting to changes as they happen, you usually introduce something alongside it, whether that is a service layer, a queue, or a stream.
-Learn more
-Global
-Technology
-Where AI trading models work (and where they still fall short)
-Large language models (LLMs) are getting surprisingly good at learning the basics of trading. Consider that the latest models are able to perform tasks like pricing simple scenarios, reasoning through rules and even outlining basic strategies. That gave trader Quintin Brown an idea. For his first project after moving to Optiver’s Applied AI team, Quintin […]
-Learn more
-Global
-Life at Optiver, Meet the team
-Learning by building: Inside Optiver’s Software Engineering Internship
-Many internships promise “real impact.” Few actually deliver it. During their first weeks at Optiver, software engineering interns are introduced to the systems, teams, and problems they’ll be contributing to. They quickly begin building, with some shipping a lightweight release as early as week 2 or 3.
-Learn more
-Global
-Technology
-UI as a Systems Problem
-When something feels slow, you’re probably looking in the wrong place. UI issues are rarely local and are often caused by how data is fetched, recomputed, and duplicated across the system, becoming visible only when multiple services, queries, and interactions run at the same time. Read how Optiver approaches building systems where UI and data are tightly coupled.
-Learn more
-Global
-Technology
-Infrastructure-as-Code for Latency-Critical Bare Metal Systems
-About the Speaker Leanne Fok is a Senior Infrastructure Engineer in Amsterdam with 15+ years at Optiver. She previously led the Infrastructure Platform team responsible for our internal Infrastructure-as-Code stack and is now leading the Infrastructure Kubernetes project. Infrastructure-as-Code is straightforward in the cloud. But what about on bare metal? In her PyLadies talk, “Infrastructure-as-Code […]
-Learn more
-Global
-Technology
-Building visibility into a CI platform
-This article explores how we operate a CI platform on fixed hardware, where auto-scaling is not always an option. It covers how we built visibility into queue times, utilisation, and system behaviour to manage capacity with confidence.
-Learn more
-Global
-Technology
-When Speed and Scale Collide
-Data systems are often described along two axes: speed and scale. In practice, “speed” usually means some combination of latency and throughput, and systems are often optimized for one at the expense of the other, sometimes by trading efficiency for raw capacity. Those distinctions tend to break down quickly once systems move beyond simple use […]
-Learn more
-Global
-Technology
-Real-Time Trading Dashboards with Databricks Apps and Dash
-Learn how Optiver built real-time trading dashboards using Databricks Apps and Dash. Discover the architecture behind low-latency, scalable insights for fast decision-making.
-Learn more
-Global
-Experienced, Meet the team, Trading
-Inside Optiver’s Institutional Trading Team
-Ask five Institutional Traders how they got here, and you’ll get five different answers. Traders from Optiver’s Institutional team share their diverse paths, how they use their unique backgrounds every day, and practical advice for anyone considering the role.
-Learn more
-Europe, Global
->
-See more
-Newsletter
-Subscribe to receive our latest insights on trading, technology and market structure
-As a tech-driven trading firm, Optiver improves financial markets by providing liquidity to exchanges across the globe, making markets more efficient, transparent and stable.
-LinkedIn
-Twitter
-YouTube
+Risk
+Trade with us
+Join us
+All jobs
+How we work
+Students
+Meet us at an event
+Our locations
 About Us
-Locations
-Contact us
-Optiver and chess
-Institutional Sales
-Europe
-Asia Pacific
-United States
-Working at Optiver
-Careers
-Graduate & Student
-Internships
-Career Hub
-Recruitment Events
+Education
 Principal Strategic Investments
-The Optiver Foundation
-Insights
-News
+Optiver Foundation
+Alumni
+Contact
 © Copyright 2026. All Rights Reserved
 Privacy Policy
 Disclosures
 Cookie Policy
 Notices
-Heading
-Close
-Hier de html
-Close
-Newsletter sign-up
 ×
 Notice
-We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
+We   and selected third parties   use cookies or similar technologies  for technical purposes and, with your consent, for other purposes as specified in the
 cookie policy
 .
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept” button to consent. Use the “Reject” button to continue without accepting.
+Close this notice to consent.
 Press again to continue 0/2
-Learn more and customize
-Reject
-Accept
