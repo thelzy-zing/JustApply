@@ -32,7 +32,6 @@ Work on meaningful projects from healthcare to anti-scam technology. Use your sk
 Open positions
 All departments
 Corporate
-Internship
 Policy
 Product Design
 Product Management
@@ -63,6 +62,9 @@ View job
 Senior Software Engineer, AI Native
 Hybrid
 View job
+Senior Software Engineer, Anti-Scam Products
+Hybrid
+View job
 Senior Software Engineer, Armoury
 Hybrid
 View job
@@ -82,9 +84,6 @@ Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, Anti-Scam Products
 Hybrid
 View job
 Software Engineer, ActiveSG
@@ -99,6 +98,9 @@ View job
 Senior Software Engineer, AI Native
 Hybrid
 View job
+Senior Software Engineer, Anti-Scam Products
+Hybrid
+View job
 Senior Software Engineer, Armoury
 Hybrid
 View job
@@ -118,9 +120,6 @@ Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech
-Hybrid
-View job
-Software Engineer / Senior Software Engineer, Anti-Scam Products
 Hybrid
 View job
 Software Engineer, ActiveSG

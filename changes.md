@@ -1,4 +1,177 @@
 
+## 2026-06-04 10:42:20
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,8 +85,6 @@
+ Experience
+ Measurement
+ Marketing
+-Sale
+-of my personal information
+ Sharing
+ of my personal information
+ Processing of my personal information for
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Singapore
+@@ -135,8 +135,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Chicago
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a05e87ee6bbedade
++a06652f0ea4d66e3
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -32,7 +32,6 @@
+ Open positions
+ All departments
+ Corporate
+-Internship
+ Policy
+ Product Design
+ Product Management
+@@ -63,40 +62,7 @@
+ Senior Software Engineer, AI Native
+ Hybrid
+ View job
+-Senior Software Engineer, Armoury
+-Hybrid
+-View job
+-Senior Software Engineer, FormSG
+-Hybrid
+-View job
+-Senior Software Engineer, KampungSpirit
+-Hybrid
+-View job
+-Senior Software Engineer, National Traffic Enforcement System
+-Hybrid
+-View job
+-Senior Software Engineer, ScamShield
+-Hybrid
+-View job
+-Senior/Lead Software Engineer
+-Hybrid
+-View job
+-Senior/Lead Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, Anti-Scam Products
+-Hybrid
+-View job
+-Software Engineer, ActiveSG
+-Hybrid
+-View job
+-Software Engineering Manager, ScamShield
+-Hybrid
+-View job
+-Lead Software Engineer (Technical Lead Manager), HealthTech
+-Hybrid
+-View job
+-Senior Software Engineer, AI Native
++Senior Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+ Senior Software Engineer, Armoury
+@@ -120,7 +86,40 @@
+ Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, Anti-Scam Products
++Software Engineer, ActiveSG
++Hybrid
++View job
++Software Engineering Manager, ScamShield
++Hybrid
++View job
++Lead Software Engineer (Technical Lead Manager), HealthTech
++Hybrid
++View job
++Senior Software Engineer, AI Native
++Hybrid
++View job
++Senior Software Engineer, Anti-Scam Products
++Hybrid
++View job
++Senior Software Engineer, Armoury
++Hybrid
++View job
++Senior Software Engineer, FormSG
++Hybrid
++View job
++Senior Software Engineer, KampungSpirit
++Hybrid
++View job
++Senior Software Engineer, National Traffic Enforcement System
++Hybrid
++View job
++Senior Software Engineer, ScamShield
++Hybrid
++View job
++Senior/Lead Software Engineer
++Hybrid
++View job
++Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+ Software Engineer, ActiveSG
+```
+
+---
+
 ## 2026-06-03 12:00:24
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
