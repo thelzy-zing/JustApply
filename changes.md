@@ -1,4 +1,120 @@
 
+## 2026-06-05 10:52:39
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Singapore
+@@ -135,8 +135,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Chicago
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a06652f0ea4d66e3
++a06e9f728aae7619
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -137,28 +137,28 @@
+ Chase Merchant Services
+ Chase Wealth Management
+ Consumer Banking
+-Home Lending &amp; Mortgage
++Home Lending & Mortgage
+ International Consumer
+ Audit
+ Capital Management
+ Compliance
+ Corporate Responsibility
+-Data &amp; Analytics
+-Global Finance &amp; Business Management
++Data & Analytics
++Global Finance & Business Management
+ Human Resources
+ Legal
+-Marketing &amp; Communications
++Marketing & Communications
+ Operations
+ Risk Management
+-Risk Management &amp; Compliance
++Risk Management & Compliance
+ Strategy
+-Treasury &amp; Chief Investment Office
++Treasury & Chief Investment Office
+ Technology
+ Commercial Term Lending
+ Community Development Banking
+ Corporate Banking
+ Corporate Client Banking
+-Credit Markets &amp; Treasury
++Credit Markets & Treasury
+ International Banking
+ Investment Banking
+ Markets
+@@ -169,7 +169,7 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 90 programs
++We found 88 programs
+ slide
+ 1
+ of 4
+@@ -180,7 +180,7 @@
+ Internship
+ (39)
+ Full-Time
+-(33)
++(31)
+ prev
+ next
+ School Programs & Apprenticeships
+```
+
+---
+
 ## 2026-06-04 10:42:20
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
