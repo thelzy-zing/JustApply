@@ -1,4 +1,186 @@
 
+## 2026-06-06 09:32:07
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -293,26 +293,26 @@
+ Billing
+ Capital
+ Checkout
+-Crypto
+ Climate
+ Connect
++Crypto
+ Data Pipeline
+ Elements
+-Treasury
+ Financial Connections
+ Identity
+ Invoicing
+ Issuing
+ Link
+ Managed Payments
++Payment links
+ Payments
+-Payment links
+ Payouts
+ Radar
+ Revenue Recognition
+ Stripe Sigma
+ Tax
+ Terminal
++Treasury
+ Solutions
+ Enterprises
+ Startups
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Singapore
+@@ -134,9 +134,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Singapore
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -275,7 +275,7 @@
+ Apply
+ Investment
+ Shift Trader
+-Singapore, London
++Singapore, London, Dubai
+ Apply
+ Technology
+ Site Management Specialist
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a06e9f728aae7619
++a07666de1bb0703c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -22,11 +22,8 @@
+ Learn more
+ Impact
+ Impact
+-Business growth and entrepreneurship
+-Careers and skills
+-Community development
+-Environmental sustainability
+-Financial health and wealth creation
++Global impact
++U.S. impact
+ Latest news
+ An Ohio-based company is protecting first responders around the world
+ With support from JPMorganChase, Fire-Dex is providing protective equipment to firefighters in 100 countries and all 50 states.
+@@ -137,28 +134,28 @@
+ Chase Merchant Services
+ Chase Wealth Management
+ Consumer Banking
+-Home Lending & Mortgage
++Home Lending &amp; Mortgage
+ International Consumer
+ Audit
+ Capital Management
+ Compliance
+ Corporate Responsibility
+-Data & Analytics
+-Global Finance & Business Management
++Data &amp; Analytics
++Global Finance &amp; Business Management
+ Human Resources
+ Legal
+-Marketing & Communications
++Marketing &amp; Communications
+ Operations
+ Risk Management
+-Risk Management & Compliance
++Risk Management &amp; Compliance
+ Strategy
+-Treasury & Chief Investment Office
++Treasury &amp; Chief Investment Office
+ Technology
+ Commercial Term Lending
+ Community Development Banking
+ Corporate Banking
+ Corporate Client Banking
+-Credit Markets & Treasury
++Credit Markets &amp; Treasury
+ International Banking
+ Investment Banking
+ Markets
+@@ -245,6 +242,8 @@
+ Community relief
+ Volunteerism
+ Impact
++Global impact
++U.S. impact
+ Business growth and entrepreneurship
+ Careers and skills
+ Community development
+```
+
+---
+
 ## 2026-06-05 10:52:39
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
