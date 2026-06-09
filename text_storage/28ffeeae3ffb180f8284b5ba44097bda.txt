@@ -44,7 +44,7 @@ Personal Setup
 More from Mac
 Mac Support
 AppleCare
-macOS Tahoe
+macOS 27 Preview
 Apple Intelligence
 Apps by Apple
 Apple Creator Studio
@@ -71,7 +71,7 @@ Personal Setup
 More from iPad
 iPad Support
 AppleCare
-iPadOS 26
+iPadOS 27 Preview
 Apple Intelligence
 Apps by Apple
 Apple Creator Studio
@@ -97,14 +97,13 @@ Personal Setup
 More from iPhone
 iPhone Support
 AppleCare
-iOS 26
+iOS 27 Preview
 Apple Intelligence
 Apps by Apple
 iPhone Privacy
 Better with Mac
 iCloud+
 Wallet, Pay, Card
-Siri
 Watch
 Explore Watch
 Explore All Apple Watch
@@ -125,7 +124,7 @@ Personal Setup
 More from Watch
 Apple Watch Support
 AppleCare
-watchOS 26
+watchOS 27 Preview
 Apple Watch For Your Kids
 Apps by Apple
 Apple Fitness+
@@ -143,7 +142,7 @@ Personal Setup
 More from Vision
 Apple Vision Pro Support
 AppleCare
-visionOS 26
+visionOS 27 Preview
 Apple Vision Pro for Enterprise
 AirPods
 Explore AirPods
@@ -182,7 +181,6 @@ Apple TV app
 Apple TV
 Home app
 Apple Music
-Siri
 AirPlay
 Entertainment
 Explore Entertainment

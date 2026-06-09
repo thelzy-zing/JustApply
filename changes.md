@@ -1,4 +1,174 @@
 
+## 2026-06-09 10:38:05
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Chicago
+ Singapore
+@@ -134,9 +134,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Chicago
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ More from Mac
+ Mac Support
+ AppleCare
+-macOS Tahoe
++macOS 27 Preview
+ Apple Intelligence
+ Apps by Apple
+ Apple Creator Studio
+@@ -71,7 +71,7 @@
+ More from iPad
+ iPad Support
+ AppleCare
+-iPadOS 26
++iPadOS 27 Preview
+ Apple Intelligence
+ Apps by Apple
+ Apple Creator Studio
+@@ -97,14 +97,13 @@
+ More from iPhone
+ iPhone Support
+ AppleCare
+-iOS 26
++iOS 27 Preview
+ Apple Intelligence
+ Apps by Apple
+ iPhone Privacy
+ Better with Mac
+ iCloud+
+ Wallet, Pay, Card
+-Siri
+ Watch
+ Explore Watch
+ Explore All Apple Watch
+@@ -125,7 +124,7 @@
+ More from Watch
+ Apple Watch Support
+ AppleCare
+-watchOS 26
++watchOS 27 Preview
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
+@@ -143,7 +142,7 @@
+ More from Vision
+ Apple Vision Pro Support
+ AppleCare
+-visionOS 26
++visionOS 27 Preview
+ Apple Vision Pro for Enterprise
+ AirPods
+ Explore AirPods
+@@ -182,7 +181,6 @@
+ Apple TV
+ Home app
+ Apple Music
+-Siri
+ AirPlay
+ Entertainment
+ Explore Entertainment
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a087bd8789e35414
++a08f7f9aae906f22
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,28 +134,28 @@
+ Chase Merchant Services
+ Chase Wealth Management
+ Consumer Banking
+-Home Lending &amp; Mortgage
++Home Lending & Mortgage
+ International Consumer
+ Audit
+ Capital Management
+ Compliance
+ Corporate Responsibility
+-Data &amp; Analytics
+-Global Finance &amp; Business Management
++Data & Analytics
++Global Finance & Business Management
+ Human Resources
+ Legal
+-Marketing &amp; Communications
++Marketing & Communications
+ Operations
+ Risk Management
+-Risk Management &amp; Compliance
++Risk Management & Compliance
+ Strategy
+-Treasury &amp; Chief Investment Office
++Treasury & Chief Investment Office
+ Technology
+ Commercial Term Lending
+ Community Development Banking
+ Corporate Banking
+ Corporate Client Banking
+-Credit Markets &amp; Treasury
++Credit Markets & Treasury
+ International Banking
+ Investment Banking
+ Markets
+```
+
+---
+
 ## 2026-06-08 12:02:14
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
