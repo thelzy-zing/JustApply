@@ -247,11 +247,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
@@ -288,6 +288,10 @@ Apply
 Technology
 Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
+Apply
+Technology
+Software Developer - Data Products and Services
+Montreal, London, Singapore, Bangalore
 Apply
 Technology
 Software Developer - Data Services (KDB+/Q)

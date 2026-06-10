@@ -43,7 +43,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+11 jobs
 Share
 Clear
 Filters
@@ -51,7 +51,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+11 jobs
 Share
 Clear
 Job title
@@ -75,9 +75,6 @@ Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Senior Software Engineer, National Traffic Enforcement System
-Hybrid
-View job
-Senior Software Engineer, ScamShield
 Hybrid
 View job
 Senior/Lead Software Engineer
@@ -111,9 +108,6 @@ Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Senior Software Engineer, National Traffic Enforcement System
-Hybrid
-View job
-Senior Software Engineer, ScamShield
 Hybrid
 View job
 Senior/Lead Software Engineer
