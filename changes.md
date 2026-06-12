@@ -1,4 +1,218 @@
 
+## 2026-06-12 11:05:32
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -21,6 +21,7 @@
+ Teams
+ Administrative
+ Communications
++Consumer
+ Corporate Development
+ Corporate Security
+ Corporate Strategy
+@@ -46,11 +47,13 @@
+ Sales
+ Scaled Sales
+ Solutions Architect
++Infrastructure
+ Infrastructure & Corporate Tech
+ Legal
+ Machine Learning
+ Operations
+ Technical Account Management
++Paystack
+ People
+ Recruiting
+ People Functions
+@@ -71,22 +74,23 @@
+ Revenue & Financial Automation
+ Stripe Tax
+ Terminal
++Reliability
+ Risk & Financial Crimes
++SaaS
+ Security
++Startups
+ Tech Programs
+ University
+ Opens the multi-select filter menu
+ Office Locations (1)
+-North America
+-Atlanta
+-Chicago
+-New York
+-Seattle
+-South San Francisco HQ
+-San Francisco Bridge HQ
+-Washington DC
+-Toronto
+-Mexico City
++Asia Pacific
++Sydney
++Melbourne
++Jakarta
++Bengaluru
++Tokyo
++Singapore
++Bangkok
+ Europe
+ Paris
+ Berlin
+@@ -99,25 +103,33 @@
+ Barcelona
+ Stockholm
+ Luxembourg
+-Asia Pacific
+-Sydney
+-Melbourne
+-Jakarta
+-Bengaluru
+-Tokyo
+-Singapore
+-Bangkok
+ Latin America
+ São Paulo
++Mexico City
++North America
++Atlanta
++Chicago
++New York
++Seattle
++South San Francisco HQ
++San Francisco Bridge HQ
++Washington DC
++Toronto
+ Mexico City
+ Middle East
+ Dubai
+ Opens the multi-select filter menu
+ Remote Locations
+-North America
+-United States
+-Canada
+-Mexico
++Asia Pacific
++Australia
++Hong Kong
++Indonesia
++India
++Japan
++Malaysia
++New Zealand
++South Korea
++Thailand
+ Europe
+ Austria
+ Belgium
+@@ -136,20 +148,14 @@
+ Spain
+ Sweden
+ Switzerland
+-Asia Pacific
+-Australia
+-Hong Kong
+-Indonesia
+-India
+-Japan
+-Malaysia
+-New Zealand
+-South Korea
+-Thailand
+ Latin America
+ Argentina
+ Brazil
+ Chile
++Mexico
++North America
++United States
++Canada
+ Mexico
+ Opens the multi-select filter menu
+ Tags (1)
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Chicago
+ Singapore
+@@ -134,9 +134,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Chicago
+ Singapore
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,6 +233,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a0a0412bdf4713b6
++a0a85ff5a92ecc77
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-06-11 11:26:26
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
