@@ -70,9 +70,6 @@ View job
 Senior Software Engineer, FormSG
 Hybrid
 View job
-Senior Software Engineer, KampungSpirit
-Hybrid
-View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
@@ -80,6 +77,9 @@ Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech
+Hybrid
+View job
+Software Engineer / Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Software Engineer, ActiveSG
@@ -103,9 +103,6 @@ View job
 Senior Software Engineer, FormSG
 Hybrid
 View job
-Senior Software Engineer, KampungSpirit
-Hybrid
-View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
@@ -113,6 +110,9 @@ Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech
+Hybrid
+View job
+Software Engineer / Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Software Engineer, ActiveSG

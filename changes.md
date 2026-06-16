@@ -1,4 +1,120 @@
 
+## 2026-06-16 12:15:24
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,12 +233,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a0c1dd0afb0c2eee
++a0c9bbcd08383e81
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -70,9 +70,6 @@
+ Senior Software Engineer, FormSG
+ Hybrid
+ View job
+-Senior Software Engineer, KampungSpirit
+-Hybrid
+-View job
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+@@ -80,6 +77,9 @@
+ Hybrid
+ View job
+ Senior/Lead Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer / Senior Software Engineer, KampungSpirit
+ Hybrid
+ View job
+ Software Engineer, ActiveSG
+@@ -103,9 +103,6 @@
+ Senior Software Engineer, FormSG
+ Hybrid
+ View job
+-Senior Software Engineer, KampungSpirit
+-Hybrid
+-View job
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
+@@ -115,6 +112,9 @@
+ Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
++Software Engineer / Senior Software Engineer, KampungSpirit
++Hybrid
++View job
+ Software Engineer, ActiveSG
+ Hybrid
+ View job
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -307,10 +307,6 @@
+ Switch Label
+ label
+ These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+-Social media cookies
+-Switch Label
+-label
+-These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
+ Marketing
+ Switch Label
+ label
+```
+
+---
+
 ## 2026-06-15 13:19:59
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

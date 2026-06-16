@@ -307,10 +307,6 @@ Marketing cookies
 Switch Label
 label
 These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing.  These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
-Social media cookies
-Switch Label
-label
-These cookies help us evaluate the effectiveness of our marketing campaigns or to provide better targeting for marketing. These cookies may collect personal data such as your name as well as information about how you interact with our websites, apps or marketing materials.
 Marketing
 Switch Label
 label
