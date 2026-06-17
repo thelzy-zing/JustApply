@@ -109,10 +109,6 @@ Technology
 Intern Software Developer - Fall 2026
 Montreal
 Apply
-Technology
-Intern Software Developer - Summer 2026
-Warsaw
-Apply
 Investment
 Junior Commodities Fundamental Analyst
 Geneva, London, Paris, Singapore
@@ -247,11 +243,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
