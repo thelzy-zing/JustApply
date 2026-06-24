@@ -24,7 +24,6 @@ Filters
 Experience level
 Early Careers
 Experienced Professionals
-Internships
 Division
 Corporate
 Investment
@@ -108,10 +107,6 @@ Apply
 Technology
 Identity and Access Management (IAM) Engineer
 London
-Apply
-Technology
-Intern Software Developer - Fall 2026
-Montreal
 Apply
 Investment
 Junior Commodities Fundamental Analyst
@@ -251,11 +246,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term

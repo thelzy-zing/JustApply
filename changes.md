@@ -1,4 +1,142 @@
 
+## 2026-06-24 10:26:29
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -233,12 +233,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,7 +24,6 @@
+ Experience level
+ Early Careers
+ Experienced Professionals
+-Internships
+ Division
+ Corporate
+ Investment
+@@ -109,10 +108,6 @@
+ Identity and Access Management (IAM) Engineer
+ London
+ Apply
+-Technology
+-Intern Software Developer - Fall 2026
+-Montreal
+-Apply
+ Investment
+ Junior Commodities Fundamental Analyst
+ Geneva, London, Paris, Singapore
+@@ -251,11 +246,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Singapore
++Apply
++Technology
++Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a102de09e8e19a2e
++a10b07428f88bc23
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,7 +42,7 @@
+ Singapore
+ Singapore
+ Singapore
+-11 jobs
++12 jobs
+ Share
+ Clear
+ Filters
+@@ -50,7 +50,7 @@
+ Singapore
+ Singapore
+ Singapore
+-11 jobs
++12 jobs
+ Share
+ Clear
+ Job title
+@@ -71,6 +71,9 @@
+ Hybrid
+ View job
+ Senior Software Engineer, National Traffic Enforcement System
++Hybrid
++View job
++Senior Software Engineer, ScamShield
+ Hybrid
+ View job
+ Senior/Lead Software Engineer
+@@ -106,6 +109,9 @@
+ Senior Software Engineer, National Traffic Enforcement System
+ Hybrid
+ View job
++Senior Software Engineer, ScamShield
++Hybrid
++View job
+ Senior/Lead Software Engineer
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-06-23 10:40:15
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
