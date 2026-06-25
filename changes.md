@@ -1,4 +1,86 @@
 
+## 2026-06-25 10:19:09
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -134,8 +134,8 @@
+ LOCATION
+ All Locations
+ London
++Hong Kong
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -278,7 +278,7 @@
+ Apply
+ Technology
+ Site Management Specialist
+-New York
++New York, London
+ Apply
+ Technology
+ Software Developer - Data Infrastructure
+@@ -305,8 +305,8 @@
+ London, Montreal, Singapore, Warsaw
+ Apply
+ Technology
+-Software Developer - Market Access
+-Montreal , Singapore, Warsaw
++Software Developer - Order Gateway
++Montreal , London , Warsaw
+ Apply
+ Technology
+ Software Developer - Risk Data Pipelines
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a10b07428f88bc23
++a11339e3fd87f92b
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-06-24 10:26:29
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)

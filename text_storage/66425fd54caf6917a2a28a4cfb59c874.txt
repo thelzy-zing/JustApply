@@ -278,7 +278,7 @@ Singapore, London, Dubai
 Apply
 Technology
 Site Management Specialist
-New York
+New York, London
 Apply
 Technology
 Software Developer - Data Infrastructure
@@ -305,8 +305,8 @@ Software Developer - Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
 Apply
 Technology
-Software Developer - Market Access
-Montreal , Singapore, Warsaw
+Software Developer - Order Gateway
+Montreal , London , Warsaw
 Apply
 Technology
 Software Developer - Risk Data Pipelines
