@@ -44,7 +44,7 @@ More from Mac
 Mac Support
 AppleCare
 macOS 27 Preview
-Apple Intelligence
+Apple Intelligence and Siri
 Apps by Apple
 Apple Creator Studio
 Better with iPhone
@@ -71,7 +71,7 @@ More from iPad
 iPad Support
 AppleCare
 iPadOS 27 Preview
-Apple Intelligence
+Apple Intelligence and Siri
 Apps by Apple
 Apple Creator Studio
 iCloud+
@@ -97,7 +97,7 @@ More from iPhone
 iPhone Support
 AppleCare
 iOS 27 Preview
-Apple Intelligence
+Apple Intelligence and Siri
 Apps by Apple
 iPhone Privacy
 Better with Mac
@@ -232,12 +232,6 @@ Get AppleCare
 Apple Account and Password
 Billing & Subscriptions
 Accessibility
-Quick Links
-Find a Store
-Apple Vision Pro
-AirPods
-Apple Intelligence
-Apple Trade In
 0
 +
 Please enable Javascript in your browser for best experience.
