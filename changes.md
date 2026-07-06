@@ -1,4 +1,56 @@
 
+## 2026-07-06 11:41:42
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Singapore
+@@ -133,8 +133,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1656f69de35b9e3
++a16e55e2dffaeaf4
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-07-05 09:46:15
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
