@@ -1,4 +1,165 @@
 
+## 2026-07-07 10:29:57
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -133,9 +133,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -113,6 +113,10 @@
+ Geneva, London, Paris, Singapore
+ Apply
+ Investment
++Junior Credit Fundamental Research Analyst
++London, New York, Paris
++Apply
++Investment
+ Junior Discretionary Trader
+ London
+ Apply
+@@ -210,7 +214,7 @@
+ Apply
+ Technology
+ Quant Developer (C++)
+-London, Montreal, Singapore
++London, Montreal, Singapore, Warsaw, Zug
+ Apply
+ Technology
+ Quant Developer (KDB)
+@@ -220,10 +224,6 @@
+ Quant Developer (Python)
+ London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+ Apply
+-Technology
+-Quantitative Developer - High Performance Computing (Python)
+-Montreal, Warsaw, Boston, Geneva, Houston, London, Paris, Zug
+-Apply
+ Investment
+ Senior Discretionary Trader - Credit
+ London, New York
+@@ -242,11 +242,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Singapore
++Apply
++Technology
++Senior Information Security Engineer
+ Montreal
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Singapore
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a16e55e2dffaeaf4
++a1762a316c6be60c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,7 +45,7 @@
+ Singapore
+ Singapore
+ Singapore
+-12 jobs
++13 jobs
+ Share
+ Clear
+ Filters
+@@ -53,7 +53,7 @@
+ Singapore
+ Singapore
+ Singapore
+-12 jobs
++13 jobs
+ Share
+ Clear
+ Job title
+@@ -89,6 +89,9 @@
+ Hybrid
+ View job
+ Software Engineer, ActiveSG
++Hybrid
++View job
++Software Engineer, HealthTech
+ Hybrid
+ View job
+ Software Engineering Manager, ScamShield
+@@ -127,6 +130,9 @@
+ Software Engineer, ActiveSG
+ Hybrid
+ View job
++Software Engineer, HealthTech
++Hybrid
++View job
+ Software Engineering Manager, ScamShield
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-07-06 11:41:42
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

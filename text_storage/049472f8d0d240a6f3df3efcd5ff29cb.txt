@@ -45,7 +45,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+13 jobs
 Share
 Clear
 Filters
@@ -53,7 +53,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+13 jobs
 Share
 Clear
 Job title
@@ -91,6 +91,9 @@ View job
 Software Engineer, ActiveSG
 Hybrid
 View job
+Software Engineer, HealthTech
+Hybrid
+View job
 Software Engineering Manager, ScamShield
 Hybrid
 View job
@@ -125,6 +128,9 @@ Software Engineer / Senior Software Engineer, KampungSpirit
 Hybrid
 View job
 Software Engineer, ActiveSG
+Hybrid
+View job
+Software Engineer, HealthTech
 Hybrid
 View job
 Software Engineering Manager, ScamShield
