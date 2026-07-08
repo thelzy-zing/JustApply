@@ -1,4 +1,106 @@
 
+## 2026-07-08 09:29:10
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -185,6 +185,9 @@
+ Canada
+ English
+ Français
++China
++简体中文
++English
+ Croatia
+ English
+ Italiano
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -133,9 +133,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -242,11 +242,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Montreal
++Apply
++Technology
++Senior Information Security Engineer
+ Singapore
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Montreal
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1762a316c6be60c
++a17e0e85ffa3e8d8
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-07-07 10:29:57
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
