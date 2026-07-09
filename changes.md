@@ -1,4 +1,178 @@
 
+## 2026-07-09 10:29:57
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -332,6 +332,7 @@
+ SaaS
+ AI companies
+ Creator economy
++Gaming
+ Hospitality, travel, and leisure
+ Insurance
+ Media and entertainment
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,6 +45,7 @@
+ Saved jobs
+ Job alerts
+ AI at Google
++Google Cloud
+ noogler_hat
+ Students
+ expand_more
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -133,9 +133,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -24,6 +24,7 @@
+ Experience level
+ Early Careers
+ Experienced Professionals
++Internships
+ Division
+ Corporate
+ Investment
+@@ -183,6 +184,10 @@
+ Corporate
+ Operations Analyst
+ Bangalore
++Apply
++Corporate
++Operations Intern (Fall)
++Montreal
+ Apply
+ Technology
+ PCG Automation Developer (Python)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a17e0e85ffa3e8d8
++a186a4e37dcdf005
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -33,8 +33,6 @@
+ Institute
+ Explore all topics
+ Latest news
+-The pandemic’s bankable moment
+-Learn more
+ Careers
+ Careers
+ Work with us
+@@ -134,28 +132,28 @@
+ Chase Merchant Services
+ Chase Wealth Management
+ Consumer Banking
+-Home Lending &amp; Mortgage
++Home Lending & Mortgage
+ International Consumer
+ Audit
+ Capital Management
+ Compliance
+ Corporate Responsibility
+-Data &amp; Analytics
+-Global Finance &amp; Business Management
++Data & Analytics
++Global Finance & Business Management
+ Human Resources
+ Legal
+-Marketing &amp; Communications
++Marketing & Communications
+ Operations
+ Risk Management
+-Risk Management &amp; Compliance
++Risk Management & Compliance
+ Strategy
+-Treasury &amp; Chief Investment Office
++Treasury & Chief Investment Office
+ Technology
+ Commercial Term Lending
+ Community Development Banking
+ Corporate Banking
+ Corporate Client Banking
+-Credit Markets &amp; Treasury
++Credit Markets & Treasury
+ International Banking
+ Investment Banking
+ Markets
+```
+
+---
+
 ## 2026-07-08 09:29:10
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
