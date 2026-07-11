@@ -84,8 +84,8 @@ Internship
 LOCATION
 All Locations
 London
-New York
 Hong Kong
+New York
 Singapore
 Singapore
 DEPARTMENT
@@ -134,8 +134,8 @@ Internship
 LOCATION
 All Locations
 London
-New York
 Hong Kong
+New York
 Singapore
 Singapore
 DEPARTMENT
