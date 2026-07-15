@@ -1,4 +1,123 @@
 
+## 2026-07-15 09:13:04
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -42,13 +42,19 @@
+ Trading
+ Internship
+ Trading
++2026 Shanghai Machine Learning Modelling Engineer Internship, PhD
++Shanghai
++Internship
++Technology
++Internship
++Technology
+ Expressions of Interest - Quantitative Research Internship, PhD (Summer 2027 -Shanghai)
+ Shanghai
+ Internship
+ Quantitative Research & Machine Learning
+ Internship
+ Quantitative Research & Machine Learning
+-Showing: 6 / 6
++Showing: 7 / 7
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -337,6 +337,7 @@
+ Insurance
+ Media and entertainment
+ Nonprofits
++Professional services
+ Public sector
+ Retail
+ Integrations & custom solutions
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1af60cd6a9be600
++a1b7a48f5d022bd4
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-13 jobs
++12 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-13 jobs
++12 jobs
+ Share
+ Clear
+ Job title
+@@ -82,9 +82,6 @@
+ Hybrid
+ View job
+ Senior/Lead Software Engineer, HealthTech
+-Hybrid
+-View job
+-Software Engineer / Senior Software Engineer, KampungSpirit
+ Hybrid
+ View job
+ Software Engineer, ActiveSG
+@@ -123,9 +120,6 @@
+ Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+-Software Engineer / Senior Software Engineer, KampungSpirit
+-Hybrid
+-View job
+ Software Engineer, ActiveSG
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-07-14 09:08:42
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
