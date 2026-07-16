@@ -294,10 +294,6 @@ Software Developer - Data Products and Services
 Montreal, London, Singapore, Bangalore
 Apply
 Technology
-Software Developer - Data Services (KDB+/Q)
-Singapore, Montreal, London, Hong Kong, New York, Warsaw
-Apply
-Technology
 Software Developer - Internal Compute Frameworks (Python)
 London, Montreal, Singapore, Warsaw
 Apply
