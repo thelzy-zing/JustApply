@@ -1,4 +1,143 @@
 
+## 2026-07-17 09:14:08
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -15,9 +15,9 @@
+ Trading Automation and Operations Intern (Summer 2027)
+ Chicago
+ Internship
+-Trading
++Institutional Sales & Trading
+ Internship
+-Trading
++Institutional Sales & Trading
+ Software Engineer Intern (Summer 2027 - Austin)
+ Austin
+ Internship
+@@ -45,9 +45,9 @@
+ Quantitative Intern (Summer 2027)
+ Chicago
+ Internship
+-Trading
++Institutional Sales & Trading
+ Internship
+-Trading
++Institutional Sales & Trading
+ 2026 Shanghai Machine Learning Modelling Engineer Internship, PhD
+ Shanghai
+ Internship
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -60,7 +60,7 @@
+ People Functions
+ Products
+ Banking as a Service
+-Climate
++Intercept
+ Connect
+ Crypto
+ Mobile
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -134,8 +134,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,7 @@
+ Apple Trade In
+ Financing
+ Personal Setup
++College Student Offer
+ Shop Special Stores
+ Certified Refurbished
+ Education
+@@ -40,6 +41,7 @@
+ Apple Trade In
+ Financing
+ Personal Setup
++College Student Offer
+ More from Mac
+ Mac Support
+ AppleCare
+@@ -67,6 +69,7 @@
+ Apple Trade In
+ Financing
+ Personal Setup
++College Student Offer
+ More from iPad
+ iPad Support
+ AppleCare
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1bfebfa694688d0
++a1c820d45d7cae77
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-07-16 09:19:55
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
