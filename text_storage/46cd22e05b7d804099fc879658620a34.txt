@@ -142,6 +142,10 @@ For students currently enrolled in an undergraduate or graduate program.
 Experienced Talent Community
 For individuals with prior full-time career experience.
 ↳ Join Today
+AI & Machine Learning at HRT
+Join a Rigorous Research Culture
+Hudson River Trading stands apart in the industry due to our extremely open, collaborative environment and strong common technological platform that allows us to innovate rapidly. Leveraging our substantial compute cluster outfitted with modern GPUs, and working alongside some of the best researchers and engineers in the field, you’ll push the boundary of deep learning at scale. We have a meritocratic, low-politics culture, where our researchers spend nearly all of their time on research and innovation is rewarded.
+↳ Learn More
 Protect yourself from fraud
 Please be aware that HRT emails will always come from the @hudson-trading.com domain; a genuine offer document will
 not
@@ -171,6 +175,7 @@ Job Openings
 Work at HRT
 Life at HRT
 Student Opportunities
+AI & Machine Learning
 Talent Community
 North America
 New York City

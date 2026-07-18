@@ -1,4 +1,74 @@
 
+## 2026-07-18 08:52:51
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -142,6 +142,10 @@
+ Experienced Talent Community
+ For individuals with prior full-time career experience.
+ ↳ Join Today
++AI & Machine Learning at HRT
++Join a Rigorous Research Culture
++Hudson River Trading stands apart in the industry due to our extremely open, collaborative environment and strong common technological platform that allows us to innovate rapidly. Leveraging our substantial compute cluster outfitted with modern GPUs, and working alongside some of the best researchers and engineers in the field, you’ll push the boundary of deep learning at scale. We have a meritocratic, low-politics culture, where our researchers spend nearly all of their time on research and innovation is rewarded.
++↳ Learn More
+ Protect yourself from fraud
+ Please be aware that HRT emails will always come from the @hudson-trading.com domain; a genuine offer document will
+ not
+@@ -171,6 +175,7 @@
+ Work at HRT
+ Life at HRT
+ Student Opportunities
++AI & Machine Learning
+ Talent Community
+ North America
+ New York City
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1c820d45d7cae77
++a1d03f12bd02d6bc
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,7 +168,7 @@
+ slide
+ 1
+ of 4
+-School Programs & Apprenticeships
++school programs & apprenticeships
+ (9)
+ Early Insight (pre-internship)
+ (8)
+```
+
+---
+
 ## 2026-07-17 09:14:08
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
