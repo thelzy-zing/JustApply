@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+10 jobs
 Share
 Clear
 Filters
@@ -52,7 +52,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-12 jobs
+10 jobs
 Share
 Clear
 Job title
@@ -75,9 +75,6 @@ View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
-Senior Software Engineer, ScamShield
-Hybrid
-View job
 Senior/Lead Software Engineer
 Hybrid
 View job
@@ -88,9 +85,6 @@ Software Engineer, ActiveSG
 Hybrid
 View job
 Software Engineer, HealthTech
-Hybrid
-View job
-Software Engineering Manager, ScamShield
 Hybrid
 View job
 Lead Software Engineer (Technical Lead Manager), HealthTech
@@ -111,9 +105,6 @@ View job
 Senior Software Engineer, National Traffic Enforcement System
 Hybrid
 View job
-Senior Software Engineer, ScamShield
-Hybrid
-View job
 Senior/Lead Software Engineer
 Hybrid
 View job
@@ -124,8 +115,5 @@ Software Engineer, ActiveSG
 Hybrid
 View job
 Software Engineer, HealthTech
-Hybrid
-View job
-Software Engineering Manager, ScamShield
 Hybrid
 View job
