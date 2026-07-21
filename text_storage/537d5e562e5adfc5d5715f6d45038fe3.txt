@@ -83,9 +83,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
+London
 New York
 Hong Kong
-London
 Singapore
 Singapore
 DEPARTMENT
@@ -106,13 +106,27 @@ Team
 SEASON/DURATION
 All Durations
 Permanent
+May-August
 Season/duration
 Clear Filters
-This criteria yielded no results
+1
+job in
+Internship
+,
+Singapore
+,
+all departments
+,
+all durations
 TITLE
 LOCATION
 DEPARTMENT
 TEAM
+Software Engineer
+Internship
+Singapore
+Technology
+May-August
 Protect yourself from recruiting scams
 Emails from Jane Street recruiters will always come from an email address ending in @janestreet.com or our
 subdomains (e.g. @recruiting.janestreet.com). We will never ask you for personal banking information or payment.
@@ -133,9 +147,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
+London
 New York
 Hong Kong
-London
 Singapore
 Singapore
 DEPARTMENT
@@ -156,14 +170,28 @@ Team
 SEASON/DURATION
 All Durations
 Permanent
+May-August
 Season/duration
 Clear Filters
-This criteria yielded no results
+1
+job in
+Internship
+,
+Singapore
+,
+all departments
+,
+all durations
 TITLE
 TYPE
 LOCATION
 DEPARTMENT
 SEASON/DURATION
+Software Engineer
+Internship
+Singapore
+Technology
+May-August
 Protect yourself from recruiting scams
 Emails from Jane Street recruiters will always come from an email address ending in @janestreet.com or our
 subdomains (e.g. @recruiting.janestreet.com). We will never ask you for personal banking information or payment.

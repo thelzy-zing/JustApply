@@ -44,7 +44,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-10 jobs
+11 jobs
 Share
 Clear
 Filters
@@ -52,12 +52,15 @@ Singapore
 Singapore
 Singapore
 Singapore
-10 jobs
+11 jobs
 Share
 Clear
 Job title
 Work model
 Lead Software Engineer (Technical Lead Manager), HealthTech
+Hybrid
+View job
+Senior Software Engineer, ActiveSG
 Hybrid
 View job
 Senior Software Engineer, AI Native
@@ -88,6 +91,9 @@ Software Engineer, HealthTech
 Hybrid
 View job
 Lead Software Engineer (Technical Lead Manager), HealthTech
+Hybrid
+View job
+Senior Software Engineer, ActiveSG
 Hybrid
 View job
 Senior Software Engineer, AI Native
