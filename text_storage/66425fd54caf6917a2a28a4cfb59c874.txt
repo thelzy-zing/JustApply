@@ -105,6 +105,10 @@ Corporate
 HR Systems Associate - Workday
 Bangalore, London
 Apply
+Corporate
+Human Resources Manager
+Geneva
+Apply
 Technology
 Identity and Access Management (IAM) Engineer
 London
@@ -251,11 +255,11 @@ Montreal, Bangalore, Warsaw
 Apply
 Technology
 Senior Information Security Engineer
-Singapore
+Montreal
 Apply
 Technology
 Senior Information Security Engineer
-Montreal
+Singapore
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term
@@ -304,6 +308,10 @@ Apply
 Technology
 Software Developer - Internal Compute Frameworks (Rust)
 London, Montreal, Singapore, Warsaw
+Apply
+Technology
+Software Developer - Market Data Integration
+London, Montreal
 Apply
 Technology
 Software Developer - Order Gateway

@@ -1,4 +1,242 @@
 
+## 2026-07-23 09:28:08
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -147,9 +147,9 @@
+ Internship
+ LOCATION
+ All Locations
+-Hong Kong
+ London
+ New York
++Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -53,6 +53,7 @@
+ iCloud+
+ Mac for Business
+ Education
++Apple at Work
+ iPad
+ Explore iPad
+ Explore All iPad
+@@ -79,6 +80,7 @@
+ Apple Creator Studio
+ iCloud+
+ Education
++Apple at Work
+ iPhone
+ Explore iPhone
+ Explore All iPhone
+@@ -106,6 +108,7 @@
+ Better with Mac
+ iCloud+
+ Wallet, Pay, Card
++Apple at Work
+ Watch
+ Explore Watch
+ Explore All Apple Watch
+@@ -235,6 +238,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -105,6 +105,10 @@
+ HR Systems Associate - Workday
+ Bangalore, London
+ Apply
++Corporate
++Human Resources Manager
++Geneva
++Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+ London
+@@ -251,11 +255,11 @@
+ Apply
+ Technology
+ Senior Information Security Engineer
++Montreal
++Apply
++Technology
++Senior Information Security Engineer
+ Singapore
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Montreal
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+@@ -304,6 +308,10 @@
+ Technology
+ Software Developer - Internal Compute Frameworks (Rust)
+ London, Montreal, Singapore, Warsaw
++Apply
++Technology
++Software Developer - Market Data Integration
++London, Montreal
+ Apply
+ Technology
+ Software Developer - Order Gateway
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a1f16c210af65878
++a1f9a57adb185116
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -164,7 +164,7 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 88 programs
++We found 89 programs
+ slide
+ 1
+ of 4
+@@ -175,7 +175,7 @@
+ Internship
+ (39)
+ Full-Time
+-(31)
++(32)
+ prev
+ next
+ School Programs & Apprenticeships
+@@ -194,34 +194,34 @@
+ Launch a dynamic career in this one-year professional training program that offers top business development resources and global reach.
+ View role details
+ School Programs & Apprenticeships
++Finance and Business Management Apprenticeship
++United Kingdom
++We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
++View role details
++School Programs & Apprenticeships
++Financial Services Apprenticeship
++United Kingdom
++Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
++View role details
++School Programs & Apprenticeships
++Software Engineering Apprenticeship
++United Kingdom
++Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
++Work Experience Program
++United Kingdom
++Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++View role details
++School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+ United Kingdom
+-Earn your four-year degree while working in our technology business alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Finance and Business Management Apprenticeship
+-United Kingdom
+-We’re looking for passionate students in their last year at school or college, who are looking to kick-start their careers in Finance and Business Management, whilst undertaking their professional accountancy qualification (Level 4 AAT).
+-View role details
+-School Programs & Apprenticeships
+-Financial Services Apprenticeship
+-United Kingdom
+-Gain your degree from the University of Exeter or Heriot Watt University, industry-recognised certifications, and hands-on experience while working alongside our industry experts.
+-View role details
+-School Programs & Apprenticeships
+-Software Engineering Apprenticeship
+-United Kingdom
+-Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+-Work Experience Program
+-United Kingdom
+-Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++Earn your three-year degree while working in our technology business alongside our industry experts.
+ View role details
+ Keep informed of when applications open
+ Join our network
+```
+
+---
+
 ## 2026-07-22 09:30:46
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
