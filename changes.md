@@ -1,4 +1,91 @@
 
+## 2026-07-26 09:17:18
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -3,6 +3,28 @@
+ Skip to search
+ Skip to main content
+ Skip to footer
++×
++We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
++privacy policy
++and use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
++Necessary
++Experience
++Measurement
++Marketing
++Sharing
++of my personal information
++Processing of my personal information for
++targeted advertising
++Press again to continue 0/1
++Learn more
++Reject all
++Save and continue
+ Menu
+ Menu
+ Find your next role at Optiver
+@@ -119,25 +141,3 @@
+ Disclosures
+ Cookie Policy
+ Notices
+-×
+-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+-Necessary
+-Experience
+-Measurement
+-Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+-Press again to continue 0/1
+-Learn more
+-Reject all
+-Save and continue
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a209ffcb4f978ea2
++a2124de32e805e27
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-07-25 09:05:53
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
