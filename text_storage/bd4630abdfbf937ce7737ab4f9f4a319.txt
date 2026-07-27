@@ -3,28 +3,6 @@ Skip to menu
 Skip to search
 Skip to main content
 Skip to footer
-×
-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
-privacy policy
-and use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
-Necessary
-Experience
-Measurement
-Marketing
-Sharing
-of my personal information
-Processing of my personal information for
-targeted advertising
-Press again to continue 0/1
-Learn more
-Reject all
-Save and continue
 Menu
 Menu
 Find your next role at Optiver
@@ -43,15 +21,15 @@ Technology
 Quantitative Trading Internship (Singapore) - 2027
 Singapore
 Internship
-Institutional Sales & Trading
+Trading
 Internship
-Institutional Sales & Trading
+Trading
 Trading Automation and Operations Intern (Summer 2027)
 Chicago
 Internship
-Institutional Sales & Trading
+Trading
 Internship
-Institutional Sales & Trading
+Trading
 Software Engineer Intern (Summer 2027 - Austin)
 Austin
 Internship
@@ -79,9 +57,9 @@ Quantitative Research & Machine Learning
 Quantitative Intern (Summer 2027)
 Chicago
 Internship
-Institutional Sales & Trading
+Trading
 Internship
-Institutional Sales & Trading
+Trading
 FPGA Engineer Intern (Summer 2027 - Chicago)
 Chicago
 Internship
@@ -103,9 +81,9 @@ Quantitative Research & Machine Learning
 Quantitative Trading Internship (Taiwan) - 2027
 Taipei
 Internship
-Institutional Sales & Trading
+Trading
 Internship
-Institutional Sales & Trading
+Trading
 Showing: 12 / 12
 Filter
 1
@@ -141,3 +119,25 @@ Privacy Policy
 Disclosures
 Cookie Policy
 Notices
+×
+We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+privacy policy
+and use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+Necessary
+Experience
+Measurement
+Marketing
+Sharing
+of my personal information
+Processing of my personal information for
+targeted advertising
+Press again to continue 0/1
+Learn more
+Reject all
+Save and continue
