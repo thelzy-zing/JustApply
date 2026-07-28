@@ -114,6 +114,10 @@ Identity and Access Management (IAM) Engineer
 London
 Apply
 Investment
+Intern Quant Researcher
+London, Paris, New York, Singapore, Hong Kong
+Apply
+Investment
 Junior Commodities Fundamental Analyst
 Geneva, London, Paris, Singapore
 Apply
@@ -240,6 +244,14 @@ Apply
 Technology
 Quant Developer (Python)
 London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+Apply
+Investment
+Quantitative Researcher - Data Science
+New York
+Apply
+Investment
+Quantitative Researcher - Volatility
+New York
 Apply
 Investment
 Senior Discretionary Trader - Credit

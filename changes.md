@@ -1,4 +1,62 @@
 
+## 2026-07-28 09:40:08
+
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -114,6 +114,10 @@
+ London
+ Apply
+ Investment
++Intern Quant Researcher
++London, Paris, New York, Singapore, Hong Kong
++Apply
++Investment
+ Junior Commodities Fundamental Analyst
+ Geneva, London, Paris, Singapore
+ Apply
+@@ -240,6 +244,14 @@
+ Technology
+ Quant Developer (Python)
+ London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
++Apply
++Investment
++Quantitative Researcher - Data Science
++New York
++Apply
++Investment
++Quantitative Researcher - Volatility
++New York
+ Apply
+ Investment
+ Senior Discretionary Trader - Credit
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a21b0f0dafd19422
++a222ea1189504a0a
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-07-27 10:47:16
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
