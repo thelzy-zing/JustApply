@@ -13,6 +13,7 @@ Accessories
 Quick Links
 Find a Store
 Order Status
+Apple Upgrade
 Apple Trade In
 Financing
 Personal Setup
@@ -38,6 +39,7 @@ Switch from PC to Mac
 Shop Mac
 Shop Mac
 Mac Accessories
+Apple Upgrade
 Apple Trade In
 Financing
 Personal Setup
@@ -67,6 +69,7 @@ Compare iPad
 Shop iPad
 Shop iPad
 iPad Accessories
+Apple Upgrade
 Apple Trade In
 Financing
 Personal Setup
@@ -94,6 +97,7 @@ Switch from Android
 Shop iPhone
 Shop iPhone
 iPhone Accessories
+Apple Upgrade
 Apple Trade In
 Carrier Deals at Apple
 Financing
@@ -123,6 +127,7 @@ Shop Watch
 Shop Apple Watch
 Apple Watch Bands
 Apple Watch Accessories
+Apple Upgrade
 Apple Trade In
 Financing
 Personal Setup

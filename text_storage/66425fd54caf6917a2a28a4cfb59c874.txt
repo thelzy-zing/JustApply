@@ -265,10 +265,6 @@ Investment
 Senior Discretionary Trader - Macro
 London, New York
 Apply
-Corporate
-Senior FP&A Analyst
-Montreal, Bangalore, Warsaw
-Apply
 Technology
 Senior Information Security Engineer
 Singapore
@@ -306,6 +302,10 @@ Site Management Specialist
 New York, London
 Apply
 Technology
+Software Developer - Core Data
+Singapore, Hong Kong, Montreal, London
+Apply
+Technology
 Software Developer - Data Infrastructure
 London, Montreal, Singapore
 Apply
@@ -314,8 +314,16 @@ Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
 Apply
 Technology
+Software Developer - Data Platform
+London, Montreal, Singapore
+Apply
+Technology
 Software Developer - Data Products and Services
 Montreal, London, Singapore, Bangalore
+Apply
+Technology
+Software Developer - Data Reliability
+Singapore, Bangalore, London, Warsaw, Montreal
 Apply
 Technology
 Software Developer - Internal Compute Frameworks (Python)
