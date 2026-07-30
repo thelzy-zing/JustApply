@@ -1,4 +1,674 @@
 
+## 2026-07-30 09:35:12
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,322 +1,78 @@
+-Stripe Jobs
+-Stripe logo
+-Jobs
+-Our opportunity
+-Life at Stripe
+-Benefits
++Stripe Careers | Open Roles
++Opportunity
++Compatibility
++Emerging talent
++Open roles
++Open roles
++Help implement the conditions for prosperity.
++Work on problems that matter at scale.
++Assess your fit
++Search
++Filter by
++Company
++Teams
++Office location
++Role type
++0
++filters
++selected
++Clear all filters
++Operations Associate, New Grad (Mexico)
++Operations
++Mexico City
++Software Engineer, Connect Tax Reporting
++Connect
++Bucharest
++Software Engineer, Intern
+ University
+-See open roles
+-Open mobile navigation
+-Jobs
+-Our opportunity
+-Life at Stripe
+-Benefits
++Bengaluru
++Software Engineer, New Grad, Developer & End User Experience Platform
+ University
+-See open roles
+-Close mobile navigation
+-Expand economic access across the globe
+-Bridge open roles
+-Privy open roles
+-Opens the multi-select filter menu
+-Teams
+-Administrative
+-Communications
+-Consumer
+-Corporate Development
+-Corporate Security
+-Corporate Strategy
+-Data & Data Science
+-Data Platform
+-Design
+-Executive
+-Finance
+-Controllership
+-Finance & Strategy
+-Internal Audit
+-Investor Relations
+-Tax
+-Treasury
+-Workplace
+-Global Operations
+-Global Partnerships
+-Go-to-Market
+-Customer Success
+-Global Strategic Pursuits
+-GTM Partnerships
+-Marketing
+-Revenue Operations
+-Sales
+-Scaled Sales
+-Solutions Architect
+-Infrastructure
+-Infrastructure & Corporate Tech
+-Legal
+-Machine Learning
++Toronto
++Tech Ops Team Lead
+ Operations
+-Technical Account Management
+-People
+-Recruiting
+-People Functions
+-Products
+-Banking as a Service
+-Intercept
+-Connect
+-Crypto
+-Mobile
+-Link
+-Metronome
+-Money Movement and Storage
+-New Financial Products
+-Payments
+-Platform
+-Professional Services
+-Privy
+-Revenue & Financial Automation
+-Stripe Tax
+-Terminal
+-Reliability
+-Risk & Financial Crimes
+-SaaS
+-Security
+-Startups
+-Tech Programs
+-University
+-Opens the multi-select filter menu
+-Office Locations (1)
+-Asia Pacific
+-Sydney
+-Melbourne
+-Jakarta
+ Bengaluru
+-Tokyo
+-Singapore
+-Taipei
+-Bangkok
+-Europe
+-Paris
+-Berlin
+-London
+-Dublin HQ
+-Amsterdam
+-Warsaw
+-Bucharest
+-Madrid
+-Barcelona
+-Stockholm
+-Luxembourg
+-Latin America
+-São Paulo
+-Mexico City
+-North America
+-Atlanta
+-Chicago
+-New York
+-Seattle
+-South San Francisco HQ
+-San Francisco Bridge HQ
+-Washington DC
+-Toronto
+-Mexico City
+-Middle East
+-Dubai
+-Opens the multi-select filter menu
+-Remote Locations
+-Asia Pacific
+-Australia
+-Hong Kong
+-Indonesia
+-India
+-Japan
+-Malaysia
+-New Zealand
+-South Korea
+-Thailand
+-Europe
+-Austria
+-Belgium
+-Czechia
+-Estonia
+-France
+-Germany
+-Great Britain
+-Ireland
+-Israel
+-Italy
+-Netherlands
+-Poland
+-Portugal
+-Romania
+-Spain
+-Sweden
+-Switzerland
+-Latin America
+-Argentina
+-Brazil
+-Chile
+-Mexico
+-North America
+-United States
+-Canada
+-Mexico
+-Opens the multi-select filter menu
+-Tags (1)
+-Bridge
+-Privy
+-University
+-No open roles match your search. Try removing filters or changing your search terms.
+-Clear all filters
+-Stripe logo
+-United States (English)
+-Australia
+-English
+-Austria
+-Deutsch
+-English
+-Belgium
+-Nederlands
+-Français
+-Deutsch
+-English
+-Brazil
+-Português
+-English
+-Bulgaria
+-English
+-Canada
+-English
+-Français
+-China
+-简体中文
+-English
+-Croatia
+-English
+-Italiano
+-Cyprus
+-English
+-Czech Republic
+-English
+-Denmark
+-English
+-Estonia
+-English
+-Finland
+-English
+-Svenska
+-France
+-Français
+-English
+-Germany
+-Deutsch
+-English
+-Gibraltar
+-English
+-Greece
+-English
+-Hong Kong
+-English
+-简体中文
+-Hungary
+-English
+-India
+-English
+-Ireland
+-English
+-Italy
+-Italiano
+-English
+-Japan
+-日本語
+-English
+-Latvia
+-English
+-Liechtenstein
+-Deutsch
+-English
+-Lithuania
+-English
+-Luxembourg
+-Français
+-Deutsch
+-English
+-Malaysia
+-English
+-简体中文
+-Malta
+-English
+-Mexico
+-Español
+-English
+-Netherlands
+-Nederlands
+-English
+-New Zealand
+-English
+-Norway
+-English
+-Poland
+-English
+-Portugal
+-Português
+-English
+-Romania
+-English
+-Singapore
+-English
+-简体中文
+-Slovakia
+-English
+-Slovenia
+-English
+-Italiano
+-Spain
+-Español
+-English
+-Sweden
+-Svenska
+-English
+-Switzerland
+-Deutsch
+-Français
+-Italiano
+-English
+-Thailand
+-ไทย
+-English
+-United Arab Emirates
+-English
+-United Kingdom
+-English
+-United States
+-English
+-Español
+-简体中文
+-Products & pricing
++Help us improve the conditions for economic growth and prosperity
++We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
++This commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to
++accommodations@stripe.com
++.
++If you’re having trouble submitting an application or experiencing other technical difficulties with this site, please reach out to
++candidatefeedback-applications@stripe.com
++.
++Products and pricing
+ Pricing
+ Atlas
+ Authorization Boost
+ Billing
+ Capital
++Capital for platforms
+ Checkout
+ Climate
+ Connect
+ Crypto
++Crypto Onramp
+ Data Pipeline
+ Elements
+ Financial Connections
++Global Payouts
+ Identity
+ Invoicing
+ Issuing
+ Link
+ Managed Payments
+ Payment links
++Payment methods
+ Payments
+-Payouts
+ Radar
+ Revenue Recognition
+ Stripe Sigma
++Subscriptions
+ Tax
+ Terminal
+ Treasury
++Treasury for platforms
++Usage-based billing
+ Solutions
+ Enterprises
+ Startups
+@@ -328,6 +84,7 @@
+ Global businesses
+ In-app payments
+ Marketplaces
++Money management
+ Platforms
+ SaaS
+ AI companies
+@@ -340,10 +97,6 @@
+ Professional services
+ Public sector
+ Retail
+-Integrations & custom solutions
+-Stripe App Marketplace
+-Stripe Partner ecosystem
+-Professional services
+ Developers
+ Documentation
+ API reference
+@@ -352,30 +105,38 @@
+ Libraries and SDKs
+ Stripe Projects
+ Developer blog
++Integrations and custom solutions
++Stripe App Marketplace
++Stripe Partner ecosystem
++Professional services
+ Resources
++Product roadmap
+ Guides
+ Customer stories
+ Blog
+ Community
+ Sessions annual conference
+-Privacy & terms
+-Prohibited & restricted businesses
++Privacy and terms
++Prohibited and restricted businesses
+ Licenses
+ Sitemap
+ Cookie settings
+ Your privacy choices
+-Coverage transparency
+ More resources
+ Company
+-Product roadmap
+-Jobs
++Careers
+ Newsroom
+ Stripe Press
+ Contact sales
+ Support
+ Get support
+ Managed support plans
+-CA residents:
+-+1 888 926 2289
++CA residents: +1 888 926 2289
+ Sign in
+-© 2026 Stripe, LLC
++United States
++(
++English
++)
++©
++2026
++Stripe, LLC.
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -148,8 +148,8 @@
+ LOCATION
+ All Locations
+ London
++New York
+ Hong Kong
+-New York
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,7 +85,7 @@
+ FP&A Manager
+ Montreal, Bangalore, Warsaw
+ Apply
+-Technology
++Investment
+ Graduate Quant Developer
+ London, Montreal, Singapore
+ Apply
+@@ -137,7 +137,7 @@
+ Junior Platform Specialist
+ Montreal, London, Singapore, Hong Kong, Warsaw, Houston
+ Apply
+-Technology
++Investment
+ Junior Quant Developer
+ London, Montreal, Singapore
+ Apply
+@@ -233,15 +233,15 @@
+ Platform ULL - Colo - Strategic
+ Montreal, London, New York
+ Apply
+-Technology
++Investment
+ Quant Developer (C++)
+ London, Montreal, Singapore, Warsaw, Zug
+ Apply
+-Technology
++Investment
+ Quant Developer (KDB)
+ London, Montreal, Singapore, Honk Kong
+ Apply
+-Technology
++Investment
+ Quant Developer (Python)
+ London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+ Apply
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a22b2a344e84e612
++a2335da038b2241d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,8 +1,107 @@
+-Error 500 - We're sorry, but something went wrong
+-Oops, something went wrong
+-Error code: 500
+-There was an error, please try again.
+-If you need any assistance, contact our
+-Support Center
+-. We're sorry for any inconvenience.
+-Go to homepage
++Careers at Open Government Products
++Skip to content
++Open Government Products
++Homepage
++Open Government Products
++Homepage
++Open Government Products
++Homepage
++Open Government Products
++Homepage
++We build tech for public good.
++Open Roles
++Solving problems for citizens
++ParkingSG
++Eliminating the need for parking coupons or the rush to extend parking sessions
++ScamShield
++Protecting citizens from scams by detecting, blocking, and reporting scam SMSes and calls
++RedeemSG
++Digitalising a voucher redemption system that facilitates government fiscal policy
++Hacking for public good
++We believe in starting where the problems are - on the ground. 70% of our products come from our annual Hack for Public Good, where we build products to solve problems in the community.
++An open work culture
++Push for change
++Cut through bureaucracy to create solutions that people actually need.
++Autonomy
++Approach problems from the grounds-up. Product teams decide how to maximise impact.
++Transparency
++Clear frameworks for all hiring, performance, and compensation matters.
++﻿
++Curious what working at OGP is actually like?
++Check out the Reddit AMA we did with our engineers, where we answered questions about pay, career growth, and what actually makes working here different.
++See our replies
++Build with us
++Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
++Open positions
++All departments
++Corporate
++Product Design
++Software Engineering
++Show filters
++(2)
++Filters
++Singapore
++Singapore
++Singapore
++Singapore
++8 jobs
++Share
++Clear
++Filters
++Singapore
++Singapore
++Singapore
++Singapore
++8 jobs
++Share
++Clear
++Job title
++Work model
++Lead Software Engineer (Technical Lead Manager), HealthTech
++Hybrid
++View job
++Senior Software Engineer, ActiveSG
++Hybrid
++View job
++Senior Software Engineer, AI Native
++Hybrid
++View job
++Senior Software Engineer, Anti-Scam Products
++Hybrid
++View job
++Senior Software Engineer, FormSG
++Hybrid
++View job
++Senior/Lead Software Engineer
++Hybrid
++View job
++Senior/Lead Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer, ActiveSG
++Hybrid
++View job
++Lead Software Engineer (Technical Lead Manager), HealthTech
++Hybrid
++View job
++Senior Software Engineer, ActiveSG
++Hybrid
++View job
++Senior Software Engineer, AI Native
++Hybrid
++View job
++Senior Software Engineer, Anti-Scam Products
++Hybrid
++View job
++Senior Software Engineer, FormSG
++Hybrid
++View job
++Senior/Lead Software Engineer
++Hybrid
++View job
++Senior/Lead Software Engineer, HealthTech
++Hybrid
++View job
++Software Engineer, ActiveSG
++Hybrid
++View job
+```
+
+---
+
 ## 2026-07-29 09:42:10
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

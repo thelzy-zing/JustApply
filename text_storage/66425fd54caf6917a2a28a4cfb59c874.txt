@@ -85,7 +85,7 @@ Corporate
 FP&A Manager
 Montreal, Bangalore, Warsaw
 Apply
-Technology
+Investment
 Graduate Quant Developer
 London, Montreal, Singapore
 Apply
@@ -137,7 +137,7 @@ Technology
 Junior Platform Specialist
 Montreal, London, Singapore, Hong Kong, Warsaw, Houston
 Apply
-Technology
+Investment
 Junior Quant Developer
 London, Montreal, Singapore
 Apply
@@ -233,15 +233,15 @@ Technology
 Platform ULL - Colo - Strategic
 Montreal, London, New York
 Apply
-Technology
+Investment
 Quant Developer (C++)
 London, Montreal, Singapore, Warsaw, Zug
 Apply
-Technology
+Investment
 Quant Developer (KDB)
 London, Montreal, Singapore, Honk Kong
 Apply
-Technology
+Investment
 Quant Developer (Python)
 London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
 Apply
