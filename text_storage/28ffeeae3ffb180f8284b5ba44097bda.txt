@@ -208,19 +208,33 @@ Support
 Apple TV Support
 Apple Music Support
 Accessories
-Shop Accessories
+Shop by Product
 Shop All Accessories
-Mac
-iPad
 iPhone
+iPad
+Mac
 Apple Watch
 Apple Vision Pro
 AirPods
 TV & Home
-Explore Accessories
-Made by Apple
-Beats
 AirTag
+Beats
+Shop by Category
+Headphones & Speakers
+Chargers & Adapters
+Smart Home Essentials
+Cases & Protection
+Content Creation
+Gaming
+Hard Drives & Storage
+Mice & Keyboards
+Health & Fitness
+Office Accessories
+Software
+More to Explore
+New Arrivals
+Made by Apple
+Accessibility
 Assistive Technologies
 Support
 Explore Support

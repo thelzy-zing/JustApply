@@ -117,6 +117,10 @@ Investment
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
 Apply
+Technology
+Intern Software Developer - Singapore - 2027
+Singapore
+Apply
 Investment
 Junior Commodities Fundamental Analyst
 Geneva, London, Paris, Singapore
@@ -323,7 +327,7 @@ Montreal, London, Singapore, Bangalore
 Apply
 Technology
 Software Developer - Data Reliability
-Singapore, Bangalore, London, Warsaw, Montreal
+London, Warsaw, Singapore, Bangalore, Montreal
 Apply
 Technology
 Software Developer - Internal Compute Frameworks (Python)

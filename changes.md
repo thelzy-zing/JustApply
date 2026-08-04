@@ -1,4 +1,184 @@
 
+## 2026-08-04 09:42:20
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -29,6 +29,9 @@
+ Software Engineer, New Grad, Developer & End User Experience Platform
+ University
+ Toronto
++Tech Operations Associate, New Grad (Mexico)
++Operations
++Mexico City
+ Tech Ops Team Lead
+ Operations
+ Bengaluru
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -147,9 +147,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -112,6 +112,7 @@
+ ↳ Apply Now
+ New York
+ Singapore
++London
+ Austin
+ Chicago
+ Software Engineering
+@@ -123,6 +124,7 @@
+ Internship
+ New York
+ Singapore
++London
+ Austin
+ Chicago
+ Software Engineering
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -208,19 +208,33 @@
+ Apple TV Support
+ Apple Music Support
+ Accessories
+-Shop Accessories
++Shop by Product
+ Shop All Accessories
++iPhone
++iPad
+ Mac
+-iPad
+-iPhone
+ Apple Watch
+ Apple Vision Pro
+ AirPods
+ TV & Home
+-Explore Accessories
++AirTag
++Beats
++Shop by Category
++Headphones & Speakers
++Chargers & Adapters
++Smart Home Essentials
++Cases & Protection
++Content Creation
++Gaming
++Hard Drives & Storage
++Mice & Keyboards
++Health & Fitness
++Office Accessories
++Software
++More to Explore
++New Arrivals
+ Made by Apple
+-Beats
+-AirTag
++Accessibility
+ Assistive Technologies
+ Support
+ Explore Support
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -117,6 +117,10 @@
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+ Apply
++Technology
++Intern Software Developer - Singapore - 2027
++Singapore
++Apply
+ Investment
+ Junior Commodities Fundamental Analyst
+ Geneva, London, Paris, Singapore
+@@ -323,7 +327,7 @@
+ Apply
+ Technology
+ Software Developer - Data Reliability
+-Singapore, Bangalore, London, Warsaw, Montreal
++London, Warsaw, Singapore, Bangalore, Montreal
+ Apply
+ Technology
+ Software Developer - Internal Compute Frameworks (Python)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a254bca428e4f009
++a25c9af02cd0ca3e
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-03 10:47:14
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
