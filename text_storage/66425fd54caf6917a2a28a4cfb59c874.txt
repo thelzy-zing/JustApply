@@ -65,10 +65,6 @@ Corporate
 Communications Associate
 London, New York
 Apply
-Technology
-Data Center Technician
-New York
-Apply
 Investment
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
@@ -272,10 +268,6 @@ Apply
 Technology
 Senior Information Security Engineer
 Singapore
-Apply
-Technology
-Senior Information Security Engineer
-Montreal
 Apply
 Investment
 Senior Quant Researcher - CTA/Short-Term

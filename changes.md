@@ -1,4 +1,133 @@
 
+## 2026-08-06 09:43:54
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,12 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Quantitative Intern (Summer 2027)
++Austin
++Internship
++Trading
++Internship
++Trading
+ FPGA Engineer Intern (Summer 2027 - Austin)
+ Austin
+ Internship
+@@ -78,7 +84,7 @@
+ Trading
+ Internship
+ Trading
+-Showing: 11 / 11
++Showing: 12 / 12
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -316,8 +316,30 @@
+ text
+ More
+ Search Results
+-There are no results that match your search.
+-Please try different search criteria.
++1 Result(s)
++Sort by:
++Newest
++2027 Apple Internship - Information Systems and Technology
++Students
++Aug 06, 2026
++Location
++Singapore
++Actions
++See full role description
++Share
++2027 Apple Internship - Information Systems and Technology 200675982-3278
++Role Number:
++200675982-3278
++Weekly Hours:
++40 Hours
++Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.Do you love building solutions to handle global complexity an...
++Submit Resume
++Previous Page
++Page Number
++Page 1
++Of
++1
++Next Page
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -65,10 +65,6 @@
+ Communications Associate
+ London, New York
+ Apply
+-Technology
+-Data Center Technician
+-New York
+-Apply
+ Investment
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+@@ -272,10 +268,6 @@
+ Technology
+ Senior Information Security Engineer
+ Singapore
+-Apply
+-Technology
+-Senior Information Security Engineer
+-Montreal
+ Apply
+ Investment
+ Senior Quant Researcher - CTA/Short-Term
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a264d5f77a310c73
++a26d17fb6cfa7565
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-05 09:40:45
 
 ### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
