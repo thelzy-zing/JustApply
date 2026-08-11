@@ -58,10 +58,6 @@ Assistant Controller - Fund Accounting
 Montreal, Jersey, London, Warsaw
 Apply
 Corporate
-Commercial Operator
-Singapore
-Apply
-Corporate
 Communications Associate
 London, New York
 Apply
@@ -103,6 +99,10 @@ Bangalore, London
 Apply
 Corporate
 Human Resources Manager
+Singapore, Hong Kong
+Apply
+Corporate
+Human Resources Manager
 Geneva
 Apply
 Technology
@@ -112,6 +112,10 @@ Apply
 Investment
 Intern Quant Researcher
 London, Paris, New York, Singapore, Hong Kong
+Apply
+Technology
+Intern Software Developer - London - 2027
+London
 Apply
 Technology
 Intern Software Developer - Singapore - 2027
@@ -351,7 +355,7 @@ London, Montreal, Bangalore & Warsaw
 Apply
 Technology
 Support Analyst - Desktop
-New York, London, Montreal, Paris
+London, Montreal & Bangalore
 Apply
 Technology
 Support Analyst - Trade Flow Pilot

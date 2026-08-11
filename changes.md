@@ -1,4 +1,130 @@
 
+## 2026-08-11 08:12:43
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -26,9 +26,6 @@
+ Software Engineer, Intern
+ University
+ Bengaluru
+-Software Engineer, New Grad, Developer & End User Experience Platform
+-University
+-Toronto
+ Tech Operations Associate, New Grad (Mexico)
+ Operations
+ Mexico City
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -147,9 +147,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ Hong Kong
+ New York
++London
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -58,10 +58,6 @@
+ Montreal, Jersey, London, Warsaw
+ Apply
+ Corporate
+-Commercial Operator
+-Singapore
+-Apply
+-Corporate
+ Communications Associate
+ London, New York
+ Apply
+@@ -103,6 +99,10 @@
+ Apply
+ Corporate
+ Human Resources Manager
++Singapore, Hong Kong
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+ Apply
+ Technology
+@@ -114,6 +114,10 @@
+ London, Paris, New York, Singapore, Hong Kong
+ Apply
+ Technology
++Intern Software Developer - London - 2027
++London
++Apply
++Technology
+ Intern Software Developer - Singapore - 2027
+ Singapore
+ Apply
+@@ -351,7 +355,7 @@
+ Apply
+ Technology
+ Support Analyst - Desktop
+-New York, London, Montreal, Paris
++London, Montreal & Bangalore
+ Apply
+ Technology
+ Support Analyst - Trade Flow Pilot
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a28da2784d319951
++a295c54e2ce2aa85
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-10 08:30:51
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
