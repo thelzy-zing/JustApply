@@ -210,10 +210,6 @@ Operations Intern (Fall)
 Montreal
 Apply
 Technology
-PCG Automation Developer (Python)
-Bangalore
-Apply
-Technology
 Platform Application Specialist
 Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
 Apply
@@ -254,7 +250,7 @@ Quantitative Researcher - Data Science
 New York
 Apply
 Investment
-Quantitative Researcher - Volatility
+Quantitative Researcher - Volatility (I)
 New York
 Apply
 Investment

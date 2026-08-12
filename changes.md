@@ -1,4 +1,169 @@
 
+## 2026-08-12 08:22:05
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -89,6 +89,28 @@
+ 1
+ Filter
+ 1
++×
++We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
++privacy policy
++and use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
++Necessary
++Experience
++Measurement
++Marketing
++Sharing
++of my personal information
++Processing of my personal information for
++targeted advertising
++Press again to continue 0/1
++Learn more
++Reject all
++Save and continue
+ Click below
+ Learn more about Optiver
+ About Optiver
+@@ -119,25 +141,3 @@
+ Disclosures
+ Cookie Policy
+ Notices
+-×
+-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+-Necessary
+-Experience
+-Measurement
+-Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+-Press again to continue 0/1
+-Learn more
+-Reject all
+-Save and continue
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -210,10 +210,6 @@
+ Montreal
+ Apply
+ Technology
+-PCG Automation Developer (Python)
+-Bangalore
+-Apply
+-Technology
+ Platform Application Specialist
+ Montreal, New York, Houston, Boston, Singapore, Hong Kong, London
+ Apply
+@@ -254,7 +250,7 @@
+ New York
+ Apply
+ Investment
+-Quantitative Researcher - Volatility
++Quantitative Researcher - Volatility (I)
+ New York
+ Apply
+ Investment
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a295c54e2ce2aa85
++a29e10654c148f74
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,7 +44,7 @@
+ Singapore
+ Singapore
+ Singapore
+-8 jobs
++7 jobs
+ Share
+ Clear
+ Filters
+@@ -52,7 +52,7 @@
+ Singapore
+ Singapore
+ Singapore
+-8 jobs
++7 jobs
+ Share
+ Clear
+ Job title
+@@ -67,9 +67,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, Anti-Scam Products
+-Hybrid
+-View job
+-Senior Software Engineer, FormSG
+ Hybrid
+ View job
+ Senior/Lead Software Engineer
+@@ -93,9 +90,6 @@
+ Senior Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+-Senior Software Engineer, FormSG
+-Hybrid
+-View job
+ Senior/Lead Software Engineer
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-08-11 08:12:43
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
