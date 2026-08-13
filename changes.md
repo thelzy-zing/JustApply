@@ -1,4 +1,278 @@
 
+## 2026-08-13 08:25:53
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,30 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Quantitative Trading Internship (Summer 2027 - Shanghai)
++Shanghai
++Internship
++Trading
++Internship
++Trading
++2027 Shanghai Software Developer Summer Internship
++Shanghai
++Internship
++Technology
++Internship
++Technology
++2027 Shanghai Machine Learning Engineer Summer Internship
++Shanghai
++Internship
++Technology
++Internship
++Technology
++2027 Shanghai FPGA Developer Summer Internship
++Shanghai
++Internship
++Technology
++Internship
++Technology
+ Quantitative Intern (Summer 2027)
+ Austin
+ Internship
+@@ -84,33 +108,11 @@
+ Trading
+ Internship
+ Trading
+-Showing: 12 / 12
++Showing: 16 / 16
+ Filter
+ 1
+ Filter
+ 1
+-×
+-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+-Necessary
+-Experience
+-Measurement
+-Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+-Press again to continue 0/1
+-Learn more
+-Reject all
+-Save and continue
+ Click below
+ Learn more about Optiver
+ About Optiver
+@@ -141,3 +143,25 @@
+ Disclosures
+ Cookie Policy
+ Notices
++×
++We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
++privacy policy
++and use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
++Necessary
++Experience
++Measurement
++Marketing
++Sharing
++of my personal information
++Processing of my personal information for
++targeted advertising
++Press again to continue 0/1
++Learn more
++Reject all
++Save and continue
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -109,8 +109,8 @@
+ May-August
+ Season/duration
+ Clear Filters
+-1
+-job in
++2
++jobs in
+ Internship
+ ,
+ Singapore
+@@ -123,6 +123,12 @@
+ DEPARTMENT
+ TEAM
+ Software Engineer
++Internship
++Singapore
++Technology
++May-August
++Network Engineer
++(not currently accepting applications)
+ Internship
+ Singapore
+ Technology
+@@ -147,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -173,8 +179,8 @@
+ May-August
+ Season/duration
+ Clear Filters
+-1
+-job in
++2
++jobs in
+ Internship
+ ,
+ Singapore
+@@ -188,6 +194,12 @@
+ DEPARTMENT
+ SEASON/DURATION
+ Software Engineer
++Internship
++Singapore
++Technology
++May-August
++Network Engineer
++(not currently accepting applications)
+ Internship
+ Singapore
+ Technology
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -54,6 +54,10 @@
+ Montreal, Warsaw
+ Apply
+ Corporate
++Assistant Controller — CLO Products
++London, New York
++Apply
++Corporate
+ Assistant Controller - Fund Accounting
+ Montreal, Jersey, London, Warsaw
+ Apply
+@@ -69,6 +73,10 @@
+ Finance Analyst – General Ledger
+ Bangalore
+ Apply
++Corporate
++Financial Data Analyst
++Montreal, Bangalore, Warsaw
++Apply
+ Investment
+ Financial Research Analyst
+ Bangalore
+@@ -99,11 +107,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++Geneva
++Apply
++Corporate
++Human Resources Manager
+ Singapore, Hong Kong
+-Apply
+-Corporate
+-Human Resources Manager
+-Geneva
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+@@ -139,7 +147,7 @@
+ Apply
+ Technology
+ Junior Platform Specialist
+-Montreal, London, Singapore, Hong Kong, Warsaw, Houston
++Montreal, London, Singapore, Warsaw, Houston
+ Apply
+ Investment
+ Junior Quant Developer
+@@ -232,10 +240,6 @@
+ Technology
+ Platform ULL - Colo - Strategic
+ Montreal, London, New York
+-Apply
+-Investment
+-Quant Developer (C++)
+-London, Montreal, Singapore, Warsaw, Zug
+ Apply
+ Investment
+ Quant Developer (KDB)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a29e10654c148f74
++a2a6534bcaa7d629
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-12 08:22:05
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

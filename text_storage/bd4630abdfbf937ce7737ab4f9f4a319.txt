@@ -12,6 +12,30 @@ Location
 Internship
 Filters (1)
 Filters (1)
+Quantitative Trading Internship (Summer 2027 - Shanghai)
+Shanghai
+Internship
+Trading
+Internship
+Trading
+2027 Shanghai Software Developer Summer Internship
+Shanghai
+Internship
+Technology
+Internship
+Technology
+2027 Shanghai Machine Learning Engineer Summer Internship
+Shanghai
+Internship
+Technology
+Internship
+Technology
+2027 Shanghai FPGA Developer Summer Internship
+Shanghai
+Internship
+Technology
+Internship
+Technology
 Quantitative Intern (Summer 2027)
 Austin
 Internship
@@ -84,33 +108,11 @@ Internship
 Trading
 Internship
 Trading
-Showing: 12 / 12
+Showing: 16 / 16
 Filter
 1
 Filter
 1
-×
-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
-privacy policy
-and use cookies or similar technologies  for technical purposes and, with your consent, for
-experience, measurement and “marketing (personalized ads)”
-as specified in the
-cookie policy
-.
-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
-Necessary
-Experience
-Measurement
-Marketing
-Sharing
-of my personal information
-Processing of my personal information for
-targeted advertising
-Press again to continue 0/1
-Learn more
-Reject all
-Save and continue
 Click below
 Learn more about Optiver
 About Optiver
@@ -141,3 +143,25 @@ Privacy Policy
 Disclosures
 Cookie Policy
 Notices
+×
+We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+privacy policy
+and use cookies or similar technologies  for technical purposes and, with your consent, for
+experience, measurement and “marketing (personalized ads)”
+as specified in the
+cookie policy
+.
+You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+Necessary
+Experience
+Measurement
+Marketing
+Sharing
+of my personal information
+Processing of my personal information for
+targeted advertising
+Press again to continue 0/1
+Learn more
+Reject all
+Save and continue
