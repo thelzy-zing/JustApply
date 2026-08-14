@@ -1,4 +1,143 @@
 
+## 2026-08-14 08:20:19
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,12 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)
++Shanghai
++Internship
++Quantitative Research & Machine Learning
++Internship
++Quantitative Research & Machine Learning
+ Quantitative Trading Internship (Summer 2027 - Shanghai)
+ Shanghai
+ Internship
+@@ -102,13 +108,9 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Trading Internship (Taiwan) - 2027
+-Taipei
+-Internship
+-Trading
+-Internship
+-Trading
+-Showing: 16 / 16
++Showing: 16 / 17
++Load 1 more
++Load 1 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -153,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -58,10 +58,6 @@
+ London, New York
+ Apply
+ Corporate
+-Assistant Controller - Fund Accounting
+-Montreal, Jersey, London, Warsaw
+-Apply
+-Corporate
+ Communications Associate
+ London, New York
+ Apply
+@@ -250,11 +246,23 @@
+ London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
+ Apply
+ Investment
++Quantitative Researcher - Convertible Bonds
++New York
++Apply
++Investment
+ Quantitative Researcher - Data Science
+ New York
+ Apply
+ Investment
++Quantitative Researcher - Systematic Macro
++New York
++Apply
++Investment
+ Quantitative Researcher - Volatility (I)
++New York
++Apply
++Investment
++Quantitative Researcher - Volatility (II)
+ New York
+ Apply
+ Investment
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a2a6534bcaa7d629
++a2ae888bd9580bf0
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-13 08:25:53
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

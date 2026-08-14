@@ -58,10 +58,6 @@ Assistant Controller — CLO Products
 London, New York
 Apply
 Corporate
-Assistant Controller - Fund Accounting
-Montreal, Jersey, London, Warsaw
-Apply
-Corporate
 Communications Associate
 London, New York
 Apply
@@ -250,11 +246,23 @@ Quant Developer (Python)
 London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
 Apply
 Investment
+Quantitative Researcher - Convertible Bonds
+New York
+Apply
+Investment
 Quantitative Researcher - Data Science
 New York
 Apply
 Investment
+Quantitative Researcher - Systematic Macro
+New York
+Apply
+Investment
 Quantitative Researcher - Volatility (I)
+New York
+Apply
+Investment
+Quantitative Researcher - Volatility (II)
 New York
 Apply
 Investment
