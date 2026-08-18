@@ -1,4 +1,208 @@
 
+## 2026-08-18 07:42:19
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,36 @@
+ Internship
+ Filters (1)
+ Filters (1)
++FPGA Internship (2027 Start)
++Amsterdam
++Internship
++Technology
++Internship
++Technology
++Quantitative Research Internship (2027 Start)
++Amsterdam
++Internship
++Quantitative Research & Machine Learning
++Internship
++Quantitative Research & Machine Learning
++Software Engineer Internship (2027 Start)
++London
++Internship
++Technology
++Internship
++Technology
++Software Engineer Internship (2027 Start)
++Amsterdam
++Internship
++Technology
++Internship
++Technology
++Quantitative Trading Internship (2027 Start)
++Amsterdam
++Internship
++Trading
++Internship
++Trading
+ Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)
+ Shanghai
+ Internship
+@@ -78,39 +108,9 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Research Intern, PhD (Summer 2027)
+-Austin
+-Internship
+-Quantitative Research & Machine Learning
+-Internship
+-Quantitative Research & Machine Learning
+-Quantitative Research Intern, PhD (Summer 2027)
+-Chicago
+-Internship
+-Quantitative Research & Machine Learning
+-Internship
+-Quantitative Research & Machine Learning
+-Quantitative Intern (Summer 2027)
+-Chicago
+-Internship
+-Trading
+-Internship
+-Trading
+-FPGA Engineer Intern (Summer 2027 - Chicago)
+-Chicago
+-Internship
+-Technology
+-Internship
+-Technology
+-2026 Shanghai Machine Learning Modelling Engineer Internship, PhD
+-Shanghai
+-Internship
+-Technology
+-Internship
+-Technology
+-Showing: 16 / 17
+-Load 1 more
+-Load 1 more
++Showing: 16 / 22
++Load 6 more
++Load 6 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -153,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -257,6 +257,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -103,11 +103,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++Geneva
++Apply
++Corporate
++Human Resources Manager
+ Singapore, Hong Kong
+-Apply
+-Corporate
+-Human Resources Manager
+-Geneva
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+@@ -276,6 +276,10 @@
+ Investment
+ Senior Discretionary Trader - Macro
+ London, New York
++Apply
++Corporate
++Senior Fund Accountant
++Montreal, Jersey, London, Warsaw
+ Apply
+ Technology
+ Senior Information Security Engineer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a2c71e915d781c1b
++a2cf465df9fafbed
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-17 07:57:03
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
