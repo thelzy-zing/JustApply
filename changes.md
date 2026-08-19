@@ -1,4 +1,85 @@
 
+## 2026-08-19 07:42:42
+
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -257,12 +257,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -122,6 +122,10 @@
+ London
+ Apply
+ Technology
++Intern Software Developer - Montreal - 2027
++Montreal
++Apply
++Technology
+ Intern Software Developer - Singapore - 2027
+ Singapore
+ Apply
+@@ -372,14 +376,6 @@
+ Technology
+ Support Analyst - Trade Flow Pilot
+ Bangalore, London, Warsaw
+-Apply
+-Corporate
+-Tax Analyst
+-London
+-Apply
+-Corporate
+-Tax Analyst
+-Bangalore
+ Apply
+ Investment
+ Technical Business Analyst
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a2cf465df9fafbed
++a2d7844f4e2bcf17
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-18 07:42:19
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
