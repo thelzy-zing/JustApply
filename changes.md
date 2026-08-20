@@ -1,4 +1,80 @@
 
+## 2026-08-20 07:45:07
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,6 +23,9 @@
+ Software Engineer, Connect Tax Reporting
+ Connect
+ Bucharest
++Software Engineer, Intern
++University
++Dublin HQ
+ Software Engineer, Intern
+ University
+ Bengaluru
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -153,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a2d7844f4e2bcf17
++a2dfc53d0a7820d5
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-19 07:42:42
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
