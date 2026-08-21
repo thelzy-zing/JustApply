@@ -83,9 +83,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
-Hong Kong
-New York
 London
+New York
+Hong Kong
 Singapore
 Singapore
 DEPARTMENT
@@ -128,7 +128,6 @@ Singapore
 Technology
 May-August
 Network Engineer
-(not currently accepting applications)
 Internship
 Singapore
 Technology
@@ -153,9 +152,9 @@ Co-Op
 Internship
 LOCATION
 All Locations
-Hong Kong
-New York
 London
+New York
+Hong Kong
 Singapore
 Singapore
 DEPARTMENT
@@ -199,7 +198,6 @@ Singapore
 Technology
 May-August
 Network Engineer
-(not currently accepting applications)
 Internship
 Singapore
 Technology

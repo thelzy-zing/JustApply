@@ -1,4 +1,95 @@
 
+## 2026-08-21 07:47:09
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -128,7 +128,6 @@
+ Technology
+ May-August
+ Network Engineer
+-(not currently accepting applications)
+ Internship
+ Singapore
+ Technology
+@@ -153,9 +152,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
++New York
+ Hong Kong
+-New York
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -199,7 +198,6 @@
+ Technology
+ May-August
+ Network Engineer
+-(not currently accepting applications)
+ Internship
+ Singapore
+ Technology
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -99,7 +99,7 @@
+ Apply
+ Corporate
+ HR Systems Associate - Workday
+-Bangalore, London
++Bangalore
+ Apply
+ Corporate
+ Human Resources Manager
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a2dfc53d0a7820d5
++a2e8058cdf06a201
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-20 07:45:07
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
