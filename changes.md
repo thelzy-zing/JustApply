@@ -1,4 +1,132 @@
 
+## 2026-08-25 07:48:22
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,8 +84,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -95,6 +95,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+@@ -153,8 +154,8 @@
+ LOCATION
+ All Locations
+ New York
++Hong Kong
+ London
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -164,6 +165,7 @@
+ Cybersecurity
+ Institutional Sales and Trading
+ Strategy and Product
++Creative
+ Finance and Operations
+ Hospitality and Building Operations
+ HR and Recruiting
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -257,6 +257,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -54,6 +54,10 @@
+ Montreal, Warsaw
+ Apply
+ Corporate
++Assistant Controller - Broker Dealer
++London, New York, Montreal, Warsaw
++Apply
++Corporate
+ Assistant Controller — CLO Products
+ London, New York
+ Apply
+@@ -103,11 +107,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++Singapore, Hong Kong
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+-Apply
+-Corporate
+-Human Resources Manager
+-Singapore, Hong Kong
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a300d30c7ee75c0d
++a308fcdb9e50fbe6
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-08-24 08:01:43
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

@@ -84,8 +84,8 @@ Internship
 LOCATION
 All Locations
 New York
-London
 Hong Kong
+London
 Singapore
 Singapore
 DEPARTMENT
@@ -95,6 +95,7 @@ Technology
 Cybersecurity
 Institutional Sales and Trading
 Strategy and Product
+Creative
 Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting
@@ -153,8 +154,8 @@ Internship
 LOCATION
 All Locations
 New York
-London
 Hong Kong
+London
 Singapore
 Singapore
 DEPARTMENT
@@ -164,6 +165,7 @@ Technology
 Cybersecurity
 Institutional Sales and Trading
 Strategy and Product
+Creative
 Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting
