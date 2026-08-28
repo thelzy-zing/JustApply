@@ -1,4 +1,132 @@
 
+## 2026-08-28 19:21:39
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,9 +23,6 @@
+ Software Engineer, Connect Tax Reporting
+ Connect
+ Bucharest
+-Software Engineer, Intern
+-University
+-Dublin HQ
+ Software Engineer, Intern
+ University
+ Bengaluru
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -335,12 +335,10 @@
+ 40 Hours
+ Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.Do you love building solutions to handle global complexity an...
+ Submit Resume
+-Previous Page
+ Page Number
+-Page 1
++Press Return/Enter key to go to the page
+ Of
+ 1
+-Next Page
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -101,6 +101,10 @@
+ Graduate Trading Applications Specialist
+ London, Montreal, New York, Houston, Hong Kong
+ Apply
++Corporate
++Head of HR AMER
++New York
++Apply
+ Investment
+ High-Touch Execution Strategist
+ London
+@@ -111,6 +115,10 @@
+ Apply
+ Corporate
+ Human Resources Manager
++London
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+ Apply
+ Corporate
+@@ -120,6 +128,10 @@
+ Technology
+ Identity and Access Management (IAM) Engineer
+ London
++Apply
++Technology
++Infrastructure Developer
++London, New York
+ Apply
+ Investment
+ Intern Quant Researcher
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a31d0b36b9533020
++a325ac8b3f59dc1f
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -271,7 +271,7 @@
+ Accessibility
+ Global Financial Crimes Compliance
+ ©
+-JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans. ©2026 JPMorgan Chase & Co. All rights reserved.
++2026 JPMorgan Chase & Co. All rights reserved. JPMorgan Chase & Co. is an Equal Opportunity Employer, including Disability/Veterans.
+ You are now leaving JPMorganChase
+ JPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name.
+ Cancel
+```
+
+---
+
 ## 2026-08-27 18:13:25
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
