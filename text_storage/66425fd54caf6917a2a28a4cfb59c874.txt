@@ -115,15 +115,15 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
+Singapore, Hong Kong
+Apply
+Corporate
+Human Resources Manager
 London
 Apply
 Corporate
 Human Resources Manager
 Geneva
-Apply
-Corporate
-Human Resources Manager
-Singapore, Hong Kong
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
@@ -274,15 +274,7 @@ Quantitative Researcher - Convertible Bonds
 New York
 Apply
 Investment
-Quantitative Researcher - Data Science
-New York
-Apply
-Investment
 Quantitative Researcher - Systematic Macro
-New York
-Apply
-Investment
-Quantitative Researcher - Volatility (I)
 New York
 Apply
 Investment
