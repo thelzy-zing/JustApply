@@ -61,6 +61,9 @@ Work model
 Lead Software Engineer (Technical Lead Manager), HealthTech
 Hybrid
 View job
+Lead Software Engineer, attendPA
+Hybrid
+View job
 Senior / Lead Software Engineer, Anti-Scam Products
 Hybrid
 View job
@@ -68,9 +71,6 @@ Senior Software Engineer, ActiveSG
 Hybrid
 View job
 Senior Software Engineer, AI Native
-Hybrid
-View job
-Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech
@@ -82,6 +82,9 @@ View job
 Lead Software Engineer (Technical Lead Manager), HealthTech
 Hybrid
 View job
+Lead Software Engineer, attendPA
+Hybrid
+View job
 Senior / Lead Software Engineer, Anti-Scam Products
 Hybrid
 View job
@@ -89,9 +92,6 @@ Senior Software Engineer, ActiveSG
 Hybrid
 View job
 Senior Software Engineer, AI Native
-Hybrid
-View job
-Senior/Lead Software Engineer
 Hybrid
 View job
 Senior/Lead Software Engineer, HealthTech

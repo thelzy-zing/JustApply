@@ -1,4 +1,170 @@
 
+## 2026-09-03 12:02:08
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -52,6 +52,9 @@
+ Dublin HQ
+ Software Engineer, New Grad
+ University
++Singapore
++Software Engineer, New Grad
++University
+ Toronto
+ Software Engineer, New Grad
+ University
+@@ -74,9 +77,11 @@
+ Software Engineer, New Grad - Frontend
+ University
+ Barcelona
+-Tech Operations Associate, New Grad (Mexico)
+-Operations
+-Mexico City
++1
++2
++Prev
++1 of 2
++Next
+ Help us improve the conditions for economic growth and prosperity
+ We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
+ This commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -153,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+ Hong Kong
+-London
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -134,7 +134,7 @@
+ Python
+ •
+ Internship
+-We do not allow multiple applications. Please apply to the ONE role you are most interested in and we will consider you for all open positions when reviewing your application. Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings...
++Hudson River Trading (HRT) is seeking highly motivated full-time students to join our Software Engineering Summer Internship Program. HRT brings together the sharpest minds across quantitative disciplines—math, computer science, physics, engineering, and more— within our world-class computing environment to rapidly scale solutions to the toughest problems in tech and trading....
+ There are no jobs that fit these filter criteria. Please change filters to view other jobs.
+ Join Our Community
+ Interested in HRT but not ready to apply or don’t see what you’re looking for? Join our Talent Community so we can reach out to you when opportunities arise!
+@@ -268,7 +268,6 @@
+ Finance
+ Hardware Engineering
+ Information Security
+-Legal
+ Legal & Compliance
+ People Operations
+ Risk
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a34c5cfe686e0d16
++a35498f829a9f0a4
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,6 +61,9 @@
+ Lead Software Engineer (Technical Lead Manager), HealthTech
+ Hybrid
+ View job
++Lead Software Engineer, attendPA
++Hybrid
++View job
+ Senior / Lead Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+@@ -68,9 +71,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, AI Native
+-Hybrid
+-View job
+-Senior/Lead Software Engineer
+ Hybrid
+ View job
+ Senior/Lead Software Engineer, HealthTech
+@@ -82,6 +82,9 @@
+ Lead Software Engineer (Technical Lead Manager), HealthTech
+ Hybrid
+ View job
++Lead Software Engineer, attendPA
++Hybrid
++View job
+ Senior / Lead Software Engineer, Anti-Scam Products
+ Hybrid
+ View job
+@@ -91,9 +94,6 @@
+ Senior Software Engineer, AI Native
+ Hybrid
+ View job
+-Senior/Lead Software Engineer
+-Hybrid
+-View job
+ Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-09-02 12:03:06
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
