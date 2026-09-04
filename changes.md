@@ -1,4 +1,92 @@
 
+## 2026-09-04 12:03:56
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -259,6 +259,7 @@
+ London
+ Mumbai
+ New York
++Norway
+ Seoul
+ Shanghai Shi
+ Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a35498f829a9f0a4
++a35cd8fc1857ed3d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -45,7 +45,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Filters
+@@ -53,7 +53,7 @@
+ Singapore
+ Singapore
+ Singapore
+-7 jobs
++6 jobs
+ Share
+ Clear
+ Job title
+@@ -71,9 +71,6 @@
+ Hybrid
+ View job
+ Senior Software Engineer, AI Native
+-Hybrid
+-View job
+-Senior/Lead Software Engineer, HealthTech
+ Hybrid
+ View job
+ Software Engineer, ActiveSG
+@@ -94,9 +91,6 @@
+ Senior Software Engineer, AI Native
+ Hybrid
+ View job
+-Senior/Lead Software Engineer, HealthTech
+-Hybrid
+-View job
+ Software Engineer, ActiveSG
+ Hybrid
+ View job
+```
+
+---
+
 ## 2026-09-03 12:02:08
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
