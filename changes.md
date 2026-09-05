@@ -1,4 +1,121 @@
 
+## 2026-09-05 11:13:30
+
+### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,11 +17,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: HRT AI Labs Project
++Read More ▸
+ Intern Spotlight: 2025 Software Engineering Summer Projects
+ Read More ▸
+ Designing a SystemVerilog Language Server
+-Read More ▸
+-HRTWorker: A SharedWorker Framework for Viewing Real-Time Trading
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+@@ -54,11 +54,11 @@
+ As a liquidity provider, HRT develops automated trading algorithms designed to provide the best prices to our clients.
+ Learn More
+ Tech Blog
++Intern Spotlight: HRT AI Labs Project
++Read More ▸
+ Intern Spotlight: 2025 Software Engineering Summer Projects
+ Read More ▸
+ Designing a SystemVerilog Language Server
+-Read More ▸
+-HRTWorker: A SharedWorker Framework for Viewing Real-Time Trading
+ Read More ▸
+ Read Our Tech Blog
+ Join Our Team
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -258,6 +258,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a35cd8fc1857ed3d
++a364cc7d2d362672
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,11 +178,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Aspiring Professionals Work Experience Program
+-United Kingdom
+-Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+-View role details
+-School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -221,6 +216,11 @@
+ Work Experience Program
+ United Kingdom
+ Develop core knowledge and transferrable skills through this program delivered in partnership with Uptree. This experience, hosted in London, Bournemouth, Glasgow, and Edinburgh, offers valuable skill-building opportunities and insights into financial services and technology.
++View role details
++School Programs & Apprenticeships
++Aspiring Professionals Work Experience Program
++United Kingdom
++Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
+ View role details
+ Keep informed of when applications open
+ Join our network
+```
+
+---
+
 ## 2026-09-04 12:03:56
 
 ### [https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C](https://www.hudsonrivertrading.com/careers/?locations=singapore%2C&job-category=software-engineeringc%2Csoftware-engineeringpython%2C&job-type=internship%2C)
