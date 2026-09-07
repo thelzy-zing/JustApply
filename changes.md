@@ -1,4 +1,132 @@
 
+## 2026-09-07 13:23:49
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,6 +84,12 @@
+ Technology
+ Internship
+ Technology
++Quantitative Trading Internship (Singapore) - 2027
++Singapore
++Internship
++Trading
++Internship
++Trading
+ Trading Automation and Operations Intern (Summer 2027)
+ Chicago
+ Internship
+@@ -102,15 +108,9 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Research Intern, PhD (Summer 2027)
+-Austin
+-Internship
+-Quantitative Research & Machine Learning
+-Internship
+-Quantitative Research & Machine Learning
+-Showing: 16 / 21
+-Load 5 more
+-Load 5 more
++Showing: 16 / 22
++Load 6 more
++Load 6 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -26,6 +26,9 @@
+ Software Engineer, Connect Tax Reporting
+ Connect
+ Bucharest
++Software Engineer, Intern
++University
++Singapore
+ Software Engineer, Intern
+ University
+ London
+@@ -74,9 +77,6 @@
+ Software Engineer, New Grad
+ University
+ South San Francisco HQ
+-Software Engineer, New Grad - Frontend
+-University
+-Barcelona
+ 1
+ 2
+ Prev
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+@@ -153,9 +153,9 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
++New York
+ London
+-New York
+-Hong Kong
+ Singapore
+ Singapore
+ DEPARTMENT
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a36d2c0e1f22f27a
++a376061a7ae4a1dd
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-06 11:36:50
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
