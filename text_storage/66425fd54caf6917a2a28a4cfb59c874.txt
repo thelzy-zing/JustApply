@@ -78,12 +78,8 @@ Finance Analyst – General Ledger
 Bangalore
 Apply
 Corporate
-Financial Data Analyst
+Finance Data Analyst
 Montreal, Bangalore, Warsaw
-Apply
-Investment
-Financial Research Analyst
-Bangalore
 Apply
 Corporate
 FP&A Manager
@@ -115,7 +111,7 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
-Singapore, Hong Kong
+Geneva
 Apply
 Corporate
 Human Resources Manager
@@ -123,7 +119,7 @@ London
 Apply
 Corporate
 Human Resources Manager
-Geneva
+Singapore, Hong Kong
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
@@ -416,6 +412,10 @@ Apply
 Technology
 Trading Infrastructure Specialist – Graduate Programme
 London, Montreal, Hong Kong, New York, Singapore
+Apply
+Corporate
+Travel Expense Administrator
+Bangalore
 Apply
 Scroll to top
 Squarepoint logo

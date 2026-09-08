@@ -1,4 +1,161 @@
 
+## 2026-09-08 12:04:29
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,12 @@
+ Internship
+ Filters (1)
+ Filters (1)
++2027 Shanghai Performance Researcher Summer Internship
++Shanghai
++Internship
++Trading
++Internship
++Trading
+ FPGA Internship (2027 Start)
+ Amsterdam
+ Internship
+@@ -102,15 +108,9 @@
+ Technology
+ Internship
+ Technology
+-Software Engineer Intern (Summer 2027 - Chicago)
+-Chicago
+-Internship
+-Technology
+-Internship
+-Technology
+-Showing: 16 / 22
+-Load 6 more
+-Load 6 more
++Showing: 16 / 23
++Load 7 more
++Load 7 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -78,12 +78,8 @@
+ Bangalore
+ Apply
+ Corporate
+-Financial Data Analyst
++Finance Data Analyst
+ Montreal, Bangalore, Warsaw
+-Apply
+-Investment
+-Financial Research Analyst
+-Bangalore
+ Apply
+ Corporate
+ FP&A Manager
+@@ -115,15 +111,15 @@
+ Apply
+ Corporate
+ Human Resources Manager
++Geneva
++Apply
++Corporate
++Human Resources Manager
++London
++Apply
++Corporate
++Human Resources Manager
+ Singapore, Hong Kong
+-Apply
+-Corporate
+-Human Resources Manager
+-London
+-Apply
+-Corporate
+-Human Resources Manager
+-Geneva
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+@@ -416,6 +412,10 @@
+ Technology
+ Trading Infrastructure Specialist – Graduate Programme
+ London, Montreal, Hong Kong, New York, Singapore
++Apply
++Corporate
++Travel Expense Administrator
++Bangalore
+ Apply
+ Scroll to top
+ Squarepoint logo
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a376061a7ae4a1dd
++a37dcf4a2e4af3e8
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,6 +178,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -201,11 +206,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-09-07 13:23:49
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
