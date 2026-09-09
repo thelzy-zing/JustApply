@@ -85,6 +85,10 @@ Corporate
 FP&A Manager
 Montreal, Bangalore, Warsaw
 Apply
+Corporate
+Global Mobility Coordinator
+London
+Apply
 Investment
 Graduate Quant Developer
 London, Montreal, Singapore
@@ -111,11 +115,11 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Corporate
 Human Resources Manager
@@ -228,10 +232,6 @@ Apply
 Corporate
 Operations Analyst
 Bangalore
-Apply
-Corporate
-Operations Intern (Fall)
-Montreal
 Apply
 Technology
 Platform Application Specialist

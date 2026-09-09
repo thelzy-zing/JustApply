@@ -1,4 +1,146 @@
 
+## 2026-09-09 12:14:54
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -84,9 +84,11 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+-Singapore
++Singapore
++Chicago
++Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -154,9 +156,11 @@
+ LOCATION
+ All Locations
+ Hong Kong
++London
+ New York
+-London
+-Singapore
++Singapore
++Chicago
++Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -85,6 +85,10 @@
+ FP&A Manager
+ Montreal, Bangalore, Warsaw
+ Apply
++Corporate
++Global Mobility Coordinator
++London
++Apply
+ Investment
+ Graduate Quant Developer
+ London, Montreal, Singapore
+@@ -111,11 +115,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++London
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+-Apply
+-Corporate
+-Human Resources Manager
+-London
+ Apply
+ Corporate
+ Human Resources Manager
+@@ -228,10 +232,6 @@
+ Corporate
+ Operations Analyst
+ Bangalore
+-Apply
+-Corporate
+-Operations Intern (Fall)
+-Montreal
+ Apply
+ Technology
+ Platform Application Specialist
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a37dcf4a2e4af3e8
++a3861bed2a37c207
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -178,11 +178,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -206,6 +201,11 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-09-08 12:04:29
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
