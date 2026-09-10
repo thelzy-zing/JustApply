@@ -1,4 +1,156 @@
 
+## 2026-09-10 12:18:39
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -175,6 +175,7 @@
+ Your privacy choices
+ More resources
+ Company
++About
+ Careers
+ Newsroom
+ Stripe Press
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -48,7 +48,7 @@
+ More from Mac
+ Mac Support
+ AppleCare
+-macOS 27 Preview
++macOS 27
+ Apple Intelligence and Siri
+ Apps by Apple
+ Apple Creator Studio
+@@ -78,7 +78,7 @@
+ More from iPad
+ iPad Support
+ AppleCare
+-iPadOS 27 Preview
++iPadOS 27
+ Apple Intelligence and Siri
+ Apps by Apple
+ Apple Creator Studio
+@@ -88,7 +88,8 @@
+ iPhone
+ Explore iPhone
+ Explore All iPhone
+-iPhone 17 Pro
++iPhone Duo
++iPhone 18 Pro
+ iPhone Air
+ iPhone 17
+ iPhone 17e
+@@ -106,7 +107,7 @@
+ More from iPhone
+ iPhone Support
+ AppleCare
+-iOS 27 Preview
++iOS 27
+ Apple Intelligence and Siri
+ Apps by Apple
+ iPhone Privacy
+@@ -117,9 +118,9 @@
+ Watch
+ Explore Watch
+ Explore All Apple Watch
+-Apple Watch Series 11
++Apple Watch Series 12
++Apple Watch Ultra 4
+ Apple Watch SE 3
+-Apple Watch Ultra 3
+ Apple Watch Nike
+ Apple Watch Hermès
+ Compare Watch
+@@ -135,7 +136,7 @@
+ More from Watch
+ Apple Watch Support
+ AppleCare
+-watchOS 27 Preview
++watchOS 27
+ Apple Watch For Your Kids
+ Apps by Apple
+ Apple Fitness+
+@@ -153,17 +154,19 @@
+ More from Vision
+ Apple Vision Pro Support
+ AppleCare
+-visionOS 27 Preview
++visionOS 27
+ Apple Vision Pro for Enterprise
+ AirPods
+ Explore AirPods
+ Explore All AirPods
+-AirPods 4
++AirPods 5
+ AirPods Pro 3
+ AirPods Max 2
+ Compare AirPods
+ Shop AirPods
+-Shop AirPods
++Shop AirPods 5
++Shop AirPods Pro 3
++Shop AirPods Max 2
+ AirPods Accessories
+ More from AirPods
+ AirPods Support
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -153,10 +153,6 @@
+ Junior Commodities Fundamental Analyst
+ Geneva, London, Paris, Singapore
+ Apply
+-Investment
+-Junior Credit Fundamental Research Analyst
+-London, New York, Paris
+-Apply
+ Technology
+ Junior Desktop Support Analyst
+ London and Singapore
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a3861bed2a37c207
++a38e5ecc0de9c9bd
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-09 12:14:54
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

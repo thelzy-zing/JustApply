@@ -48,7 +48,7 @@ College Student Offer
 More from Mac
 Mac Support
 AppleCare
-macOS 27 Preview
+macOS 27
 Apple Intelligence and Siri
 Apps by Apple
 Apple Creator Studio
@@ -78,7 +78,7 @@ College Student Offer
 More from iPad
 iPad Support
 AppleCare
-iPadOS 27 Preview
+iPadOS 27
 Apple Intelligence and Siri
 Apps by Apple
 Apple Creator Studio
@@ -88,7 +88,8 @@ Apple at Work
 iPhone
 Explore iPhone
 Explore All iPhone
-iPhone 17 Pro
+iPhone Duo
+iPhone 18 Pro
 iPhone Air
 iPhone 17
 iPhone 17e
@@ -106,7 +107,7 @@ Personal Setup
 More from iPhone
 iPhone Support
 AppleCare
-iOS 27 Preview
+iOS 27
 Apple Intelligence and Siri
 Apps by Apple
 iPhone Privacy
@@ -117,9 +118,9 @@ Apple at Work
 Watch
 Explore Watch
 Explore All Apple Watch
-Apple Watch Series 11
+Apple Watch Series 12
+Apple Watch Ultra 4
 Apple Watch SE 3
-Apple Watch Ultra 3
 Apple Watch Nike
 Apple Watch Hermès
 Compare Watch
@@ -135,7 +136,7 @@ Personal Setup
 More from Watch
 Apple Watch Support
 AppleCare
-watchOS 27 Preview
+watchOS 27
 Apple Watch For Your Kids
 Apps by Apple
 Apple Fitness+
@@ -153,17 +154,19 @@ Personal Setup
 More from Vision
 Apple Vision Pro Support
 AppleCare
-visionOS 27 Preview
+visionOS 27
 Apple Vision Pro for Enterprise
 AirPods
 Explore AirPods
 Explore All AirPods
-AirPods 4
+AirPods 5
 AirPods Pro 3
 AirPods Max 2
 Compare AirPods
 Shop AirPods
-Shop AirPods
+Shop AirPods 5
+Shop AirPods Pro 3
+Shop AirPods Max 2
 AirPods Accessories
 More from AirPods
 AirPods Support
