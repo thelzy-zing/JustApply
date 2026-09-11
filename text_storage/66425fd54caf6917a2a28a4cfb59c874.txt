@@ -53,6 +53,10 @@ Corporate
 Accounts Payable Finance Analyst
 Montreal, Warsaw
 Apply
+Investment
+APAC Delta One Trader
+Hong Kong, Singapore
+Apply
 Corporate
 Assistant Controller - Broker Dealer
 London, New York, Montreal, Warsaw
@@ -120,10 +124,6 @@ Apply
 Corporate
 Human Resources Manager
 Geneva
-Apply
-Corporate
-Human Resources Manager
-Singapore, Hong Kong
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
