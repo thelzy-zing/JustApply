@@ -119,11 +119,11 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
@@ -160,6 +160,10 @@ Apply
 Investment
 Junior Discretionary Trader
 London
+Apply
+Investment
+Junior Execution Trader - Equity
+Singapore
 Apply
 Technology
 Junior Platform Specialist
