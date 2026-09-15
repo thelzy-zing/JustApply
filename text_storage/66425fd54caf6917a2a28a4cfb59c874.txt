@@ -159,7 +159,7 @@ London and Singapore
 Apply
 Investment
 Junior Discretionary Trader
-London
+London, Houston, New York, Singapore
 Apply
 Investment
 Junior Execution Trader - Equity
@@ -260,6 +260,10 @@ Apply
 Technology
 Platform ULL - Colo - Strategic
 Montreal, London, New York
+Apply
+Investment
+Primary Research Analyst
+New York
 Apply
 Investment
 Quant Developer (KDB)
