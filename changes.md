@@ -1,4 +1,144 @@
 
+## 2026-09-16 12:31:45
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -23,6 +23,15 @@
+ Operations Associate, New Grad (Mexico)
+ Operations
+ Mexico City
++Product Manager: New Grad Accelerator
++University
++New York
++Product Manager: New Grad Accelerator
++University
++Seattle
++Product Manager: New Grad Accelerator
++University
++South San Francisco HQ
+ Software Engineer, Connect Tax Reporting
+ Connect
+ Bucharest
+@@ -68,15 +77,6 @@
+ Software Engineer, New Grad
+ University
+ Dublin HQ
+-Software Engineer, New Grad
+-University
+-New York
+-Software Engineer, New Grad
+-University
+-Seattle
+-Software Engineer, New Grad
+-University
+-South San Francisco HQ
+ 1
+ 2
+ Prev
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Austin
+@@ -155,8 +155,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Austin
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -119,11 +119,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
+-London
++Geneva
+ Apply
+ Corporate
+ Human Resources Manager
+-Geneva
++London
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+@@ -209,10 +209,6 @@
+ Junior UX/UI Engineer
+ London
+ Apply
+-Corporate
+-Learning & Development Coordinator
+-London
+-Apply
+ Technology
+ Network Specialist - Core
+ Montreal, London, New York
+@@ -228,10 +224,6 @@
+ Technology
+ Network Specialist - ULL
+ Montreal, London,  New York
+-Apply
+-Corporate
+-Operations Analyst
+-Bangalore
+ Apply
+ Corporate
+ Payroll Accountant
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a3b7a8142ff43ad9
++a3bfe23559d41e27
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-15 12:33:57
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)

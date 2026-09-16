@@ -119,11 +119,11 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
@@ -209,10 +209,6 @@ Technology
 Junior UX/UI Engineer
 London
 Apply
-Corporate
-Learning & Development Coordinator
-London
-Apply
 Technology
 Network Specialist - Core
 Montreal, London, New York
@@ -228,10 +224,6 @@ Apply
 Technology
 Network Specialist - ULL
 Montreal, London,  New York
-Apply
-Corporate
-Operations Analyst
-Bangalore
 Apply
 Corporate
 Payroll Accountant
