@@ -87,8 +87,8 @@ London
 New York
 Hong Kong
 Singapore
-Austin
 Chicago
+Austin
 Singapore
 DEPARTMENT
 All Departments
@@ -159,8 +159,8 @@ London
 New York
 Hong Kong
 Singapore
-Austin
 Chicago
+Austin
 Singapore
 DEPARTMENT
 All Departments
