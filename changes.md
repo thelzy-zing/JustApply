@@ -1,4 +1,164 @@
 
+## 2026-09-18 12:10:21
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -35,6 +35,18 @@
+ Software Engineer, Connect Tax Reporting
+ Connect
+ Bucharest
++Software Engineer, Early Career — Immediate Start
++University
++Toronto
++Software Engineer, Early Career — Immediate Start
++University
++New York
++Software Engineer, Early Career — Immediate Start
++University
++Seattle
++Software Engineer, Early Career — Immediate Start
++University
++South San Francisco HQ
+ Software Engineer, Intern
+ University
+ Singapore
+@@ -65,18 +77,6 @@
+ Software Engineer, New Grad
+ University
+ Singapore
+-Software Engineer, New Grad
+-University
+-Toronto
+-Software Engineer, New Grad
+-University
+-London
+-Software Engineer, New Grad
+-University
+-Bucharest
+-Software Engineer, New Grad
+-University
+-Dublin HQ
+ 1
+ 2
+ Prev
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -155,12 +155,12 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ London
+ New York
+-Hong Kong
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -87,7 +87,7 @@
+ Apply
+ Corporate
+ FP&A Manager
+-Montreal, Bangalore, Warsaw
++Montreal, Bangalore, Warsaw, London
+ Apply
+ Corporate
+ Global Mobility Coordinator
+@@ -268,6 +268,10 @@
+ Investment
+ Quantitative Researcher - Convertible Bonds
+ New York
++Apply
++Investment
++Quantitative Researcher - Discretionary Oil
++Houston
+ Apply
+ Investment
+ Quantitative Researcher - Systematic Macro
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a3c81e8ebe70a0ed
++a3d03d99cd3b0879
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -35,6 +35,7 @@
+ Open positions
+ All departments
+ Corporate
++Policy
+ Product Design
+ Software Engineering
+ Show filters
+```
+
+---
+
 ## 2026-09-17 12:31:02
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
