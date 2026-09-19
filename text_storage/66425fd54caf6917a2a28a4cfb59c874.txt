@@ -119,11 +119,11 @@ Bangalore
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
