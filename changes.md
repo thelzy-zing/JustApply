@@ -1,4 +1,77 @@
 
+## 2026-09-20 12:07:53
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -185,17 +185,6 @@
+ Managed support plans
+ CA residents: +1 888 926 2289
+ Sign in
+-Get industry insights and updates from Stripe
+-Enter your company website
+-Thanks for subscribing. Look out for Stripe updates in your inbox.
+-Subscribed
+-Subscribe
+-Continue
+-Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+-unsubscribe
+-at any time.
+-Privacy Policy
+-.
+ United States
+ (
+ English
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -261,6 +261,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a3d861857ce066e9
++a3e0b4cb9d62d10e
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-19 11:52:58
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
