@@ -83,12 +83,12 @@ Co-Op
 Internship
 LOCATION
 All Locations
+New York
 London
 Hong Kong
-New York
 Singapore
-Chicago
 Austin
+Chicago
 Singapore
 DEPARTMENT
 All Departments
@@ -102,6 +102,7 @@ Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting
 Legal and Compliance
+Summer Enrichment Program
 Department
 TEAM
 All Teams
@@ -155,12 +156,12 @@ Co-Op
 Internship
 LOCATION
 All Locations
+New York
 London
 Hong Kong
-New York
 Singapore
-Chicago
 Austin
+Chicago
 Singapore
 DEPARTMENT
 All Departments
@@ -174,6 +175,7 @@ Finance and Operations
 Hospitality and Building Operations
 HR and Recruiting
 Legal and Compliance
+Summer Enrichment Program
 Department
 TEAM
 All Teams

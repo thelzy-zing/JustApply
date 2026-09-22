@@ -1,4 +1,84 @@
 
+## 2026-09-22 12:29:37
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ London
+ Hong Kong
+-New York
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -102,6 +102,7 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
++Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+@@ -155,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ London
+ Hong Kong
+-New York
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -174,6 +175,7 @@
+ Hospitality and Building Operations
+ HR and Recruiting
+ Legal and Compliance
++Summer Enrichment Program
+ Department
+ TEAM
+ All Teams
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a3e9825eb998ca43
++a3f14f605e4de713
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-21 13:46:21
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
