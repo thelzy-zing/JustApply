@@ -114,10 +114,6 @@ High-Touch Execution Strategist
 London
 Apply
 Corporate
-HR Systems Associate - Workday
-Bangalore
-Apply
-Corporate
 Human Resources Manager
 Geneva
 Apply
@@ -262,20 +258,8 @@ Quant Developer (Python)
 London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore
 Apply
 Investment
-Quantitative Researcher - Convertible Bonds
-New York
-Apply
-Investment
 Quantitative Researcher - Discretionary Oil
 Houston
-Apply
-Investment
-Quantitative Researcher - Systematic Macro
-New York
-Apply
-Investment
-Quantitative Researcher - Volatility (II)
-New York
 Apply
 Investment
 Senior Discretionary Trader - Credit
