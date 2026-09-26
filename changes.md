@@ -1,4 +1,211 @@
 
+## 2026-09-26 12:09:11
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -146,9 +146,7 @@
+ Cookie Policy
+ Notices
+ ×
+-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
++We  (www.optiver.com)   and selected third parties  (9)   use cookies or similar technologies  for technical purposes and, with your consent, for
+ experience, measurement and “marketing (personalized ads)”
+ as specified in the
+ cookie policy
+@@ -159,11 +157,7 @@
+ Experience
+ Measurement
+ Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+ Press again to continue 0/1
+ Learn more
+ Reject all
+-Save and continue
++Accept all
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,6 +17,12 @@
+ filters
+ selected
+ Clear all filters
++Financial Data Analyst Intern, Technical Operations
++Payments
++Singapore
++Integration Reliability Engineer Intern, Technical Operations
++Payments
++Singapore
+ Integration Reliability Engineer, Technical Operations
+ Payments
+ Singapore
+@@ -71,12 +77,6 @@
+ Software Engineer, Intern (Summer or Winter)
+ University
+ Seattle
+-Software Engineer, Intern (Summer or Winter)
+-University
+-South San Francisco HQ
+-Software Engineer, Intern (Summer or Winter)
+-University
+-Dublin HQ
+ 1
+ 2
+ Prev
+@@ -192,3 +192,10 @@
+ ©
+ 2026
+ Stripe, LLC.
++We use cookies to improve your experience and for marketing. Read our
++cookie policy
++or
++manage cookies
++.
++Accept all
++Reject all
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,8 @@
+ Search Jobs — Google Careers
++google.com/about/careers/applications uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see.
++Learn more
++Agree
++No thanks
+ Careers
+ Careers
+ Careers
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -317,28 +317,8 @@
+ text
+ More
+ Search Results
+-1 Result(s)
+-Sort by:
+-Newest
+-2027 Apple Internship - Information Systems and Technology
+-Students
+-Aug 06, 2026
+-Location
+-Singapore
+-Actions
+-See full role description
+-Share
+-2027 Apple Internship - Information Systems and Technology 200675982-3278
+-Role Number:
+-200675982-3278
+-Weekly Hours:
+-40 Hours
+-Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.Do you love building solutions to handle global complexity an...
+-Submit Resume
+-Page Number
+-Press Return/Enter key to go to the page
+-Of
+-1
++There are no results that match your search.
++Please try different search criteria.
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -115,11 +115,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++London
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+-Apply
+-Corporate
+-Human Resources Manager
+-London
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a40a185228177606
++a41226e7ba361fde
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-09-25 12:41:07
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
