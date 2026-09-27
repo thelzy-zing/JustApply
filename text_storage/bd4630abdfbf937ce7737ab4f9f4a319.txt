@@ -146,7 +146,9 @@ Disclosures
 Cookie Policy
 Notices
 ×
-We  (www.optiver.com)   and selected third parties  (9)   use cookies or similar technologies  for technical purposes and, with your consent, for
+We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
+privacy policy
+and use cookies or similar technologies  for technical purposes and, with your consent, for
 experience, measurement and “marketing (personalized ads)”
 as specified in the
 cookie policy
@@ -157,7 +159,11 @@ Necessary
 Experience
 Measurement
 Marketing
+Sharing
+of my personal information
+Processing of my personal information for
+targeted advertising
 Press again to continue 0/1
 Learn more
 Reject all
-Accept all
+Save and continue
