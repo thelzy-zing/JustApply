@@ -89,10 +89,6 @@ Corporate
 FP&A Manager
 Montreal, Bangalore, Warsaw, London
 Apply
-Corporate
-Global Mobility Coordinator
-London
-Apply
 Investment
 Graduate Quant Developer
 London, Montreal, Singapore
@@ -115,11 +111,11 @@ London
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
