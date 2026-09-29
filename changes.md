@@ -1,4 +1,137 @@
 
+## 2026-09-29 13:53:30
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,12 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Market Risk Internship 2027 - Singapore
++Singapore
++Internship
++Risk, Finance & Legal
++Internship
++Risk, Finance & Legal
+ 2027 Shanghai Performance Researcher Summer Internship
+ Shanghai
+ Internship
+@@ -102,15 +108,9 @@
+ Trading
+ Internship
+ Trading
+-Software Engineer Intern (Summer 2027 - Austin)
+-Austin
+-Internship
+-Technology
+-Internship
+-Technology
+-Showing: 16 / 22
+-Load 6 more
+-Load 6 more
++Showing: 16 / 23
++Load 7 more
++Load 7 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -70,6 +70,10 @@
+ London, Montreal, Jersey, Warsaw
+ Apply
+ Corporate
++Campus Recruitment Specialist
++London, Paris, New York
++Apply
++Corporate
+ Communications Associate
+ London, New York
+ Apply
+@@ -111,11 +115,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
+-London
++Geneva
+ Apply
+ Corporate
+ Human Resources Manager
+-Geneva
++London
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a423a6149f4267c5
++a42b77debc9f5549
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,11 +183,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -211,6 +206,11 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-09-28 15:06:58
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
