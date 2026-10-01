@@ -166,4 +166,4 @@ targeted advertising
 Press again to continue 0/1
 Learn more
 Reject all
-Save and continue
+Accept all

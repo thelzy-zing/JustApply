@@ -1,4 +1,184 @@
 
+## 2026-10-01 14:20:49
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -166,4 +166,4 @@
+ Press again to continue 0/1
+ Learn more
+ Reject all
+-Save and continue
++Accept all
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -20,6 +20,12 @@
+ Financial Data Analyst Intern, Technical Operations
+ Payments
+ Singapore
++High School Internship, Software Engineering (Summer 2027)
++University
++Seattle
++High School Internship, Software Engineering (Summer 2027)
++University
++South San Francisco HQ
+ Integration Reliability Engineer Intern, Technical Operations
+ Payments
+ Singapore
+@@ -71,12 +77,6 @@
+ Software Engineer, Intern (Summer or Winter)
+ University
+ Toronto
+-Software Engineer, Intern (Summer or Winter)
+-University
+-New York
+-Software Engineer, Intern (Summer or Winter)
+-University
+-Seattle
+ 1
+ 2
+ Prev
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+-Singapore
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -156,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
++Hong Kong
+ London
+-Hong Kong
+-New York
+-Singapore
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -317,8 +317,28 @@
+ text
+ More
+ Search Results
+-There are no results that match your search.
+-Please try different search criteria.
++1 Result(s)
++Sort by:
++Newest
++2027 Apple Internship - Information Systems and Technology
++Students
++Aug 06, 2026
++Location
++Singapore
++Actions
++See full role description
++Share
++2027 Apple Internship - Information Systems and Technology 200675982-3278
++Role Number:
++200675982-3278
++Weekly Hours:
++40 Hours
++Do you want to help build some of the largest and most consequential enterprise and customer technology systems in the world? Join Apple’s Information Systems and Technology (IS&T) organization. IS&T is the engine behind everything Apple does for customers and for the people who build for them. It’s Apple’s central nervous system. Supporting 2.5 billion active Apple devices, processing billions of secure transactions, and keeping the technology that defines modern life running flawlessly, IS&T makes the impossible feel effortless.Do you love building solutions to handle global complexity an...
++Submit Resume
++Page Number
++Press Return/Enter key to go to the page
++Of
++1
+ Apple Footer
+ Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.
+ Learn more about your EEO rights as an applicant
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -125,6 +125,10 @@
+ Identity and Access Management (IAM) Engineer
+ London
+ Apply
++Technology
++Infrastructure Developer
++London, New York
++Apply
+ Investment
+ Intern Quant Researcher
+ London, Paris, New York, Singapore, Hong Kong
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4338ee0ef3cff48
++a43c1aa4a807e62d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-09-30 13:27:19
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
