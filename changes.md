@@ -1,4 +1,213 @@
 
+## 2026-10-02 13:43:01
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -146,7 +146,7 @@
+ Cookie Policy
+ Notices
+ ×
+-We  (www.optiver.com)   and selected third parties  (9)   collect personal information as specified in the
++We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
+ privacy policy
+ and use cookies or similar technologies  for technical purposes and, with your consent, for
+ experience, measurement and “marketing (personalized ads)”
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,6 +17,21 @@
+ filters
+ selected
+ Clear all filters
++Data Analyst, Intern
++University
++Chicago
++Data Analyst, Intern
++University
++New York
++Data Analyst, Intern
++University
++Seattle
++Data Analyst, Intern
++University
++South San Francisco HQ
++Data Analyst, Intern
++University
++Toronto
+ Financial Data Analyst Intern, Technical Operations
+ Payments
+ Singapore
+@@ -38,6 +53,21 @@
+ Operations Associate, New Grad (Mexico)
+ Operations
+ Mexico City
++PhD Data Scientist, Intern
++University
++Toronto
++PhD Data Scientist, Intern
++University
++Chicago
++PhD Data Scientist, Intern
++University
++New York
++PhD Data Scientist, Intern
++University
++Seattle
++PhD Data Scientist, Intern
++University
++South San Francisco HQ
+ Product Manager: New Grad Accelerator
+ University
+ New York
+@@ -47,40 +77,11 @@
+ Product Manager: New Grad Accelerator
+ University
+ South San Francisco HQ
+-Software Engineer, Connect Tax Reporting
+-Connect
+-Bucharest
+-Software Engineer, Early Career — Immediate Start
+-University
+-Toronto
+-Software Engineer, Early Career — Immediate Start
+-University
+-New York
+-Software Engineer, Early Career — Immediate Start
+-University
+-Seattle
+-Software Engineer, Early Career — Immediate Start
+-University
+-South San Francisco HQ
+-Software Engineer, Intern
+-University
+-Singapore
+-Software Engineer, Intern
+-University
+-London
+-Software Engineer, Intern
+-University
+-Bucharest
+-Software Engineer, Intern
+-University
+-Bengaluru
+-Software Engineer, Intern (Summer or Winter)
+-University
+-Toronto
+ 1
+ 2
++3
+ Prev
+-1 of 2
++1 of 3
+ Next
+ Help us improve the conditions for economic growth and prosperity
+ We embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -81,6 +81,10 @@
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+ Apply
++Investment
++Equities Analyst Summer Internship Program
++New York, London
++Apply
+ Corporate
+ Finance Analyst – General Ledger
+ Bangalore
+@@ -115,11 +119,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
++London
++Apply
++Corporate
++Human Resources Manager
+ Geneva
+-Apply
+-Corporate
+-Human Resources Manager
+-London
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a43c1aa4a807e62d
++a444209b4cb4c67f
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,6 +183,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -206,11 +211,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-10-01 14:20:49
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
