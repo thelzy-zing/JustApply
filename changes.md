@@ -1,4 +1,104 @@
 
+## 2026-10-05 15:42:21
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -47,6 +47,9 @@
+ Integration Reliability Engineer, Technical Operations
+ Payments
+ Singapore
++Junior Commercial Associate — Works in Progress
++Communications
++London
+ Operations Associate, Apprenticeship
+ Operations
+ Bengaluru
+@@ -74,9 +77,6 @@
+ Product Manager: New Grad Accelerator
+ University
+ Seattle
+-Product Manager: New Grad Accelerator
+-University
+-South San Francisco HQ
+ 1
+ 2
+ 3
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -258,12 +258,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -245,14 +245,6 @@
+ Platform Specialist - Windows and Virtualization
+ Montreal & Houston
+ Apply
+-Technology
+-Platform ULL - Colo - Reliability
+-London, Montreal, New York, Singapore
+-Apply
+-Technology
+-Platform ULL - Colo - Strategic
+-Montreal, London, New York
+-Apply
+ Investment
+ Quant Developer (KDB)
+ London, Montreal, Singapore, Honk Kong
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a454684469a40d16
++a45d87775cab454f
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-04 13:08:09
 
 ### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
