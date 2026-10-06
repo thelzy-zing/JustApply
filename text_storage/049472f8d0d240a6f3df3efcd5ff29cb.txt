@@ -34,7 +34,6 @@ Build with us
 Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
 Open positions
 All departments
-Corporate
 Policy
 Product Design
 Product Management
@@ -46,7 +45,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-4 jobs
+3 jobs
 Share
 Clear
 Filters
@@ -54,7 +53,7 @@ Singapore
 Singapore
 Singapore
 Singapore
-4 jobs
+3 jobs
 Share
 Clear
 Job title
@@ -68,9 +67,6 @@ View job
 Senior / Lead Software Engineer, Anti-Scam Products
 Hybrid
 View job
-Senior Software Engineer, AI Native
-Hybrid
-View job
 Lead Software Engineer (Technical Lead Manager), HealthTech
 Hybrid
 View job
@@ -78,8 +74,5 @@ Lead Software Engineer, attendPA
 Hybrid
 View job
 Senior / Lead Software Engineer, Anti-Scam Products
-Hybrid
-View job
-Senior Software Engineer, AI Native
 Hybrid
 View job
