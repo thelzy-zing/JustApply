@@ -1,4 +1,311 @@
 
+## 2026-10-07 14:20:54
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -146,9 +146,7 @@
+ Cookie Policy
+ Notices
+ ×
+-We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
++We  (www.optiver.com)   and selected third parties  (10)   use cookies or similar technologies  for technical purposes and, with your consent, for
+ experience, measurement and “marketing (personalized ads)”
+ as specified in the
+ cookie policy
+@@ -159,10 +157,6 @@
+ Experience
+ Measurement
+ Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+ Press again to continue 0/1
+ Learn more
+ Reject all
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,9 +61,6 @@
+ Toronto
+ PhD Data Scientist, Intern
+ University
+-Chicago
+-PhD Data Scientist, Intern
+-University
+ New York
+ PhD Data Scientist, Intern
+ University
+@@ -77,6 +74,9 @@
+ Product Manager: New Grad Accelerator
+ University
+ Seattle
++Product Manager: New Grad Accelerator
++University
++South San Francisco HQ
+ 1
+ 2
+ 3
+@@ -193,3 +193,10 @@
+ ©
+ 2026
+ Stripe, LLC.
++We use cookies to improve your experience and for marketing. Read our
++cookie policy
++or
++manage cookies
++.
++Accept all
++Reject all
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,8 @@
+ Search Jobs — Google Careers
++google.com/about/careers/applications uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see.
++Learn more
++Agree
++No thanks
+ Careers
+ Careers
+ Careers
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+ New York
+-London
+-Singapore
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -156,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ Hong Kong
+ New York
+-London
+-Singapore
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -112,78 +112,6 @@
+ Brand resources
+ For investors
+ Looking for contractor roles?
+-Job Search
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Job Search
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+ Community Standards
+ Data Policy
+ Terms
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -99,7 +99,7 @@
+ Apply
+ Technology
+ Graduate Software Developer
+-London, Montreal, Singapore
++London, Montreal, Singapore, Warsaw
+ Apply
+ Technology
+ Graduate Trading Applications Specialist
+@@ -115,11 +115,11 @@
+ Apply
+ Corporate
+ Human Resources Manager
+-London
++Geneva
+ Apply
+ Corporate
+ Human Resources Manager
+-Geneva
++London
+ Apply
+ Technology
+ Identity and Access Management (IAM) Engineer
+@@ -144,6 +144,10 @@
+ Technology
+ Intern Software Developer - Singapore - 2027
+ Singapore
++Apply
++Technology
++Intern Software Developer - Warsaw 2027
++Warsaw
+ Apply
+ Investment
+ Junior Commodities Fundamental Analyst
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a465346feae22e23
++a46d8afbae42e407
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,7 +1,4 @@
+ Programs | JPMorganChase
+-We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
+-Privacy Policy
+-.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+```
+
+---
+
 ## 2026-10-06 14:03:42
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)

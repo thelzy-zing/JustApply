@@ -99,7 +99,7 @@ London, Montreal, Singapore
 Apply
 Technology
 Graduate Software Developer
-London, Montreal, Singapore
+London, Montreal, Singapore, Warsaw
 Apply
 Technology
 Graduate Trading Applications Specialist
@@ -115,11 +115,11 @@ London
 Apply
 Corporate
 Human Resources Manager
-London
+Geneva
 Apply
 Corporate
 Human Resources Manager
-Geneva
+London
 Apply
 Technology
 Identity and Access Management (IAM) Engineer
@@ -144,6 +144,10 @@ Apply
 Technology
 Intern Software Developer - Singapore - 2027
 Singapore
+Apply
+Technology
+Intern Software Developer - Warsaw 2027
+Warsaw
 Apply
 Investment
 Junior Commodities Fundamental Analyst
