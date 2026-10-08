@@ -1,4 +1,170 @@
 
+## 2026-10-08 14:28:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -146,7 +146,9 @@
+ Cookie Policy
+ Notices
+ ×
+-We  (www.optiver.com)   and selected third parties  (10)   use cookies or similar technologies  for technical purposes and, with your consent, for
++We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
++privacy policy
++and use cookies or similar technologies  for technical purposes and, with your consent, for
+ experience, measurement and “marketing (personalized ads)”
+ as specified in the
+ cookie policy
+@@ -157,6 +159,10 @@
+ Experience
+ Measurement
+ Marketing
++Sharing
++of my personal information
++Processing of my personal information for
++targeted advertising
+ Press again to continue 0/1
+ Learn more
+ Reject all
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -193,10 +193,3 @@
+ ©
+ 2026
+ Stripe, LLC.
+-We use cookies to improve your experience and for marketing. Read our
+-cookie policy
+-or
+-manage cookies
+-.
+-Accept all
+-Reject all
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,8 +1,4 @@
+ Search Jobs — Google Careers
+-google.com/about/careers/applications uses cookies to deliver and enhance the quality of its services and to analyze traffic. If you agree, cookies are also used to serve advertising and to personalize the content and advertisements that you see.
+-Learn more
+-Agree
+-No thanks
+ Careers
+ Careers
+ Careers
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -87,8 +87,8 @@
+ Hong Kong
+ New York
+ Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -160,8 +160,8 @@
+ Hong Kong
+ New York
+ Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a46d8afbae42e407
++a475d40599f8e02b
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,4 +1,7 @@
+ Programs | JPMorganChase
++We and our partners use cookies and other tools for advertising, to help stop fraud, and for other purposes. By using this site, you agree to how your information is used as outlined in our
++Privacy Policy
++.
+ Skip to main content
+ Join our team
+ Search JPMorganChase
+@@ -180,6 +183,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -203,11 +211,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-10-07 14:20:54
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
