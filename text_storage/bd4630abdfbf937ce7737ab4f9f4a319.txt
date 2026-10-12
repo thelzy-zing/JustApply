@@ -84,6 +84,12 @@ Internship
 Technology
 Internship
 Technology
+Quantitative Intern (Summer 2027)
+Austin
+Internship
+Trading
+Internship
+Trading
 FPGA Engineer Intern (Summer 2027 - Austin)
 Austin
 Internship
@@ -102,15 +108,9 @@ Internship
 Trading
 Internship
 Trading
-Software Engineer Intern (Summer 2027 - Austin)
-Austin
-Internship
-Technology
-Internship
-Technology
-Showing: 16 / 22
-Load 6 more
-Load 6 more
+Showing: 16 / 23
+Load 7 more
+Load 7 more
 Filter
 1
 Filter
@@ -146,7 +146,9 @@ Disclosures
 Cookie Policy
 Notices
 ×
-We  (www.optiver.com)   and selected third parties  (10)   use cookies or similar technologies  for technical purposes and, with your consent, for
+We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
+privacy policy
+and use cookies or similar technologies  for technical purposes and, with your consent, for
 experience, measurement and “marketing (personalized ads)”
 as specified in the
 cookie policy
@@ -157,6 +159,10 @@ Necessary
 Experience
 Measurement
 Marketing
+Sharing
+of my personal information
+Processing of my personal information for
+targeted advertising
 Press again to continue 0/1
 Learn more
 Reject all
