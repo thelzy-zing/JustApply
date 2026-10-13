@@ -1,4 +1,252 @@
 
+## 2026-10-13 14:54:56
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,7 +61,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-0
++3
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -144,13 +144,75 @@
+ English
+ Français (Canada)
+ Jobs search results
+-0
++3
+ jobs matched
+ filter_list
+-search
+-No results
+-Search again or try updating your filters
+-Clear filters
++Forward Deployed Engineer Intern, 2027
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
++Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
++Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
++Relevant practical or internship based experience building and executing structured/unstructured data pipelines, cloud platform databases, or AI/ML-driven workflows (such as RAG architectures).
++Learn more
++share
++Share Forward Deployed Engineer Intern, 2027
++link
++Copy link
++email
++Email a friend
++Software Engineering Intern, 2027 (English)
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
++Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
++Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
++Experience working in Unix/Linux environments.
++Experience with data structures, algorithms, and software design.
++Ability to communicate in English fluently to participate in technical discussions.
++Learn more
++share
++Share Software Engineering Intern, 2027 (English)
++link
++Copy link
++email
++Email a friend
++Data Center Technician Intern, 2027
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
++Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree.
++Experience installing a network or Linux system and with the basic concepts around these.
++Learn more
++share
++Share Data Center Technician Intern, 2027
++link
++Copy link
++email
++Email a friend
++Showing 1 to 3 of 3 rows
++1‑3 of 3
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Austin
+ Chicago
+@@ -156,9 +156,9 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+ London
+-New York
+ Singapore
+ Austin
+ Chicago
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -172,18 +172,18 @@
+ Apple Music
+ Apple Fitness+
+ TV & Home
+-Explore TV & Home
+-Explore TV & Home
++Explore Home
++Explore Home
++Apple HomeView
+ Apple TV 4K
+ HomePod
+-HomePod mini
+-Shop TV & Home
+-Shop Apple TV 4K
+-Shop HomePod
+-Shop HomePod mini
+-Shop Siri Remote
+-TV & Home Accessories
+-More from TV & Home
++HomePod mini 2
++Shop Home
++Shop Home
++Shop Apple Home Collection
++Shop Home Accessories
++Personal Setup
++More from Home
+ Apple TV Support
+ HomePod Support
+ AppleCare for Apple TV
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -115,10 +115,6 @@
+ Apply
+ Corporate
+ Human Resources Manager
+-London
+-Apply
+-Corporate
+-Human Resources Manager
+ Geneva
+ Apply
+ Technology
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a497858778a97bb6
++a49f2d1a6c21e44c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,6 +183,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -206,11 +211,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-10-12 16:37:11
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
