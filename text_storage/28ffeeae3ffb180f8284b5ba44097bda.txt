@@ -9,6 +9,7 @@ iPhone
 Apple Watch
 Apple Vision Pro
 AirPods
+Home
 Accessories
 Quick Links
 Find a Store
@@ -217,7 +218,7 @@ Mac
 Apple Watch
 Apple Vision Pro
 AirPods
-TV & Home
+Home
 AirTag
 Beats
 Shop by Category
