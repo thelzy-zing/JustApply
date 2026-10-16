@@ -1,4 +1,199 @@
 
+## 2026-10-16 12:11:54
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -156,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
++Hong Kong
+ New York
+ London
+-Hong Kong
+-Singapore
++Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -73,10 +73,6 @@
+ Campus Recruitment Specialist
+ London, Paris, New York
+ Apply
+-Corporate
+-Communications Associate
+-London, New York
+-Apply
+ Investment
+ Desk Quant Analyst
+ London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
+@@ -187,7 +183,7 @@
+ Apply
+ Technology
+ Junior Software Developer - Front-end
+-London, Montreal
++London, Montreal, Singapore
+ Apply
+ Technology
+ Junior Software Developer (KDB+/Q)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4aed8b6db989a11
++a4b6f66ecd4b9e1f
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,79 +1,11 @@
+-Careers at Open Government Products
+-Skip to content
+-Open Government Products
+-Homepage
+-Open Government Products
+-Homepage
+-Open Government Products
+-Homepage
+-Open Government Products
+-Homepage
+-We build tech for public good.
+-Open Roles
+-Solving problems for citizens
+-ParkingSG
+-Eliminating the need for parking coupons or the rush to extend parking sessions
+-ScamShield
+-Protecting citizens from scams by detecting, blocking, and reporting scam SMSes and calls
+-RedeemSG
+-Digitalising a voucher redemption system that facilitates government fiscal policy
+-Hacking for public good
+-We believe in starting where the problems are - on the ground. 70% of our products come from our annual Hack for Public Good, where we build products to solve problems in the community.
+-An open work culture
+-Push for change
+-Cut through bureaucracy to create solutions that people actually need.
+-Autonomy
+-Approach problems from the grounds-up. Product teams decide how to maximise impact.
+-Transparency
+-Clear frameworks for all hiring, performance, and compensation matters.
+-﻿
+-Curious what working at OGP is actually like?
+-Check out the Reddit AMA we did with our engineers, where we answered questions about pay, career growth, and what actually makes working here different.
+-See our replies
+-Build with us
+-Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.
+-Open positions
+-All departments
+-Internship
+-Policy
+-Product Design
+-Product Management
+-Software Engineering
+-Show filters
+-(2)
+-Filters
+-Singapore
+-Singapore
+-Singapore
+-Singapore
+-3 jobs
+-Share
+-Clear
+-Filters
+-Singapore
+-Singapore
+-Singapore
+-Singapore
+-3 jobs
+-Share
+-Clear
+-Job title
+-Work model
+-Lead Software Engineer (Technical Lead Manager), HealthTech
+-Hybrid
+-View job
+-Lead Software Engineer, attendPA
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Anti-Scam Products
+-Hybrid
+-View job
+-Lead Software Engineer (Technical Lead Manager), HealthTech
+-Hybrid
+-View job
+-Lead Software Engineer, attendPA
+-Hybrid
+-View job
+-Senior / Lead Software Engineer, Anti-Scam Products
+-Hybrid
+-View job
++Just a moment...
++careers.open.gov.sg
++Performing security verification
++This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
++Verification successful. Waiting for careers.open.gov.sg to respond
++Enable JavaScript and cookies to continue
++Ray ID:
++a4b6f6d818514b1f
++Performance and Security by
++Cloudflare
++Privacy
+```
+
+---
+
 ## 2026-10-15 12:33:32
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)

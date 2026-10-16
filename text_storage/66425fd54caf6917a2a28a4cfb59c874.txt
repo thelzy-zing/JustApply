@@ -73,10 +73,6 @@ Corporate
 Campus Recruitment Specialist
 London, Paris, New York
 Apply
-Corporate
-Communications Associate
-London, New York
-Apply
 Investment
 Desk Quant Analyst
 London, Madrid, Montreal, Bangalore, Singapore, Hong Kong, Warsaw
@@ -187,7 +183,7 @@ London, Montreal, Singapore
 Apply
 Technology
 Junior Software Developer - Front-end
-London, Montreal
+London, Montreal, Singapore
 Apply
 Technology
 Junior Software Developer (KDB+/Q)
