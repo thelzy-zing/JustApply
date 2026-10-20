@@ -1,4 +1,253 @@
 
+## 2026-10-20 12:38:17
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,18 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)
++Shanghai
++Internship
++Quantitative Research & Machine Learning
++Internship
++Quantitative Research & Machine Learning
++Expressions of Interest - Quantitative Research Internship, PhD (Summer 2028 -Shanghai)
++Shanghai
++Internship
++Quantitative Research & Machine Learning
++Internship
++Quantitative Research & Machine Learning
+ Market Risk Internship 2027 - Singapore
+ Singapore
+ Internship
+@@ -100,21 +112,9 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Trading Internship (Singapore) - 2027
+-Singapore
+-Internship
+-Trading
+-Internship
+-Trading
+-Trading Automation and Operations Intern (Summer 2027)
+-Chicago
+-Internship
+-Trading
+-Internship
+-Trading
+-Showing: 16 / 23
+-Load 7 more
+-Load 7 more
++Showing: 16 / 25
++Load 9 more
++Load 9 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -44,9 +44,6 @@
+ Integration Reliability Engineer, Technical Operations
+ Payments
+ Singapore
+-Junior Commercial Associate — Works in Progress
+-Communications
+-London
+ Operations Associate, Apprenticeship
+ Operations
+ Bengaluru
+@@ -77,6 +74,9 @@
+ Security Engineer, New Grad
+ University
+ Dublin HQ
++Software Engineer, Early Career — Immediate Start
++University
++Toronto
+ 1
+ 2
+ 3
+@@ -186,6 +186,17 @@
+ Managed support plans
+ CA residents: +1 888 926 2289
+ Sign in
++Get industry insights and updates from Stripe
++Enter your company website
++Thanks for subscribing. Look out for Stripe updates in your inbox.
++Subscribed
++Subscribe
++Continue
++Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
++unsubscribe
++at any time.
++Privacy Policy
++.
+ United States
+ (
+ English
+```
+
+---
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,7 +61,7 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-3
++5
+ jobs matched
+ Clear filters
+ What do you want to do?
+@@ -142,7 +142,7 @@
+ English
+ Français (Canada)
+ Jobs search results
+-3
++5
+ jobs matched
+ filter_list
+ Forward Deployed Engineer Intern, 2027
+@@ -209,8 +209,48 @@
+ Copy link
+ email
+ Email a friend
+-Showing 1 to 3 of 3 rows
+-1‑3 of 3
++Account Executive, Business Intern, 2027 (English)
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Intern & Apprentice
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a Bachelor's or Master's program.
++Penultimate academic year of the Bachelor’s or Master’s degree.
++Ability  to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders.
++Learn more
++share
++Share Account Executive, Business Intern, 2027 (English)
++link
++Copy link
++email
++Email a friend
++Account Executive, MBA Intern, 2027
++corporate_fare
++Google
++place
++Singapore
++bar_chart
++Early
++Early
++Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes.
++Google |
++Singapore
++Minimum qualifications
++Currently enrolled in a MBA program.
++Learn more
++share
++Share Account Executive, MBA Intern, 2027
++link
++Copy link
++email
++Email a friend
++Showing 1 to 5 of 5 rows
++1‑5 of 5
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -238,12 +238,12 @@
+ Montreal, New York, London, Singapore, Bangalore
+ Apply
+ Technology
+-Platform Specialist - PLS
+-Montreal, London, New York, Bangalore, Singapore
+-Apply
+-Technology
+ Platform Specialist - Windows and Virtualization
+ Montreal & Houston
++Apply
++Technology
++Platform Storage Specialist
++Singapore
+ Apply
+ Investment
+ Quant Developer (KDB)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4d077894a13b476
++a4d8128fe8d54adb
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4d077f37e921b62
++a4d812f6e963490e
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-19 14:29:07
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
