@@ -45,10 +45,6 @@ Paris
 Singapore
 Warsaw
 Zug
-Corporate
-Accounts Payable Finance Analyst
-Montreal, Warsaw
-Apply
 Investment
 APAC Delta One Trader
 Hong Kong, Singapore
@@ -375,7 +371,7 @@ Singapore, Montreal , London
 Apply
 Technology
 Software Developer - Risk Technology
-London, Montreal, Bangalore & Warsaw
+Singapore, Montreal, Bangalore
 Apply
 Technology
 Support Analyst - Desktop
