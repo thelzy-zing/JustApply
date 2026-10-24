@@ -1,4 +1,144 @@
 
+## 2026-10-24 11:56:46
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -100,21 +100,21 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Intern (Summer 2027)
+-Austin
+-Internship
+-Trading
+-Internship
+-Trading
+ FPGA Engineer Intern (Summer 2027 - Austin)
+ Austin
+ Internship
+ Technology
+ Internship
+ Technology
+-Showing: 16 / 25
+-Load 9 more
+-Load 9 more
++Quantitative Trading Internship (Singapore) - 2027
++Singapore
++Internship
++Trading
++Internship
++Trading
++Showing: 16 / 20
++Load 4 more
++Load 4 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,6 +186,17 @@
+ Managed support plans
+ CA residents: +1 888 926 2289
+ Sign in
++Get industry insights and updates from Stripe
++Enter your company website
++Thanks for subscribing. Look out for Stripe updates in your inbox.
++Subscribed
++Subscribe
++Continue
++Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
++unsubscribe
++at any time.
++Privacy Policy
++.
+ United States
+ (
+ English
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,8 +83,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Chicago
+@@ -156,8 +156,8 @@
+ Internship
+ LOCATION
+ All Locations
++London
+ New York
+-London
+ Hong Kong
+ Singapore
+ Chicago
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4f0c03c9fa318e8
++a4f8cb3e4e28ad80
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a4f0c0a318235150
++a4f8cba99ec1a1ee
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-23 12:31:08
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
