@@ -42,41 +42,6 @@ There are currently no open roles matching your search.
 Log in or sign up for Career Profile to save your search and get alerts when opportunities open.
 Job Search
 Technology Teams
-Artificial Intelligence
-Creative
-Infrastructure
-Metaverse and Wearables
-Product and Program Management
-Research and Data
-Security
-Software Engineering
-Business Teams
-Business Operations
-Partnerships
-Sales and Marketing
-Career Programs
-Research
-Accelerate Eng Talent
-Students and Grads
-Rotational Programs
-Working at Meta
-Accessiblity and Engagement
-Benefits
-Culture
-Hiring Process
-My account
-Career profile
-Account settings
-Messages
-Meta Careers Blog
-Meta Tech Podcasts
-About us
-About Meta
-Media gallery
-Brand resources
-For investors
-Looking for contractor roles?
-Job Search
 Technology Teams
 Artificial Intelligence
 Creative
@@ -87,25 +52,30 @@ Research and Data
 Security
 Software Engineering
 Business Teams
+Business Teams
 Business Operations
 Partnerships
 Sales and Marketing
+Career Programs
 Career Programs
 Research
 Accelerate Eng Talent
 Students and Grads
 Rotational Programs
 Working at Meta
+Working at Meta
 Accessiblity and Engagement
 Benefits
 Culture
 Hiring Process
+My account
 My account
 Career profile
 Account settings
 Messages
 Meta Careers Blog
 Meta Tech Podcasts
+About us
 About us
 About Meta
 Media gallery
