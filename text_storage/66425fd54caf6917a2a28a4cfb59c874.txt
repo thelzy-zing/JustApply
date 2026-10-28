@@ -326,10 +326,6 @@ Software Developer - Core Data
 Singapore, Hong Kong, Montreal, London
 Apply
 Technology
-Software Developer - Data Infrastructure
-London, Montreal, Singapore
-Apply
-Technology
 Software Developer - Data Pipelines (Python)
 London, Montreal, Madrid, Bangalore
 Apply
@@ -344,6 +340,10 @@ Apply
 Technology
 Software Developer - Data Reliability
 London, Warsaw, Singapore, Bangalore, Montreal
+Apply
+Technology
+Software Developer – Internal Compute Frameworks (C++)
+London, Montreal, Singapore
 Apply
 Technology
 Software Developer - Internal Compute Frameworks (Python)

@@ -1,4 +1,123 @@
 
+## 2026-10-28 13:55:44
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,17 +186,6 @@
+ Managed support plans
+ CA residents: +1 888 926 2289
+ Sign in
+-Get industry insights and updates from Stripe
+-Enter your company website
+-Thanks for subscribing. Look out for Stripe updates in your inbox.
+-Subscribed
+-Subscribe
+-Continue
+-Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+-unsubscribe
+-at any time.
+-Privacy Policy
+-.
+ United States
+ (
+ English
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -38,7 +38,6 @@
+ Switch from PC to Mac
+ Shop Mac
+ Shop Mac
+-Help Me Choose
+ Mac Accessories
+ Apple Upgrade
+ Apple Trade In
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -326,10 +326,6 @@
+ Singapore, Hong Kong, Montreal, London
+ Apply
+ Technology
+-Software Developer - Data Infrastructure
+-London, Montreal, Singapore
+-Apply
+-Technology
+ Software Developer - Data Pipelines (Python)
+ London, Montreal, Madrid, Bangalore
+ Apply
+@@ -344,6 +340,10 @@
+ Technology
+ Software Developer - Data Reliability
+ London, Warsaw, Singapore, Bangalore, Montreal
++Apply
++Technology
++Software Developer – Internal Compute Frameworks (C++)
++London, Montreal, Singapore
+ Apply
+ Technology
+ Software Developer - Internal Compute Frameworks (Python)
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a511e7339cfd990a
++a51a6f07afa64c9d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a511e79798ad05c7
++a51a6f708f75ae26
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-27 13:04:54
 
 ### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
