@@ -1,4 +1,179 @@
 
+## 2026-10-30 13:56:51
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -16,6 +16,12 @@
+ Internship
+ Filters (1)
+ Filters (1)
++Compliance Intern – Regulatory Advisory
++Chicago
++Internship
++Risk, Finance & Legal
++Internship
++Risk, Finance & Legal
+ Expressions of Interest - Quantitative Research Internship, Bachelor or Master (Summer 2028 - Shanghai)
+ Shanghai
+ Internship
+@@ -106,15 +112,9 @@
+ Technology
+ Internship
+ Technology
+-Quantitative Trading Internship (Singapore) - 2027
+-Singapore
+-Internship
+-Trading
+-Internship
+-Trading
+-Showing: 16 / 18
+-Load 2 more
+-Load 2 more
++Showing: 16 / 19
++Load 3 more
++Load 3 more
+ Filter
+ 1
+ Filter
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -156,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
++New York
+ Hong Kong
+-New York
+ London
+ Singapore
++Austin
+ Chicago
+-Austin
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,7 +11,7 @@
+ The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+ Upload resume for job recommendations
+ Hide filters
+-0 Items
++2 Items
+ Save this search
+ Sort by
+ Relevance
+@@ -38,8 +38,30 @@
+ Apply filters
+ Clear filters
+ Search by technology, team, location, or ref. code
+-There are currently no open roles matching your search.
+-Log in or sign up for Career Profile to save your search and get alerts when opportunities open.
++Research Scientist Intern, Generative AI (PhD)
++Singapore
++AI Research
++Facebook
++Generative AI
++Internship - PhD
++Internship - Engineering, Tech & Design
++Research
++Software Engineering
++Artificial Intelligence
++Engineering
++Machine Learning
++Research Scientist Intern, Agent for Recommendation (PhD)
++Singapore
++Artificial Intelligence
++AI Research
++Generative AI
++Internship - PhD
++Internship - Engineering, Tech & Design
++Research
++Software Engineering
++Engineering
++Machine Learning
++Page 1 of 1
+ Job Search
+ Technology Teams
+ Technology Teams
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a522b5458a3d1234
++a52aeb6de960f472
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a522b5ae3a4c4184
++a52aebd5b965cb96
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-29 14:01:47
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)

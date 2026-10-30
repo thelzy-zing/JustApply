@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-0 Items
+2 Items
 Save this search
 Sort by
 Relevance
@@ -38,8 +38,30 @@ Singapore
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
-There are currently no open roles matching your search.
-Log in or sign up for Career Profile to save your search and get alerts when opportunities open.
+Research Scientist Intern, Generative AI (PhD)
+Singapore
+AI Research
+Facebook
+Generative AI
+Internship - PhD
+Internship - Engineering, Tech & Design
+Research
+Software Engineering
+Artificial Intelligence
+Engineering
+Machine Learning
+Research Scientist Intern, Agent for Recommendation (PhD)
+Singapore
+Artificial Intelligence
+AI Research
+Generative AI
+Internship - PhD
+Internship - Engineering, Tech & Design
+Research
+Software Engineering
+Engineering
+Machine Learning
+Page 1 of 1
 Job Search
 Technology Teams
 Technology Teams
