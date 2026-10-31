@@ -1,4 +1,116 @@
 
+## 2026-10-31 13:28:23
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -47,6 +47,18 @@
+ Junior Commercial Associate, Works in Progress
+ Communications
+ London
++Master's Machine Learning Engineer, Intern
++University
++Toronto
++Master's Machine Learning Engineer, Intern
++University
++New York
++Master's Machine Learning Engineer, Intern
++University
++Seattle
++Master's Machine Learning Engineer, Intern
++University
++South San Francisco HQ
+ Operations Associate, Apprenticeship
+ Operations
+ Bengaluru
+@@ -65,18 +77,6 @@
+ PhD Data Scientist, Intern
+ University
+ South San Francisco HQ
+-Product Manager: New Grad Accelerator
+-University
+-New York
+-Product Manager: New Grad Accelerator
+-University
+-Seattle
+-Product Manager: New Grad Accelerator
+-University
+-South San Francisco HQ
+-Security Engineer, New Grad
+-University
+-Dublin HQ
+ 1
+ 2
+ 3
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -259,6 +259,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Find a Store
++Apple Vision Pro
++AirPods
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a52aeb6de960f472
++a532ff141c8769de
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a52aebd5b965cb96
++a532ff7bcc1ce55e
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-10-30 13:56:51
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
