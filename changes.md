@@ -1,4 +1,138 @@
 
+## 2026-11-02 16:56:06
+
+### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -119,28 +119,6 @@
+ 1
+ Filter
+ 1
+-×
+-We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
+-privacy policy
+-and use cookies or similar technologies  for technical purposes and, with your consent, for
+-experience, measurement and “marketing (personalized ads)”
+-as specified in the
+-cookie policy
+-.
+-You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
+-Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
+-Necessary
+-Experience
+-Measurement
+-Marketing
+-Sharing
+-of my personal information
+-Processing of my personal information for
+-targeted advertising
+-Press again to continue 0/1
+-Learn more
+-Reject all
+-Accept all
+ Click below
+ Learn more about Optiver
+ About Optiver
+@@ -172,3 +150,25 @@
+ Cookie Policy
+ Notices
+ Cookie preferences
++×
++We  (www.optiver.com)   and selected third parties  (10)   collect personal information as specified in the
++privacy policy
++and use cookies or similar technologies  for technical purposes and, with your consent, for
++experience, measurement and “marketing (personalized ads)”
++as specified in the
++cookie policy
++.
++You can freely give, deny, or withdraw your consent at any time by accessing the preferences panel.  Denying consent may make related features unavailable.
++Use the “Accept all” button to consent. Use the “Reject all” button to continue without accepting.
++Necessary
++Experience
++Measurement
++Marketing
++Sharing
++of my personal information
++Processing of my personal information for
++targeted advertising
++Press again to continue 0/1
++Learn more
++Reject all
++Accept all
+```
+
+---
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -186,17 +186,6 @@
+ Managed support plans
+ CA residents: +1 888 926 2289
+ Sign in
+-Get industry insights and updates from Stripe
+-Enter your company website
+-Thanks for subscribing. Look out for Stripe updates in your inbox.
+-Subscribed
+-Subscribe
+-Continue
+-Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+-unsubscribe
+-at any time.
+-Privacy Policy
+-.
+ United States
+ (
+ English
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a53b79345e835cfd
++a544aa25af22d631
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a53b799bbdba646a
++a544aa8a881a7077
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-11-01 14:09:51
 
 ### [https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship](https://optiver.com/working-at-optiver/career-opportunities/?_gl=1*x7c8ib*_up*MQ..*_ga*MTA5OTMxMjk3Mi4xNzQ1NjQxMDk2*_ga_YMLN3CLJVE*MTc0NTY0MTA5NS4xLjEuMTc0NTY0MTA5OC4wLjAuMA..&numberposts=10&paged=1&office=singapore&level=internship)
