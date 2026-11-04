@@ -11,7 +11,7 @@ Get personalized job recommendations from AI
 The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
 Upload resume for job recommendations
 Hide filters
-2 Items
+4 Items
 Save this search
 Sort by
 Relevance
@@ -38,6 +38,16 @@ Singapore
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+Singapore
+AI Research
+Internship - PhD
+Research
+Research Scientist Intern, Generative Recommendation (PhD)
+Singapore
+AI Research
+Internship - PhD
+Research
 Research Scientist Intern, Generative AI (PhD)
 Singapore
 AI Research
