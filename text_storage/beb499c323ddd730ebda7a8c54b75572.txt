@@ -43,11 +43,6 @@ Singapore
 AI Research
 Internship - PhD
 Research
-Research Scientist Intern, Generative Recommendation (PhD)
-Singapore
-AI Research
-Internship - PhD
-Research
 Research Scientist Intern, Generative AI (PhD)
 Singapore
 AI Research
@@ -60,6 +55,11 @@ Software Engineering
 Artificial Intelligence
 Engineering
 Machine Learning
+Research Scientist Intern, Generative Recommendation (PhD)
+Singapore
+AI Research
+Internship - PhD
+Research
 Research Scientist Intern, Agent for Recommendation (PhD)
 Singapore
 Artificial Intelligence

@@ -109,10 +109,6 @@ Corporate
 HR Specialist
 Geneva
 Apply
-Corporate
-Human Resources Manager
-Geneva
-Apply
 Technology
 Identity and Access Management (IAM) Engineer
 London
@@ -228,6 +224,10 @@ Apply
 Technology
 Network Specialist - ULL
 Montreal, London,  New York
+Apply
+Corporate
+Operations Analyst
+Houston
 Apply
 Corporate
 Payroll Accountant
