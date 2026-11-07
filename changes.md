@@ -1,4 +1,154 @@
 
+## 2026-11-07 13:50:02
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,6 +17,9 @@
+ filters
+ selected
+ Clear all filters
++Controllership Intern
++Controllership
++Seattle
+ Data Analyst, Intern
+ University
+ New York
+@@ -74,9 +77,6 @@
+ PhD Data Scientist, Intern
+ University
+ Seattle
+-PhD Data Scientist, Intern
+-University
+-South San Francisco HQ
+ 1
+ 2
+ 3
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,7 +11,7 @@
+ The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+ Upload resume for job recommendations
+ Hide filters
+-4 Items
++5 Items
+ Save this search
+ Sort by
+ Relevance
+@@ -38,6 +38,15 @@
+ Apply filters
+ Clear filters
+ Search by technology, team, location, or ref. code
++Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
++Singapore
++AI Research
++Research
++Research Scientist Intern, Generative Recommendation (PhD)
++Singapore
++AI Research
++Internship - PhD
++Research
+ Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+ Singapore
+ AI Research
+@@ -55,11 +64,6 @@
+ Artificial Intelligence
+ Engineering
+ Machine Learning
+-Research Scientist Intern, Generative Recommendation (PhD)
+-Singapore
+-AI Research
+-Internship - PhD
+-Research
+ Research Scientist Intern, Agent for Recommendation (PhD)
+ Singapore
+ Artificial Intelligence
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -2,7 +2,7 @@
+ Apple
+ Store
+ Shop
+-Shop the Latest
++Shop Gifts
+ Mac
+ iPad
+ iPhone
+@@ -259,12 +259,6 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
+-Quick Links
+-Find a Store
+-Apple Vision Pro
+-AirPods
+-Apple Intelligence
+-Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a564ec4e1f751711
++a56ccc6eac51c4f9
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a564ecb88bfebc84
++a56cccd629ad72d5
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-11-06 14:53:42
 
 ### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
