@@ -84,11 +84,11 @@ Internship
 LOCATION
 All Locations
 London
-Hong Kong
 New York
+Hong Kong
 Singapore
-Chicago
 Austin
+Chicago
 Singapore
 DEPARTMENT
 All Departments
@@ -157,11 +157,11 @@ Internship
 LOCATION
 All Locations
 London
-Hong Kong
 New York
+Hong Kong
 Singapore
-Chicago
 Austin
+Chicago
 Singapore
 DEPARTMENT
 All Departments
