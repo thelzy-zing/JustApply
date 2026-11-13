@@ -1,4 +1,192 @@
 
+## 2026-11-13 15:13:00
+
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,12 +83,12 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
+-Singapore
++London
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+@@ -156,12 +156,12 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
+-Singapore
++London
++Singapore
++Chicago
+ Austin
+-Chicago
+ Singapore
+ DEPARTMENT
+ All Departments
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,7 +11,7 @@
+ The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+ Upload resume for job recommendations
+ Hide filters
+-6 Items
++7 Items
+ Save this search
+ Sort by
+ Relevance
+@@ -38,6 +38,10 @@
+ Apply filters
+ Clear filters
+ Search by technology, team, location, or ref. code
++Research Scientist Intern, Video Recommendations (PhD)
++Singapore
++AI Research
++Research
+ Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)
+ Singapore
+ AI Research
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -185,8 +185,7 @@
+ Shop Home Accessories
+ Personal Setup
+ More from Home
+-Apple TV Support
+-HomePod Support
++Home Support
+ AppleCare for Apple TV
+ AppleCare for HomePod
+ Apple TV app
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -205,10 +205,6 @@
+ Legal Assistant
+ Montreal
+ Apply
+-Investment
+-Manager of CTA Intraday Monetization
+-New York
+-Apply
+ Technology
+ Network Specialist - Core
+ Montreal, London, New York
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a596b3993a996ac8
++a59eb63c7b660c60
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a596b4068f6cb628
++a59eb6a22a2367a7
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,11 +183,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -211,6 +206,11 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
++View role details
++School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-11-12 15:53:08
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
