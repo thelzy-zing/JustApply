@@ -1,4 +1,282 @@
 
+## 2026-11-14 14:02:01
+
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -1,148 +0,0 @@
+-Meta Careers
+-Skip to main content
+-Jobs
+-Teams
+-Career Programs
+-Working at Meta
+-Blog
+-Podcasts
+-Meta AI
+-Get personalized job recommendations from AI
+-The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+-Upload resume for job recommendations
+-Hide filters
+-7 Items
+-Save this search
+-Sort by
+-Relevance
+-Newest
+-Technologies
+-Facebook
+-Messenger
+-Instagram
+-WhatsApp
+-Meta Quest
+-Teams
+-Advertising Technology
+-AR/VR
+-Artificial Intelligence
+-Business Development & Partnerships
+-Communications & Public Policy
+-Show more
+-Employment type
+-Full time employment
+-Internship
+-Short term employment
+-Location
+-Singapore
+-Apply filters
+-Clear filters
+-Search by technology, team, location, or ref. code
+-Research Scientist Intern, Video Recommendations (PhD)
+-Singapore
+-AI Research
+-Research
+-Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)
+-Singapore
+-AI Research
+-Internship - PhD
+-University Grad - PhD & Postdoc
+-Artificial Intelligence
+-Machine Learning
+-Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
+-Singapore
+-AI Research
+-Research
+-Research Scientist Intern, Generative Recommendation (PhD)
+-Singapore
+-AI Research
+-Internship - PhD
+-Research
+-Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+-Singapore
+-AI Research
+-Internship - PhD
+-Research
+-Research Scientist Intern, Generative AI (PhD)
+-Singapore
+-AI Research
+-Facebook
+-Generative AI
+-Internship - PhD
+-Internship - Engineering, Tech & Design
+-Research
+-Software Engineering
+-Artificial Intelligence
+-Engineering
+-Machine Learning
+-Research Scientist Intern, Agent for Recommendation (PhD)
+-Singapore
+-Artificial Intelligence
+-AI Research
+-Generative AI
+-Internship - PhD
+-Internship - Engineering, Tech & Design
+-Research
+-Software Engineering
+-Engineering
+-Machine Learning
+-Page 1 of 1
+-Job Search
+-Technology Teams
+-Technology Teams
+-Artificial Intelligence
+-Creative
+-Infrastructure
+-Metaverse and Wearables
+-Product and Program Management
+-Research and Data
+-Security
+-Software Engineering
+-Business Teams
+-Business Teams
+-Business Operations
+-Partnerships
+-Sales and Marketing
+-Career Programs
+-Career Programs
+-Research
+-Accelerate Eng Talent
+-Students and Grads
+-Rotational Programs
+-Working at Meta
+-Working at Meta
+-Accessiblity and Engagement
+-Benefits
+-Culture
+-Hiring Process
+-My account
+-My account
+-Career profile
+-Account settings
+-Messages
+-Meta Careers Blog
+-Meta Tech Podcasts
+-About us
+-About us
+-About Meta
+-Media gallery
+-Brand resources
+-For investors
+-Looking for contractor roles?
+-Community Standards
+-Data Policy
+-Terms
+-Cookie Policy
+-Equal Employment Opportunity
+-Meta is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment Opportunity notice
+-here
+-.
+-Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or who are neurodivergent or require pregnancy-related support. If you need assistance or an accommodation due to a disability, fill out the
+-Accommodations request form
+-Notice regarding automated employment decision tools in New York City
+-Learn more about this
+-here
+-.
+-©2026 Meta.
+-If you have any trouble, you can report an issue
+-Report a bug
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -258,6 +258,12 @@
+ Apple Account and Password
+ Billing & Subscriptions
+ Accessibility
++Quick Links
++Shop Gifts
++Find a Store
++Apple Gift Card
++Apple Intelligence
++Apple Trade In
+ 0
+ +
+ Please enable Javascript in your browser for best experience.
+```
+
+---
+### [https://www.squarepoint-capital.com/open-opportunities?id=6212106](https://www.squarepoint-capital.com/open-opportunities?id=6212106)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -197,10 +197,6 @@
+ Junior SRE
+ New York, London, Singapore
+ Apply
+-Technology
+-Junior UX/UI Engineer
+-London
+-Apply
+ Corporate
+ Legal Assistant
+ Montreal
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a59eb63c7b660c60
++a5a68ba1bfadf009
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a59eb6a22a2367a7
++a5a68c067dd8b9cf
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,6 +183,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -206,11 +211,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+```
+
+---
+
 ## 2026-11-13 15:13:00
 
 ### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
