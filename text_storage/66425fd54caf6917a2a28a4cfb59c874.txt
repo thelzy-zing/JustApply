@@ -42,6 +42,7 @@ Madrid
 Montreal
 New York
 Paris
+Shanghai
 Singapore
 Warsaw
 Zug
@@ -380,6 +381,10 @@ Apply
 Technology
 Technology Integration Specialist
 London, Montreal, Bangalore
+Apply
+Corporate
+Technology Procurement Analyst
+Shanghai , Hong Kong, Singapore
 Apply
 Technology
 Trade Flow Support - Trading Application Support
