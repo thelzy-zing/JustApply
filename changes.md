@@ -1,4 +1,75 @@
 
+## 2026-11-18 16:19:11
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -17,9 +17,6 @@
+ filters
+ selected
+ Clear all filters
+-Controllership Intern
+-Controllership
+-Seattle
+ Data Analyst, Intern
+ University
+ New York
+@@ -77,6 +74,9 @@
+ PhD Data Scientist, Intern
+ University
+ Seattle
++PhD Data Scientist, Intern
++University
++South San Francisco HQ
+ 1
+ 2
+ 3
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a5c037f68db95332
++a5c84a075c79cd80
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a5c0385d38c24598
++a5c84a71ed90bc8d
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+
 ## 2026-11-17 16:48:45
 
 ### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
