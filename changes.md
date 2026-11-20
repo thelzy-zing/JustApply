@@ -1,4 +1,264 @@
 
+## 2026-11-20 16:00:52
+
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -29,6 +29,9 @@
+ Data Analyst, Intern
+ University
+ Toronto
++Financial Data Analyst Intern, Technical Operations
++Payments
++Singapore
+ High School Internship, Software Engineering (Summer 2027)
+ University
+ Seattle
+@@ -74,9 +77,6 @@
+ PhD Machine Learning Engineer, Intern
+ University
+ Toronto
+-PhD Machine Learning Engineer, Intern
+-University
+-New York
+ 1
+ 2
+ 3
+```
+
+---
+### [https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -83,9 +83,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Austin
+@@ -156,9 +156,9 @@
+ Internship
+ LOCATION
+ All Locations
+-London
+ New York
+ Hong Kong
++London
+ Singapore
+ Chicago
+ Austin
+```
+
+---
+### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -11,7 +11,7 @@
+ The Meta AI recruiting assistant can recommend jobs based on your resume, location, and role preferences.
+ Upload resume for job recommendations
+ Hide filters
+-8 Items
++9 Items
+ Save this search
+ Sort by
+ Relevance
+@@ -38,6 +38,11 @@
+ Apply filters
+ Clear filters
+ Search by technology, team, location, or ref. code
++Software Engineer Intern, Machine Learning (PhD)
++Singapore
++Internship - PhD
++Machine Learning
++Engineering
+ Research Scientist Intern, LLM-Native Recommendation Systems (PhD)
+ Singapore
+ AI Research
+```
+
+---
+### [https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN](https://jobs.apple.com/en-us/search?location=singapore-SGP&team=internships-STDNT-INTRN)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -12,6 +12,7 @@
+ Home
+ Accessories
+ Quick Links
++Apple Store Black Friday Event
+ Find a Store
+ Order Status
+ Apple Upgrade
+@@ -38,6 +39,7 @@
+ Switch from PC to Mac
+ Shop Mac
+ Shop Mac
++Apple Store Black Friday Event
+ Help Me Choose
+ Mac Accessories
+ Apple Upgrade
+@@ -68,6 +70,7 @@
+ Compare iPad
+ Shop iPad
+ Shop iPad
++Apple Store Black Friday Event
+ iPad Accessories
+ Apple Upgrade
+ Apple Trade In
+@@ -96,6 +99,7 @@
+ Switch from Android
+ Shop iPhone
+ Shop iPhone
++Apple Store Black Friday Event
+ iPhone Accessories
+ Apple Upgrade
+ Apple Trade In
+@@ -125,6 +129,7 @@
+ Why Apple Watch
+ Shop Watch
+ Shop Apple Watch
++Apple Store Black Friday Event
+ Apple Watch Bands
+ Apple Watch Accessories
+ Apple Upgrade
+@@ -162,6 +167,7 @@
+ AirPods Max 2
+ Compare AirPods
+ Shop AirPods
++Apple Store Black Friday Event
+ Shop AirPods 5
+ Shop AirPods Pro 3
+ Shop AirPods Max 2
+@@ -181,6 +187,7 @@
+ HomePod mini 2
+ Shop Home
+ Shop Home
++Apple Store Black Friday Event
+ Shop Apple Home Collection
+ Shop Home Accessories
+ Personal Setup
+@@ -221,6 +228,7 @@
+ AirTag
+ Beats
+ Shop by Category
++Apple Store Black Friday Event
+ Headphones & Speakers
+ Chargers & Adapters
+ Smart Home Essentials
+@@ -249,7 +257,6 @@
+ TV
+ Explore Support
+ Get Help
+-Community
+ Check Coverage
+ Genius Bar
+ Repair
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a5d0938b58d3ed3e
++a5d8a9f98ff37c80
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a5d093f59ae73ec8
++a5d8aa5df9c5c56f
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -183,6 +183,11 @@
+ prev
+ next
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -206,11 +211,6 @@
+ Software Engineering Apprenticeship
+ United Kingdom
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+-View role details
+-School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+ View role details
+ School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+@@ -285,7 +285,8 @@
+ Proceed
+ Privacy Preference Center
+ When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences, or your device, and is mostly used to make the site work as you expect. The information does not usually identify you directly, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to learn more and change our default settings. Blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+-More information
++Privacy Policy
++Cookie Policy
+ Allow All
+ Manage Consent Preferences
+ Strictly necessary cookies
+```
+
+---
+
 ## 2026-11-19 16:27:28
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
