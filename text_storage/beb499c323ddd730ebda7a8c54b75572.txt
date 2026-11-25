@@ -38,6 +38,10 @@ Singapore
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Research Scientist Intern, Generative Recommendation (PhD)
+Singapore
+AI Research
+Research
 Software Engineer Intern, Machine Learning (PhD)
 Singapore
 Internship - PhD
@@ -67,11 +71,6 @@ Machine Learning
 Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
 Singapore
 AI Research
-Research
-Research Scientist Intern, Generative Recommendation (PhD)
-Singapore
-AI Research
-Internship - PhD
 Research
 Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
 Singapore
