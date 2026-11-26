@@ -38,15 +38,16 @@ Singapore
 Apply filters
 Clear filters
 Search by technology, team, location, or ref. code
+Software Engineer Intern, Machine Learning (PhD)
+Singapore
+Internship - PhD
+Software Engineering
+Engineering
+Machine Learning
 Research Scientist Intern, Generative Recommendation (PhD)
 Singapore
 AI Research
 Research
-Software Engineer Intern, Machine Learning (PhD)
-Singapore
-Internship - PhD
-Machine Learning
-Engineering
 Research Scientist Intern, LLM-Native Recommendation Systems (PhD)
 Singapore
 AI Research
