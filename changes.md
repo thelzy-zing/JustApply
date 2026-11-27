@@ -1,4 +1,171 @@
 
+## 2026-11-27 17:20:36
+
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore](https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -61,8 +61,8 @@
+ expand_more
+ Search Jobs
+ Search sidebar
+-2
+-jobs matched
++1
++job matched
+ Clear filters
+ What do you want to do?
+ Locations
+@@ -142,29 +142,9 @@
+ English
+ Français (Canada)
+ Jobs search results
+-2
+-jobs matched
++1
++job matched
+ filter_list
+-Account Executive, Business Intern, 2027 (English)
+-corporate_fare
+-Google
+-place
+-Singapore
+-bar_chart
+-Intern & Apprentice
+-Google |
+-Singapore
+-Minimum qualifications
+-Currently enrolled in a Bachelor's or Master's program.
+-Penultimate academic year of the Bachelor’s or Master’s degree.
+-Ability  to communicate in English fluently as this is a customer-facing role that requires interactions in English with local stakeholders.
+-Learn more
+-share
+-Share Account Executive, Business Intern, 2027 (English)
+-link
+-Copy link
+-email
+-Email a friend
+ Account Executive, MBA Intern, 2027
+ corporate_fare
+ Google
+@@ -185,8 +165,8 @@
+ Copy link
+ email
+ Email a friend
+-Showing 1 to 2 of 2 rows
+-1‑2 of 2
++Showing 1 to 1 of 1 rows
++1‑1 of 1
+ Follow Life at Google on
+ More about us
+ About us
+```
+
+---
+### [https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter](https://www.citadel.com/careers/open-opportunities?experience-filter=internships&loca tion-filter=singapore&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for www.citadel.com to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a60aa92acdf5c146
++a612cc5b3a6b4cbc
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering](https://opengovernmentproducts.recruitee.com/?jobs-c88dea0d%5Bcountry%5D%5B%5D=SG&jobs-c88dea0d%5Bcity%5D%5B%5D=Singapore&jobs-c88dea0d%5Btab%5D=Software%20Engineering)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -5,7 +5,7 @@
+ Verification successful. Waiting for careers.open.gov.sg to respond
+ Enable JavaScript and cookies to continue
+ Ray ID:
+-a60aa9906faafef6
++a612ccc5b81b072c
+ Performance and Security by
+ Cloudflare
+ Privacy
+```
+
+---
+### [https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore](https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__Singapore)
+
+**Changes detected!**
+
+```diff
+--- old.txt
++++ new.txt
+@@ -168,12 +168,12 @@
+ Real Estate Banking
+ Securities Services
+ Reset All Filters
+-We found 88 programs
++We found 89 programs
+ slide
+ 1
+ of 4
+ school programs & apprenticeships
+-(9)
++(10)
+ Early Insight (pre-internship)
+ (7)
+ Internship
+@@ -183,11 +183,6 @@
+ prev
+ next
+ School Programs & Apprenticeships
+-Customer Service Apprenticeship
+-United Kingdom
+-Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
+-View role details
+-School Programs & Apprenticeships
+ Traineeship Program in Sydney
+ Australia
+ Launch a dynamic career in this two-year professional training program that offers top business development resources and global reach.
+@@ -213,6 +208,11 @@
+ Start your career in technology and earn your degree in BSc Software Development on this four year program. You will learn in a hands-on environment what it’s like to be part of a team working with and developing new cutting edge technologies.
+ View role details
+ School Programs & Apprenticeships
++Customer Service Apprenticeship
++United Kingdom
++Kickstart your customer service career alongside experts in the retail finance sector as you pursue an industry-recognised qualification.
++View role details
++School Programs & Apprenticeships
+ Technology Degree Apprenticeship Program
+ United Kingdom
+ Earn your three-year degree while working in our technology business alongside our industry experts.
+@@ -226,6 +226,12 @@
+ Aspiring Professionals Work Experience Program
+ United Kingdom
+ Step into the shoes of a financial services professional. This two week work experience program in London will inspire and excite you whilst helping prepare you to take the first steps in your career.
++View role details
++School Programs & Apprenticeships
++Apprenticeship Program in Hong Kong
++Hong Kong SAR, China
++Build a strong foundation for your future career through practical work experience, structured learning, and professional development opportunities.
++Our one-year Hong Kong Apprenticeship Program offers a unique opportunity to develop your skills, expand your network, and gain insights into the  financial services industry.
+ View role details
+ Keep informed of when applications open
+ Join our network
+```
+
+---
+
 ## 2026-11-26 17:38:28
 
 ### [https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship](https://www.metacareers.com/jobs?offices[0]=Singapore&roles[0]=Internship)
